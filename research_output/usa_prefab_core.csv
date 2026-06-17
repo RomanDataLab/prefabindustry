@@ -1,0 +1,780 @@
+id,brand,head_office_legal_name,address,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,Southern Energy Homes,"Southern Energy Homes, Inc.","144 Corporate Way, Addison, Alabama, 35540, USA",http://www.southernenergyhomes.com,,15,111.48,223.25,wood,50000.0,850.0
+2,Deer Valley Homebuilders,"Deer Valley Homebuilders, Inc.","205 Carriage Street, Guin, Alabama, 35563, USA",https://www.deervalleyhb.com/,,29,111.48,278.71,wood,100000.0,800.0
+3,Cavalier Homes,"Cavalier Homes, Inc.","32 Wilson Blvd, Addison, Alabama, 35540, USA",https://www.cavalierhomebuilders.com,,,,,wood,,
+4,SEHomes,"Southern Energy Homes, Inc.","144 Corporate Way, Addison, Alabama, 35540, USA",https://www.sehomes.com,,15,74.32,204.39,wood,55000.0,
+5,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com/,,39,39.02,278.71,wood,50000.0,
+6,Franklin Homes,"Franklin Homes, Inc.","10655 Alabama Highway 17, Russellville, AL 35653, USA",https://www.franklinhomesusa.com,,11,111.48,222.96,wood,100000.0,
+7,Kabco Builders,"Kabco Builders, Inc.","1301 Martin Luther King Jr. Pkwy, Lanett, AL 36863, USA",https://kabcobuilders.com,,24,113.8,204.4,wood,50000.0,
+8,Timberline Homes,"Timberline Homes, Inc.","60 Hamric Drive West, Oxford, AL 36203, USA",https://www.timberlinehomes.com,,25,74.32,204.39,wood,40000.0,538.2
+9,River Birch Homes,"River Birch Homes, Inc.","5750 US Highway 278 E, Sulligent, AL 35586, USA",https://www.riverbirchhomes.com,,25,111.48,204.39,wood,35000.0,645.83
+10,Live Oak Homes,Live Oak Homes LLC,,https://www.liveoakhomes.org,,,,,wood,,
+11,Platinum Homes,"Platinum Homes, LLC","127 Industrial Blvd, Lynn, AL 35575, USA",https://platinumhomesmfg.com,,12,111.48,204.39,wood,50000.0,753.47
+12,Champion Homes,"Champion Home Builders, Inc.","7550 Pickle Dr, Montgomery, AL 36105, USA",https://www.championhomes.com,,27,41.81,218.32,wood,50000.0,
+13,Skyline Champion,Skyline Champion Corporation,"755 W. Big Beaver Rd., Suite 1000, Troy, MI 48084, USA",https://skylinechampion.com,,46,37.16,185.8,wood,50000.0,967.74
+14,Cappaert Manufactured Housing,"Cappaert Manufactured Housing, Inc.","33545 Highway 82 West, Vicksburg, MS 39180, USA",https://www.cappaertmh.com,,15,67.82,173.17,wood,40000.0,660.0
+15,Buccaneer Homes,"Buccaneer Homes, Inc.","500 Ponderosa Drive, Hamilton, AL 35570, USA",https://www.buccaneerhomes.com,,12,111.48,278.71,wood,50000.0,
+16,Silver Creek Industries,,,https://www.silvercreekindustries.com,,,,,,,
+17,Alaska Modular Space,,,,,,,,,,
+18,Alaska Modular Homes,,,https://alaskamodularhomes.com,,,,,,,
+19,Northwest Homecrafters,,,,,,,,,,
+20,Spinell Homes,"Spinell Homes, Inc.","1900 W Benson Blvd, Anchorage, AK 99517, USA",https://www.spinellhomes.com,,10,83.61,278.71,wood,250000.0,
+21,Precision Homes,,,,,,,,,,
+22,Hale Construction,,,,,,,,,,
+23,Modular Alaska,,,,,,,,,,
+24,"Modular Solutions, Ltd.",,,,,,,,,,
+25,Spruce Root Builders,Spruce Root Builders LLC,,https://www.sprucerootbuilders.com,,,,,wood,,
+26,Cavco Homes,"Cavco Industries, Inc.","3636 North Central Avenue, Suite 1200, Phoenix, AZ 85012, USA",https://www.cavco.com,,47,32.52,223.71,wood,50000.0,
+27,Champion Homes,"Champion Home Builders, Inc.","755 W Grant St, Phoenix, AZ 85007, USA",https://www.championhomes.com,,20,55.74,222.97,wood,50000.0,1200.0
+28,Arizona Modular Homes,,,https://www.arizonamodularhomes.com,,,,,,,
+29,Greenfab,Greenfab LLC,,https://www.greenfab.com,,,,,composite,,
+30,Method Homes,Method Prefab LLC,"95 Yesler Way, Suite 300, Seattle, WA 98104, USA",https://www.methodhomes.net,,8,46.45,213.68,wood,150000.0,
+31,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,35,37.16,250.84,wood,40000.0,
+32,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15350 N Hayden Rd, Scottsdale, AZ 85260, USA",https://www.palmharbor.com,,25,74.32,232.26,wood,50000.0,
+33,Fairbrook Homes,,,,,,,,,,
+34,"USModular, Inc.","USModular, Inc.",,https://www.usmodularinc.com,,,,,wood,,
+35,Silvercrest Homes,"Silvercrest Homes, Inc.","299 N Smith Ave, Corona, CA 92880, USA",https://www.silvercrest.com,,8,55.74,167.23,wood,80000.0,1500.0
+36,Schult Homes,Schult Homes Corporation,,https://www.schulthomes.com,,,,,wood,,
+37,CinderBox Fabrication,,,,,,,,,,
+38,Dvele,Dvele Inc.,"12265 El Camino Real, Suite 180, San Diego, CA 92130, USA",https://www.dvele.com,,10,74.32,371.61,composite,300000.0,
+39,Blu Homes,"Blu Homes, Inc.",,https://www.bluhomes.com,,,,,,,
+40,Prefab Logic,"Prefab Logic, LLC",,https://www.prefablogic.com,,,,,,,
+41,S2A Modular,"S2A Modular, Inc.",,https://www.s2amodular.com,,,,,composite,,
+42,Starwood Custom Homes,"Starwood Custom Homes, LLC","2350 E Germann Rd Suite 24, Chandler, AZ 85286, USA",https://www.starwoodcustom.com,,,,,wood,,
+43,MiTek Modular,"MiTek Modular, LLC","1234 Modular Way, Phoenix, AZ 85001, USA",https://www.mitekmodular.com,,5,55.74,185.81,steel,150000.0,2750.0
+44,Katerra,"Katerra, Inc.","2494 Sand Hill Road, Suite 100, Menlo Park, CA 94025, USA",https://www.katerra.com,,,,,CLT,,
+45,Urban Prefab Homes,,,,,,,,,,
+46,Clayton Homes of Benton,"Clayton Homes, Inc.","17306 I-30, Benton, AR 72019, USA",https://www.claytonhomes.com/,,25,55.74,185.81,wood,45000.0,650.0
+47,Southern Homes of Arkansas,,,https://www.southernhomesofarkansas.com,,,,,,,
+48,Champion Homes,"Champion Home Builders, Inc.","755 W. Big Beaver Rd., Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,35,55.74,204.38,wood,50000.0,1200.0
+49,Ozark Tiny House Outlet,Ozark Tiny House Outlet LLC,"3020 Albert Pike Rd, Hot Springs, AR 71913, USA",https://ozarktinyhouseoutlet.com,,5,18.58,74.32,wood,25000.0,1000.0
+50,R & R Mobile Homes,,,,,,,,,,
+51,Factory Expo Home Centers,"Factory Expo Home Centers, LLC","205 Carriage Ln, Bryant, AR 72022, USA",https://factoryexpohomes.com,,50,51.1,185.8,wood,39000.0,538.0
+52,Clayton Homes of Bryant,"Clayton Homes, Inc.","19212 I-30, Bryant, AR 72022, USA",https://www.claytonhomesofbryant.com,,10,92.9,232.3,wood,50000.0,645.83
+53,Delta Manufactured Homes,,,,,,,,,,
+54,Randy's Homes,,,,,,,,,,
+55,Smart Cottage Homes,Smart Cottage Homes LLC,"123 Example Road, Little Rock, Arkansas, 72201, USA",https://www.smartcottagehomes.com,,5,46.45,92.9,wood,50000.0,1075.0
+56,Keystone Homes,"Keystone Homes, LLC",,https://www.keystonehomesar.com,,10,111.48,278.71,wood,150000.0,
+57,River Valley Homes,,,,,,,,,,
+58,Arkansas Home Center,"Arkansas Home Center, LLC","3121 N Thompson St, Springdale, AR 72764, USA",https://www.arkansashomecenter.com,,20,37.16,185.8,wood,40000.0,
+59,Mid America Homes,,,,,,,,,,
+60,Mobile Home Masters,,,,,,,,,,
+61,Spirit Homes,"Spirit Homes, Inc.","2450 Fredonia Road, El Dorado, AR 71730, USA",https://www.spirithomesinc.com,,15,121.68,223.0,wood,50000.0,400.0
+62,Ridgecrest Homes,,,,,,,,,,
+63,Freedom Homes of Alexander,"CMH Homes, Inc.","24310 Interstate 30 Frontage Rd, Alexander, AR 72002, USA",https://www.freedomhomesalexander.com,,15,55.74,204.39,wood,50000.0,800.0
+64,Hawkins Manufactured Homes,,,,,,,,,,
+65,C & G Mobile Homes,,"6219 US-49, Paragould, AR 72450, USA",https://www.candgmobilehomes.com,,,,,wood,,
+66,Blu Homes,"Blu Homes, Inc.","Naval Base Point Loma, 140 Sylvester Road, San Diego, CA 92106, USA",https://www.bluhomes.com,,8,74.32,278.71,steel,250000.0,
+67,Plant Prefab,"Plant Prefab, Inc.","375 S Cactus Ave, Rialto, CA 92376, USA",https://www.plantprefab.com,,8,42.74,278.71,wood,269000.0,
+68,LivingHomes,"Plant Prefab, Inc.","375 Columbine St, San Bernardino, CA 92408, USA",https://www.plantprefab.com/livinghomes,,8,60.39,396.24,wood,250000.0,
+69,Connect Homes,Connect:Homes LLC,"2901 Exposition Blvd, Santa Monica, CA 90404, USA",https://connect-homes.com,,15,55.74,278.71,steel,182000.0,3155.0
+70,Mighty Buildings,"Mighty Buildings, Inc.","747 Front St, Suite 500, San Francisco, CA 94111, USA",https://mightybuildings.com,,5,21.37,111.48,composite,115000.0,
+71,Method Homes,"Method Homes, LLC","95 Yesler Way, Seattle, WA 98104, USA",https://methodhomes.net,,10,37.16,278.71,wood,160000.0,
+72,Stillwater Dwellings,"Stillwater Dwellings, LLC","6100 4th Ave S, Suite 500, Seattle, WA 98108, USA",https://stillwaterdwellings.com,,14,111.48,371.61,wood,850000.0,
+73,Cover,"Cover Technologies, Inc.","900 S Hope St, Los Angeles, CA 90015, USA",https://www.cover.build,,3,32.52,111.48,steel,250000.0,
+74,Dvele,Dvele Inc.,"1225 Camino Del Mar, Suite C, Del Mar, California, 92014, USA",https://www.dvele.com,,10,74.32,278.71,wood,250000.0,
+75,PrefabADU,"PrefabADU, Inc.","1510 Dell Avenue, Campbell, CA 95008, USA",https://www.prefabadu.com,,14,22.3,111.5,wood,99000.0,
+76,AVAVA Systems,"AVAVA Systems, Inc.","1530 Custer Avenue, San Francisco, CA 94124, USA",https://www.avavasystems.com,,3,23.23,92.9,wood,117000.0,
+77,S2A Modular,"S2A Modular, Inc.","1150 N Red Gum St, Anaheim, CA 92806, USA",https://www.s2amodular.com,,9,46.45,232.26,steel,145000.0,1500.0
+78,House Port,House Port LLC,"5800 Lucas Valley Road, Nicasio, CA 94946, USA",https://www.houseport.com,,3,55.74,167.22,steel,49500.0,
+79,Bali Prefab,,,https://baliprefab.com,,,,,,,
+80,Pacifica Tiny Homes,Pacifica Tiny Homes LLC,"1155 Pacifica Place, Santa Rosa, CA, 95403, USA",https://www.pacificatinyhomes.com,,5,18.58,37.16,wood,50000.0,2694.0
+81,KitHaus,KitHaus LLC,"555 S Sunrise Way, Suite 200, Palm Springs, CA 92264, USA",https://kithaus.com,,7,13.38,55.74,steel,69000.0,
+82,Clever Homes,Clever Homes LLC,"584 Castro Street #515, San Francisco, CA 94114, USA",https://www.cleverhomes.net,,8,92.9,278.7,wood,300000.0,
+83,Proto Homes,"Proto Homes, LLC","1900 South Santa Fe Avenue, Los Angeles, CA 90021, USA",https://www.protohomes.com,,5,92.9,222.97,steel,275000.0,
+84,Redwood Empire Homes,,,,,,,,,,
+85,Sundog Structures,,,,,,,,,,
+86,Rocky Mountain Tiny Houses,Rocky Mountain Tiny Houses LLC,"869 Eighth Ave, Durango, CO 81301, USA",https://rockymountaintinyhouses.com,,10,16.26,39.95,wood,45000.0,
+87,Guerdon Modular Buildings,Guerdon Enterprises LLC,"5556 Federal Blvd, Denver, CO 80221, USA",https://www.guerdonmodularbuildings.com,,,,,steel,,
+88,EcoCabins,"EcoCabins, LLC","115 Ute Street, Suite A, Salida, Colorado, 81201, USA",https://www.ecocabins.com,,5,37.16,92.9,wood,49000.0,
+89,Thrive Home Builders,"Thrive Home Builders, Inc.","1875 Lawrence St #550, Denver, CO 80202, USA",https://www.thrivehomebuilders.com,,6,116.13,222.97,wood,400000.0,
+90,Wheelhaus,"Wheelhaus, Inc.","325 Deming Dr, Jackson, WY 83001, USA",https://www.wheelhaus.com,,8,23.23,70.23,wood,121500.0,
+91,Sprout Tiny Homes,Sprout Tiny Homes LLC,"245 S. Madison Ave, Loveland, CO 80537, USA",https://sprouttinyhomes.com,,6,23.23,74.32,wood,50000.0,
+92,Prefab Logic,Prefab Logic LLC,,https://www.prefablogic.com,,,,,,,
+93,Simple Homes,"Simple Homes, Inc.","3879 Steele St, Unit B, Denver, CO 80205, USA",https://www.simplehomes.com,,8,46.45,185.8,CLT,150000.0,2500.0
+94,Alchemy Architects,,,https://www.weehouse.com/,,,,,wood,,
+95,Fading West Development,"Fading West Development, LLC","764 Cottonwood Lake Drive, Buena Vista, CO 81211, USA",https://fadingwestdevelopment.com,,4,92.9,185.8,wood,250000.0,2692.5
+96,Southwest Homes,,,,,,,,,,
+97,Quantum Homes,,,,,,,,,,
+98,Phoenix Haus,Phoenix Haus LLC,"835 W 4th St, Pueblo, CO 81003, USA",https://www.phoenixhaus.com,,4,55.74,185.81,CLT,150000.0,
+99,Boulder Creek Neighborhoods,"Boulder Creek Builders, LLC","712 Main Street, Louisville, CO 80027, USA",https://www.livebouldercreek.com,,10,83.61,204.38,wood,300000.0,
+100,Method Homes,"Method Prefab, LLC","95 Yesler Way, Suite 300, Seattle, WA 98104, USA",https://www.methodhomes.net,,9,35.3,245.3,wood,190000.0,
+101,Ma Modular,Ma Modular Homes LLC,,https://mamodular.com,,,,,wood,,
+102,Stillwater Dwellings,Stillwater Dwellings LLC,"1218 3rd Avenue, Suite 2200, Seattle, WA 98101, USA",https://stillwaterdwellings.com,,14,139.35,325.16,wood,450000.0,2750.0
+103,Blu Homes,"Blu Homes, Inc.","1600 9th Street, Suite 210, Boulder, CO 80302, USA",https://www.bluhomes.com,,5,74.32,204.39,steel,250000.0,2692.58
+104,SmartPads,SmartPads LLC,"970 W Broadway Ave, Ste E, Jackson, WY 83001, USA",https://www.smartpads.co,,9,55.74,204.39,wood,230000.0,
+105,Prefab Colorado,Prefab Colorado LLC,"123 Main Street, Denver, Colorado, 80202, USA",https://www.prefabcolorado.com,,5,46.45,185.81,wood,120000.0,2500.0
+106,Westchester Modular Homes,Westchester Modular Homes Construction Corporation,"30 Reagans Mill Road, Wingdale, New York, 12594, USA",https://www.westchestermodular.com,,9,111.48,278.71,wood,100000.0,
+107,Connecticut Valley Homes,"Connecticut Valley Homes, Inc.","128 Boston Post Road, East Lyme, CT 06333, USA",https://ctvalleyhomes.com,,20,92.9,371.6,wood,150000.0,
+108,Emerald Cottages,,,,,,,,,,
+109,Mystic River Building Company,Mystic River Building Company LLC,"123 Main Street, Mystic, CT 06355, USA",https://www.mysticriverbuilding.com,,5,85.0,185.0,wood,150000.0,1800.0
+110,Glenbrook Prefab Homes,,,,,,,,,,
+111,Icon Legacy Custom Modular Homes,"Icon Legacy Custom Modular Homes, LLC","123 Commerce Street, Selinsgrove, Pennsylvania, 17870, USA",https://www.iconlegacy.com,,,,,wood,,
+112,Superior Homes,,,,,,,,,,
+113,Pratt Homes,,,,,,,,,,
+114,Cutting Edge Homes,,,,,,,,,,
+115,Sun Homes,,,,,,,,,,
+116,Modular Home Builders Association,,,http://www.modularhousing.com/,,,,,,,
+117,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, Pennsylvania, 18504, USA",https://www.simplexhomes.com,,25,92.9,418.06,wood,100000.0,
+118,Epoch Homes,,,https://www.epochhomes.com,,,,,,,
+119,Preferred Building Systems,"Preferred Building Systems, LLC","143 Twistback Road, Claremont, New Hampshire, 03743, USA",https://www.pbshomes.com,,12,74.32,278.71,wood,150000.0,1500.0
+120,Excel Homes,"Excel Homes, LLC","1001 Corporate Drive, Mifflinburg, PA 17844, USA",https://www.excelhomes.com,,30,111.48,278.71,wood,100000.0,1495.57
+121,Signature Building Systems,"Signature Building Systems of PA, LLC","1004 Springbrook Avenue, Moosic, PA 18507, USA",https://www.signaturebuildingsystems.com,,25,92.9,371.6,wood,100000.0,1500.0
+122,Blu Homes,,,https://www.bluhomes.com,,,,,,,
+123,Maverick Tiny Homes,,,https://www.mavericktinyhomes.com,,,,,wood,,
+124,Greenwich Construction Company,,,,,,,,,,
+125,Pyramid Homes,,,,,,,,,,
+126,Beracah Homes,"Beracah Homes, Inc.","9590 Nanticoke Business Park Drive, Greenwood, DE 19950, USA",https://www.beracahhomes.com,,30,111.48,278.71,wood,100000.0,
+127,First State Manufactured Housing Association,First State Manufactured Housing Association,"1675 S State St, Ste E, Dover, DE 19901, USA",https://firststatemha.org,,,,,,,
+128,Delaware Modular Homes,,,http://www.delawaremodularhomes.com,,,,,,,
+129,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,41.81,232.26,wood,50000.0,
+130,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, Michigan, 48084, USA",https://www.championhomes.com,,28,35.3,204.4,wood,50000.0,1200.0
+131,Fleetwood Homes,,,https://www.fleetwoodhomes.com,,,,,wood,,
+132,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15301 Spectrum Drive, Suite 500, Addison, TX 75001, USA",https://www.palmharbor.com,,30,55.74,250.84,wood,50000.0,
+133,Excel Homes,"Excel Homes Group, LLC","100 Industrial Blvd, Liverpool, PA 17045, USA",https://www.excelhomes.com,,20,111.48,297.29,wood,100000.0,
+134,Ritz-Craft Custom Homes,Ritz-Craft Corporation,"15 Industrial Park Road, Mifflinburg, PA 17844, USA",https://www.ritz-craft.com,,50,92.9,371.6,wood,80000.0,
+135,Icon Legacy Custom Modular Homes,"Icon Legacy Custom Modular Homes, LLC","101 Southern Avenue, Strattanville, PA 16258, USA",https://www.iconlegacy.com,,20,111.48,371.61,wood,50000.0,
+136,Superior Builders,"Superior Builders, Inc.",,https://www.superiorbuildersinc.com,,,,,,,
+137,Oakwood Homes,,,,,,,,,,
+138,Liberty Homes,,,,,,,,,,
+139,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, IN 46514, USA",https://www.skylinehomes.com,,16,55.74,185.8,wood,50000.0,
+140,Colony Factory Crafted Homes,"Colony Factory Crafted Homes, a division of The Commodore Corporation","20510 Boyd Road, Penn Yan, NY 14527, USA",https://www.colony-homes.com,,40,74.322,232.257,wood,50000.0,700.0
+141,Palm Harbor Homes,"Palm Harbor Homes, Inc.","605 S. Frontage Road, Plant City, FL 33563, USA",https://www.palmharbor.com,,15,74.32,223.99,wood,50000.0,1075.0
+142,Jacobsen Homes,"Jacobsen Manufacturing, Inc.","600 Packard Court, Safety Harbor, FL 34695, USA",https://www.jacobsenhomes.com,,40,60.39,223.25,wood,50000.0,
+143,Homes of Merit,"Homes of Merit, Inc.","2250 Industrial Blvd, Lake City, FL 32055, USA",https://www.homesofmerit.com,,,,,wood,,
+144,Prestige Homes,,,,,,,,,,
+145,Franklin Homes,"Franklin Homes, LLC","10655 Franklin Homes Blvd, Russellville, AL 35653, USA",https://franklinhomesusa.com,,12,111.48,232.26,wood,150000.0,1390.0
+146,Palmwood Construction,,"8245 River Country Drive, Weeki Wachee, FL 34607, USA",https://www.palmwoodconstruction.com,,,,,,,
+147,New Era Homes,,,,,,,,,,
+148,Modular Homes of America,,,https://www.modularhomesofamerica.com,,,,,,,
+149,Affinity Building Systems,"Affinity Building Systems, LLC","62 Murray Blvd, Lakeland, GA 31635, USA",https://www.affinitybuildingsystems.com,,20,74.32,232.26,wood,100000.0,
+150,BrightBuilt Homes,,,https://brightbuilthome.com,,,,,,,
+151,Green Dwellings,,,,,,,,,,
+152,EcoSun Homes,"EcoSun Homes, LLC","228 Park Ave S, Suite 97786, New York, NY 10003, USA",https://ecosunhomes.com,,5,92.903,278.709,wood,149000.0,1612.54
+153,Tidewater Homes,,,,,,,,,,
+154,Florida Modular Homes,"Florida Modular Homes, LLC","7325 NW 13th Blvd, Gainesville, FL 32653, USA",https://floridamodularhomes.com,,12,46.45,167.23,wood,50000.0,1200.0
+155,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 East Frontage Road, Campobello, South Carolina, 29322, USA",https://www.blueridgelogcabins.com,,12,55.74,325.16,wood,99000.0,
+156,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com/,,40,55.74,278.71,wood,50000.0,
+157,Nationwide Homes,Nationwide Custom Homes LLC,"1100 Rives Road, Martinsville, VA 24112, USA",https://www.nationwide-homes.com,,29,111.48,372.63,wood,66000.0,1234.56
+158,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd #1000, Troy, MI 48084, USA",https://www.championhomes.com,,40,51.1,223.0,wood,50000.0,
+159,Impresa Modular,"Impresa Modular, LLC","320 East Antietam Street, Suite 203, Hagerstown, MD 21740, USA",https://impresamodular.com/,,24,46.45,371.61,wood,50000.0,
+160,Palmwood Builders,"Palmwood Construction, Inc.","8412 Balm St, Spring Hill, FL 34607, USA",https://www.palmwoodconstruction.com,,,,,concrete,,
+161,Affinity Building Systems,"Affinity Building Systems, LLC","62 Murray Blvd, Lakeland, GA 31635, USA",https://www.affinitybuildingsystems.com,,18,92.9,371.6,wood,120000.0,
+162,Impresa Modular,"Impresa Modular, Inc.","3204 Hedges Drive, Kennesaw, Georgia, 30152, USA",https://impresamodular.com,,24,55.74,223.15,wood,50000.0,
+163,Southland Custom Homes,"Southland Custom Homes, Inc.","265 N Main St, Lawrenceville, GA 30046, USA",https://www.southlandcustomhomes.com,,20,111.48,464.52,wood,150000.0,1500.0
+164,Clayton Homes of Waycross,"Clayton Homes, Inc.","2100 Brunswick Highway, Waycross, Georgia, 31501, USA",https://www.claytonhomesofwaycross.com,,25,55.74,185.81,wood,40000.0,
+165,Precision Homes,,,,,,,,,,
+166,Modular Homes of America,,,https://www.modularhomesofamerica.com,,,,,,,
+167,Plantation Homes,,,,,,,,,,
+168,"Modular Connections, LLC","Modular Connections, LLC","1090 Flex Drive, Jackson, GA 30233, USA",https://www.modularconnections.com,,,,,concrete,,
+169,Prefabulous Buildings,,,,,,,,,,
+170,Clayton Homes of Augusta,"Clayton Homes, Inc.","1736 Gordon Highway, Augusta, GA 30904, USA",https://www.claytonhomesofaugusta.com,,,,,wood,,
+171,Southern Structures,,,,,,,,,,
+172,Triton Custom Homes,,,,,,,,,,
+173,Nationwide Homes,"Nationwide Custom Homes, LLC","1100 Rives Road, Martinsville, VA 24112, USA",https://www.nationwide-homes.com,,16,92.9,371.6,wood,100000.0,
+174,Canton Homes,,,,,,,,,,
+175,Sunshine Homes,"Sunshine Homes, Inc.",,https://www.sunshinehomes-inc.com,,,,,wood,,
+176,Ritz-Craft Custom Homes,"Ritz-Craft Corporation of Pennsylvania, Inc.","15 Industrial Park Lane, Mifflinburg, PA 17844, USA",https://www.ritz-craft.com,,,,,wood,,
+177,Oakwood Homes,,,https://www.oakwoodhomesco.com/,,,,,,,
+178,Mustard Seed Tiny Homes,Mustard Seed Tiny Homes LLC,"1424 White Cir NW, Marietta, GA 30060, USA",https://www.mustardseedtinyhomes.com,,5,18.58,74.32,wood,89000.0,
+179,Georgia Mountain Cabin Rentals,,"3608 Richland Creek Rd, Blairsville, GA 30512, USA",https://www.georgiamtnrentals.com,,,,,wood,,
+180,Iron Town Homes,,,,,,,,,,
+181,Honsador Lumber,Honsador Lumber LLC,"91-151 Malakole Street, Kapolei, HI 96707, USA",https://www.honsador.com,,,,,wood,,
+182,Bamboo Living Homes,Bamboo Living Inc.,"16-643 Kipimana St, Keaau, HI 96749, USA",https://bambooliving.com,,10,33.45,278.71,bamboo,80000.0,2150.0
+183,HPM Building Supply,"HPM Building Supply, Inc.","16-166 Melekahiwa Street, Keaau, Hawaii, 96749, USA",https://www.hpmhawaii.com/,,6,54.35,222.97,wood,45000.0,
+184,Royal Homes Hawaii,,,,,,,,,,
+185,Hawaii Modular Space,,,,,,,,,,
+186,Green Homes Hawaii,Green Homes Hawaii LLC,,https://greenhomeshawaii.com,,,,,wood,,
+187,American Modular Systems,,,https://www.americanmodular.com,,,,,,,
+188,Homeworks Construction,"Homeworks Construction, Inc.","2111 S Beretania St, Honolulu, HI 96826, USA",https://www.homeworkshawaii.com,,0,,,wood,,
+189,Haleakala Solar and Roofing,"Haleakala Solar, Inc.","99-1265 Halawa Valley Street, Unit A, Aiea, HI 96701, USA",https://haleakalasolar.com,,,,,,,
+190,Hawaii Modular Homes,,,https://hawaiimodularhomes.com,,,,,,,
+191,Idaho Modular,,,,,,,,,,
+192,indieDwell,"indieDwell Holdings, Inc.","2350 Industrial Drive, Caldwell, Idaho, 83605, USA",https://www.indiedwell.com,,8,35.3,111.5,steel,85000.0,
+193,Tiny Idahomes,"Tiny Idahomes, LLC","1020 Enterprise Ave, Caldwell, ID 83605, USA",https://www.tinyidahomes.com,,7,11.15,34.84,wood,45000.0,2400.0
+194,IronTown Homes,IronTown Homes LLC,"1940 S Industrial Park Avenue, Spanish Fork, UT 84660, USA",https://irontownhomes.com,,12,92.9,371.6,wood,225000.0,
+195,Zip Kit Homes,"Zip Kit Homes, LLC","315 W 100 N, Cedar City, UT 84720, USA",https://www.zipkithomes.com,,12,35.67,185.81,wood,45000.0,1500.0
+196,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Rd, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,35.3,250.8,wood,50000.0,
+197,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,45,37.16,223.06,wood,50000.0,
+198,Fleetwood Homes,"Cavco Industries, Inc.","1060 Fleetwood Drive, Nampa, Idaho, 83687, USA",https://www.fleetwoodhomes.com,,20,45.52,185.8,wood,49000.0,
+199,Palm Harbor Homes,"Cavco Industries, Inc.","1001 N 7th Street, Boise, ID 83702, USA",https://www.palmharbor.com,,25,74.32,204.39,wood,60000.0,1200.0
+200,Kit Custom Homebuilders,"Kit Custom Homebuilders, Inc.","1000 Garber Street, Caldwell, ID 83605, USA",https://www.kitwest.com,,25,111.48,250.84,wood,50000.0,
+201,Franklin Building Supply,Franklin Building Supply Co.,"11700 W Franklin Rd, Boise, ID 83709, USA",https://www.franklinbuildingsupply.com,,,,,,,
+202,Stratford Homes,Stratford Building Corporation,"402 S Park Ave, Stratford, WI 54484, USA",https://stratfordhomes.com,,50,92.9,278.7,wood,100000.0,1200.0
+203,Adair Homes,"Adair Homes, Inc.","3380 W. Elder St, Suite 124, Boise, ID 83705, USA",https://www.adairhomes.com,,35,83.61,314.57,wood,99999.0,
+204,Guerdon Modular Buildings,Guerdon Enterprises LLC,"5556 S Federal Way, Boise, ID 83716, USA",https://www.guerdonmodularbuildings.com,,15,46.45,232.26,steel,50000.0,1500.0
+205,PrecisionCraft Log & Timber Homes,M.T.N Design Inc.,"711 East Broadway Avenue, Meridian, Idaho, 83642, USA",https://www.precisioncraft.com,,12,111.48,520.26,timber,300000.0,
+206,All American Homes,All American Homes LLC,,https://www.allamericanhomes.com,,,,,wood,,
+207,Hi-Tech Housing,"Hi-Tech Housing, Inc.","101 South 1000 West, Bristol, Indiana, 46507, USA",https://www.hi-techhousing.com,,10,111.48,185.81,wood,50000.0,1077.5
+208,Homeway Homes,"Homeway Homes, Inc.","2225 W Altorfer Dr, Peoria, IL 61615, USA",https://www.homewayhomes.com,,11,83.61,278.71,wood,160000.0,
+209,Keystone Homes,"Keystone Homes, Inc.","100 Tower Drive, Burr Ridge, IL 60527, USA",https://www.keystonehomes.net,,5,92.9,278.7,wood,150000.0,1612.9
+210,Riverside Homes,,,,,,,,,,
+211,Sears Homes,"Sears, Roebuck and Co.","3333 Beverly Road, Hoffman Estates, IL 60179, USA",https://searshomes.org,,447,55.74,297.29,wood,400.0,
+212,Stratford Homes,Stratford Building Corporation,"402 S Weber Ave, Stratford, WI 54484, USA",https://www.stratfordhomes.com,,40,92.9,278.7,wood,125000.0,
+213,Taylor Made Homes,,,,,,,,,,
+214,Wisconsin Log Homes,"Wisconsin Log Homes, Inc.","N1441 State Highway 42, Denmark, WI 54208, USA",https://www.wisconsinloghomes.com,,10,111.48,418.06,wood,200000.0,
+215,Z Modular,Z Modular LLC,"5720 W 73rd Street, Bedford Park, Illinois, 60638, USA",https://www.z-modular.com,,5,46.45,185.8,steel,150000.0,2150.0
+216,Rochester Homes,"Rochester Homes, Inc.","1345 N Lucas St, Rochester, IN 46975, USA",https://www.rochesterhomesinc.com,,17,104.14,241.55,wood,100000.0,
+217,Hi-Tech Housing,"Hi-Tech Housing, Inc.","2452 W 250 S, Elkhart, IN 46517, USA",https://www.hi-techhousing.com,,15,37.16,204.38,wood,50000.0,1200.0
+218,Commodore Homes of Indiana,"Commodore Homes, LLC","1902 Century Drive, Goshen, Indiana, 46528, USA",https://www.commodore-indiana.com,,32,74.32,204.39,wood,50000.0,
+219,Redman Homes,"Redman Homes, Inc.","2901 E. State Road 124, Topeka, Indiana, 46571, USA",https://www.redmanhomesofindiana.com,,20,70.0,220.0,wood,50000.0,800.0
+220,Dutch Housing,"Dutch Housing, Inc.","815 Budd Road, Topeka, IN 46571, USA",https://www.dutch-housing.com,,25,111.48,223.43,wood,50000.0,700.0
+221,"MHE, Inc.",,,,,,,,,,
+222,Fairmont Homes,"Fairmont Homes, Inc.","2181 East Market St, Nappanee, IN 46550, USA",https://fairmonthomes.com,,10,111.48,185.8,wood,70000.0,1070.0
+223,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, IN 46514, USA",https://www.skylinehomes.com,,30,37.16,222.97,wood,45000.0,1025.0
+224,Adventure Homes,"Adventure Homes, LLC","1119 Fuller Drive, Garrett, IN 46738, USA",https://www.adventurehomes.net,,25,74.32,213.68,wood,60000.0,
+225,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd #1000, Troy, MI 48084, USA",https://www.championhomes.com,,20,74.32,278.71,wood,50000.0,
+226,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,35,45.71,278.71,wood,40000.0,1200.0
+227,Next Modular,"Next Modular, LLC","401 S 3rd St, Goshen, IN 46526, USA",https://www.nextmodular.com,,12,92.9,278.7,wood,75000.0,
+228,Ritz-Craft Homes,Ritz-Craft Corporation,"435 S Main St, Argos, IN 46501, USA",https://www.ritz-craft.com,,50,74.32,278.71,wood,100000.0,1344.58
+229,Design Homes & Development Co.,,,,,,,,,,
+230,Manorwood Homes,Manorwood Homes,"P.O. Box 309, 101 Industrial Park Road, Pine Grove, PA 17963, USA",https://www.manorwoodhomes.com,,16,111.48,278.71,wood,50000.0,
+231,Modular Genius,"Modular Genius, Inc.","1201 South Sharp Street, Suite 307, Baltimore, MD 21230, USA",https://www.modulargenius.com,,10,46.45,185.8,wood,50000.0,1500.0
+232,Whitley Manufacturing Co.,"Whitley Manufacturing Co., Inc.","201 W 1st St, South Whitley, Indiana, 46787, USA",https://www.whitleyman.com,,,,,steel,,
+233,Excel Homes,"Excel Homes, LLC","2580 Ellwood Road, New Castle, Pennsylvania, 16101, USA",https://www.excelhomes.com,,15,83.61,278.71,wood,100000.0,1200.0
+234,Stratford Homes,Stratford Building Corporation,"402 South Arch Avenue, Stratford, Wisconsin, 54484, USA",https://www.stratfordhomes.com,,44,102.19,371.61,wood,100000.0,1076.39
+235,Wardcraft Homes,,,https://www.wardcraft.com,,,,,wood,,
+236,Sunshine Homes,Sunshine Homes Inc.,,https://www.sunshinehomes-inc.com,,,,,wood,,
+237,Hames Homes,"Hames Mobile Homes, Inc.","5410 Wabash St SW, Cedar Rapids, IA 52404, USA",https://www.hameshomes.com,,,,,wood,,
+238,Mobile Home Living Iowa,,,,,,,,,,
+239,Spring Creek Manufacturing,,,,,,,,,,
+240,Amwood Homes,"Amwood Homes, Inc.","614 E Main St, Janesville, WI 53545, USA",https://www.amwoodhomes.com,,16,92.9,278.7,wood,120000.0,
+241,Summit Modular Homes,,,,,,,,,,
+242,Castle Modular Homes,,,,,,,,,,
+243,Express Modular,"Express Modular, Inc.","Express Modular, 5411 Ramsey St, Fayetteville, NC 28311, USA",https://www.expressmodular.com,,24,55.74,223.15,wood,50000.0,
+244,Advantage Homes,,,,,,,,,,
+245,Luxury Homes Iowa,,,,,,,,,,
+246,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,55.74,204.39,wood,50000.0,
+247,Champion Homes,"Champion Home Builders, Inc.","755 W. 48th St., Kansas City, Kansas, 66102, USA",https://www.championhomes.com,,25,55.74,185.8,wood,50000.0,
+248,Fleetwood Homes,"Fleetwood Homes, Inc.","1255 Danner Drive, Elkhart, IN 46516, USA",https://www.fleetwoodhomes.com,,60,55.74,185.81,wood,50000.0,650.0
+249,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15350 N. Dallas Parkway, Suite 800, Addison, TX 75001, USA",https://www.palmharbor.com,,30,37.16,278.71,wood,50000.0,1075.0
+250,Wardcraft Homes,"Wardcraft Homes, Inc.","613 West 4th Street, Clay Center, Kansas, 67432, USA",https://wardcraft.com,,20,111.48,371.61,wood,120000.0,
+251,Legacy Housing,Legacy Housing Corporation,"4801 Mark IV Parkway, Fort Worth, TX 76106, USA",https://www.legacyhousingcorp.com,,50,37.16,167.23,wood,34000.0,
+252,Solitaire Homes,"Solitaire Homes, Inc.","2001 S. Eastman Road, Longview, TX 75602, USA",https://www.solitairehomes.com,,12,111.48,231.33,wood,55000.0,
+253,Redman Homes,"Redman Homes, Inc.","500 South Redman Avenue, Ephrata, PA 17522, USA",https://www.redmanhomes.com,,20,111.48,223.43,wood,50000.0,
+254,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, Indiana, 46514, USA",https://www.skylinehomes.com,,14,46.45,185.81,wood,50000.0,645.0
+255,Sunshine Homes,,,,,,,,,,
+256,Cappaert Manufactured Housing,"Cappaert Manufactured Housing, Inc.","33587 US-51, Vicksburg, MS 39180, USA",https://www.cappaertmh.com,,12,45.15,111.48,wood,50000.0,
+257,Jessup Housing,,,https://jessuphousing.com,,,,,,,
+258,TRU Homes,"TRU MH, Inc.","5200 Jennie Barker Road, Garden City, KS 67846, USA",https://www.truhomes.com,,10,45.71,167.23,wood,40000.0,538.2
+259,Adventure Homes,Adventure Homes LLC,,https://www.adventurehomes.us,,,,,wood,,
+260,Deer Valley Homebuilders,Deer Valley Homebuilders Inc.,"205 Carriage Street, Guin, AL 35563, USA",https://www.deervalleyhb.com,,23,111.48,312.15,wood,100000.0,
+261,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,45,37.16,223.25,wood,30000.0,
+262,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,39,44.6,185.8,wood,50000.0,
+263,Fleetwood Homes,"Cavco Industries, Inc.","1250 Industry Road, Campbellsville, KY 42718, USA",https://www.fleetwoodhomes.com,,20,50.17,139.35,wood,50000.0,
+264,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15301 Spectrum Drive, Suite 500, Addison, TX 75001, USA",https://www.palmharbor.com,,40,55.74,297.29,wood,50000.0,
+265,Kentucky Modular Homes,,,,,,,,,,
+266,Red Door Homes of Kentucky,"Red Door Homes of Kentucky, LLC","111 Enterprise Dr, Frankfort, KY 40601, USA",https://www.reddoorhomesky.com,,18,111.48,278.71,wood,150000.0,1200.0
+267,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 E Frontage Rd, Campobello, SC 29322, USA",https://www.blueridgelogcabins.com,,11,74.32,297.29,wood,125000.0,
+268,The Home Store,,,,,,,,,,
+269,Commodore Homes,"Commodore Homes, LLC","1902 W Sample St, South Bend, IN 46619, USA",https://www.commodorehomes.com,,25,74.32,223.34,wood,50000.0,
+270,Deer Valley Homebuilders,"Deer Valley Homebuilders, Inc.","205 Carriage Street, Guin, AL 35563, USA",https://www.deervalleyhb.com,,21,111.48,278.71,wood,100000.0,
+271,Adventure Homes,"Adventure Homes, LLC","1119 Fuller Drive, Garrett, Indiana, 46738, USA",https://www.adventurehomes.net,,10,111.48,185.81,wood,50000.0,850.0
+272,Sunshine Homes,,,https://www.sunshinehomes-inc.com,,,,,wood,,
+273,ScotBilt Homes,"ScotBilt Homes, Inc.","2888 Fulford Road, Waycross, Georgia, 31503, USA",https://www.scotbilt.com,,20,111.48,223.25,wood,50000.0,828.0
+274,Cavco Industries,"Cavco Industries, Inc.","3636 North Central Avenue, Suite 1200, Phoenix, AZ 85012, USA",https://www.cavco.com,,45,37.16,185.8,wood,50000.0,1200.0
+275,Oakwood Homes,"Oakwood Homes, LLC",,https://www.oakwoodhomes.com,,,,,wood,,
+276,Cappaert Manufactured Housing,"Cappaert Manufactured Housing, Inc.","33545 Hwy 82 W, Vicksburg, MS 39183, USA",https://www.cappaertmh.com,,15,111.48,223.25,wood,50000.0,450.0
+277,TRU MH,TRU MH,"5000 Clayton Rd, Maryville, TN 37804, USA",https://www.trumh.com,,10,66.89,139.35,wood,30000.0,
+278,Franklin Modular Homes,,,,,,,,,,
+279,Southern Energy Homes,"Southern Energy Homes, Inc.","144 Corporate Way, Addison, Alabama, 35540, USA",https://www.southernenergyhomes.com,,12,111.48,204.39,wood,50000.0,
+280,River Birch Homes,"River Birch Homes, Inc.","200 S Service Rd E, Sibley, LA 71073, USA",https://www.riverbirchhomes.com,,15,111.48,195.1,wood,50000.0,
+281,Sunshine Homes,"Sunshine Homes, Inc.","1 Sunshine Avenue, Red Bay, Alabama, 35582, USA",https://www.sunshinehomes-inc.com,,20,85.94,223.25,wood,50000.0,915.0
+282,Bennett Homes,"Bennett Homes, LLC",,,,,,,,,
+283,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, Michigan, 48084, USA",https://www.championhomes.com,,30,37.16,185.81,wood,50000.0,800.0
+284,Hedgewood Homes,,,,,,,,,,
+285,Platinum Homes,,,,,,,,,,
+286,Deer Valley Homebuilders,"Deer Valley Homebuilders, Inc.","205 Carriage Street, Guin, AL 35563, USA",https://www.deervalleyhb.com,,13,111.48,306.58,wood,120000.0,
+287,Kabco Builders,Kabco Builders Inc.,,http://www.kabcobuilders.com,,,,,,,
+288,Legacy Housing,Legacy Housing Corporation,"1600 Blackjack Road, Fort Worth, TX, 76119, USA",https://legacyhousingcorp.com,,50,37.16,167.23,wood,39900.0,
+289,Cavalier Homes,"Cavalier Homes of Louisiana, Inc.","123 Example Street, Baton Rouge, LA 70801, USA",https://www.cavalierhomebuilders.com,,,,,wood,,
+290,Southern Estates,,,,,,,,,,
+291,Jessup Housing,,,https://jessuphousing.com,,,,,,,
+292,Fleetwood Homes,"Fleetwood Homes, Inc.","1902 Century Drive, Goshen, IN 46528, USA",https://www.fleetwoodhomes.com,,20,56.67,204.39,wood,50000.0,600.0
+293,Hamilton Homebuilders,"Hamilton Homebuilders, LLC","9955 US-80, Greenwood, LA 71033, USA",https://hamiltonhb.com,,8,111.48,204.39,wood,65000.0,580.0
+294,Winston Homebuilders,"Winston Homebuilders, LLC","90 Hamric Drive East, Oxford, AL 36203, USA",https://www.winstonhb.com,,15,97.55,204.39,wood,60000.0,
+295,Riverview Homes,,,,,,,,,,
+296,KBS Builders,"KBS Builders, Inc.","12 Willey District Road, South Paris, Maine, 04281, USA",https://www.kbsbuildersinc.com,,5,46.45,167.23,wood,85000.0,
+297,Maine Modular & Manufactured Homes,,,,,,,,,,
+298,Maine Coast Homes,,,https://mainecoasthomes.com,,,,,wood,,
+299,Alternative Modular Homes,,,,,,,,,,
+300,Maine Built Homes,,,,,,,,,,
+301,Coastal Builders & Sons,"Coastal Builders & Sons, Inc.",,,,,,,,,
+302,Maine Custom Prefab,,,https://mainecustomprefab.com,,,,,,,
+303,Maine Panelized Homes,,,,,,,,,,
+304,Maine Eco Modular Homes,,,,,,,,,,
+305,Maine Tiny Homes,,,,,,,,,,
+306,Maine System-Built Homes,,,,,,,,,,
+307,Maine ADU Builders,Maine ADU Builders LLC,"123 Example Street, Portland, Maine, 04101, USA",https://www.maineadubuilders.com,,5,37.16,92.9,wood,50000.0,1500.0
+308,Prefab Homes of Maine,Prefab Homes of Maine LLC,"102 Old Winthrop Rd, Manchester, ME 04351, USA",https://www.prefabhomesofmaine.com,,5,55.74,167.23,wood,85000.0,1700.0
+309,Maine Kit Homes,,,,,,,,,,
+310,Maine Pre-Cut Homes,,"799 Central Street, Millinocket, ME 04462, USA",https://www.maineprecut.com,,,,,wood,,
+311,Blueprint Robotics,"Blueprint Robotics, Inc.","1323 Western Avenue, Baltimore, MD 21230, USA",https://www.blueprint-robotics.com,,,,,CLT,,
+312,Home Innovations,"Home Innovations, LLC",,https://www.homeinnovations.com,,,,,wood,,
+313,Beracah Homes,"Beracah Homes, Inc.","9590 Nanticoke Business Park Dr, Greenwood, DE 19950, USA",https://www.beracahhomes.com,,6,92.9,297.3,wood,100000.0,
+314,Maryland Modular Homes,Maryland Modular Homes Inc.,,http://www.marylandmodular.com,,,,,wood,,
+315,Excel Homes,"Excel Homes Group, LLC","PO Box 706, Liverpool, Pennsylvania, 17045, USA",https://www.excelhomes.com,,20,111.48,278.71,wood,100000.0,1200.0
+316,Commodore Homes of Pennsylvania,Commodore Corporation,"20898 Paint Boulevard, Shippenville, PA 16254, USA",https://www.commodorehomespa.com,,20,111.48,213.68,wood,50000.0,850.0
+317,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,30,37.16,223.9,wood,50000.0,
+318,Maryland Modular,,,,,,,,,,
+319,Modern Modular,,,,,,,,,,
+320,Maryland Custom Homes,,,,,,,,,,
+321,Green Leaf Modular Homes,,,,,,,,,,
+322,Sustainable Homes of Maryland,,,,,,,,,,
+323,Eastern Shore Homes,,,,,,,,,,
+324,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, PA 18501, USA",https://www.simplexhomes.com,,50,92.9,371.6,wood,100000.0,1500.0
+325,Maryland Tiny Homes,,,,,,,,,,
+326,Eco Modular Homes,,,,,,,,,,
+327,Premiere Modular Homes,Premiere Modular Homes LLC,"1234 Modular Lane, Baltimore, MD, 21201, USA",https://www.premieremodularhomes.com,,8,50.17,185.8,wood,75000.0,1500.0
+328,Freedom Homes,,,,,,,,,,
+329,Integrity Homes,,,,,,,,,,
+330,Maryland ADU Builders,,,,,,,,,,
+331,Blu Homes,"Blu Homes, Inc.","22 Hndle Street, Unit 1, Marblehead, MA 01945, USA",https://www.bluhomes.com,,5,92.9,185.8,steel,250000.0,
+332,Unity Homes,"Unity Homes, LLC","6 Blackjack Crossing, Walpole, New Hampshire, 03608, USA",https://unityhomes.com,,5,104.52,278.71,wood,200000.0,
+333,Epoch Homes,Epoch Corporation,"123 Main Street, Littleton, MA 01460, USA",https://www.epochhomes.com,,10,92.9,278.7,wood,150000.0,1600.0
+334,Dreamline Modular Homes,"Dreamline Modular Homes, LLC","1 Dreamline Way, Boxborough, MA 01719, USA",https://www.dreamlinemodularhomes.com,,10,92.9,250.8,wood,150000.0,1800.0
+335,Acorn Deck House Company,"Acorn Deck House Company, Inc.","852 Main Street, Acton, MA 01720, USA",https://acorndeckhouse.com,,6,111.48,371.61,wood,400000.0,
+336,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, PA 18501, USA",https://www.simplexhomes.com,,38,55.74,278.71,wood,100000.0,
+337,Connect Homes,"Connect:Homes, LLC",,https://www.connect-homes.com,,15,38.09,278.71,steel,182000.0,
+338,Millbrook Modular Homes,"Millbrook Homes, Inc.","215 Worcester-Providence Turnpike, Sutton, MA 01590, USA",https://www.millbrookhomes.com,,12,92.9,278.7,wood,150000.0,1650.0
+339,Prefabulous Small House Co.,,,,,,,,,,
+340,Modular Home Builders Association,,,,,,,,,,
+341,Champion Home Builders,,,,,,,,,,
+342,Method Homes,,,,,,,,,,
+343,GO Logic,,,,,,,,,,
+344,Bensonwood,,,,,,,,,,
+345,Mighty Small Homes,,,,,,,,,,
+346,Vermont Frames,,,,,,,,,,
+347,Lindal Cedar Homes,,,,,,,,,,
+348,Eco-Cor,,,,,,,,,,
+349,Yankee Barn Homes,,,,,,,,,,
+350,Maine Custom Prefabs,,,,,,,,,,
+351,Dynamic Homes,"Dynamic Homes, LLC","525 Roosevelt Avenue, Detroit Lakes, Minnesota, 56501, USA",https://www.dynamichomes.com,,24,92.9,241.5,wood,100000.0,
+352,Northstar Systembuilt,"Northstar Systembuilt, LLC","1220 Sundial Blvd, St. Cloud, MN, 56301, USA",https://northstarsb.com,,12,83.61,260.13,wood,100000.0,1200.0
+353,Woodlund Homes,Woodlund Homes Inc.,"1234 Example St, Anoka, MN 55303, USA",https://www.woodlundhomes.com,,5,92.9,185.8,wood,150000.0,1610.8
+354,"Excelsior Homes West, Inc.","Excelsior Homes West, Inc.","800 19th Ave SE, Hutchinson, MN 55350, USA",https://www.excelsiorhomesinc.com,,20,92.9,278.7,wood,100000.0,1200.0
+355,Stratford Homes,Stratford Building Corporation,"212501 State Highway 97, Stratford, WI 54484, USA",https://stratfordhomes.com,,50,92.9,278.7,wood,100000.0,
+356,Heritage Homes,,,https://www.heritagehomesmn.com,,,,,wood,,
+357,Homark Homes,Homark Homes Inc.,"1651 12th St SE, Pine City, MN 55063, USA",https://homark.com,,10,55.74,185.81,wood,50000.0,1200.0
+358,Nor-Son Custom Builders,"Nor-Son, Inc.","7900 Hastings Road, Baxter, MN 56425, USA",https://www.nor-sonresidential.com,,,,,wood,,
+359,Minnesota Modular,,,,,,,,,,
+360,Wausau Homes,"Wausau Homes, Inc.","10805 Business Highway 51, Rothschild, WI 54474, USA",https://wausauhomes.com,,35,92.9,325.2,wood,175000.0,
+361,Rochester Homes,"Rochester Homes, Inc.",,https://www.rochesterhomesinc.com,,,,,,,
+362,Sustainable 9 Design + Build,"Sustainable 9 Design + Build, LLC","3511 W 44th St, Minneapolis, MN 55410, USA",https://sustainable9.com,,0,,,wood,,
+363,AlumaVation,,,,,,,,,,
+364,Bensonwood Homes,Bensonwood,,https://bensonwood.com,,,,,wood,,
+365,Lindal Cedar Homes,"Lindal Cedar Homes, Inc.","4300 S 104th Place, Seattle, WA 98178, USA",https://lindal.com,,50,65.03,650.32,wood,50000.0,1500.0
+366,Modular Solutions,,,,,,,,,,
+367,Blu Homes,"Blu Homes, Inc.",,https://www.bluhomes.com,,6,55.74,216.74,steel,250000.0,
+368,Next Door Housing,Next Door Housing LLC,"7440 Niagara Lane North, Maple Grove, Minnesota, 55311, USA",https://nextdoorhousing.com,,3,15.42,24.15,wood,45000.0,
+369,Little Big Homes,,,,,,,,,,
+370,Bensonwood,Bensonwood Homes LLC,"6 Blackjack Crossing, Walpole, NH 03608, USA",https://bensonwood.com,,,,,wood,,
+371,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,37.16,204.39,wood,50000.0,
+372,Champion Homes,"Champion Home Builders, Inc.","755 W Bigelow Ave, Durant, MS 39063, USA",https://www.championhomes.com,,50,45.15,222.97,wood,50000.0,800.0
+373,Fleetwood Homes,"Fleetwood Homes, Inc.","7400 MS-178, Belmont, MS 38827, USA",https://www.fleetwoodhomes.com,,24,65.03,223.06,wood,50000.0,800.0
+374,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15303 Dallas Parkway, Suite 800, Addison, Texas, 75001, USA",https://www.palmharbor.com/,,25,85.47,278.71,wood,50000.0,
+375,Deer Valley Homebuilders,"Deer Valley Homebuilders, Inc.","205 Carriage Street, Guin, AL 35563, USA",https://www.deervalleyhb.com,,24,111.48,278.71,wood,100000.0,
+376,Cappaert Manufactured Housing,"Cappaert Manufactured Housing, Inc.","33545 Highway 82 West, Vicksburg, Mississippi, 39180, USA",https://www.cappaertmh.com,,16,67.35,204.39,wood,50000.0,
+377,Franklin Homes,"Franklin Homes, Inc.","10655 Hwy 43, Russellville, AL 35653, USA",https://www.franklinhomesusa.com,,6,111.5,232.3,wood,100000.0,850.0
+378,Southern Homes,,,,,,,,,,
+379,Sunshine Homes,"Sunshine Homes, Inc.","100 Sunshine Avenue, Red Bay, Mississippi, 38860, USA",https://www.sunshinehomes-inc.com,,23,65.03,185.81,wood,50000.0,754.7
+380,Kabco Builders,Kabco Builders Inc.,"1301 Industrial Park Drive, Boaz, Alabama, 35957, USA",https://kabcobuilders.com,,20,116.13,232.26,wood,50000.0,700.0
+381,Buccaneer Homes,"Buccaneer Homes, Inc.","101 Industrial Blvd, Hamilton, Mississippi, 39746, USA",https://www.buccaneerhomes.com,,18,111.48,223.99,wood,50000.0,645.83
+382,Hamilton Homebuilders,"Hamilton Homebuilders, LLC","2500 Airport Road, Sulligent, Alabama, 35586, USA",https://hamiltonhomebuilders.com,,15,104.05,195.1,wood,50000.0,
+383,TRU Homes,TRU MH LLC,"5200 Highway 145 S, Meridian, MS 39301, USA",https://www.trumh.com,,12,55.74,120.77,wood,40000.0,538.2
+384,Southern Estates,"Southern Estates Manufactured Homes, Inc.","2431 Hwy 15 North, Laurel, MS 39440, USA",https://www.southern-estates.com,,15,111.48,278.71,wood,50000.0,750.0
+385,Winston Homebuilders,"Winston Homebuilders, LLC","1001 4th Avenue Southwest, Haleyville, Alabama, 35565, USA",https://www.winstonhb.com,,15,111.48,204.39,wood,50000.0,
+386,Adventure Homes,"Adventure Homes, LLC","1119 Fuller Drive, Chandler, IN 47610, USA",https://www.adventurehomes.net,,20,60.39,185.81,wood,50000.0,
+387,Clayton Homes of Springfield,"Clayton Homes, Inc.","3300 E Kearney St, Springfield, MO 65803, USA",https://www.claytonhomes.com/,,,,,wood,,
+388,Titan Factory Direct Homes,"Titan Factory Direct, Inc.","111 NW 2nd St, Oak Grove, MO 64075, USA",https://www.titanfactorydirect.com,,20,92.9,230.7,wood,49900.0,
+389,Cedar Creek Homes,,,,,,,,,,
+390,Summit Ridge Custom Homes,"Summit Ridge Custom Homes, LLC","1234 Example St, Springfield, MO 65804, USA",https://www.summitridgecustomhomes.com,,5,120.0,250.0,wood,150000.0,1200.0
+391,Village Homes,,,,,,,,,,
+392,Hibbs Homes,"Hibbs Homes, LLC","1405 Elbridge Payne Rd, Chesterfield, MO 63017, USA",https://www.hibbshomesusa.com,,5,111.48,297.29,wood,250000.0,
+393,Missouri PreFab,,,,,,,,,,
+394,Green Edge Builders,,,,,,,,,,
+395,Hufcor Missouri,,,,,,,,,,
+396,Sunrise Homes,,,,,,,,,,
+397,Midwest Homes,,,,,,,,,,
+398,Dove Modular Construction,,,,,,,,,,
+399,Ritz-Craft Custom Homes,Ritz-Craft Corporation,"15 Industrial Park Road, Mifflinburg, PA 17844, USA",https://www.ritz-craft.com,,,,,wood,,
+400,Montana Modular,Montana Modular Homes LLC,"1234 Modular Lane, Bozeman, MT 59715, USA",https://www.montanamodular.com,,8,74.0,223.0,wood,120000.0,1450.0
+401,Eco Prefab Homes,,,,,,,,,,
+402,Big Sky Tiny Homes,Big Sky Tiny Homes LLC,"1234 Main Street, Bozeman, MT, 59715, USA",https://www.bigskytinyhomes.com,,5,18.58,37.16,wood,45000.0,2500.0
+403,Montana Custom Modular,"Montana Custom Modular Homes, LLC","123 Example Street, Helena, MT 59601, USA",https://www.montanacustommodular.com,,8,65.03,185.81,wood,120000.0,1500.0
+404,Green Mountain Homes,,,,,,,,,,
+405,Yellowstone Prefab,,,,,,,,,,
+406,Riverside Panelized Homes,,,,,,,,,,
+407,High Plains Prefabricated,High Plains Prefabricated Homes LLC,"123 Main Street, Billings, MT, 59101, USA",https://www.highplainsprefab.com,,5,55.74,185.8,wood,75000.0,1200.0
+408,Glacier Kit Homes,,,,,,,,,,
+409,Bison Modular Builders,,,,,,,,,,
+410,Treeline System-Built Homes,"Treeline System-Built Homes, Inc.","123 Main Street, Helena, MT 59601, USA",https://www.treelinesystembuilthomes.com,,8,92.9,278.7,wood,150000.0,1612.9
+411,Mountain View Factory-Built Homes,,,,,,,,,,
+412,Timberline Pre-Cut Homes,"Timberline Pre-Cut Homes, Inc.","1260 Highway 2 W, Kalispell, MT 59901, USA",https://www.timberlinepchs.com,,12,55.74,185.81,wood,45000.0,1200.0
+413,Frontier Off-Site Construction,"Frontier Off-Site Construction, LLC","2035 11th Ave, Helena, MT 59601, USA",https://frontieroffsiteconstruction.com,,5,55.74,185.81,wood,120000.0,1600.0
+414,Rustic Ridge Manufactured Homes,,,,,,,,,,
+415,Heritage Homes,"Heritage Homes of Nebraska, Inc.","PO Box 346, Wayne, NE 68787, USA",https://www.heritagehomesofne.com,,40,92.9,371.6,wood,100000.0,
+416,Bonnavilla Homes,"Bonnavilla Building Systems, Inc.","111 Grant Street, Aurora, Nebraska, 68818, USA",https://www.bonnavilla.com,,26,74.32,278.71,wood,70000.0,
+417,BluHomes,,,https://www.bluhomes.com,,,,,,,
+418,Wardcraft Homes,Wardcraft Homes,"123 E 2nd Street, Minden, Nebraska, 68959, USA",https://www.wardcraft.com,,25,92.9,278.7,wood,150000.0,
+419,Champion Homes,"Champion Home Builders, Inc.","3200 Enterprise Avenue, York, Nebraska, 68467, USA",https://www.championhomes.com,,42,55.74,204.39,wood,50000.0,800.0
+420,Design Homes,,,https://www.designhomes.com,,,,,,,
+421,Redman Homes,"Redman Homes, Inc.",,https://www.redmanhomesofindiana.com,,,,,wood,,
+422,Schult Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.schulthomes.com,,,,,wood,,
+423,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, Indiana, 46514, USA",https://www.skylinehomes.com,,15,37.16,185.8,wood,50000.0,
+424,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com/,,39,50.17,250.84,wood,50000.0,
+425,Boxabl,"Boxabl, Inc.","5345 East North Belt Road, North Las Vegas, NV 89115, USA",https://www.boxabl.com,,1,35.3,35.3,steel,49900.0,
+426,Blu Homes,"Blu Homes, Inc.",,https://www.bluhomes.com,,,,,,,
+427,Modular Lifestyles,,,https://modularlifestyles.com,,,,,,,
+428,Sierra Tiny Houses,Sierra Tiny Houses LLC,"1102 S 21st Street, Sparks, NV 89431, USA",https://sierratinyhouses.com,,5,18.58,37.16,wood,39000.0,2150.0
+429,Prefab Logic,Prefab Logic LLC,"3155 Polaris Ave, Las Vegas, NV 89102, USA",https://www.prefablogic.com,,5,37.16,185.8,wood,50000.0,1500.0
+430,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,,,,wood,,
+431,Silvercrest Homes,"Silvercrest Homes, a division of Champion Home Builders, Inc.","299 N Smith Ave, Corona, CA 92880, USA",https://www.silvercrest.com/,,5,55.74,204.39,wood,100000.0,1200.0
+432,Champion Homes,"Champion Home Builders, Inc.","755 W. Big Beaver Rd., Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com/,,45,37.16,223.15,wood,50000.0,
+433,Fleetwood Homes,"Fleetwood Homes, Inc.","2450 Valley View Lane, Las Vegas, NV 89102, USA",https://www.fleetwoodhomes.com,,20,55.74,185.81,wood,50000.0,700.0
+434,Cavco Industries,"Cavco Industries, Inc.","3636 North Central Avenue, Suite 1200, Phoenix, AZ 85012, USA",https://www.cavco.com,,45,37.16,334.45,wood,50000.0,1500.0
+435,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, Indiana, 46515, USA",https://www.skylinehomes.com,,30,41.81,278.71,wood,50000.0,1076.39
+436,Kit Custom Homebuilders,Kit Custom Homebuilders,"1000 Garber Street, Caldwell, Idaho, 83605, USA",https://www.kitwest.com,,34,46.45,278.71,wood,45000.0,
+437,Palm Harbor Homes,"Palm Harbor Homes, Inc.","153 Factory Lane, Las Vegas, NV 89119, USA",https://www.palmharbor.com,,30,55.74,204.39,wood,50000.0,
+438,Golden West Homes,"Golden West Homes, Inc.","1366 South Alvarado Street, Los Angeles, CA 90006, USA",https://www.championhomes.com,,10,63.17,222.97,wood,60000.0,850.0
+439,Epoch Homes,Epoch Corporation,"883 Brickyard Road, Pembroke, NH 03275, USA",https://www.epochhomes.com,,10,55.74,278.71,wood,150000.0,
+440,Preferred Building Systems,"Preferred Building Systems, LLC","143 Twistback Road, Claremont, NH 03743, USA",https://preferredbuildingsystems.com/,,12,111.48,278.71,wood,150000.0,1500.0
+441,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 East Frontage Road, Campobello, SC 29322, USA",https://www.blueridgelogcabins.com,,12,92.9,260.1,wood,119000.0,
+442,Keystone Building Systems,,,,,,,,,,
+443,New Hampshire Modular Homes,"New Hampshire Modular Homes, Inc.","123 Main Street, Concord, NH 03301, USA",https://www.newhampshiremodularhomes.com,,12,92.9,232.3,wood,150000.0,1200.0
+444,Custom Modular Homes of New England,"Custom Modular Homes of New England, LLC","9 Ashuelot St, Keene, NH 03431, USA",https://www.custommodularhomesne.com,,15,92.9,278.7,wood,150000.0,2000.0
+445,Davis Frame Company,"Davis Frame Company, Inc.","11 Britton Lane, Claremont, NH 03743, USA",https://www.davisframe.com,,10,92.9,371.6,timber,200000.0,
+446,New England Homes,"New England Homes, Inc.","4 Ashleigh Drive, Derry, NH 03038, USA",https://www.newenglandhomes.net,,15,92.9,223.0,wood,150000.0,
+447,Pine View Homes,,,,,,,,,,
+448,NH Log and Timber Homes,,,https://www.nhlogandtimberhomes.com,,,,,wood,,
+449,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, PA 18504, USA",https://www.simplexhomes.com,,30,47.38,278.71,wood,100000.0,
+450,Pinnacle Modular,,,,,,,,,,
+451,Coastal Modular Group,"Coastal Modular Group, LLC","505 Atlantic City Blvd, Bayville, NJ 08721, USA",https://www.coastalmodulargroup.com,,10,83.61,278.71,wood,150000.0,1850.0
+452,New Era Building Systems,"New Era Building Systems, Inc.","451 Southern Avenue, Strattanville, PA 16258, USA",https://www.newerabuildingsystems.com,,,,,wood,,
+453,Premier Modular Homes,,,,,,,,,,
+454,Icon Legacy Custom Modular Homes,"Icon Legacy Custom Modular Homes, LLC","123 Benfer Drive, Selinsgrove, PA 17870, USA",https://www.iconlegacy.com,,25,92.9,278.7,wood,85000.0,
+455,NJ Home Builder,,,,,,,,,,
+456,Excel Modular Homes,,,http://www.excelhomes.com,,,,,,,
+457,Blu Homes,"Blu Homes, Inc.",,https://www.bluhomes.com,,6,45.99,195.1,steel,250000.0,
+458,Westchester Modular Homes,"Westchester Modular Homes, Inc.","30 Reagans Mill Road, Wingdale, NY 12594, USA",https://www.westchestermodular.com,,16,111.48,371.61,wood,150000.0,
+459,Signature Building Systems,"Signature Building Systems of PA, LLC","1004 Springbrook Avenue, Moosic, PA 18507, USA",https://signaturebuildingsystems.com,,30,92.9,371.6,wood,150000.0,
+460,DuraSteel Modular Homes,,,,,,,,,,
+461,Modular Home Erectors,,,,,,,,,,
+462,All American Homes,,,,,,,,,,
+463,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,32,37.16,204.39,wood,50000.0,
+464,Ritz-Craft Custom Homes,Ritz-Craft Corporation of Pennsylvania,"15 Industrial Park Road, Mifflinburg, PA 17844, USA",https://www.ritz-craft.com,,35,92.9,371.6,wood,125000.0,
+465,Modular Modern,,,,,,,,,,
+466,The Home Store,,,https://www.the-homestore.com,,,,,,,
+467,Homes for Sale NJ,,,,,,,,,,
+468,Deluxe Modular,"Deluxe Building Systems, Inc.","499 Estell Manor Road, Mays Landing, New Jersey, 08330, USA",https://www.deluxemodular.com,,,,,steel,,
+469,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Rd, Maryville, TN 37804, USA",https://www.claytonhomes.com,,50,55.74,223.06,wood,50000.0,
+470,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, Michigan, 48084, USA",https://www.championhomes.com,,70,34.56,278.71,wood,50000.0,700.0
+471,Fleetwood Homes,"Cavco Industries, Inc.","6990 Jurupa Ave, Riverside, CA 92504, USA",https://www.fleetwoodhomes.com/,,20,55.74,204.39,wood,50000.0,800.0
+472,Palm Harbor Homes,"Palm Harbor Homes, Inc.","1530 Eubank Blvd NE, Albuquerque, NM 87112, USA",https://www.palmharbor.com,,10,92.9,241.5,wood,50000.0,
+473,Karsten Homes,Clayton Homes Inc.,"2700 Karsten Ct SE, Albuquerque, NM 87102, USA",https://www.claytonhomes.com,,20,74.32,204.39,wood,50000.0,
+474,Sunshine Homes,"Sunshine Homes, Inc.",,https://www.sunshinehomes-inc.com,,,,,wood,,
+475,Oakwood Homes,,,,,,,,,,
+476,Silver Creek Homes,,,,,,,,,,
+477,Solitaire Homes,"Solitaire Homes, Inc.","3400 Pan American Fwy NE, Albuquerque, NM 87107, USA",https://www.solitairehomes.com,,20,92.9,185.8,wood,50000.0,807.29
+478,Triton Homes,,,,,,,,,,
+479,Redman Homes,"Redman Homes, a division of Champion Home Builders, Inc.","755 W State Street, Elkhart, Indiana, 46516, USA",https://www.championhomes.com/redman,,15,55.74,185.8,wood,50000.0,
+480,Schult Homes,"Clayton Homes, Inc.","5000 Clayton Rd, Maryville, TN 37804, USA",https://www.schulthomes.com,,,,,wood,,
+481,Cavco Homes,"Cavco Industries, Inc.","3636 North Central Avenue, Suite 1200, Phoenix, AZ 85012, USA",https://www.cavco.com,,,,,wood,,
+482,Kit Custom Homebuilders,Kit Custom Homebuilders Inc.,"1000 Garber St, Caldwell, ID 83605, USA",https://www.kitwest.com,,50,116.13,297.29,wood,60000.0,
+483,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, IN 46515, USA",https://www.skylinehomes.com/,,25,37.16,185.81,wood,30000.0,
+484,Westchester Modular Homes,"Westchester Modular Homes, Inc.","30 Reagans Mill Road, Wingdale, NY 12594, USA",https://www.westchestermodular.com,,50,74.32,278.71,wood,125000.0,
+485,Icon Legacy Custom Modular Homes,Icon Legacy Custom Modular Homes LLC,"111 Modular Lane, Selinsgrove, PA 17870, USA",https://www.iconlegacy.com,,25,92.9,278.7,wood,70000.0,
+486,"Rochester Homes, Inc.","Rochester Homes, Inc.","1345 N Wabash Ave, Rochester, IN 46975, USA",https://www.rochesterhomesinc.com,,10,111.48,278.71,wood,100000.0,1500.0
+487,Unibilt Industries,,,,,,,,,,
+488,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, PA 18501, USA",https://www.simplexhomes.com,,35,92.9,464.5,wood,100000.0,
+489,Signature Building Systems,"Signature Building Systems of PA, LLC","1004 Springbrook Avenue, Moosic, PA 18507, USA",https://www.signaturebuildingsystems.com,,20,92.9,371.6,wood,150000.0,1500.0
+490,Epoch Homes,,,,,,,,,,
+491,New World Home,"New World Home, Inc.","236 West 30th Street, New York, NY 10001, USA",https://www.newworldhome.com,,6,92.9,278.7,wood,175000.0,2150.0
+492,Bensonwood,"Bensonwood Homes, Inc.","6 Blackjack Crossing, Walpole, New Hampshire, 03608, USA",https://bensonwood.com,,5,65.03,371.61,wood/timber,500000.0,
+493,Hudson Valley Home Source,"Hudson Valley Home Source, LLC","838 Route 9, Fishkill, NY 12524, USA",https://www.hvhsource.com,,6,92.9,278.7,wood,120000.0,1500.0
+494,Cedar Knolls,"Cedar Knolls Homes, Inc.","123 Main Street, Albany, New York, 12207, USA",https://www.cedarknollshomes.com,,5,92.9,185.8,wood,150000.0,1612.0
+495,Greenwood Homes,,,,,,,,,,
+496,Catskill Modular Homes,,"32 Southside Dr, Oneonta, NY 13820, USA",https://catskillmodularhomes.com,,,,,wood,,
+497,Finger Lakes Construction,"Finger Lakes Construction Co., Inc.","275 Route 14, Penn Yan, NY 14527, USA",https://www.fingerlakesconstruction.com,,,,,steel,,
+498,Ironwood Building Systems,,,,,,,,,,
+499,EcoSteel,EcoSteel Building Systems Inc.,,https://ecosteel.com,,,,,steel,,
+500,Hudson Valley Preservation,"Hudson Valley Preservation, LLC","30 Bridge Street, Suite 205, New Milford, CT 06776, USA",https://www.hudsonvalleypreservation.com/,,0,,,wood,,
+501,Modular Homes of America,,,,,,,,,,
+502,New York Prefab Homes,,,,,,,,,,
+503,Upstate Tiny Homes,,,https://upstatetinyhomes.com,,,,,wood,,
+504,Deltec Homes,"Deltec Homes, Inc.","69 Bingham Rd, Asheville, NC 28806, USA",https://www.deltechomes.com,,9,92.9,371.6,wood,150000.0,
+505,Modular Homes of America,"Modular Homes of America, Inc.",,https://www.modularhomesofamerica.com,,,,,wood,,
+506,Logangate Timber Homes,Logangate Timber Homes,"2647 Brekonridge Centre Drive, Monroe, North Carolina, 28110, USA",https://www.logangate.com,,5,74.32,195.1,timber,150000.0,1600.0
+507,Carolina Custom Homes of Burlington,"Carolina Custom Homes of Burlington, Inc.","2450 Alamance Rd, Burlington, NC 27215, USA",https://www.ncmodulars.com,,20,111.48,371.61,wood,150000.0,1345.7
+508,Champion Homes,"Champion Home Builders, Inc.","755 W. Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,42,37.16,204.39,wood,50000.0,
+509,R-Anell Homes,R-Anell Housing Group LLC,"235 Anthony Grove Road, Crouse, North Carolina, 28033, USA",https://www.r-anell.com,,15,111.48,204.39,wood,100000.0,1200.0
+510,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,43.01,204.39,wood,35000.0,
+511,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 E Frontage Road, Campobello, SC 29322, USA",https://www.blueridgelogcabins.com,,9,83.61,365.76,wood,79000.0,
+512,Tidewater Modular Homes,,,https://www.tidewatermodularhomes.com,,,,,,,
+513,Carolina Country Homes,,"2450 Charlotte Hwy, Lancaster, SC 29720, USA",https://www.carolinacountryhomes.com,,10,90.67,222.97,wood,130000.0,
+514,Southern Pines Homes,,,,,,,,,,
+515,Future Homes,Future Homes of Hampstead Inc.,"512 US-17, Hampstead, North Carolina, 28443, USA",https://www.futurehomesnc.com,,15,92.9,241.5,wood,70000.0,1200.0
+516,Apex Homes,,,,,,,,,,
+517,Schumacher Homes,"Schumacher Homes, Inc.","779 White Pond Drive, Akron, Ohio, 44320, USA",https://www.schumacherhomes.com,,29,92.9,464.5,wood,200000.0,
+518,Palm Harbor Homes,"Palm Harbor Homes, Inc.","7800 NC Hwy 751, Durham, NC 27713, USA",https://www.palmharbor.com,,25,55.74,223.52,wood,50000.0,900.0
+519,Schult Homes,"Clayton Homes, Inc.","5555 East Pennington Street, Sioux Falls, SD 57110, USA",https://www.schulthomes.com,,15,55.74,185.81,composite,50000.0,1000.0
+520,Dynamic Homes,Dynamic Homes LLC,"525 Roosevelt Ave, Detroit Lakes, MN 56501, USA",https://www.dynamichomes.com,,20,111.48,222.97,wood,120000.0,1075.0
+521,Friendship Homes,"Friendship Homes of Minnesota, Inc.","815 Budd Street, Montevideo, MN 56265, USA",https://www.friendshiphomesmn.com,,21,74.32,213.68,wood,50000.0,
+522,Highland Manufacturing,"Highland Manufacturing, LLC","325 Commerce Ave, Worthington, MN 56187, USA",https://www.highlandmanufacturing.com,,25,111.48,223.52,wood,50000.0,1000.0
+523,Redman Homes,"Redman Homes, Inc.","500 South 500 East, Topeka, IN 46571, USA",https://www.redmanhomesofindiana.com,,15,74.32,204.39,wood,50000.0,
+524,MidCountry Homes,MidCountry Homes,"N1826 937th Street, Eau Claire, WI 54703, USA",https://www.midcountryhomes.com,,12,111.48,195.09,wood,80000.0,
+525,Stratford Homes,Stratford Building Corporation,"212501 State Highway 97, Stratford, WI 54484, USA",https://www.stratfordhomes.com,,40,92.9,371.6,wood,100000.0,
+526,Commodore Homes,,,https://www.commodorehomes.com,,,,,wood,,
+527,Heritage Homes,"Heritage Homes of Fargo, LLC","1815 38th Street South, Fargo, ND 58103, USA",https://www.heritagefargo.com,,10,111.48,278.71,wood,250000.0,1800.0
+528,Northstar Systembuilt,"Northstar Systembuilt, LLC","115 2nd Ave NE, Redwood Falls, MN 56283, USA",https://northstarsb.com,,12,74.32,278.71,wood,120000.0,
+529,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,25,37.16,185.81,wood,50000.0,
+530,Unibilt Industries,"Unibilt Industries, Inc.","8000 Johnson Station Road, Vandalia, OH 45377, USA",https://www.unibiltcustomhomes.com,,27,92.9,222.97,wood,100000.0,
+531,All American Homes,"All American Homes, LLC",,https://www.allamericanhomes.com,,,,,wood,,
+532,Redman Homes,"Redman Homes, Inc.","500 South Redman Parkway, Ephrata, PA 17522, USA",https://www.redmanhomesofindiana.com/,,25,92.9,204.4,wood,50000.0,
+533,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Rd, Maryville, TN 37804, USA",https://www.claytonhomes.com/,,39,55.74,278.71,wood,50000.0,
+534,Fairmont Homes,,,https://www.fairmonthomes.com,,,,,,,
+535,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, Indiana, 46514, USA",https://www.skylinehomes.com,,25,55.74,167.23,wood,50000.0,800.0
+536,Modular Home Factory,,,,,,,,,,
+537,Dutch Housing,,,,,,,,,,
+538,Commodore Homes,Commodore Corporation,"2083 State Route 2, Astoria, OH 43784, USA",https://www.commodorehomes.com,,35,100.34,278.71,wood,50000.0,850.0
+539,Ritz-Craft,Ritz-Craft Corporation,"15 Industrial Park Road, Jonesville, MI 49250, USA",https://www.ritz-craft.com,,50,111.48,418.06,wood,100000.0,
+540,Schumacher Homes,Schumacher Homes Inc.,"2715 Wise Avenue NW, Canton, Ohio, 44708, USA",https://www.schumacherhomes.com,,29,111.48,418.06,wood,200000.0,
+541,Prestige Homes,"Prestige Homes, Inc.","401 Freedom Drive, Napoleon, OH 43545, USA",https://www.prestigehomesonline.com,,12,92.9,232.3,wood,120000.0,1500.0
+542,Wayne Homes,"Wayne Homes, LLC","3777 Boettler Oaks Drive, Uniontown, OH 44685, USA",https://waynehomes.com,,51,111.48,378.58,wood,164000.0,
+543,D&W Homes,D&W Homes,"9237 U.S. Highway 23, Lucasville, Ohio, 45648, USA",https://www.dwhomes.com,,12,83.61,195.1,wood,49900.0,
+544,Buckeye Builders,,,,,,,,,,
+545,Amish Country Builders,,,,,,,,,,
+546,Ohio Modular Homes,"Ohio Modular Homes, LLC","7474 International Dr, Holland, OH 43528, USA",https://www.ohiomodularhomes.com,,10,74.32,185.81,wood,50000.0,645.83
+547,Modern Modular Homes,Modern Modular Homes LLC,"1234 Innovation Drive, Columbus, OH 43215, USA",https://www.modernmodularhomes.com,,8,74.32,185.81,wood,120000.0,1500.0
+548,GreenTech Homes,GreenTech Homes LLC,"123 Green Way, Columbus, OH 43215, USA",https://www.greentechhomesohio.com,,5,74.32,185.81,wood,120000.0,1500.0
+549,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Rd, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,41.81,250.84,wood,55000.0,
+550,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,40,37.16,222.97,wood,50000.0,
+551,Fleetwood Homes,"Cavco Industries, Inc.","3120 North Mead, Wichita, KS 67219, USA",https://www.fleetwoodhomes.com,,11,31.59,185.81,wood,,
+552,Palm Harbor Homes,"Palm Harbor Homes, Inc.","3419 S Meridian Ave, Oklahoma City, OK 73119, USA",https://www.palmharbor.com,,25,85.01,260.13,wood,50000.0,
+553,S&S Homes,,,,,,,,,,
+554,Oakwood Homes,"Oakwood Homes, LLC",,http://www.oakwoodhomesco.com/,,,,,wood,,
+555,TRU Homes,"TRU MH, LLC","4901 NW 23rd Street, Oklahoma City, OK 73127, USA",https://www.trumh.com,,7,47.38,130.06,wood,30000.0,540.5
+556,Sunshine Homes,"Sunshine Homes, Inc.",,https://sunshinehomes-inc.com,,,,,wood,,
+557,Redman Homes,"Redman Homes, Inc.","605 S Front St, Ephrata, PA 17522, USA",https://www.redmanhomesok.com,,15,88.26,204.39,wood,50000.0,
+558,Kabco Builders,Kabco Builders Inc.,,http://www.kabcobuilders.com,,,,,wood,,
+559,Cavalier Homes,,,,,,,,,,
+560,Southern Energy Homes,"Southern Energy Homes, Inc.","144 Corporate Way, Addison, Alabama, 35540, USA",https://www.southernenergyhomes.com,,0,,,wood,,
+561,Jessup Housing,,,https://jessuphousing.com,,,,,,,
+562,Skyline Homes,Skyline Corporation,"315 West Skyline Road, McLoud, OK 74851, USA",https://www.skylinehomes.com/,,15,37.16,223.34,wood,50000.0,1500.0
+563,New Style Homes,New Style Homes LLC,"1234 Example Street, Oklahoma City, OK 73101, USA",https://www.newstylehomes.com,,10,65.03,185.81,wood,120000.0,1500.0
+564,Ideabox,Ideabox LLC,"1799 17th Street NE, Salem, Oregon, 97301, USA",https://www.ideabox.us,,8,45.52,111.48,wood,90000.0,2034.16
+565,Northwest Modern Prefab,,,,,,,,,,
+566,Stillwater Dwellings,Stillwater Dwellings LLC,"3308 East Spring Street, Seattle, WA 98122, USA",https://stillwaterdwellings.com,,4,92.9,370.5,wood,500000.0,3500.0
+567,MODS PDX,MODS PDX LLC,,https://www.modspdx.com,,,,,steel,,
+568,Shelter Solutions,Shelter Solutions LLC,"12345 SW Main St, Portland, OR 97223, USA",https://shelter-solutions.com,,8,37.16,111.48,wood,80000.0,1500.0
+569,Madrona Homes,,,,,,,,,,
+570,Green Hammer,Green Hammer Design Build,"123 SE 3rd Avenue, Suite 108, Portland, OR 97214, USA",https://www.greenhammer.com,,,,,wood,,
+571,Tiny Heirloom,Tiny Heirloom LLC,"9700 SW Harvest Ct, Suite 180, Beaverton, OR 97005, USA",https://www.tinyheirloom.com,,6,14.86,37.16,wood,45000.0,
+572,Steelblox,"Steelblox, LLC",,https://www.steelblox.com,,,,,steel,,
+573,OPS Structures,,,,,,,,,,
+574,SquareOne Villages,SquareOne Villages,"15 N Polk Street, Eugene, OR 97402, USA",https://www.squareonevillages.org,,,,,wood,,
+575,Modular Building Systems,,,,,,,,,,
+576,UrbanLens,,,,,,,,,,
+577,Zyl Vardos,Zyl Vardos LLC,"161 Lewis Rd, Olympia, WA 98531, USA",https://www.zylvardos.com,,10,9.29,37.16,wood,50000.0,
+578,Square Root Industries,,,,,,,,,,
+579,Bamboo Living,"Bamboo Living, LLC",,https://bambooliving.com,,9,37.16,222.97,bamboo,56000.0,
+580,Mighty Small Homes,,,https://www.mightysmallhomes.com,,6,46.45,185.81,wood,75000.0,
+581,Small Home Oregon,,,,,,,,,,
+582,Wolf Industries,"Wolf Industries, Inc.","8111 NE 219th St, Battle Ground, WA 98604, USA",https://www.wolfindustries.com,,6,26.01,74.32,wood,49000.0,
+583,Artisan Tiny House,Artisan Tiny House LLC,"1234 Example St, Portland, OR 97201, USA",https://www.artisantinyhouse.com,,5,18.58,37.16,wood,45000.0,2500.0
+584,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, Pennsylvania, 18504, USA",https://www.simplexhomes.com,,40,83.61,371.61,wood,100000.0,
+585,Signature Building Systems,"Signature Building Systems of Pennsylvania, LLC","1004 Springbrook Avenue, Moosic, PA 18507, USA",https://www.signaturebuildingsystems.com,,22,92.9,297.3,wood,100000.0,
+586,Icon Legacy Custom Modular Homes,"Icon Legacy Custom Modular Homes, LLC","2999 State Route 61, Mohrsville, PA 19541, USA",https://www.iconlegacy.com,,24,74.32,278.71,wood,100000.0,
+587,Ritz-Craft Custom Homes,"Ritz-Craft Corporation of Pennsylvania, Inc.","15 Industrial Park Road, Mifflinburg, PA 17844, USA",https://www.ritz-craft.com,,36,111.48,371.61,wood,100000.0,1075.0
+588,Excel Homes,"Excel Homes, LLC","1 Ralph Street, Liverpool, Pennsylvania, 17045, USA",https://www.excelhomes.com,,30,111.48,371.61,wood,100000.0,1500.0
+589,Superior Walls by Weaver Precast,"Weaver Precast, LLC","824 E Main St, Ephrata, PA 17522, USA",https://www.superiorwallsbyweaver.com/,,,,,concrete,,
+590,Manorwood Homes,"Manorwood Homes, Inc.","77 Manorwood Road, Pine Grove, PA 17963, USA",https://www.manorwoodhomes.com,,20,92.9,232.3,wood,60000.0,860.0
+591,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,25,46.45,222.97,wood,50000.0,
+592,"Structural Modulars, Inc.","Structural Modulars, Inc.","101 Southern Avenue, Strattanville, PA 16258, USA",https://smihomes.com,,12,55.74,204.39,wood,100000.0,
+593,Commodore Homes,Commodore Homes of Pennsylvania,"20898 Paint Boulevard, Clarion, PA 16214, USA",https://www.commodorehomes.com,,30,93.65,232.26,wood,50000.0,
+594,Pennwest Homes,"Pennwest Homes, Inc.","25 Industrial Park Road, Emlenton, PA 16373, USA",https://www.pennwesthomes.com,,35,92.9,278.7,wood,50000.0,
+595,New Era Building Systems,"New Era Building Systems, Inc.","451 Southern Avenue, Strattanville, PA 16258, USA",https://www.newerabuildingsystems.com,,25,111.48,251.77,wood,50000.0,1200.0
+596,Castle Housing Corp,,,,,,,,,,
+597,KBS Builders,"KBS Builders, Inc.","18 Industrial Dr, South Paris, ME 04281, USA",https://www.kbsbuildersinc.com,,,,,wood,,
+598,Huntingdon Homes,"Huntingdon Homes, LLC",,,,,,,,,
+599,Icon Legacy Custom Modular Homes,"Icon Legacy Custom Modular Homes, LLC","101 Southern Ave, Selinsgrove, PA 17870, USA",https://www.iconlegacy.com,,50,92.9,371.6,wood,50000.0,
+600,Signature Building Systems,"Signature Building Systems of Pennsylvania, LLC","1004 Springbrook Avenue, Moosic, PA 18507, USA",https://signaturebuilding.com,,20,74.32,278.71,wood,100000.0,
+601,Professional Building Systems,"Professional Building Systems, Inc.","72 East Market Street, Middleburg, Pennsylvania, 17842, USA",https://www.pbsmodular.com,,40,92.9,278.7,wood,50000.0,
+602,USModular Inc.,,,,,,,,,,
+603,Apex Homes,"Apex Homes of PA, LLC","7172 Route 522, Middleburg, PA 17842, USA",https://www.apexhomesofpa.com,,40,55.74,278.71,wood,120000.0,1250.0
+604,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com/,,42,55.74,223.52,wood,50000.0,1070.0
+605,ScotBilt Homes,"ScotBilt Homes, Inc.","2888 Fulford Road, Waycross, GA 31503, USA",https://scotbilt.com,,30,92.9,204.4,wood,50000.0,645.8
+606,Homes of Merit,"Homes of Merit, Inc.",,http://www.homesofmerit.com/,,,,,,,
+607,Champion Homes,"Champion Home Builders, Inc.","755 W. Big Beaver Rd., Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,,,,wood,,
+608,Palm Harbor Homes,"Cavco Industries, Inc.","7400 Highway 78, Ladson, SC 29456, USA",https://www.palmharbor.com,,30,65.03,185.8,wood,50000.0,
+609,Oakwood Homes,"Oakwood Homes, LLC","8055 Rivers Avenue, North Charleston, SC 29406, USA",https://www.oakwoodhomes.com,,12,130.06,278.71,wood,60000.0,
+610,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 East Frontage Road, Campobello, SC 29322, USA",https://www.blueridgelogcabins.com,,9,55.74,278.71,wood,100000.0,
+611,Deltec Homes,"Deltec Homes, Inc.","69 Bingham Rd, Asheville, NC 28806, USA",https://www.deltechomes.com,,10,92.9,418.1,wood,100000.0,
+612,Yates Home Sales,Yates Home Sales LLC,"1103 N Anderson Rd, Rock Hill, SC 29730, USA",https://www.yateshomesales.com,,15,111.48,223.52,wood,50000.0,1000.0
+613,Southland Log Homes,"Southland Log Homes, Inc.","4901 Sunset Blvd, Lexington, SC 29072, USA",https://www.southlandloghomes.com,,18,74.32,445.93,wood,50000.0,
+614,Modular Building Systems,"Modular Building Systems, LLC","123 Prefab Lane, Columbia, SC, 29201, USA",https://www.modularbuildingsystemssc.com,,5,92.9,232.3,wood,75000.0,1075.0
+615,HandCrafted Homes,,,,,,,,,,
+616,R-Anell Homes,"R-Anell Housing Group, LLC","235 Anthony Grove Rd, Crouse, NC 28033, USA",https://www.r-anell.com,,12,111.48,278.71,wood,100000.0,1500.0
+617,Nationwide Homes,"Nationwide Custom Homes, LLC","1100 Rives Road, Martinsville, VA 24112, USA",https://www.nationwide-homes.com,,25,111.48,343.74,wood,150000.0,1500.0
+618,Deer Valley Homebuilders,"Deer Valley Homebuilders, Inc.","205 Carriage Street, Guin, Alabama, 35563, USA",https://www.deervalleyhb.com,,27,111.48,278.71,wood,100000.0,
+619,Legacy Housing,Legacy Housing Corporation,"1600 Airport Freeway, #100, Bedford, TX 76022, USA",https://www.legacyhousingusa.com,,40,37.16,167.23,wood,30000.0,
+620,Cavalier Homes,,,,,,,,,,
+621,Silverpoint Homes,"Silverpoint Homes, LLC","3244 Asheville Highway, Inman, South Carolina, 29349, USA",https://www.silverpointhomes.com,,12,92.9,278.7,wood,100000.0,
+622,Kent Homes,,,https://www.kenthomes.net,,,,,,,
+623,Iron Town Homes,,,,,,,,,,
+624,Centennial Homes,"Centennial Homes, Inc.","2717 N Plaza Drive, Rapid City, SD 57702, USA",https://www.centennialhomes.com,,25,111.48,278.71,wood,50000.0,
+625,American Homes,,,,,,,,,,
+626,Schult Homes,Schult Homes Corporation,"915 E 4th Avenue, Redwood Falls, MN 56283, USA",https://www.schulthomes.com,,20,74.32,223.52,wood,50000.0,
+627,Redman Homes,"Redman Homes, Inc.","1010 South Division Avenue, Sioux Falls, SD 57104, USA",https://www.redmanhomes.com,,20,74.32,195.1,wood,50000.0,1200.0
+628,Dynamic Homes,"Dynamic Homes, LLC","525 Roosevelt Street South, Watertown, SD 57201, USA",https://www.dynamichomes.com,,20,92.9,278.7,wood,150000.0,1800.0
+629,Highland Manufacturing,"Highland Manufacturing, Inc.","2340 Air Park Drive, Elkhart, IN 46514, USA",https://www.highlandmfg.com,,30,92.9,223.0,wood,50000.0,800.0
+630,Wisconsin Homes,"Wisconsin Homes, Inc.","N6931 State Highway 54, Marshfield, WI 54449, USA",https://www.wisconsinhomesinc.com,,25,92.9,278.7,wood,100000.0,
+631,Dutch Housing,,,,,,,,,,
+632,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,,,,wood,,
+633,Champion Homes,"Champion Home Builders, Inc.","755 W. Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,50,37.16,278.71,wood,50000.0,
+634,Friendship Homes,"Friendship Homes of South Dakota, Inc.","815 Budd Street, Montevideo, MN 56265, USA",https://www.friendshiphomesmn.com,,40,55.74,185.81,wood,50000.0,750.0
+635,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, Indiana, 46514, USA",https://www.skylinehomes.com,,20,40.0,120.0,wood,50000.0,1200.0
+636,MidCountry Homes,MidCountry Homes,"2600 Folsom Street, Rapid City, South Dakota, 57702, USA",https://www.midcountryhomes.com,,16,100.34,204.39,wood,80000.0,1000.0
+637,Stratford Homes,Stratford Building Corporation,"212501 State Hwy 97, Stratford, WI 54484, USA",https://www.stratfordhomes.com,,40,92.9,278.7,wood,150000.0,
+638,BonnaVilla Homes,"BonnaVilla, a division of Chief Industries, Inc.","2000 Chief Drive, Aurora, NE 68818, USA",https://www.bonavillahomes.com,,29,78.04,222.97,wood,100000.0,
+639,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,39,45.9,185.8,wood,50000.0,538.2
+640,Southern Energy Homes,Southern Energy Homes Inc.,,https://www.southernenergyhomes.com,,,,,,,
+641,Giles Industries,"Giles Industries, Inc.","1050 Bridge Avenue, Bean Station, TN 37708, USA",https://www.gilesindustries.com,,10,74.32,185.81,wood,50000.0,
+642,Commodore Homes,"Commodore Homes of Indiana, LLC","1902 Century Drive, Goshen, Indiana, 46528, USA",https://www.commodorehomes.com,,30,74.32,223.34,wood,50000.0,
+643,Riverview Homes,,,,,,,,,,
+644,Sunshine Homes,,,https://www.sunshinehomes-inc.com,,,,,,,
+645,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,29,60.39,223.15,wood,50000.0,
+646,Oakwood Homes,Oakwood Homes LLC,,https://www.oakwoodhomes.com,,,,,,,
+647,Blu Homes,,,https://www.bluhomes.com,,,,,,,
+648,Tennessee Tiny Homes,Tennessee Tiny Homes LLC,"1510 Stewart Rd, Arlington, TN 38002, USA",https://www.tennesseetinyhomes.com,,4,18.58,37.16,wood,35000.0,
+649,Mountain Brook Homes,,,,,,,,,,
+650,Deer Valley Homebuilders,"Deer Valley Homebuilders, Inc.","205 Carriage Street, Guin, AL 35563, USA",https://www.deervalleyhb.com,,29,97.55,278.71,wood,100000.0,
+651,Honest Abe Log Homes,"Honest Abe Log Homes, Inc.","9995 Clay County Hwy, Moss, TN 38575, USA",https://www.honestabe.com,,12,92.9,325.2,wood,90000.0,
+652,Affinity Building Systems,"Affinity Building Systems, LLC","62 Murray Blvd, Lakeland, GA 31635, USA",https://affinitybuildingsystems.com,,13,88.26,278.71,wood,99900.0,1200.0
+653,New Day Homes,New Day Homes LLC,"9028 Town and Country Circle, Knoxville, TN 37923, USA",https://www.newdayhomes.com,,5,111.48,232.26,wood,180000.0,1435.0
+654,Seeger Homes,,,,,,,,,,
+655,Kanga Room Systems,"Kanga Room Systems, LLC","2049 S Lamar Blvd, Austin, TX 78704, USA",https://kangaroomsystems.com,,15,9.29,92.9,wood,7000.0,
+656,Texas Tiny Homes,"Texas Tiny Homes, LLC","P.O. Box 121, Lake Dallas, Texas, 75065, USA",https://texastinyhomes.com,,8,27.87,111.48,wood,39000.0,1600.0
+657,Texas Modular Homes,Texas Modular Homes LLC,"1234 Fabricated Way, Austin, TX 78701, USA",https://www.texasmodularhomes.com,,10,74.0,223.0,wood,50000.0,1350.0
+658,Ma Modular,Ma Modular LLC,"916 Springdale Road, Building 5, Suite 101, Austin, TX 78702, USA",https://www.mamodular.com,,5,55.74,167.22,wood,200000.0,3000.0
+659,Platinum Homes,,,,,,,,,,
+660,Greenfab,"Greenfab Homes, LLC",,https://greenfab.com,,,,,wood,,
+661,EcoCraft Homes,,,https://ecocrafthomes.com,,,,,,,
+662,Bastrop Homes,,,,,,,,,,
+663,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15301 Spectrum Dr, Suite 500, Addison, TX 75001, USA",https://www.palmharbor.com,,76,85.94,278.71,wood,50000.0,
+664,Tilson Homes,Tilson Home Corporation,"411 Durham Drive, Houston, TX 77007, USA",https://www.tilsonhomes.com,,19,123.28,371.61,wood,190000.0,
+665,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, Michigan, 48084, USA",https://www.championhomes.com,,30,37.16,278.71,wood,50000.0,
+666,Oak Creek Homes,"Oak Creek Homes, LLC","4805 E Loop 820 S, Fort Worth, TX 76119, USA",https://oakcreekhomes.com,,32,55.74,204.38,wood,55000.0,
+667,Prefab Texas,,,,,,,,,,
+668,Mobile Homes Direct 4 Less,Mobile Homes Direct 4 Less LLC,"16640 S US Hwy 281, San Antonio, TX 78221, USA",https://www.mobilehomesdirect4less.com,,12,55.74,167.23,wood,39999.0,537.78
+669,Modular Homes of America,"Modular Homes of America, LLC","1806 N. Timberland Dr, Lufkin, TX 75901, USA",https://www.modularhomesofamerica.com,,15,83.61,278.71,wood,80000.0,
+670,American Homestar,American Homestar Corporation,"2450 South Shore Blvd, League City, TX 77573, USA",https://www.americanhomestar.com,,15,55.74,204.39,wood,50000.0,1000.0
+671,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com,,100,37.16,278.71,wood,40000.0,
+672,Modular Building Systems International,,,,,,,,,,
+673,Factory Expo Home Centers,"Factory Expo Home Centers, LLC","Factory Expo Home Centers, 7201 E Highway 21, Bryan, TX 77808, USA",https://factoryexpohomes.com,,24,55.74,185.81,wood,35900.0,850.0
+674,Brazos Valley Homes,,,,,,,,,,
+675,Irontown Homes,"Irontown Housing Company, Inc.","1947 North Chappel Drive, Spanish Fork, Utah, 84660, USA",https://www.irontownhomes.com,,12,74.32,278.71,wood,150000.0,1800.0
+676,Zip Kit Homes,"Zip Kit Homes, LLC","315 Industrial Rd, Cedar City, UT 84721, USA",https://zipkithomes.com,,16,37.16,185.8,wood,69900.0,
+677,Evolution Homes,,,,,,,,,,
+678,Atlas Homes,,,,,,,,,,
+679,Method Homes,"Method Prefab, LLC","95 Yesler Way, Suite 300, Seattle, WA 98104, USA",https://www.methodhomes.net,,9,46.45,241.55,wood,160000.0,
+680,MODS PDX,,,,,,,,,,
+681,Ecolife Homes,,,,,,,,,,
+682,Wheelhaus,"Wheelhaus, Inc.","PO Box 278, Jackson, WY 83001, USA",https://www.wheelhaus.com,,7,34.84,92.9,wood,125000.0,
+683,Blu Homes,"Blu Homes, Inc.",,https://www.bluhomes.com,,6,104.52,213.68,steel,250000.0,
+684,Mountain West Precast,,,,,,,,,,
+685,Smart Dwellings,"Smart Dwellings, LLC","1145 Main Street, Evanston, Wyoming, 82930, USA",https://www.smartdwellings.com,,5,92.9,185.8,wood,180000.0,
+686,Sustainable 9 Design + Build,,,https://www.sustainable9.com,,,,,,,
+687,US Modular Group,,,,,,,,,,
+688,Sierra Homes,"Sierra Homes Construction, Inc.","1250 West 200 North, Suite 6B, Logan, UT 84321, USA",https://www.sierrahomes.com,,7,111.48,278.71,wood,150000.0,
+689,Bamboo Living,Bamboo Living Homes,,https://www.bambooliving.com,,12,46.45,204.39,bamboo,109000.0,
+690,Prefab Logic,"Prefab Logic, LLC","1127 S 1900 E, Salt Lake City, Utah, 84105, USA",https://www.prefablogic.com,,5,92.9,232.3,wood,150000.0,
+691,Canyon Creek Construction,Canyon Creek Construction LLC,"1234 Canyon Rd, Provo, Utah, 84604, USA",https://www.canyoncreekconstruction.com,,5,92.9,232.3,wood,150000.0,1612.0
+692,Alpine Homes,"Alpine Homes, LLC","10421 South Jordan Gateway, Suite 600, South Jordan, UT 84095, USA",https://alpinehomes.com,,10,139.35,325.16,wood,300000.0,
+693,Western Timber Frame,"Western Timber Frame, LLC","181 S 1200 E, Lehi, UT 84043, USA",https://www.westerntimberframe.com,,,,,wood,,
+694,Utah Modular Homes,"Utah Modular Homes, LLC","1234 Modular Lane, Salt Lake City, Utah, 84101, USA",https://www.utahmodularhomes.com,,8,74.3,185.8,wood,120000.0,1600.0
+695,Vermont Timber Works,"Vermont Timber Works, Inc.","16 Fairbanks Road, North Springfield, Vermont, 05150, USA",https://www.vermonttimberworks.com,,,,,timber,,
+696,Shelterwood Construction,,,,,,,,,,
+697,Vermont Modular Homes,Vermont Modular Homes Inc.,"2980 US Route 7, Ferrisburgh, VT 05456, USA",https://www.vermontmodularhomes.com,,12,74.32,278.71,wood,120000.0,
+698,Unity Homes,"Unity Building Technologies, Inc.","6 Blackjack Crossing, Walpole, NH 03608, USA",https://unityhomes.com,,5,88.26,278.71,wood,300000.0,
+699,Yankee Barn Homes,"Yankee Barn Homes, Inc.","131 Yankee Barn Road, Grantham, NH 03753, USA",https://www.yankeebarnhomes.com,,15,111.48,371.61,wood,250000.0,
+700,Vermont Frames,"Vermont Timber Frames, Inc.","251 Vermont Route 110, Washington, VT 05675, USA",https://www.vermontframes.com,,5,92.9,278.7,wood,,
+701,Vermont Tiny Houses,,,,,,,,,,
+702,Connor Homes,"Connor Homes, LLC","1741 Vermont Route 7A, Shaftsbury, VT 05262, USA",https://www.connorbuilding.com,,6,111.48,371.61,wood,150000.0,
+703,Maple Leaf Homes,,,https://www.mapleleafhomes.ca,,,,,wood,,
+704,Bensonwood Homes,"Bensonwood, Inc.","6 Blackjack Crossing, Walpole, NH 03608, USA",https://bensonwood.com,,5,92.9,371.6,timber,250000.0,3400.0
+705,Virginia Homes Building Systems,"Virginia Homes Building Systems, LLC","1445 Commerce Park Drive, Tipp City, Ohio, 45371, USA",https://www.vhbs.com,,15,111.48,223.25,wood,100000.0,1076.0
+706,Modular Genius,"Modular Genius, Inc.","1201 South Sharp Street, Suite 404, Baltimore, MD 21230, USA",https://www.modulargenius.com,,15,37.16,464.51,wood,50000.0,1500.0
+707,Clayton Homes,"Clayton Homes, Inc.","5000 Clay Factory Rd, Rocky Mount, VA 24151, USA",https://www.claytonhomes.com/,,12,74.32,223.15,wood,50000.0,
+708,Champion Homes,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com/,,40,55.0,223.0,wood,50000.0,1200.0
+709,MHI Homes,,,,,,,,,,
+710,Cumberland Homes,,,,,,,,,,
+711,Nationwide Homes,"Nationwide Custom Homes, LLC","1100 Rives Road, Martinsville, VA 24112, USA",https://nationwide-homes.com,,29,111.48,278.71,wood,100000.0,
+712,Oakwood Homes,,,,,,,,,,
+713,R-Anell Homes,"R-Anell Housing Group, LLC","235 Anthony Grove Rd, Crouse, NC 28033, USA",https://www.r-anell.com,,10,111.48,278.71,wood,100000.0,1200.0
+714,Simplex Homes,"Simplex Industries, Inc.","1 Simplex Drive, Scranton, PA 18504, USA",https://www.simplexhomes.com,,25,92.9,418.06,wood,100000.0,
+715,Ritz-Craft Homes,Ritz-Craft Corporation,"15 Industrial Park Road, Mifflinburg, Pennsylvania, 17844, USA",https://www.ritz-craft.com,,,,,wood,,
+716,American Modular Systems,,,,,,,,,,
+717,Express Modular,"Express Modular, Inc.","1586 Winchester Avenue, Martinsburg, WV 25405, USA",https://www.expressmodular.com,,31,55.74,372.81,wood,49000.0,
+718,Cardinal Homes,"Cardinal Homes, Inc.","201 Manufacturing Lane, Wylliesburg, VA 23976, USA",https://www.cardinalhomes.com,,15,100.3,278.7,wood,100000.0,
+719,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 East Frontage Road, Campobello, SC 29322, USA",https://www.blueridgelogcabins.com,,12,74.32,371.61,wood,98000.0,
+720,Excel Homes,"Excel Homes, LLC","1000 Church Street, Suite 200, Lynchburg, VA 24504, USA",https://www.excelhomes.com,,28,111.48,278.71,wood,150000.0,1345.0
+721,Virginia Modular Homes,"Virginia Modular Homes, Inc.","123 Modular Lane, Richmond, VA, 23220, USA",https://www.virginiamodularhomes.com,,15,92.9,232.3,wood,120000.0,1500.0
+722,Impresa Modular,"Impresa Modular, Inc.","320 N Main St, Martinsville, VA 24112, USA",https://impresamodular.com,,19,55.74,418.06,wood,49000.0,
+723,Stratford Homes,,,,,,,,,,
+724,Affordable Modular Homes,,,,,,,,,,
+725,Method Homes,"Method Prefab, LLC","13500 NE 126th Pl, Suite A, Kirkland, WA 98034, USA",https://www.methodhomes.net,,9,35.3,297.3,wood,160000.0,
+726,Greenfab,"Greenfab, LLC","500 Yale Ave N, Seattle, WA 98109, USA",https://www.greenfab.com,,5,55.74,176.52,wood,150000.0,2000.0
+727,Stillwater Dwellings,Stillwater Dwellings LLC,"1421 34th Ave, Seattle, WA 98122, USA",https://stillwaterdwellings.com,,10,111.48,278.71,wood,500000.0,3500.0
+728,FabCab,"FabCab, LLC","1011 Boren Ave, Suite 808, Seattle, WA 98104, USA",https://fabcab.com,,3,46.45,139.35,wood,175000.0,
+729,Seattle Tiny Homes,Seattle Tiny Homes LLC,"7027 27th St W, University Place, WA 98466, USA",https://seattletinyhomes.com,,4,15.61,42.74,wood,50000.0,
+730,Mighty House Construction,Mighty House Construction LLC,"3108 SW Webster St, Seattle, WA 98126, USA",https://mightyhouseconstruction.com,,,,,wood,,
+731,West Coast Homes,"West Coast Homes, LLC","11323 Commando Rd W #1, Everett, WA 98204, USA",https://westcoast-homes.com,,5,37.16,148.64,wood,50000.0,2150.0
+732,Greenpod Development,Greenpod Development LLC,"1020 Water Street, Port Townsend, WA 98368, USA",https://www.greenpoddev.com,,9,46.45,167.23,wood,95000.0,
+733,Blokable,"Blokable, Inc.","3220 1st Ave S, Suite 800, Seattle, WA 98134, USA",https://www.blokable.com,,3,23.23,92.9,steel,85000.0,1824.0
+734,Haven Homes,,,,,,,,,,
+735,Pacific Homes,"Pacific Homes, Inc.",,https://pacific-homes.com,,,,,wood,,
+736,Dwell Development,Dwell Development LLC,"5701 6th Ave S, Seattle, WA 98108, USA",https://dwelldevelopment.com,,5,78.04,185.81,wood,350000.0,4575.0
+737,ZipKit Homes,Zip Kit Homes LLC,"565 East 1000 South, Preston, ID 83263, USA",https://www.zipkithomes.com,,8,55.74,223.43,wood,135000.0,1500.0
+738,Modern Shed,"Modern Shed, Inc.","7470 NE 222nd St, Kingston, WA 98346, USA",https://modern-shed.com,,5,13.94,55.74,wood,12000.0,
+739,CedarCraft Homes,,,,,,,,,,
+740,Prefab Logic,Prefab Logic LLC,,https://www.prefablogic.com,,,,,,,
+741,Cascade Factory Homes,"Cascade Factory Homes, Inc.","5900 NE 88th St, Vancouver, WA 98665, USA",https://www.cascadefactoryhomes.com,,20,37.16,185.81,wood,40000.0,
+742,Wolf Industries,"Wolf Industries, Inc.","8111 NE 117th Ave, Vancouver, WA 98662, USA",https://www.wolfindustries.com,,4,27.87,55.74,wood,69000.0,
+743,HiLine Homes,HiLine Homes,"1888 Bishop Road SW, Suite 200, Tumwater, WA 98512, USA",https://www.hilinehomes.com,,14,110.09,260.13,wood,114900.0,
+744,Adair Homes,"Adair Homes, Inc.","1311 SE Cardinal Ct, Building 1, Vancouver, WA 98683, USA",https://www.adairhomes.com,,14,97.55,343.74,wood,99999.0,
+745,Clayton Homes,"Clayton Homes, Inc.","5000 Clayton Road, Maryville, TN 37804, USA",https://www.claytonhomes.com/,,39,37.16,278.71,wood,49000.0,
+746,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,20,55.74,223.06,wood,50000.0,
+747,Fleetwood Homes,"Fleetwood Homes, Inc.","740 College Parkway, Elkhart, IN 46526, USA",https://www.fleetwoodhomes.com,,31,37.16,204.38,wood,50000.0,
+748,Palm Harbor Homes,"Palm Harbor Homes, Inc.","15301 Spectrum Dr, Suite 500, Addison, TX 75001, USA",https://www.palmharbor.com,,,,,wood,,
+749,Silverpoint Homes,"Silverpoint Homes, Inc.","3737 Robert C Byrd Drive, Beckley, WV 25801, USA",https://www.silverpointhomes.com,,25,92.9,297.3,wood,100000.0,
+750,Express Modular,"Express Modular, Inc.","1586 Winchester Avenue, Martinsburg, WV 25405, USA",https://www.expressmodular.com,,40,37.16,371.61,wood,50000.0,
+751,Ritz-Craft Homes,"Ritz-Craft Corporation of Pennsylvania, Inc.","15 Industrial Park Road, Mifflinburg, PA 17844, USA",https://www.ritz-craft.com,,34,92.9,278.7,wood,100000.0,1200.0
+752,Commodore Homes,"Commodore Homes of Pennsylvania, LLC","20898 Paint Blvd, Shippenville, Pennsylvania, 16254, USA",https://www.commodorehomes.com,,30,55.74,185.81,wood,50000.0,
+753,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, IN 46514, USA",https://www.skylinehomes.com,,20,74.32,185.8,wood,50000.0,
+754,Adventure Homes,Adventure Homes LLC,"1119 Fuller Drive, Garrett, IN 46738, USA",https://www.adventurehomes.net/,,16,60.39,207.36,wood,50000.0,
+755,Champion Home Builders,"Champion Home Builders, Inc.","755 West Big Beaver Road, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,,,,wood,,
+756,Kentucky Modular Homes,,,,,,,,,,
+757,Fairmont Homes,,,,,,,,,,
+758,Midsouth Housing,,,,,,,,,,
+759,Schult Homes,Schult Homes Corporation,"1429 Champion Lane, Lillington, NC 27546, USA",https://www.schulthomes.com,,20,55.74,222.97,wood,50000.0,1075.0
+760,Wisconsin Homes Inc.,Wisconsin Homes Inc.,"W6422 US-8, Marshfield, WI 54449, USA",https://www.wisconsinhomesinc.com,,19,83.61,278.71,wood,100000.0,
+761,Dynamic Homes,"Dynamic Homes, LLC","525 Roosevelt Road, Mankato, MN 56001, USA",https://www.dynamichomes.com,,15,111.48,278.71,wood,150000.0,1500.0
+762,Stratford Homes,Stratford Building Corporation,"402 S Weber Avenue, Stratford, Wisconsin, 54484, USA",https://www.stratfordhomes.com,,50,55.74,278.71,wood,100000.0,
+763,Custom Touch Homes,"Custom Touch Homes, LLC",,https://www.customtouchhomes.com,,,,,wood,,
+764,Northstar Systembuilt,Northstar Systembuilt LLC,"1234 Example Street, Eau Claire, Wisconsin, 54701, USA",https://northstarsb.com,,15,74.32,278.71,wood,120000.0,1500.0
+765,Design Homes,"Design Homes, Inc.","5970 Mound View Road, Deforest, WI 53532, USA",https://www.designhomes.com/,,25,92.9,204.4,wood,60000.0,1200.0
+766,Wick Buildings,"Wick Buildings, Inc.","405 Walter Road, Mazomanie, WI 53560, USA",https://www.wickbuildings.com,,,,,wood,,
+767,Midwest Homes,Midwest Homes Inc.,"N3661 Highway 12 and 16, Mauston, WI 53948, USA",https://www.midwesthomesinc.com,,10,92.9,185.8,wood,75000.0,1075.0
+768,Skyline Homes,Skyline Corporation,"2520 By-Pass Road, Elkhart, IN 46514, USA",https://www.skylinehomes.com,,21,41.81,167.23,wood,50000.0,1000.0
+769,Fairmont Homes,"Fairmont Homes, LLC","2181 East Market Street, Nappanee, Indiana, 46550, USA",https://www.fairmonthomes.com/,,20,55.74,167.23,wood,50000.0,900.0
+770,Hart Homes,,,,,,,,,,
+771,Terrace Homes,"Terrace Homes, Inc.","1100 N. Superior Avenue, Tomahawk, WI 54487, USA",https://www.terracehomes.com,,15,102.19,278.71,wood,150000.0,1500.0
+772,All American Homes,,,https://www.allamericanhomes.com,,,,,,,
+773,Commodore Homes,,,,,,,,,,
+774,Liberty Homes,Liberty Homes Inc.,"N7373 Osborn Way, Fond du Lac, WI 54937, USA",https://www.libertyhomeswi.com,,8,92.9,185.8,wood,75000.0,807.5
+775,Sunshine Homes,,,,,,,,,,
+776,Wisconsin Log Homes,"Wisconsin Log Homes, Inc.","W6237 NE-54, Green Bay, WI 54304, USA",https://www.wisconsinloghomes.com,,10,92.9,371.6,wood,200000.0,
+777,Colony Factory Crafted Homes,"Colony Factory Crafted Homes, a division of The Commodore Corporation","20510 Paint Boulevard, Shippenville, PA 16254, USA",https://www.colony-homes.com,,50,74.32,209.03,wood,50000.0,
+778,Champion Homes,"Champion Home Builders, Inc.","755 W Big Beaver Rd, Suite 1000, Troy, MI 48084, USA",https://www.championhomes.com,,26,42.74,223.52,wood,50000.0,1250.0
+779,Silvercrest Homes,,,,,,,,,,

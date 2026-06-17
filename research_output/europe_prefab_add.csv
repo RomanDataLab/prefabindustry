@@ -1,0 +1,1384 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,Davinci Haus,Davinci Haus GmbH & Co. KG,"Am Rothen Berg 1, 56472 Hof, Germany",Germany,DEU,,https://www.davinci-haus.de,,8,120.0,400.0,wood,350000.0,3000.0
+2,Living Haus,Living Fertighaus GmbH,"Am Distelrasen 2, 36381 Schlüchtern, Hesse, Germany",Germany,DEU,,https://www.livinghaus.de,,23,84.0,219.0,wood,145000.0,1500.0
+3,Regnauer Hausbau,Regnauer Fertigbau GmbH & Co. KG,"Pulverturmstraße 19, 83278 Traunreut, Bavaria, Germany",Germany,DEU,,https://www.regnauer.de,,12,100.0,300.0,wood,250000.0,2500.0
+4,Lehner Haus,Lehner Haus GmbH,"Hauptstraße 2, 89584 Ehingen, Baden-Württemberg, Germany",Germany,DEU,,https://www.lehner-haus.de,,20,90.0,250.0,wood,120000.0,1600.0
+5,Fjorborg Häuser,Fjorborg Haus GmbH,"Am Gewerbepark 1, 24983 Handewitt, Schleswig-Holstein, Germany",Germany,DEU,,https://www.fjorborg-haus.de,,15,80.0,200.0,wood,120000.0,1500.0
+6,OKAL Haus,OKAL Haus GmbH,"OKAL Platz 1, 55469 Simmern, Rheinland-Pfalz, Germany",Germany,DEU,,https://www.okal.de,,51,89.0,300.0,wood,180000.0,2200.0
+7,Büdenbender Hausbau,Büdenbender Hausbau GmbH,"Zum Heller 6, 57299 Burbach, North Rhine-Westphalia, Germany",Germany,DEU,,https://www.buedenbender-hausbau.de,,15,120.0,300.0,wood,250000.0,2000.0
+8,Rensch Haus,Rensch-Haus GmbH,"Bosser Str. 1, 36148 Kalbach-Uttrichshausen, Hessen, Germany",Germany,DEU,,https://www.rensch-haus.com,,19,65.0,300.0,wood,200000.0,2000.0
+9,SCHWABENHAUS,SCHWABENHAUS GmbH & Co. KG,"Industriestraße 2, 36266 Heringen (Werra), Hessen, Germany",Germany,DEU,,https://www.schwabenhaus.de,,36,103.0,250.0,wood,200000.0,2000.0
+10,KAMPA Haus,KAMPA GmbH,"Beethovenstraße 7, 89542 Herbrechtingen, Baden-Württemberg, Germany",Germany,DEU,,https://www.kampa.de,,12,104.0,235.0,wood,250000.0,2200.0
+11,Roth-Massivhaus,Bau- GmbH Roth,"Grünauer Straße 11, 12557 Berlin, Germany",Germany,DEU,,https://www.roth-massivhaus.de,,30,70.0,250.0,concrete,150000.0,1800.0
+12,Regnauer Fertigbau,Regnauer Fertigbau GmbH & Co. KG,"Pullacher Straße 11, 83358 Seebruck, Bayern, Germany",Germany,DEU,,https://www.regnauer.de,,10,100.0,300.0,wood,250000.0,3000.0
+13,Allkauf Haus,allkauf haus GmbH,"Am Hämel 3, 57258 Freudenberg, North Rhine-Westphalia, Germany",Germany,DEU,,https://www.allkauf.de,,30,80.0,200.0,wood,120000.0,1500.0
+14,Maisons Durables,,,France,FRA,,,,,,,,,
+15,Euromac 2,Euromac 2 SAS,"7 Rue Gutenberg, 57200 Sarreguemines, France",France,FRA,,https://www.euromac2.com,,,,,concrete,,
+16,Natilia,AST Groupe,"45 Boulevard Marcel Dassault, 69330 Meyzieu, France",France,FRA,,https://www.natilia.fr,,11,70.0,160.0,wood,100000.0,1500.0
+17,Mikit,Mikit France SAS,"3 Rue de la Croix Martre, 91120 Palaiseau, France",France,FRA,,https://www.mikit.fr,,10,60.0,150.0,concrete,90000.0,1500.0
+18,Baluchon,,,France,FRA,,,,,,,,,
+19,Maison Bois Massif,,,France,FRA,,https://www.maisonboismassif.fr,,,,,wood,,
+20,Brikawood,,,France,FRA,,,,,,,,,
+21,Modulhome,,,France,FRA,,,,,,,,,
+22,Domespace,Domespace SARL,"10 Rue de la Corderie, 29200 Brest, France",France,FRA,,https://www.domespace.com,,3,100.0,300.0,wood,150000.0,2000.0
+23,Maison Alsecco,,,France,FRA,,,,,,,,,
+24,Synergie Bois,Synergie Bois SARL,"123 Rue de l'Artisanat, 75000 Paris, France",France,FRA,,https://www.synergiebois.fr,,5,50.0,200.0,wood,120000.0,1500.0
+25,Maison Kokoon,Maison Kokoon SAS,"12 Rue de l'Innovation, 75010 Paris, France",France,FRA,,https://www.maisonkokoon.com,,5,40.0,150.0,wood,95000.0,1500.0
+26,Bati Tech,Bati Tech SARL,"12 Rue de la Prefabrication, 75000 Paris, France",France,FRA,,https://www.batitech.fr,,8,45.0,150.0,wood,120000.0,2500.0
+27,Sustainable Living,,,France,FRA,,,,,,,,,
+28,Amodom,,,France,FRA,,https://www.amodom.fr,,,,,,,
+29,Woodeum,,,France,FRA,,,,,,,,,
+30,Maisons France Confort,Maisons France Confort S.A.,"2 Rue de la Roche, Alençon, Normandy, 61000, France",France,FRA,,https://www.maisons-france-confort.fr/,,50,60.0,200.0,concrete,100000.0,1500.0
+31,Kithouse,,,France,FRA,,,,,,,,,
+32,EcoKit France,,,France,FRA,,,,,,,,,
+33,Batik Habitat,Batik Habitat SARL,"12 Rue des Entrepreneurs, 75015 Paris, France",France,FRA,,https://www.batik-habitat.fr,,5,45.0,150.0,wood,75000.0,1500.0
+34,Habitat Evolution,,,France,FRA,,,,,,,,,
+35,Ecolocost,Ecolocost SARL,,France,FRA,,https://www.ecolocost.com,,,,,,,
+36,Maisons Bebium,Bebium Groupe SAS,"11 Rue de l'Industrie, 87410 Le Palais-sur-Vienne, France",France,FRA,,https://www.maisons-bebium.com,,15,60.0,150.0,concrete,90000.0,1500.0
+37,Huf Haus France,,,France,FRA,,,,,,,,,
+38,Maisons Évolution,,,France,FRA,,,,,,,,,
+39,Phenix Evolution,Phenix Evolution SAS,"37 Rue Jean Mermoz, Rillieux-la-Pape, Lyon, 69140, France",France,FRA,,https://www.phenix-evolution.com,,5,60.0,200.0,concrete,100000.0,1500.0
+40,Logis de Bois,Logis de Bois SARL,"12 Rue de l'Artisanat, 44110 Châteaubriant, France",France,FRA,,https://www.logisdebois.fr,,8,70.0,200.0,wood,120000.0,1500.0
+41,Maison Castor,,,France,FRA,,https://www.maison-castor.com,,,,,,,
+42,Maisons Design et Traditions,,,France,FRA,,https://www.maisons-design-traditions.fr,,,,,,,
+43,Kokoon Homes,Kokoon Homes SARL,"123 Avenue de l'Innovation, 75000 Paris, France",France,FRA,,https://www.kokoonhomes.fr,,5,45.0,120.0,wood,75000.0,2000.0
+44,Euromodules,Euromodules S.A.R.L.,"12 Rue de l'Industrie, 68360 Soultz-Haut-Rhin, France",France,FRA,,https://www.euromodules.com,,8,30.0,150.0,steel,50000.0,1500.0
+45,Cocoon Modules,,,France,FRA,,https://cocoon-modules.com,,,,,,,
+46,Optima Concept,Optima Concept SAS,"123 Rue de l'Innovation, 75000 Paris, France",France,FRA,,https://www.optima-concept.fr,,5,45.0,150.0,wood,75000.0,1200.0
+47,Cemex France,Cemex France SAS,"1 Avenue du Général de Gaulle, 92074 Paris La Défense Cedex, France",France,FRA,,https://www.cemex.fr,,,,,concrete,,
+48,Maisons Logelis,Logelis SAS,"10 Rue de l'Avenir, 38350 La Mure, France",France,FRA,,https://www.logelis.com/,,5,70.0,140.0,wood,120000.0,1500.0
+49,Maison Bois Kit,SARL Maison Bois Kit,"12 Rue de l'Industrie, 44150 Ancenis, Pays de la Loire, France",France,FRA,,https://www.maisonboiskit.com,,15,75.0,200.0,wood,50000.0,1000.0
+50,Biospeedhome,,,France,FRA,,https://www.biospeedhome.com,,,,,,,
+51,Ossabois,Ossabois SAS,"98 Rue Louis Pasteur, 42350 La Talaudière, France",France,FRA,,https://www.ossabois.com,,12,45.0,200.0,wood,70000.0,1500.0
+52,Trecobat,Trecobat SAS,"14 Rue de Suède, 56400 Auray, Brittany, France",France,FRA,,https://www.trecobat.fr,,15,65.0,200.0,wood,100000.0,1500.0
+53,Maisons MCA,Maisons de la Côte Atlantique,"65 Avenue Jean Jaurès, 33150 Cenon, France",France,FRA,,https://www.maisons-mca.com,,24,60.0,150.0,concrete,80000.0,1500.0
+54,Phénix Evolution,,,France,FRA,,https://www.phenixevolution.fr,,,,,,,
+55,Naturhome,,,France,FRA,,,,,,,,,
+56,Trecobois,Trecobois SAS,"Zone Artisanale Le Poteau, 18340 Plaimpied-Givaudins, France",France,FRA,,https://www.trecobois.fr,,5,60.0,150.0,wood,120000.0,2000.0
+57,KHEOPS Habitat,,,France,FRA,,,,,,,,,
+58,Ma Petite Maison,Ma Petite Maison SARL,"73 Chemin de la Tuilière, 07300 Saint-Jean-de-Muzols, France",France,FRA,,https://www.mapetitemaison.com,,5,20.0,120.0,wood,50000.0,1500.0
+59,Evoluflor,,,France,FRA,,,,,,,,,
+60,EcoModul,EcoModul S.A.S.,"12 Rue de l'Innovation, 75015 Paris, France",France,FRA,,https://www.ecomodul.fr,,5,45.0,150.0,wood,75000.0,1500.0
+61,Karmod France,,,France,FRA,,https://www.karmod.eu/fr/,,,,,,,
+62,Maisons Berval,Maisons Berval SAS,"1 Rue de la Montjoie, 93210 Saint-Denis, Île-de-France, France",France,FRA,,https://www.maisonsberval.fr,,20,80.0,200.0,concrete,200000.0,2500.0
+63,Maisons Batidur,Maisons Batidur SARL,"12 Rue de la Paix, Angoulême, Nouvelle-Aquitaine, 16000, France",France,FRA,,https://www.maisonsbatidur.fr,,10,80.0,200.0,wood,120000.0,1500.0
+64,Maisons Socoren,Société Coopérative de Recherche et d'Exploitation des Nouvelles technologies (SOCOREN),"Zone du Bois Geslin, 53800 Renazé, France",France,FRA,,https://www.socoren.com,,12,80.0,200.0,concrete,120000.0,1500.0
+65,Maisons Sésame,,,France,FRA,,https://www.maisons-sesame.fr,,,,,,,
+66,Maisons Arlogis,Maisons Arlogis,,France,FRA,,https://www.maisons-arlogis.com,,20,80.0,200.0,concrete,100000.0,1500.0
+67,Maisons d'en France,UCI-Union des Constructeurs Immobiliers,"30 Avenue d'Iéna, 75783 Paris, France",France,FRA,,https://www.maisonsdenfrance.com,,,,,concrete,,
+68,TradiToit,TradiToit SAS,"12 Rue du Pré Gauchet, 44000 Nantes, France",France,FRA,,https://www.traditoit.fr,,8,60.0,200.0,wood,90000.0,1500.0
+69,Bati-Nature,,,France,FRA,,https://www.bati-nature.fr,,,,,,,
+70,Ma Maison ACV,,,France,FRA,,,,,,,,,
+71,Ameco,,,France,FRA,,,,,,,,,
+72,Koto France,,,France,FRA,,,,,,,,,
+73,Eco Modulaire,,,France,FRA,,,,,,,,,
+74,Maisons Elika,Maisons Elika SARL,"123 Rue de l'Innovation, Nantes, Pays de la Loire, 44000, France",France,FRA,,https://www.maisonselika.fr,,10,60.0,200.0,wood,120000.0,1500.0
+75,Modulobloc,,,France,FRA,,,,,,,,,
+76,Habitat Concept,,,France,FRA,,https://www.habitatconcept.fr,,,,,,,
+77,NaturaDream,,,France,FRA,,,,,,,,,
+78,Ecohabitat,,,France,FRA,,,,,,,,,
+79,Maisons Blavier,S.A. Maisons Blavier,"Rue de Herve 99, 4651 Battice, Belgium",France,FRA,,https://www.blavier.be/,,15,80.0,200.0,wood,120000.0,1500.0
+80,Bois & Logis,Bois & Logis SARL,"23 Rue des Chênes, 75012 Paris, France",France,FRA,,https://www.boisetlogis.fr,,5,45.0,150.0,wood,95000.0,1800.0
+81,AST Groupe,AST Groupe,"78 Route Nationale 6, 69270 Fontaines-sur-Saône, France",France,FRA,,https://www.ast-groupe.fr,,14,60.0,200.0,wood,95000.0,1500.0
+82,Le Drein Courgeon,Le Drein Courgeon SARL,"12 Rue des Champs, 61170 Le Mêle-sur-Sarthe, Orne, France",France,FRA,,https://www.ledrein-courgeon.fr,,10,60.0,150.0,wood,120000.0,1500.0
+83,Harmonie Construction,,,France,FRA,,,,,,,,,
+84,Noma Eco,,,France,FRA,,https://www.nomaeco.com,,,,,,,
+85,Maisons Nature et Bois,,,France,FRA,,,,,,,,,
+86,Demeures Caladoises,Demeures Caladoises SAS,"355 Avenue de L'Europe, Villefranche-sur-Saône, Rhône, 69400, France",France,FRA,,https://www.demeures-caladoises.com,,15,80.0,200.0,wood,120000.0,1500.0
+87,EcoLogis,EcoLogis SAS,"123 Rue de la Construction, Paris, Île-de-France, 75008, France",France,FRA,,https://www.ecologis.fr,,5,50.0,150.0,wood,85000.0,2000.0
+88,Kithome,,,France,FRA,,,,,,,,,
+89,Maison Alysia,Maison Alysia SAS,"3 Rue de la Gare, 44210 Pornic, France",France,FRA,,https://www.maisonalysia.fr,,15,60.0,150.0,wood,95000.0,1500.0
+90,Steel Concept,Steel Concept SARL,"55 Rue de la République, 13002 Marseille, France",France,FRA,,https://www.steelconcept.fr,,5,35.0,150.0,steel,50000.0,1200.0
+91,Optima Modulaire,Optima Modulaire SAS,"12 Rue de l'Industrie, 75000 Paris, France",France,FRA,,https://www.optimamodulaire.fr,,5,50.0,150.0,wood,75000.0,1500.0
+92,CMB System,CMB System S.A.S.,"15 Rue de la Construction, 75015 Paris, France",France,FRA,,https://www.cmbsystem.fr,,12,45.0,150.0,wood,75000.0,1500.0
+93,Sateco,Sateco SAS,"2 Rue de l'Europe, 86170 Neuville-de-Poitou, France",France,FRA,,https://www.sateco.fr,,,,,concrete,,
+94,CasaClima,Agenzia per l'Energia Alto Adige - CasaClima,"Via Macello 30, Bolzano, South Tyrol, 39100, Italy",Italy,ITA,,https://www.agenziacasaclima.it,,,,,,,
+95,Casa Mobile,,,Italy,ITA,,,,,,,,,
+96,Citterio Wood Houses,Citterio Wood Houses S.r.l.,"Via G. Di Vittorio, 21040 Cislago, VA, Italy",Italy,ITA,,https://www.citteriolegnami.it,,5,60.0,200.0,wood,45000.0,1000.0
+97,Biohaus,Biohaus Srl,"Via del Progresso 6, 33070 Brugnera, PN, Italy",Italy,ITA,,https://www.biohaus.it,,8,80.0,300.0,wood,150000.0,2000.0
+98,Ille Prefabbricati,Ille Prefabbricati S.p.A.,"Via dei Prefabbricati, 3, 39055 Laives, BZ, Italy",Italy,ITA,,https://www.illeprefabbricati.it,,5,45.0,150.0,wood,50000.0,1200.0
+99,Casabio,,,Italy,ITA,,https://www.casabio.it,,,,,,,
+100,La Foca,,,Italy,ITA,,,,,,,,,
+101,Subissati,Subissati S.r.l.,"Via A. Merloni, 5, 60010 Ostra Vetere, AN, Italy",Italy,ITA,,https://www.subissati.it,,10,50.0,250.0,wood,80000.0,1500.0
+102,Abitare Sostenibile,,,Italy,ITA,,,,,,,,,
+103,Spazio Positivo,Spazio Positivo S.p.A.,"Via del Lavoro, 2, 38015 Lavis, Trentino-Alto Adige, Italy",Italy,ITA,,https://www.spaziopositivo.com,,5,60.0,200.0,wood,80000.0,1500.0
+104,Naturhaus,Naturhaus S.r.l.,"Via dell'Artigianato, 11, 39058 Sarentino, BZ, Italy",Italy,ITA,,https://www.naturhaus.it,,8,50.0,250.0,wood,80000.0,1600.0
+105,Prefabbricati Zanon,Prefabbricati Zanon Srl,"Via A. Manzoni, 52, 35020 Albignasego, Padua, Italy",Italy,ITA,,https://www.prefabbricatizanon.com,,5,50.0,200.0,wood,50000.0,1200.0
+106,Eiland,,,Italy,ITA,,,,,,,,,
+107,Wood Beton,Wood Beton S.p.A.,"Via G. Marconi, 32, 25010 Iseo, BS, Italy",Italy,ITA,,https://www.woodbeton.it,,10,50.0,250.0,wood,80000.0,1600.0
+108,Casa Più,,,Italy,ITA,,,,,,,,,
+109,Marlegno,Marlegno S.r.l.,"Via delle Industrie, 14, 24060 Bolgare, BG, Italy",Italy,ITA,,https://www.marlegno.it,,5,50.0,200.0,wood,50000.0,1500.0
+110,X-Lam Dolomiti,X-Lam Dolomiti S.r.l.,"Via Roma, 34, 38050 Castelnuovo, TN, Italy",Italy,ITA,,https://www.xlamdolomiti.it,,5,60.0,250.0,CLT,80000.0,1500.0
+111,Ab Legno,Ab Legno S.r.l.,"Via dell'Artigianato 12, 37010 Pastrengo, Verona, Italy",Italy,ITA,,https://www.ablegno.com,,5,50.0,200.0,wood,50000.0,1200.0
+112,Vario Haus Italia,,,Italy,ITA,,,,,,,,,
+113,Pagano Systems,Pagano Systems S.p.A.,"Via del Lavoro, 40, 36030 Sarcedo VI, Italy",Italy,ITA,,https://www.paganosystem.com,,5,100.0,300.0,wood,200000.0,2500.0
+114,Artuso Legnami,Artuso Legnami S.r.l.,"Via Roma 24, 31040 Gorgo al Monticano, Treviso, Italy",Italy,ITA,,https://www.artusolegnami.it,,5,50.0,200.0,wood,70000.0,1200.0
+115,Rasom Wood Technology,Rasom Wood Technology S.r.l.,"Via del Brennero, 12, 38123 Trento, Trentino-Alto Adige/Südtirol, Italy",Italy,ITA,,https://www.rasom.it,,5,70.0,300.0,wood,150000.0,2000.0
+116,Novellocase,Novellocase S.r.l.,"Via Circonvallazione Est, 6, 28060 Sozzago, Novara, Italy",Italy,ITA,,https://www.novellocase.it,,5,50.0,250.0,wood,80000.0,1600.0
+117,Casa Natura,,,Italy,ITA,,,,,,,,,
+118,Bertani,,,Italy,ITA,,,,,,,,,
+119,Biocasanatura,,,Italy,ITA,,https://www.biocasanatura.it,,,,,,,
+120,Riko House,Riko Hiše d.o.o.,"Via degli Eroi 15, Cividale del Friuli, Udine, 33043, Italy",Italy,ITA,,https://www.riko-hise.si/en/,,5,50.0,250.0,wood,100000.0,2000.0
+121,Tonin Casa,,,Italy,ITA,,https://www.tonincasa.it,,,,,,,
+122,Pagano,Pagano Srl,"Via di Valle Lupara, 10, 00061, Anguillara Sabazia, RM, Italy",Italy,ITA,,https://www.paganohomes.com,,5,80.0,300.0,wood,150000.0,2500.0
+123,Modula Group,,,Italy,ITA,,,,,,,,,
+124,Baufritz Italia,,"Via Villoresi, 17, 20143 Milano, MI, Italy",Italy,ITA,,https://www.baufritz.com/it-it/,,,,,wood,,
+125,Bioedil,,,Italy,ITA,,,,,,,,,
+126,WoodBeton,Wood Beton S.p.A.,"Via delle Industrie, 6, 25031 Capriolo, Brescia, Italy",Italy,ITA,,https://www.woodbeton.it,,5,50.0,200.0,wood,50000.0,1000.0
+127,BioHouse,,,Italy,ITA,,,,,,,,,
+128,Progettolegno,Progettolegno Srl,"Via delle Industrie, 3, 31040 Nervesa della Battaglia, Treviso, Italy",Italy,ITA,,https://www.progettolegno.com,,5,60.0,200.0,wood,80000.0,1500.0
+129,FBE WoodLiving,,"Via del Lavoro, 8, 31013 Codognè, Treviso, Italy",Italy,ITA,,https://www.fbewoodliving.com,,,,,wood,,
+130,Pavone Prefabbricati,,,Italy,ITA,,,,,,,,,
+131,AbitaGreen,AbitaGreen S.r.l.,"Via Roma, 123, 20121 Milan, MI, Italy",Italy,ITA,,https://abitagreen.it,,5,45.0,150.0,wood,75000.0,1600.0
+132,Edilportale,,,Italy,ITA,,https://www.edilportale.com,,,,,,,
+133,Abitare In,Abitare In S.p.A.,"Viale Umbria 32, 20135 Milano, Italy",Italy,ITA,,https://www.abitareinspa.com,,,,,concrete,,
+134,XLam Dolomiti,XLam Dolomiti S.r.l.,"Via Antonio Pacinotti, 1, 38057 Pergine Valsugana, Trentino, Italy",Italy,ITA,,https://www.xlamdolomiti.it,,5,50.0,200.0,CLT,70000.0,1400.0
+135,Bioedilizia Italia,,,Italy,ITA,,,,,,,,,
+136,Riko Group,Riko Hiše d.o.o.,"Via Guglielmo Marconi 2, 36040 Torri di Quartesolo, Vicenza, Italy",Italy,ITA,,https://www.riko-hise.si/en,,10,50.0,300.0,wood,80000.0,1600.0
+137,System House,System House S.r.l.,"Via Roma 123, 00100 Rome, Italy",Italy,ITA,,https://www.systemhouse.it,,5,50.0,200.0,wood,50000.0,1500.0
+138,Ediltecno,,,Italy,ITA,,,,,,,,,
+139,Legnotech,,,Italy,ITA,,https://www.legnotech.com,,,,,,,
+140,Promolegno,Promolegno S.r.l.,"Via Roma 123, 00100 Rome, Italy",Italy,ITA,,https://www.promolegno.it,,5,50.0,150.0,wood,50000.0,1000.0
+141,Tecno Prefabbricati,Tecno Prefabbricati S.r.l.,"Via delle Industrie, 25, 31040 Gorgo al Monticano, TV, Italy",Italy,ITA,,https://www.tecnoprefabbricati.com,,5,60.0,200.0,concrete,50000.0,1000.0
+142,Leonardo Case Mobili,,,Italy,ITA,,,,,,,,,
+143,Prefabbricati Sili,,,Italy,ITA,,,,,,,,,
+144,Technowood,Technowood S.r.l.,"Via Cesare Battisti 33, 31044 Montebelluna, Treviso, Italy",Italy,ITA,,https://www.technowoodhomes.com,,5,70.0,200.0,wood,85000.0,1200.0
+145,Prefabbricati Cenedese,Prefabbricati Cenedese S.r.l.,"Via Roma, 123, 31040 Gorgo al Monticano, TV, Italy",Italy,ITA,,https://www.prefabbricaticenedese.com,,5,50.0,200.0,concrete,50000.0,1500.0
+146,Casa Attiva,Casa Attiva S.r.l.,"Via Roma 123, Milan, MI, 20121, Italy",Italy,ITA,,https://www.casattiva.it,,5,50.0,200.0,wood,70000.0,1500.0
+147,Hybel,Hybel A/S,"Industrihegnet 5, 8660 Skanderborg, Denmark",Denmark,DNK,,https://www.hybelhuse.dk,,17,110.0,210.0,wood,1500000.0,14500.0
+148,Lind & Risør,Lind & Risør A/S,"Gammel Køge Landevej 464, 2650 Hvidovre, Denmark",Denmark,DNK,,https://www.lr-hus.dk,,15,120.0,240.0,concrete,2000000.0,20000.0
+149,ABC Huse,ABC Huse A/S,"Industrivej 13, 8766 Nørre Snede, Denmark",Denmark,DNK,,https://www.abchuse.dk,,12,90.0,200.0,wood,1200000.0,16000.0
+150,Eurodan-huse,Eurodan-huse A/S,"Stadionvej 5, 4930 Maribo, Denmark",Denmark,DNK,,https://www.eurodan-huse.dk,,10,120.0,250.0,wood,1500000.0,12000.0
+151,KFS Boligbyg,KFS Boligbyg A/S,"Højgårdsvej 1, 7400 Herning, Denmark",Denmark,DNK,,https://www.kfs-boligbyg.dk,,15,120.0,240.0,wood,1800000.0,15000.0
+152,Kalmar-huse,Kalmar-huse A/S,"Rugvænget 34, 4100 Ringsted, Denmark",Denmark,DNK,,https://www.kalmar-huse.dk,,12,80.0,200.0,wood,800000.0,15000.0
+153,M2 Huse,M2 Huse A/S,"Hovedgaden 451, 2640 Hedehusene, Denmark",Denmark,DNK,,https://www.m2huse.dk,,12,85.0,215.0,timber,1500000.0,13000.0
+154,Fisker Huse,Fisker Huse A/S,"Hobrovej 961, 9530 Støvring, Denmark",Denmark,DNK,,https://www.fiskerhuse.dk,,5,100.0,200.0,wood,1200000.0,15000.0
+155,Modulia,Modulia ApS,"Gammel Køge Landevej 22, 2500 Valby, Denmark",Denmark,DNK,,https://www.modulia.dk,,7,45.0,150.0,wood,750000.0,15000.0
+156,Bauhaus Danmark,,"Tilst Søndervej 85, 8381 Tilst, Denmark",Denmark,DNK,,https://www.bauhaus.dk,,,,,,,
+157,Scandibyg,Scandibyg A/S,"Nørre Allé 5, 9530 Støvring, Denmark",Denmark,DNK,,https://www.scandibyg.dk,,,,,wood,,
+158,Ideahouse,,,Denmark,DNK,,,,,,,,,
+159,ABC Pavilloner,ABC Pavilloner A/S,"Industrivej 12, 8800 Viborg, Denmark",Denmark,DNK,,https://www.abc-pavilloner.dk,,5,25.0,150.0,wood,150000.0,12000.0
+160,Fjordbak Byg,Fjordbak Byg A/S,,Denmark,DNK,,,,,,,,,
+161,BM Byggeindustri,BM Byggeindustri A/S,"Industrivej 10, 7860 Spøttrup, Denmark",Denmark,DNK,,https://www.bm-byggeindustri.dk,,5,60.0,200.0,wood,750000.0,15000.0
+162,Modus House,Modus House ApS,"Høffdingsvej 34, 2500 Valby, Copenhagen, Denmark",Denmark,DNK,,https://www.modushouse.dk,,5,50.0,150.0,wood,750000.0,15000.0
+163,Boform,,,Denmark,DNK,,https://www.boform.dk,,,,,,,
+164,Nordic Homes Denmark,,,Denmark,DNK,,,,,,,,,
+165,Trelleborg House,,,Denmark,DNK,,,,,,,,,
+166,Flex Modul A/S,,,Denmark,DNK,,,,,,,,,
+167,JYTAS,JYTAS A/S,"Industrivej 10, 8800 Viborg, Denmark",Denmark,DNK,,https://www.jytas.dk,,5,45.0,200.0,wood,750000.0,15000.0
+168,Kuben Huse,,,Denmark,DNK,,,,,,,,,
+169,Nyt Hjem,,,Denmark,DNK,,,,,,,,,
+170,Jakon,Jakon A/S,"Bygaden 30, 4000 Roskilde, Denmark",Denmark,DNK,,https://www.jakon.dk,,,,,,,
+171,Vinderup Træindustri,Vinderup Træindustri A/S,"Skivevej 2, 7830 Vinderup, Denmark",Denmark,DNK,,https://www.vti.dk,,,,,wood,,
+172,Logik & Co,Logik & Co ApS,"Vesterbrogade 124, 1620 København V, Denmark",Denmark,DNK,,https://logik.dk,,,,,wood,,
+173,M2 Boliger,M2 Boliger ApS,"Strandvejen 100, 2900 Hellerup, Denmark",Denmark,DNK,,https://www.m2boliger.dk,,6,70.0,200.0,wood,1500000.0,20000.0
+174,Kuben Byg,Kuben Byg A/S,"Nyropsgade 37, 1602 København V, Denmark",Denmark,DNK,,https://www.kubenbyg.dk,,5,50.0,150.0,wood,500000.0,15000.0
+175,Vesti Olsen,,,Denmark,DNK,,,,,,,,,
+176,Scandi Byg,Scandi Byg A/S,"Hæsumvej 55, 9530 Støvring, Denmark",Denmark,DNK,,https://www.scandibyg.dk,,,,,wood,,
+177,ABC Pavilloner,ABC Pavilloner A/S,"Industrivej 12, 6780 Skærbæk, Denmark",Denmark,DNK,,https://www.abcpavilloner.dk,,,,,wood,,
+178,Cramo Adapteo,Adapteo A/S,"Sletvej 2, 8310 Tranbjerg J, Denmark",Denmark,DNK,,https://www.adapteo.dk,,5,20.0,150.0,wood,,
+179,Lind & Risør,Lind & Risør A/S,"Hammerholmen 44-48, 2650 Hvidovre, Denmark",Denmark,DNK,,https://www.lindogrisor.dk,,20,100.0,300.0,wood,2000000.0,20000.0
+180,Menzer & Kristensen,Menzer & Kristensen A/S,"Niels Bohrs Vej 3, 7100 Vejle, Denmark",Denmark,DNK,,https://www.menzer-kristensen.dk,,12,80.0,200.0,wood,1500000.0,18000.0
+181,Plushusene,Plushusene A/S,"Plushusene A/S, Skovbrynet 2, 6000 Kolding, Denmark",Denmark,DNK,,https://plushusene.dk,,5,75.0,150.0,wood,1500000.0,20000.0
+182,Norlund A/S,,,Denmark,DNK,,,,,,,,,
+183,Flexmodul,Flexmodul ApS,"Fabriksvej 6, 7600 Struer, Denmark",Denmark,DNK,,https://www.flexmodul.dk,,5,50.0,150.0,wood,500000.0,15000.0
+184,Meldgaard Miljø,Meldgaard Miljø A/S,"Nørreskov Bakke 98, 6400 Sønderborg, Denmark",Denmark,DNK,,https://www.meldgaard.com,,,,,,,
+185,PlusHus,,,Denmark,DNK,,,,,,,,,
+186,Idebyg,Idebyg ApS,"Navervej 15, 8382 Hinnerup, Denmark",Denmark,DNK,,https://idebyg.dk,,5,85.0,210.0,wood,800000.0,14000.0
+187,Modulbyg,,,Denmark,DNK,,https://www.modulbyg.dk,,,,,,,
+188,PreFab Byg,,,Denmark,DNK,,,,,,,,,
+189,Næsbjerg Byg,Næsbjerg Byg ApS,"Industrivej 14, 6800 Varde, Denmark",Denmark,DNK,,https://www.naesbjergbyg.dk,,5,80.0,200.0,wood,1200000.0,15000.0
+190,Lindholm Group,,,Denmark,DNK,,,,,,,,,
+191,Meldgaard,,,Denmark,DNK,,,,,,,,,
+192,Hjem AS,,,Denmark,DNK,,,,,,,,,
+193,Arkitektgruppen,,,Denmark,DNK,,,,,,,,,
+194,Trelleborg Byg,,,Denmark,DNK,,,,,,,,,
+195,Jukkatalo,Jukkatalo Oy,"Koskentie 8, 88610 Vuokatti, Finland",Finland,FIN,,https://www.jukkatalo.fi,,36,83.0,232.0,wood,100000.0,1500.0
+196,Design-Talo,Pohjolan Design-Talo Oy,"Pajatie 1, 85500 Nivala, Finland",Finland,FIN,,https://www.designtalo.fi,,25,80.0,300.0,wood,150000.0,1800.0
+197,Muurametalot,Muurametalot Oy,"Kytötie 34, 40950 Muurame, Finland",Finland,FIN,,https://www.muurametalot.fi,,15,60.0,200.0,wood,100000.0,2000.0
+198,Teijo-Talot,Teijo-Talot Oy,"Teijonrannantie 19, 25570 Teijo, Finland",Finland,FIN,,https://www.teijotalot.fi,,7,35.0,150.0,wood,80000.0,2500.0
+199,Luoman,Luoman Puutuote Oy,"Heinämäentie 20, 62800 Vimpeli, Finland",Finland,FIN,,https://www.luoman.fi,,30,25.0,150.0,wood,20000.0,800.0
+200,Sievitalo,Sievitalo Oy,"Ratakatu 28, 85100 Kalajoki, Finland",Finland,FIN,,https://www.sievitalo.fi,,12,80.0,250.0,wood,120000.0,1800.0
+201,Puustelli,Puustelli Group Oy,"Heinisuontie 29, 36240 Kangasala, Finland",Finland,FIN,,https://www.puustelli.fi,,,,,,,
+202,Lehto Group,Rakennusliike Lehto Oy,"Voimatie 6B, 90440 Kempele, Finland",Finland,FIN,,https://lehto.fi,,10,50.0,150.0,wood,100000.0,2000.0
+203,Punkaharjun Hirsitalot,Punkaharjun Hirsitalot Oy,"Tuunaansaarentie 5, 58450 Punkaharju, Finland",Finland,FIN,,https://www.punkaharjunhirsitalot.fi,,,,,wood,,
+204,Finnlamelli,Finnlamelli Oy,"Tehtaantie 5, Alajärvi, 62900, Finland",Finland,FIN,,https://www.finnlamelli.com,,20,60.0,300.0,wood,80000.0,1500.0
+205,Kontio Loghouses,Kontiotuote Oy,"Asematie 1, 88900 Kuhmo, Finland",Finland,FIN,,https://www.kontio.com,,50,25.0,300.0,wood,20000.0,1500.0
+206,Jukkatalo,Jukkatalo Oy,"Tehtaantie 7, 85800 Haapajärvi, Finland",Finland,FIN,,https://www.jukkatalo.fi,,35,80.0,200.0,wood,150000.0,2000.0
+207,Sievi Element,Sievi Element Oy,"Asematie 10, 85410 Sievi, Finland",Finland,FIN,,https://sievi-element.fi,,5,50.0,150.0,wood,60000.0,1200.0
+208,Hirvonen Oy,,,Finland,FIN,,,,,,,,,
+209,Kuusamo Hirsitalot,Kuusamo Hirsitalot Oy,"Kitkantie 4, 93600 Kuusamo, Finland",Finland,FIN,,https://www.kuusamohirsitalot.fi,,50,40.0,250.0,wood,80000.0,1500.0
+210,Teri-Talot,Teri-Talot Oy,"Teritalontie 2, 91900 Liminka, Finland",Finland,FIN,,https://www.teritalot.fi,,12,80.0,200.0,wood,120000.0,1500.0
+211,Potius Group,Potius Group Oy,"Tietotie 9, 01530 Vantaa, Finland",Finland,FIN,,https://potius.fi,,5,50.0,150.0,wood,70000.0,1500.0
+212,Lapti,Rakennusliike Lapti Oy,"Kiviharjunlenkki 1 B, 90220 Oulu, Finland",Finland,FIN,,https://www.lapti.fi/,,5,45.0,150.0,wood,120000.0,2500.0
+213,Kastelli,Kastelli-talot Oy,"Kornetintie 6, Helsinki, Uusimaa, 00380, Finland",Finland,FIN,,https://www.kastelli.fi,,50,40.0,250.0,wood,100000.0,2000.0
+214,Kodikas,,,Finland,FIN,,,,,,,,,
+215,Honkarakenne,Honkarakenne Oyj,"Lahdentie 870, 04400 Järvenpää, Finland",Finland,FIN,,https://honka.com,,20,60.0,300.0,wood,100000.0,1500.0
+216,Rantasalmi Log Homes,Rantasalmi Oy,"Rantasalmentie 13, 58900 Rantasalmi, Finland",Finland,FIN,,https://www.rantasalmi.fi,,15,45.0,300.0,wood,50000.0,1500.0
+217,Mammuttihirsi,Mammuttikoti Oy,"Hirsitie 26, 91100 Ii, Finland",Finland,FIN,,https://www.mammuttihirsi.fi,,20,60.0,300.0,wood,80000.0,1500.0
+218,Kastelli-talot,Kastelli-talot Oy,"Kaltimontie 1, 90230 Oulu, Finland",Finland,FIN,,https://www.kastelli.fi/,,50,45.0,250.0,wood,50000.0,1800.0
+219,Salvos Finland,Salvos Finland Oy,"Teollisuustie 2, 88900 Kuhmo, Finland",Finland,FIN,,https://www.salvos.fi,,20,30.0,150.0,wood,20000.0,1500.0
+220,Luoman Oy,Luoman Puutuote Oy,"Teollisuustie 10, 62800 Vimpeli, Finland",Finland,FIN,,https://www.luoman.fi,,,,,wood,,
+221,Rovaniemi Log Houses,Rovaniemi Log House Ltd,"Joulupukintie 15, 96930 Rovaniemi, Finland",Finland,FIN,,https://www.rovaniemiloghouse.com,,25,50.0,250.0,wood,35000.0,1200.0
+222,Herrala,Herrala Talot Oy,"Valkojantie 2, 15860 Hollola, Finland",Finland,FIN,,https://www.herrala.fi,,50,80.0,250.0,wood,80000.0,2000.0
+223,Designtalo,Designtalo Oy,"Hevoshaankatu 9, 28600 Pori, Finland",Finland,FIN,,https://designtalo.fi,,16,80.0,210.0,wood,150000.0,2000.0
+224,Kannustalo,Kannustalo Oy,"Jokivarrentie 255, Kannus, Finland, 69100",Finland,FIN,,https://www.kannustalo.fi,,12,63.0,300.0,wood,120000.0,2500.0
+225,Kontio,Kontiotuote Oy,"Kontiopuistontie 1, 95900 Kolari, Finland",Finland,FIN,,https://www.kontio.com,,20,25.0,300.0,wood,30000.0,1500.0
+226,Hirsitalotehdas,Hirsitalotehdas Oy,"Naulakatu 3, 33100 Tampere, Finland",Finland,FIN,,https://www.hirsitalotehdas.fi,,15,50.0,200.0,wood,80000.0,1500.0
+227,Timber Frame,,,Finland,FIN,,,,,,,,,
+228,Kontio Log Houses,Pohjolan Design-Talo Oy,"Pajatie 139, 88900 Kuhmo, Finland",Finland,FIN,,https://www.kontio.com,,50,25.0,400.0,wood,50000.0,1500.0
+229,Timber Frame Finland,Timber Frame Finland Oy,"Example Street 123, Helsinki, Finland",Finland,FIN,,https://www.timberframefinland.fi,,10,50.0,200.0,wood,100000.0,2000.0
+230,Rantasalmi Log Houses,Pohjois-Savon Hirsitalot Oy,"Koskitie 21, 58900 Rantasalmi, Finland",Finland,FIN,,https://www.rantasalmi.fi,,12,45.0,200.0,wood,65000.0,1200.0
+231,Punkaharjun Hirsityö,Punkaharjun Hirsityö Oy,"Oriniementie 3, 58500 Punkaharju, Finland",Finland,FIN,,https://www.punkaharjunhirsityo.fi,,12,50.0,200.0,wood,50000.0,1200.0
+232,Seve Ehituse,Seve Ehituse AS,,Finland,FIN,,https://www.seve.ee,,,,,wood,,
+233,OmaKoti,,,Finland,FIN,,,,,,,,,
+234,Finnish Log Homes,Finnish Log Homes Oy,,Finland,FIN,,,,,,,wood,,
+235,Rovaniemi Log House,Rovaniemi Log Houses Ltd.,"Rovaniementie 3222, 97220 Rovaniemi, Finland",Finland,FIN,,https://www.rovaniemiloghouse.fi,,15,45.0,250.0,wood,75000.0,2000.0
+236,Honkakartano,Honkakartano Oy,"Kauppatie 1, 63600, Alavus, Finland",Finland,FIN,,https://www.honkakartano.fi,,20,50.0,250.0,wood,50000.0,2000.0
+237,Puukoti,,,Finland,FIN,,,,,,,,,
+238,Huliswood,Huliswood Oy,"Hulisentie 22, 42910 Korpilahti, Finland",Finland,FIN,,https://www.huliswood.fi,,,,,wood,,
+239,Unibep S.A.,Unibep S.A.,"ul. 3 Maja 19, 17-100 Bielsk Podlaski, Poland",Poland,POL,,https://unibep.pl,,10,40.0,200.0,wood,150000.0,3750.0
+240,Fertighaus,,,Poland,POL,,,,,,,,,
+241,Tektum,,,Poland,POL,,,,,,,,,
+242,Modular System,,,Poland,POL,,,,,,,,,
+243,Z500,Z500 Sp. z o.o.,"ul. Bartycka 22, 00-716 Warsaw, Poland",Poland,POL,,https://z500.pl,,88,35.0,300.0,wood,100000.0,2500.0
+244,PB Feniks,,,Poland,POL,,,,,,,,,
+245,Grupa Inwest,Grupa Inwest Sp. z o.o.,"ul. Kwiatowa 15, 00-123 Warsaw, Poland",Poland,POL,,https://www.grupainwest.pl,,5,60.0,200.0,wood,250000.0,4000.0
+246,TermoDach,,,Poland,POL,,,,,,,,,
+247,Stolhaus,Stolhaus Sp. z o.o.,"ul. Przykładowa 10, 00-001 Warszawa, Poland",Poland,POL,,https://stolhaus.pl,,5,60.0,150.0,wood,200000.0,3500.0
+248,Prefabrykowane Domy Drewniane,,,Poland,POL,,,,,,,,,
+249,Rintal Polska,,,Poland,POL,,,,,,,,,
+250,Wooden House,Wooden House Sp. z o.o.,"ul. Długa 123, 00-123 Warszawa, Poland",Poland,POL,,https://woodenhouse.pl,,10,50.0,200.0,wood,150000.0,3000.0
+251,Eco Ready House,Eco Ready House Sp. z o.o.,"ul. Spacerowa 8, 64-100 Leszno, Poland",Poland,POL,,https://www.ecoreadyhouse.pl,,12,70.0,200.0,wood,250000.0,3500.0
+252,Domy Drewniane Bartek,Domy Drewniane Bartek Sp. z o.o.,"ul. Jana Pawła II 123, 34-500 Zakopane, Poland",Poland,POL,,https://www.domydrewnianebartek.pl,,15,50.0,200.0,wood,150000.0,3000.0
+253,Drew-House,Drew-House Sp. z o.o.,"ul. Leśna 12, 55-100 Trzebnica, Dolnośląskie, Poland",Poland,POL,,https://www.drew-house.com,,5,50.0,150.0,wood,150000.0,3000.0
+254,Danwood,Danwood S.A.,"ul. Białostocka 2A, Bielsk Podlaski, Podlaskie, 17-100, Poland",Poland,POL,,https://www.danwood.pl,,133,65.0,300.0,wood,300000.0,3500.0
+255,BFC Group,,,Poland,POL,,,,,,,,,
+256,Solcraft,Solcraft Sp. z o.o.,"ul. Energetyków 2, 11-300 Biskupiec, Poland",Poland,POL,,https://www.solcraft.pl,,5,45.0,150.0,wood,150000.0,3500.0
+257,Lindab,Lindab Sp. z o.o.,"ul. Leszczynowa 1, 62-081 Przeźmierowo, Poland",Poland,POL,,https://www.lindab.com/pl,,,,,steel,,
+258,Mado,Mado Sp. z o.o.,"ul. Budowlana 8, 20-469 Lublin, Poland",Poland,POL,,https://www.mado.pl,,5,35.0,150.0,wood,150000.0,4000.0
+259,Karmod,,,Poland,POL,,https://www.karmod.com,,,,,steel,,
+260,Procyon,,,Poland,POL,,,,,,,,,
+261,Abakon,Abakon Sp. z o.o.,"ul. Karola Miarki 12, 43-300 Bielsko-Biała, Poland",Poland,POL,,https://www.abakon.pl,,12,80.0,200.0,concrete,250000.0,3500.0
+262,Domek Sp. z o.o.,,,Poland,POL,,,,,,,,,
+263,Polconstruct,,,Poland,POL,,,,,,,,,
+264,Konsport,Konsport Sp. z o.o.,"ul. Przemysłowa 45, 97-300 Piotrków Trybunalski, Poland",Poland,POL,,https://www.konsport.com.pl,,5,60.0,150.0,wood,200000.0,4000.0
+265,Buma Factory,Buma Factory Sp. z o.o.,"ul. Krakowska 7, 32-020 Wieliczka, Poland",Poland,POL,,https://www.bumafactory.pl,,5,35.0,150.0,wood,200000.0,3500.0
+266,Technobud,Technobud Sp. z o.o.,"ul. Przemysłowa 3, 95-030 Rzgów, Poland",Poland,POL,,https://www.technobud.pl,,8,45.0,150.0,wood,150000.0,3500.0
+267,Prefabrykacja,,,Poland,POL,,,,,,,,,
+268,Krajobrazy,Krajobrazy Sp. z o.o.,"ul. Kwiatowa 12, 00-001 Warszawa, Poland",Poland,POL,,https://www.krajobrazy.pl,,6,45.0,150.0,wood,200000.0,5000.0
+269,Amtech,Amtech Sp. z o.o.,"ul. Przemysłowa 5, 62-510 Konin, Poland",Poland,POL,,https://www.amtech.com.pl,,5,45.0,150.0,wood,150000.0,4000.0
+270,DMDmodular,DMDmodular Sp. z o.o.,"ul. Jana Heweliusza 18, 31-162 Kraków, Poland",Poland,POL,,https://dmdmodular.com,,5,35.0,150.0,steel,150000.0,4500.0
+271,Modulove,,,Poland,POL,,https://modulove.pl,,,,,,,
+272,HausWerk,HausWerk sp. z o.o.,"ul. Katowicka 154, 43-400 Cieszyn, Poland",Poland,POL,,https://hauswerk.pl,,5,60.0,200.0,wood,300000.0,5000.0
+273,Klimas Wkręt-met,Klimas Wkręt-met Sp. z o.o.,"ul. Wieruszowska 12/16, 60-166 Poznań, Poland",Poland,POL,,https://www.wkret-met.com,,,,,,,
+274,Konsorcjum Stali,Konsorcjum Stali S.A.,"ul. Jagiellońska 76, 03-301 Warsaw, Poland",Poland,POL,,https://www.konsorcjumstali.com.pl/,,,,,,,
+275,Wielkopolska Fabryka Domów,Wielkopolska Fabryka Domów Sp. z o.o.,"ul. Poznańska 123, 60-101 Poznań, Poland",Poland,POL,,https://www.wielkopolskafabrykadomow.pl,,5,50.0,150.0,wood,150000.0,3000.0
+276,Extradom,,,Poland,POL,,,,,,,,,
+277,Wielkopolskie Fabryki Mebli,Wielkopolskie Fabryki Mebli Sp. z o.o.,"ul. Kaliska 75, 63-400 Ostrów Wielkopolski, Poland",Poland,POL,,https://www.wfm.pl,,,,,,,
+278,Polcom Modular,Polcom Group Sp. z o.o.,"ul. Przemysłowa 10, 83-400 Kościerzyna, Pomorskie, Poland",Poland,POL,,https://www.polcomgroup.com,,5,30.0,120.0,steel,200000.0,6000.0
+279,Mabudo,Mabudo Sp. z o.o.,"ul. Śląska 35, 97-200 Tomaszów Mazowiecki, Poland",Poland,POL,,https://mabudo.com.pl,,5,60.0,180.0,concrete,200000.0,3500.0
+280,Thermomodul,,,Poland,POL,,,,,,,,,
+281,Budizol,Budizol Sp. z o.o. S.K.A.,"ul. Władysława Łokietka 5, 87-800 Włocławek, kujawsko-pomorskie, Poland",Poland,POL,,https://www.budizol.pl,,6,75.0,210.0,concrete,250000.0,4000.0
+282,Maritom,,,Poland,POL,,,,,,,,,
+283,Budizol Modular Construction,,,Poland,POL,,,,,,,,,
+284,Kokoszka,Kokoszka Sp. z o.o.,"ul. Przemysłowa 12, 34-700 Rabka-Zdrój, Poland",Poland,POL,,https://www.kokoszka.pl,,5,35.0,150.0,wood,120000.0,3000.0
+285,Erdom,Erdom Sp. z o.o.,"ul. Grunwaldzka 12, 60-786 Poznań, Poland",Poland,POL,,https://erdom.pl,,5,45.0,120.0,wood,150000.0,3500.0
+286,DrewHouse,,,Poland,POL,,,,,,,,,
+287,Polkon,Polkon Sp. z o.o.,"ul. Przemysłowa 10, 63-400 Ostrów Wielkopolski, Poland",Poland,POL,,https://www.polkon.pl,,5,45.0,150.0,wood,150000.0,3500.0
+288,Sweet House,,,Poland,POL,,,,,,,,,
+289,Skelet,Skelet Sp. z o.o.,"ul. Przykładowa 10, 00-001 Warszawa, Poland",Poland,POL,,https://www.skelet.pl,,5,50.0,150.0,wood,200000.0,4000.0
+290,Konsbud,Konsbud Sp. z o.o.,"ul. Puławska 34, 05-500 Piaseczno, Poland",Poland,POL,,https://www.konsbud.com.pl,,5,50.0,150.0,wood,150000.0,3000.0
+291,Domek z Klocków,,,Poland,POL,,,,,,,,,
+292,Ekoinstal,,,Poland,POL,,,,,,,,,
+293,Modern House,,,Poland,POL,,,,,,,,,
+294,Prefabrykaty Sp. z o.o.,Prefabrykaty Sp. z o.o.,,Poland,POL,,,,,,,,,
+295,Recticel,Recticel Sp. z o.o.,"ul. Bystrzycka 89-91, 54-215 Wrocław, Poland",Poland,POL,,https://www.recticel.com,,,,,,,
+296,Xella Polska,Xella Polska Sp. z o.o.,"ul. Cybernetyki 9, 02-677 Warszawa, Poland",Poland,POL,,https://www.xella.pl,,,,,concrete,,
+297,ScanHaus Polska,ScanHaus Polska Sp. z o.o.,"ul. Polna 50, 66-300 Międzyrzecz, Lubusz, Poland",Poland,POL,,https://www.scanhaus.pl,,15,80.0,200.0,wood,250000.0,3000.0
+298,Zbuduj Sam Dom,,,Poland,POL,,https://zbudujsamdom.pl,,,,,,,
+299,Domy Hybrydowe,Domy Hybrydowe Sp. z o.o.,"ul. Kasztanowa 27, 62-028 Koziegłowy, Poland",Poland,POL,,https://domyhybrydowe.pl,,5,72.0,150.0,wood,250000.0,3500.0
+300,Domek Pol,,,Poland,POL,,,,,,,,,
+301,Budimex Danwood,Budimex Danwood Sp. z o.o.,"ul. Białostocka 5, 17-100 Bielsk Podlaski, Podlaskie, Poland",Poland,POL,,https://www.danwood.pl,,44,80.0,216.0,wood,260000.0,3000.0
+302,Domy z Natury,,,Poland,POL,,https://domyznatury.pl,,,,,,,
+303,Prefabrykowane Domy,,,Poland,POL,,,,,,,,,
+304,Wood Core House,,,Poland,POL,,,,,,,,,
+305,Prefabrykaty.pl,Prefabrykaty.pl Sp. z o.o.,"ul. Przykładowa 123, 00-001 Warsaw, Poland",Poland,POL,,https://www.prefabrykaty.pl,,5,45.0,150.0,wood,150000.0,4000.0
+306,DomyBiedrzycki,DomyBiedrzycki Sp. z o.o.,"ul. Przykładowa 123, 00-001 Warszawa, Poland",Poland,POL,,https://www.domybiedrzycki.pl,,5,50.0,200.0,wood,150000.0,3000.0
+307,Domy Czystej Energii,Domy Czystej Energii Sp. z o.o.,"ul. Piękna 15, 00-549 Warszawa, Poland",Poland,POL,,https://www.domyczystejenergii.pl,,5,40.0,150.0,wood,150000.0,3750.0
+308,EcoDom,,,Poland,POL,,,,,,,,,
+309,Krakdom,Krakdom Sp. z o.o.,"ul. Krakowska 123, 31-062 Kraków, Poland",Poland,POL,,https://www.krakdom.pl,,12,35.0,150.0,wood,150000.0,3500.0
+310,Eko Architektura,Eko Architektura Sp. z o.o.,"ul. Jasna 12, 00-013 Warszawa, Poland",Poland,POL,,https://ekoarchitektura.pl,,5,35.0,150.0,wood,150000.0,3500.0
+311,Budvar,Budvar Centrum Sp. z o.o.,"ul. Węgierska 86, 33-300 Nowy Sącz, Poland",Poland,POL,,https://www.budvar.pl,,5,45.0,150.0,wood,150000.0,3000.0
+312,PREFAB Construction,,,Poland,POL,,,,,,,,,
+313,Domek,,,Poland,POL,,,,,,,,,
+314,Budokop,,,Poland,POL,,,,,,,,,
+315,Modułowcy,,,Poland,POL,,,,,,,,,
+316,Domy Modułowe Gdańsk,,,Poland,POL,,,,,,,,,
+317,MABO,MABO Sp. z o.o.,"ul. Zatorska 5, 32-640 Zator, Poland",Poland,POL,,https://www.mabobudownictwo.pl,,5,35.0,150.0,wood,150000.0,4000.0
+318,Wolf System,Wolf System Sp. z o.o.,"ul. Ptaszkowska 22, 47-300 Krapkowice, Opole, Poland",Poland,POL,,https://www.wolfsystem.pl,,,,,concrete,,
+319,Lindab Buildings,Lindab Sp. z o.o.,"ul. Wapienicka 20, 43-382 Bielsko-Biała, Poland",Poland,POL,,https://www.lindab.com/pl,,,,,steel,,
+320,Budvar Centrum,Budvar Centrum Sp. z o.o.,"ul. Opolska 16, 46-061 Prószków, Opole, Poland",Poland,POL,,https://www.budvarcentrum.pl,,,,,,,
+321,Skelet System,Skelet System Sp. z o.o.,"ul. Główna 123, 00-001 Warszawa, Poland",Poland,POL,,https://www.skeletsystem.pl,,5,50.0,200.0,wood,150000.0,3000.0
+322,Lindal,,,Poland,POL,,,,,,,,,
+323,Domy Czysta Energia,,,Poland,POL,,,,,,,,,
+324,Partner Dom,Partner Dom S.A.,"ul. Grunwaldzka 123, 60-324 Poznań, Poland",Poland,POL,,https://www.partnerdom.pl,,10,50.0,200.0,wood,150000.0,3000.0
+325,Arkada Dom,Arkada Dom Sp. z o.o.,"ul. Wrocławska 10, 55-095 Mirków, Poland",Poland,POL,,https://www.arkada-dom.pl,,15,50.0,200.0,wood,150000.0,3000.0
+326,PREFAB System,,,Poland,POL,,,,,,,,,
+327,Brda,Zakład Budowlano-Montażowy Brda Sp. z o.o.,"ul. Wojska Polskiego 65, 89-100 Nakło nad Notecią, Poland",Poland,POL,,http://www.brda.com.pl,,5,35.0,120.0,wood,80000.0,2500.0
+328,Styl Domy,Styl Domy Sp. z o.o.,"ul. Kosciuszki 50, 05-500 Piaseczno, Poland",Poland,POL,,https://styldomy.pl,,5,50.0,150.0,wood,200000.0,4000.0
+329,EcoDomy,,,Poland,POL,,,,,,,,,
+330,Hajduk Group,,,Poland,POL,,,,,,,,,
+331,FND Stavby,FND Stavby s.r.o.,"Na Hradbách 544/3, Ostrava, Moravskoslezský kraj, 702 00, Czech Republic",Czech Republic,CZE,,https://www.fndstavby.cz,,6,50.0,120.0,wood,1500000.0,30000.0
+332,Haro,,,Czech Republic,CZE,,,,,,,,,
+333,EURO DŘEVO,EURO DŘEVO s.r.o.,,Czech Republic,CZE,,,,,,,,,
+334,WOODEX,,,Czech Republic,CZE,,,,,,,,,
+335,KŮLNA,,,Czech Republic,CZE,,https://www.kulna.cz,,,,,,,
+336,PENATUS,PENATUS s.r.o.,"Husitská 344/63, Praha 3, 130 00, Czech Republic",Czech Republic,CZE,,https://www.penatus.cz,,5,50.0,150.0,wood,1500000.0,30000.0
+337,TUCEN,TUCEN s.r.o.,"Na Pankráci 1685/17, Prague, 140 00, Czech Republic",Czech Republic,CZE,,https://www.tucen.cz,,5,45.0,150.0,wood,1200000.0,30000.0
+338,DŘEVOSTAVBY MY HOME,,,Czech Republic,CZE,,,,,,,,,
+339,KONHEFR DŘEVOSTAVBY,KONHEFR DŘEVOSTAVBY s.r.o.,,Czech Republic,CZE,,https://www.konhefr.cz,,,,,wood,,
+340,A1 HAUS,,,Czech Republic,CZE,,,,,,,,,
+341,Dřevostavby Vaněk,Dřevostavby Vaněk s.r.o.,,Czech Republic,CZE,,https://www.drevostavbyvanek.cz,,,,,wood,,
+342,ELK s.r.o.,ELK s.r.o.,"Hala 29, Mírová 696, Planá nad Lužnicí, South Bohemia, 391 11, Czech Republic",Czech Republic,CZE,,https://www.elk.cz,,12,80.0,180.0,wood,2500000.0,30000.0
+343,Goopan Building,Goopan Building s.r.o.,"Na Pankráci 1724/129, Prague, 140 00, Czech Republic",Czech Republic,CZE,,https://www.goopan.cz,,5,70.0,200.0,wood,2500000.0,35000.0
+344,Domy D.N.E.S.,Domy D.N.E.S. s.r.o.,"Na Záhonech 836/52, Praha 4, 141 00, Czech Republic",Czech Republic,CZE,,https://www.domydnes.cz,,5,45.0,150.0,wood,1200000.0,32000.0
+345,ELK,ELK s.r.o.,"Stará Kysibelská 695, Karlovy Vary, 360 09, Czech Republic",Czech Republic,CZE,,https://www.elk.cz,,18,76.0,200.0,wood,2700000.0,35000.0
+346,WALFER,,,Czech Republic,CZE,,,,,,,,,
+347,Dřevo-House,Dřevo-House s.r.o.,"U Průhonu 40, 170 00 Prague 7, Czech Republic",Czech Republic,CZE,,https://www.drevo-house.cz,,5,50.0,200.0,wood,1500000.0,30000.0
+348,Kubis,RD Rýmařov s.r.o.,"8. května 1191/45, Rýmařov, Moravian-Silesian Region, 795 01, Czech Republic",Czech Republic,CZE,,https://www.rdrymarov.cz,,5,80.0,150.0,wood,2500000.0,32000.0
+349,KONSTRUKTIVA LOKUS,KONSTRUKTIVA LOKUS s.r.o.,"Na Pankráci 1685/17, Praha 4, 140 21, Czech Republic",Czech Republic,CZE,,https://www.konstruktiva.cz,,,,,concrete,,
+350,Vario Vila,,,Czech Republic,CZE,,https://www.variovila.cz,,,,,,,
+351,Montis,Montis s.r.o.,"Na Hřebenech II 1718/10, Praha 4, 140 00, Czech Republic",Czech Republic,CZE,,https://www.montis.cz,,5,60.0,150.0,wood,1500000.0,30000.0
+352,Montkovo,Montkovo s.r.o.,"Na Bělidle 252/34, 150 00 Prague, Czech Republic",Czech Republic,CZE,,https://www.montkovo.cz,,5,50.0,150.0,wood,1500000.0,30000.0
+353,Domky CZ,,,Czech Republic,CZE,,,,,,,,,
+354,ES,,,Czech Republic,CZE,,,,,,,,,
+355,ALFAHAUS,ALFAHAUS s.r.o.,"Nádražní 128, 384 11 Netolice, Czech Republic",Czech Republic,CZE,,https://www.alfahaus.cz,,5,50.0,140.0,wood,1500000.0,30000.0
+356,SmartLiving,SmartLiving s.r.o.,"Na Příkopě 123, Prague, 11000, Czech Republic",Czech Republic,CZE,,https://www.smartliving.cz,,5,45.0,150.0,wood,1500000.0,35000.0
+357,DrevoDomy,,,Czech Republic,CZE,,https://www.drevodomy.cz,,,,,wood,,
+358,Ecomodula,Ecomodula s.r.o.,,Czech Republic,CZE,,https://www.ecomodula.cz,,,,,wood,,
+359,STAVEX Kutná Hora,STAVEX Kutná Hora s.r.o.,"Rudní 934, 284 01 Kutná Hora, Czech Republic",Czech Republic,CZE,,https://www.stavex.cz,,5,60.0,150.0,wood,1500000.0,25000.0
+360,ELK,ELK a.s.,"Na Pankráci 1685/19, Nusle, 140 21 Praha 4, Czech Republic",Czech Republic,CZE,,https://www.elk.cz,,15,80.0,250.0,wood,2500000.0,40000.0
+361,ATRIS s.r.o.,,,Czech Republic,CZE,,,,,,,,,
+362,Hoffmann,Hoffmann spol. s r.o.,"Pivovarská 163, 262 23 Jince, Central Bohemian Region, Czech Republic",Czech Republic,CZE,,https://www.hoffmann.cz,,5,70.0,200.0,wood,1200000.0,20000.0
+363,MS Haus,MS Haus s.r.o.,"Přemyslovců 797/2, Ostrava, Moravskoslezský kraj, 709 00, Czech Republic",Czech Republic,CZE,,https://www.mshaus.cz,,10,50.0,150.0,wood,1800000.0,25000.0
+364,Novatop,AGROP NOVA a.s.,"Hranická 771, 753 01 Hranice, Czech Republic",Czech Republic,CZE,,https://www.novatop-system.cz/en/,,,,,CLT,,
+365,Dům jedním tahem,"Dům jedním tahem, s.r.o.","Tovární 1180, 386 01 Strakonice, Czech Republic",Czech Republic,CZE,,https://www.dumjednimtahem.cz,,6,80.0,180.0,concrete,2500000.0,35000.0
+366,SmartWood,SmartWood s.r.o.,"1234 Ulice, Praha, Czech Republic",Czech Republic,CZE,,https://www.smartwood.cz,,5,50.0,150.0,wood,1200000.0,25000.0
+367,KARLÍK,,,Czech Republic,CZE,,,,,,,,,
+368,Nema Dřevostavby,,,Czech Republic,CZE,,https://www.nemadrevostavby.cz,,,,,,,
+369,Moravske drevostavby,Moravske drevostavby s.r.o.,"Krásná 274, Krásná, 739 04, Czech Republic",Czech Republic,CZE,,https://www.moravske-drevostavby.cz,,5,80.0,160.0,wood,2500000.0,31250.0
+370,Casas de Madeira,,,Portugal,PRT,,,,,,,wood,,
+371,Home3,"Home3 - Construções Pré-fabricadas, Lda","Rua de São Bento, 123, Lisbon, Lisbon, 1200-816, Portugal",Portugal,PRT,,https://www.home3.pt,,8,45.0,150.0,wood,50000.0,1200.0
+372,Pegolux,"Pegolux Construções, Lda","Rua de Exemplo 123, Lisboa, 1000-001, Portugal",Portugal,PRT,,https://www.pegolux.pt,,5,50.0,150.0,wood,50000.0,1200.0
+373,Rusticasa,"Rusticasa - Casas de Madeira, S.A.","Rua do Lameirão, 5050-092 Peso da Régua, Portugal",Portugal,PRT,,https://www.rusticasa.pt,,10,45.0,250.0,wood,30000.0,1200.0
+374,Modiko,"Modiko - Construções Modulares, Lda","Rua da Zona Industrial, Lote 1, 3750-353 Águeda, Portugal",Portugal,PRT,,https://www.modiko.pt,,5,45.0,200.0,steel,50000.0,1000.0
+375,Alves e Ribeiro,,,Portugal,PRT,,,,,,,,,
+376,Inovaction Modular,"Inovaction Engenharia Modular, Lda","Rua do Comércio 123, 4050-123 Porto, Portugal",Portugal,PRT,,https://www.inovactionmodular.pt,,5,50.0,200.0,steel,50000.0,1200.0
+377,Movex Habitat,,,Portugal,PRT,,https://movexhabitat.com,,,,,,,
+378,LCG - Casas Modulares,,,Portugal,PRT,,,,,,,,,
+379,Casas em Movimento,"Casas em Movimento, Lda.","Rua de São Paulo 89, 1200-427 Lisboa, Portugal",Portugal,PRT,,https://www.casasemmovimento.com,,3,60.0,200.0,wood,75000.0,1250.0
+380,Jular Madeiras,"Jular Madeiras, S.A.","Estrada Nacional 10, Km 128, 2615-142 Alverca do Ribatejo, Portugal",Portugal,PRT,,https://www.jular.pt,,,,,wood,,
+381,Villasmodulares,,,Portugal,PRT,,https://www.villasmodulares.com,,,,,,,
+382,Portilame,"Portilame - Indústria de Madeiras, Lda.","Estrada Nacional 13, Navais, 4495-416 Póvoa de Varzim, Portugal",Portugal,PRT,,https://www.portilame.com,,5,45.0,150.0,wood,45000.0,1000.0
+383,EcoCasa,,,Portugal,PRT,,,,,,,,,
+384,Tetracasa,,,Portugal,PRT,,,,,,,,,
+385,Woodsolutions,,,Portugal,PRT,,https://www.woodsolutions.pt,,,,,wood,,
+386,EcoHabit,,,Portugal,PRT,,,,,,,,,
+387,Domus Concept,"Domus Concept, Lda.","Rua de São Roque, 123, 4050-561 Porto, Portugal",Portugal,PRT,,https://www.domusconcept.pt,,5,45.0,150.0,wood,50000.0,1200.0
+388,Simoes e Fernandes,,,Portugal,PRT,,,,,,,,,
+389,Casas Préfabricadas,,,Portugal,PRT,,,,,,,,,
+390,LivingHomes Portugal,,,Portugal,PRT,,,,,,,,,
+391,Casas de Madeira Portugal,,,Portugal,PRT,,,,,,,,,
+392,Conceito Modular,,,Portugal,PRT,,,,,,,,,
+393,PREFABRICASA,PrefabriCasa - Casas Pré-Fabricadas Lda.,"Rua de São João, 123, Porto, Porto, 4000-222, Portugal",Portugal,PRT,,https://www.prefabricasa.pt,,10,50.0,200.0,wood,30000.0,750.0
+394,EcoCasas Portugal,,,Portugal,PRT,,,,,,,,,
+395,GreenNest,"GreenNest, Lda","Rua da Industria 123, 4000-123 Porto, Portugal",Portugal,PRT,,https://www.greennest.pt,,5,45.0,150.0,wood,75000.0,1500.0
+396,Dreamdomus,Dreamdomus Lda,"Rua de São João 29, 2560-248 Torres Vedras, Portugal",Portugal,PRT,,https://www.dreamdomus.pt,,5,50.0,200.0,wood,50000.0,1000.0
+397,Luxline,,,Portugal,PRT,,,,,,,,,
+398,Homegest,,,Portugal,PRT,,,,,,,,,
+399,Castelbel,,,Portugal,PRT,,,,,,,,,
+400,Arquimais,,,Portugal,PRT,,,,,,,,,
+401,Gablok Portugal,,,Portugal,PRT,,,,,,,,,
+402,Alves e Alves,,,Portugal,PRT,,,,,,,,,
+403,Algarve Modular,,,Portugal,PRT,,,,,,,,,
+404,Home Concept,,,Portugal,PRT,,,,,,,,,
+405,Smart House,,,Portugal,PRT,,,,,,,,,
+406,Arkitito,,,Portugal,PRT,,https://www.arkitito.com,,,,,,,
+407,Woodpecker,,,Portugal,PRT,,,,,,,,,
+408,CasaPronta,CasaPronta Lda,"Rua da Construção, 123, Lisbon, Lisbon District, 1000-000, Portugal",Portugal,PRT,,https://www.casapronta.pt,,5,45.0,200.0,wood,80000.0,1500.0
+409,Casas Cube,,,Portugal,PRT,,https://casascube.com,,,,,,,
+410,Nidus Modular,"Nidus Modular, Lda","Rua da Indústria 20, 2610-088 Amadora, Portugal",Portugal,PRT,,https://www.nidusmodular.com,,5,45.0,150.0,wood,50000.0,1200.0
+411,Casas Pré-Fabricadas,,,Portugal,PRT,,,,,,,,,
+412,Wood Factory,,,Portugal,PRT,,,,,,,,,
+413,Casas Modulares,,,Portugal,PRT,,,,,,,,,
+414,EasyCasa,,,Portugal,PRT,,,,,,,,,
+415,MicroCasa,,,Portugal,PRT,,,,,,,,,
+416,SmartCasa,,,Portugal,PRT,,,,,,,,,
+417,EcoModular,,,Portugal,PRT,,,,,,,,,
+418,Dynamic Haus,,,Portugal,PRT,,,,,,,,,
+419,Rui Pedro Fonseca,,,Portugal,PRT,,,,,,,,,
+420,MM House,,,Portugal,PRT,,,,,,,,,
+421,Gomos System,"Gomos Building Systems, Lda","Rua de Campos 130, 4520-115 Santa Maria da Feira, Portugal",Portugal,PRT,,https://gomos.pt,,4,27.0,162.0,concrete,45000.0,1500.0
+422,Clever Home,,,Portugal,PRT,,,,,,,,,
+423,Casa Modular,,,Portugal,PRT,,,,,,,,,
+424,Hous3D,,,Portugal,PRT,,,,,,,,,
+425,Oliveira & Irmão,,,Portugal,PRT,,,,,,,,,
+426,Contemporary Modular Homes,,,Portugal,PRT,,,,,,,,,
+427,Dome4You,Dome4You Lda,"Rua do Exemplo 123, Lisbon, Lisbon District, 1000-001, Portugal",Portugal,PRT,,https://www.dome4you.com,,5,45.0,150.0,wood,45000.0,1200.0
+428,Casas Green,"Casas Green, Lda","Rua de São João, 100, 4560-000 Paços de Ferreira, Portugal",Portugal,PRT,,https://www.casasgreen.pt,,5,45.0,180.0,wood,50000.0,1200.0
+429,Planeta Modular,,,Portugal,PRT,,,,,,,,,
+430,Espaço Modular,"Espaço Modular, Lda","Rua do Exemplo, 123, Lisboa, Lisbon, 1000-001, Portugal",Portugal,PRT,,https://www.espacomodular.pt,,5,45.0,150.0,steel,50000.0,1200.0
+431,Prefalgarve,"Prefalgarve - Indústria de Pré-fabricados, S.A.","Zona Industrial de Loulé, Lote 51, 8100-272 Loulé, Portugal",Portugal,PRT,,https://www.prefalgarve.pt,,5,50.0,200.0,concrete,40000.0,1000.0
+432,Urbis Habitat,,,Portugal,PRT,,https://urbishabitat.com,,,,,,,
+433,Casa Pré-Fabricada Portugal,,,Portugal,PRT,,,,,,,,,
+434,Modular System House,,,Portugal,PRT,,,,,,,,,
+435,M2 Casas Modulares,,,Portugal,PRT,,https://www.m2casasmodulares.com,,,,,,,
+436,Porta Nova Modular,,,Portugal,PRT,,,,,,,,,
+437,Prefab Homes Portugal,,,Portugal,PRT,,,,,,,,,
+438,EcoModular Homes,,,Portugal,PRT,,,,,,,,,
+439,Casa Box Modulares,,,Portugal,PRT,,,,,,,,,
+440,Portugal Prefab,,,Portugal,PRT,,https://www.portugalprefab.com,,,,,,,
+441,Casas em Kit Portugal,,,Portugal,PRT,,https://casasemkit.com,,,,,,,
+442,Modularis Portugal,,,Portugal,PRT,,https://www.modularis.pt,,,,,,,
+443,Specific Modular,,,Portugal,PRT,,,,,,,,,
+444,SIP Homes,,,Portugal,PRT,,,,,,,,,
+445,WoodSpace,,,Portugal,PRT,,,,,,,,,
+446,Homebuild Portugal,,,Portugal,PRT,,,,,,,,,
+447,Smart Modular,,,Portugal,PRT,,,,,,,,,
+448,Lumar Engenharia,,,Portugal,PRT,,https://www.lumar.pt,,,,,,,
+449,Constructo Modular,,,Portugal,PRT,,,,,,,,,
+450,Woodspace Portugal,,,Portugal,PRT,,,,,,,,,
+451,Modular Solutions,,,Portugal,PRT,,,,,,,,,
+452,Sustentopanel,"Sustentopanel, Lda.","Rua da Indústria, 123, 4560-789 Castelo Branco, Portugal",Portugal,PRT,,https://www.sustentopanel.pt,,5,45.0,150.0,wood,50000.0,1200.0
+453,Larcosta,"Larcosta - Construção Modular, Lda.","Rua de São Mateus 123, 4505-456, Lobão, Santa Maria da Feira, Portugal",Portugal,PRT,,https://www.larcosta.pt,,5,60.0,200.0,steel,50000.0,1200.0
+454,DomeSpace Portugal,,,Portugal,PRT,,,,,,,,,
+455,Atlantic Homes,,,Portugal,PRT,,,,,,,,,
+456,Sustainable Ideals,,,Portugal,PRT,,,,,,,,,
+457,Lumar Portugal,"Lumar Construções Sustentáveis, S.A.","Rua do Progresso, 423, 4785-647 Trofa, Portugal",Portugal,PRT,,https://www.lumar.pt,,10,60.0,300.0,timber,50000.0,1200.0
+458,Wood Houses Portugal,,,Portugal,PRT,,https://www.woodhouses.pt,,,,,wood,,
+459,Prefabmodul,,,Portugal,PRT,,,,,,,,,
+460,Eco Modular,,,Portugal,PRT,,,,,,,,,
+461,Casas Modulares Portugal,,,Portugal,PRT,,,,,,,,,
+462,HomeKit Portugal,"HomeKit Portugal, Lda","Rua das Casas Prefabricadas, 123, Lisboa, Lisbon, 1000-001, Portugal",Portugal,PRT,,https://www.homekitportugal.com,,5,60.0,150.0,wood,40000.0,1000.0
+463,Modular Systems PT,,,Portugal,PRT,,,,,,,,,
+464,Prefab Solutions,,,Portugal,PRT,,,,,,,,,
+465,PrefabHome PT,,,Portugal,PRT,,,,,,,,,
+466,Wooden Modular Portugal,,,Portugal,PRT,,,,,,,,,
+467,Modular Design PT,,,Portugal,PRT,,,,,,,,,
+468,Eco Casas Modular,,,Portugal,PRT,,,,,,,,,
+469,Home Design Modular,,,Portugal,PRT,,,,,,,,,
+470,Planika,,,Portugal,PRT,,https://www.planika.pt,,,,,,,
+471,Linha Moderna,,,Portugal,PRT,,,,,,,,,
+472,Keridis Prefabricated Homes,,,Greece,GRC,,,,,,,,,
+473,EcoKit Houses,,,Greece,GRC,,https://www.ecokithouses.gr,,,,,,,
+474,Ecoprefabricated House,,,Greece,GRC,,,,,,,,,
+475,Oikos Homes,Oikos Homes S.A.,"123 Prefab Road, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.oikoshomes.gr,,5,50.0,150.0,wood,60000.0,1200.0
+476,Eco-Habitat,,,Greece,GRC,,,,,,,,,
+477,Domotechniki Prefabricated Houses,,,Greece,GRC,,,,,,,,,
+478,Tselepis Prefabricated Houses,,,Greece,GRC,,,,,,,,,
+479,Neoprefabricated,,,Greece,GRC,,https://www.neoprefabricated.com,,,,,,,
+480,Prokat House,,,Greece,GRC,,,,,,,,,
+481,Green Prefab,Green Prefab S.A.,"123 Prefab Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.greenprefab.gr,,5,45.0,150.0,wood,50000.0,1200.0
+482,Domus Prefabricated Houses,,,Greece,GRC,,https://www.domus.gr,,,,,,,
+483,Prefabline,Prefabline I.K.E.,"123 Prefab Street, Athens, Attica, 10100, Greece",Greece,GRC,,https://www.prefabline.gr,,5,45.0,150.0,steel,50000.0,1200.0
+484,Easyhome Prefabricated Houses,Easyhome Prefabricated Houses Ltd.,"123 Example Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.easyhome.gr,,6,45.0,150.0,wood,50000.0,1200.0
+485,Prefabricated Houses Chania,,,Greece,GRC,,,,,,,,,
+486,Katerina Prefabricated Houses,,,Greece,GRC,,,,,,,,,
+487,Casa Bella Prefabricated Homes,,,Greece,GRC,,https://www.casabella.gr,,,,,,,
+488,Ktirio Prefab Homes,,,Greece,GRC,,,,,,,,,
+489,OIKO Modular Homes,OIKO Modular Homes S.A.,"123 Example Street, Athens, Attica, 12345, Greece",Greece,GRC,,https://www.oikomodularhomes.gr,,5,45.0,150.0,steel,50000.0,1200.0
+490,Greek Prefab Solutions,,,Greece,GRC,,,,,,,,,
+491,Domika Prefabricated Structures,,,Greece,GRC,,,,,,,,,
+492,Alfa Prefab Homes,,,Greece,GRC,,,,,,,,,
+493,Neoset Modular,,,Greece,GRC,,,,,,,,,
+494,EconHome Greece,,,Greece,GRC,,,,,,,,,
+495,Technodomiki Prefab,,,Greece,GRC,,,,,,,,,
+496,Domisi Prefabricated Homes,,,Greece,GRC,,,,,,,,,
+497,EcoDom Prefab,,,Greece,GRC,,,,,,,,,
+498,Oikodomiki Hellas,,,Greece,GRC,,,,,,,,,
+499,Ecodomus,Ecodomus,,Greece,GRC,,https://www.ecodomus.gr,,,,,wood,,
+500,Preconstructa,,,Greece,GRC,,,,,,,,,
+501,Modern Prefab,,,Greece,GRC,,,,,,,,,
+502,Kokkinakis Constructions,,,Greece,GRC,,,,,,,,,
+503,Spiti.com.gr,,,Greece,GRC,,https://spiti.com.gr,,,,,,,
+504,Kabana.gr,,,Greece,GRC,,https://www.kabana.gr,,,,,,,
+505,Adelco Prefab Houses,,,Greece,GRC,,,,,,,,,
+506,Technocasa,Technocasa S.A.,"123 Prefab Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.technocasa.gr,,10,45.0,250.0,wood,50000.0,1200.0
+507,Ergocasa,Ergocasa S.A.,"25th km of Marathon Avenue, Pikermi, Attica, 19009, Greece",Greece,GRC,,https://www.ergocasa.gr,,5,50.0,200.0,wood,50000.0,1200.0
+508,Nima Prefab Houses,,,Greece,GRC,,,,,,,,,
+509,Brikawood Greece,,,Greece,GRC,,https://brikawood.com,,,,,wood,,
+510,Oikies Ktirion,,,Greece,GRC,,,,,,,,,
+511,Domotechniki,,,Greece,GRC,,,,,,,,,
+512,House Prefab,,,Greece,GRC,,,,,,,,,
+513,Easy Green,Easy Green Homes S.A.,"Leof. Kifisias 250, Chalandri, Athens, 15231, Greece",Greece,GRC,,https://www.easygreen.gr,,5,50.0,200.0,wood,50000.0,1200.0
+514,Prefab Hellas,Prefab Hellas S.A.,"123 Prefab Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.prefabhellas.gr,,5,50.0,150.0,concrete,50000.0,1000.0
+515,Viomichaniki Kataskevastiki,,,Greece,GRC,,,,,,,,,
+516,Arched House Greece,,,Greece,GRC,,https://archedhouse.gr,,,,,,,
+517,Prefabricated Houses Karkatselos,,,Greece,GRC,,,,,,,,,
+518,Oikodomiki,Oikodomiki Kataskevastiki Etaireia,"123 Example Street, Athens, Attica, 12345, Greece",Greece,GRC,,https://www.oikodomiki.gr,,5,60.0,200.0,concrete,50000.0,1000.0
+519,Kofinas SA,Kofinas Prefabricated Houses SA,"56th km National Road Athens-Lamia, Agios Stefanos, Attica, 14565, Greece",Greece,GRC,,https://www.kofinas.gr,,15,50.0,200.0,wood,50000.0,1200.0
+520,Provil SA,Provil SA,"11th km Thessaloniki - New Michaniona, Thessaloniki, Central Macedonia, 57001, Greece",Greece,GRC,,https://www.provil.gr,,,,,,,
+521,Beton Prefabrykacja,,,Greece,GRC,,,,,,,,,
+522,Ktirio SA,,,Greece,GRC,,,,,,,,,
+523,Ikodomi,Ikodomi SA,"16 Neapoleos, Kifisia, Athens, 14562, Greece",Greece,GRC,,https://www.ikodomi.com,,,,,concrete,,
+524,Technodomiki,,,Greece,GRC,,,,,,,,,
+525,EcoHome GR,,,Greece,GRC,,,,,,,,,
+526,Oikodomi,,,Greece,GRC,,,,,,,,,
+527,EcoFutura,,,Greece,GRC,,,,,,,,,
+528,Modulus Homes,,,Greece,GRC,,,,,,,,,
+529,Prefab Homes Greece,,,Greece,GRC,,,,,,,,,
+530,Domodom,,,Greece,GRC,,,,,,,,,
+531,Koto Homes Greece,,,Greece,GRC,,,,,,,,,
+532,Arxiko Prefab,,,Greece,GRC,,,,,,,,,
+533,EasyLiving Homes,,,Greece,GRC,,,,,,,,,
+534,Oikodomi Prefab,Oikodomi Prefab S.A.,"123 Prefab Street, Athens, Attica, 10432, Greece",Greece,GRC,,https://www.oikodomiprefab.gr,,8,45.0,150.0,wood,75000.0,1200.0
+535,FutureConstruct,,,Greece,GRC,,,,,,,,,
+536,TopHome Prefabricated Houses,,,Greece,GRC,,,,,,,,,
+537,EcoKit Homes,,,Greece,GRC,,,,,,,,,
+538,Prokat Oikies,,,Greece,GRC,,,,,,,,,
+539,Domiki Kataskevi,,,Greece,GRC,,,,,,,,,
+540,Steel Frame Houses,,,Greece,GRC,,https://www.steelframehouses.gr,,,,,steel,,
+541,Ergogroup Prefabricated Houses,Ergogroup S.A.,"123 Example Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.ergogroup.gr,,12,50.0,200.0,concrete,50000.0,1000.0
+542,Omega Prefabricated Houses,,,Greece,GRC,,,,,,,,,
+543,Alfa Prokat,,,Greece,GRC,,https://www.alfaprokat.gr,,,,,,,
+544,Kallidomo,KALLIDOMO IKE,"123 Prefab Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.kallidomo.gr,,5,45.0,150.0,CLT,50000.0,1200.0
+545,Domiki Kritis,Domiki Kritis S.A.,"Leoforos Ethnikis Antistaseos 124, Heraklion, Crete, 71306, Greece",Greece,GRC,,https://www.domikikritis.gr,,5,50.0,200.0,concrete,40000.0,800.0
+546,Tsakonas Prefabricated Houses,Tsakonas Prefabricated Houses S.A.,"123 Prefab Street, Athens, Attica, 10431, Greece",Greece,GRC,,https://www.tsakonashomes.gr,,12,45.0,150.0,wood,50000.0,1200.0
+547,Evrodom,Evrodom S.A.,"123 Example Street, Athens, Attica, 12345, Greece",Greece,GRC,,https://www.evrodom.gr,,5,50.0,150.0,wood,50000.0,1000.0
+548,Greece PreFab Homes,,,Greece,GRC,,,,,,,,,
+549,Modular Homes Greece,,,Greece,GRC,,,,,,,,,
+550,Mistriotis Prefabricated Buildings,,,Greece,GRC,,,,,,,,,
+551,Ktirio,,,Greece,GRC,,https://ktirio.gr,,,,,,,
+552,Prefabion,,,Greece,GRC,,,,,,,,,
+553,Nivico Homes,,,Greece,GRC,,,,,,,,,
+554,Techniki Kataskevastiki,,,Greece,GRC,,,,,,,,,
+555,HouseKit,,,Greece,GRC,,,,,,,,,
+556,EasyGreen,EasyGreen Homes Ltd,"123 Green Street, Athens, Attica, 10432, Greece",Greece,GRC,,https://www.easygreenhomes.gr,,5,50.0,200.0,wood,50000.0,1000.0
+557,Spitaki Prefabricated Houses,,,Greece,GRC,,,,,,,,,
+558,Tsoukalas Construction,,,Greece,GRC,,,,,,,,,
+559,Ekodomi,,,Greece,GRC,,https://www.ekodomi.gr,,,,,,,
+560,Modularo Greece,,,Greece,GRC,,,,,,,,,
+561,Admares,Admares Greece,,Greece,GRC,,https://www.admares.com,,,,,,,
+562,Provil,Provil S.A.,"10th km Thessaloniki-Poligirou, Thermi, Thessaloniki, 57001, Greece",Greece,GRC,,https://www.provil.gr,,,,,,,
+563,Modular Building Systems Hellas,,,Greece,GRC,,,,,,,,,
+564,Hellas Prefab,,,Greece,GRC,,,,,,,,,
+565,Eco Prefab Houses,,,Greece,GRC,,,,,,,,,
+566,Prefabrik Hellas,,,Greece,GRC,,,,,,,,,
+567,Domotechniki Prefab,,,Greece,GRC,,,,,,,,,
+568,Techno House Hellas,Techno House Hellas S.A.,"123 Prefab Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.technohousehellas.gr,,5,50.0,200.0,concrete,50000.0,1000.0
+569,Keramida Prefab Homes,Keramida Prefabricated Houses S.A.,"123 Prefab Street, Athens, Attica, 10431, Greece",Greece,GRC,,https://www.keramidaprefabhomes.gr,,10,50.0,200.0,concrete,50000.0,1000.0
+570,Ideal Prefab Homes,,,Greece,GRC,,,,,,,,,
+571,Domotechniki Prefabricated Homes,,,Greece,GRC,,,,,,,,,
+572,Econome Prefabricated Buildings,,,Greece,GRC,,,,,,,,,
+573,Oikismos Modular,,,Greece,GRC,,,,,,,,,
+574,Eco Domica,,,Greece,GRC,,,,,,,,,
+575,Dome Consulting,Dome Consulting S.A.,"123 Prefab Street, Athens, Attica, 10434, Greece",Greece,GRC,,https://www.domeconsulting.gr,,5,50.0,200.0,concrete,50000.0,1200.0
+576,Ktirio Prefab,Ktirio Prefab S.A.,"123 Prefab Street, Athens, Attica, 10552, Greece",Greece,GRC,,https://www.ktirioprefab.gr,,8,45.0,200.0,concrete,50000.0,1200.0
+577,Domiki Kataskevastiki,,,Greece,GRC,,,,,,,,,
+578,IKTINOS,,,Greece,GRC,,,,,,,,,
+579,Alykon Prefabricated,,,Greece,GRC,,,,,,,,,
+580,Hellas Homes,,,Greece,GRC,,,,,,,,,
+581,Exalco,Exalco S.A.,"9th km Larissa - Agia, Larissa, Thessaly, 41500, Greece",Greece,GRC,,https://www.exalco.gr,,,,,aluminum,,
+582,Prokat,,,Greece,GRC,,,,,,,,,
+583,Nimand,,,Greece,GRC,,,,,,,,,
+584,Vekamaf,,,Greece,GRC,,,,,,,,,
+585,Ecopanel,,,Greece,GRC,,,,,,,,,
+586,Pagonidis Group,PAGONIDIS OE,"Leoforos Mesogeion 448, Agia Paraskevi, Attica, 15342, Greece",Greece,GRC,,https://www.pagonidis.gr,,5,50.0,150.0,wood,50000.0,1000.0
+587,Keridis Prefab,Keridis Prefab,,Greece,GRC,,,,,,,,,
+588,Modulus Construction,,,Greece,GRC,,,,,,,,,
+589,Hellenic Modular Homes,,,Greece,GRC,,,,,,,,,
+590,Oikodomi Modular,Oikodomi Modular,,Greece,GRC,,https://www.oikodomimodular.gr,,,,,,,
+591,Domeco,,,Greece,GRC,,,,,,,,,
+592,EconHome,,,Greece,GRC,,,,,,,,,
+593,Prefabrication Hellas,,,Greece,GRC,,,,,,,,,
+594,Modularkat,Modularkat I.K.E,"123 Prefab Street, Athens, Attica, 10558, Greece",Greece,GRC,,https://www.modularkat.gr,,5,40.0,200.0,steel,50000.0,1200.0
+595,EcoMod Homes,,,Ireland,IRL,,,,,,,,,
+596,Irish Eco Homes,,,Ireland,IRL,,https://www.irishecohomes.com,,,,,,,
+597,Quinn Building Products,Quinn Building Products Ltd,"Gortmullan, Derrylin, Co. Fermanagh, BT92 9GP, Ireland",Ireland,IRL,,https://www.quinn-buildingproducts.com,,,,,concrete,,
+598,SteelTech Sheds,Steeltech Sheds Ltd.,"Ballygar Road, Tuam, Co. Galway, Ireland",Ireland,IRL,,https://steeltechsheds.ie,,0,,,steel,,
+599,Ballygarvan Stonecraft,Ballygarvan Stonecraft Limited,"Ballygarvan, Cork, Ireland",Ireland,IRL,,https://ballygarvanstonecraft.ie,,,,,stone,,
+600,Kingspan Century,Kingspan Century Limited,"Carrickmacross Road, Kingscourt, Co. Cavan, A82 R6C4, Ireland",Ireland,IRL,,https://www.kingspan.com/ie/en-ie/products/structural-insulated-panels/kingspan-century,,0,,,timber,,
+601,TimberTech Homes,,,Ireland,IRL,,,,,,,,,
+602,Western Building Systems,Western Building Systems Ltd,"7-9 Coalisland Road, Dungannon, County Tyrone, BT71 6JT, Ireland",Ireland,IRL,,https://www.westernbuild.com,,,,,steel,,
+603,Spacebox,,,Ireland,IRL,,,,,,,,,
+604,SIP Energy Homes,SIP Energy Homes Limited,"Unit 8, Block 1, Port Tunnel Business Park, Clonshaugh, Dublin, D17 YX23, Ireland",Ireland,IRL,,https://www.sipenergyhomes.ie,,5,50.0,150.0,composite,80000.0,1600.0
+605,HomeBond,HomeBond,,Ireland,IRL,,https://www.homebond.ie,,,,,,,
+606,Ballytherm Insulation,Ballytherm Limited,"Killoe, Longford, Co. Longford, Ireland",Ireland,IRL,,https://www.ballytherm.ie,,,,,composite,,
+607,Huskit Homes,Huskit Homes Limited,,Ireland,IRL,,https://www.huskithomes.com,,,,,,,
+608,Killross Properties,,,Ireland,IRL,,,,,,,,,
+609,Advanced Timbercraft,Advanced Timbercraft Limited,"Unit 3, Greenogue Business Park, Rathcoole, Co. Dublin, Ireland",Ireland,IRL,,https://www.advancedtimbercraft.ie,,,,,timber,,
+610,Cairn Homes,Cairn Homes plc,"7 Grand Canal, Grand Canal Street Lower, Dublin 2, D02 KW81, Ireland",Ireland,IRL,,https://www.cairnhomes.com,,,,,concrete,,
+611,MHI Modular Homes Ireland,MHI Modular Homes Ireland Limited,"Unit 3, Block 8, Blanchardstown Corporate Park 1, Ballycoolin, Dublin 15, D15 AKK1, Ireland",Ireland,IRL,,https://www.mhimodularhomes.ie,,5,45.0,150.0,timber,55000.0,1500.0
+612,Castle Modular,Castle Modular Ltd.,"Unit 12, Naas Road Business Park, Newlands Cross, Dublin, D22 VY35, Ireland",Ireland,IRL,,https://www.castlemodular.ie,,5,45.0,150.0,timber,75000.0,1600.0
+613,Glenfort Timber Engineering,Glenfort Timber Engineering Ltd,"Unit 6, Glenfort Business Park, Glanmire, Co. Cork, Ireland",Ireland,IRL,,https://www.glenfort.ie,,,,,timber,,
+614,KTF Housing,KTF Housing Ltd,"Unit 6, Block 50, Rosemount Business Park, Ballycoolin, Dublin 11, Ireland",Ireland,IRL,,https://www.ktf.ie,,,,,timber,,
+615,Atlantic Modular,Atlantic Modular Homes Ltd,"Unit 10, Business Park, Galway City, County Galway, Ireland",Ireland,IRL,,https://www.atlanticmodular.ie,,5,50.0,200.0,wood,75000.0,1500.0
+616,Dunowen Construction,,,Ireland,IRL,,,,,,,,,
+617,Lidan Designs,Lidan Designs Limited,"Unit 1, Monksland Business Park, Athlone, County Roscommon, Ireland",Ireland,IRL,,https://www.lidan.ie,,5,30.0,150.0,timber,60000.0,2000.0
+618,Portakabin Ireland,Portakabin (Ireland) Limited,"Portakabin, Kilgowan, Kilcullen, Co. Kildare, Ireland",Ireland,IRL,,https://www.portakabin.ie,,,,,steel,,
+619,MHI Sustainable Homes,MHI Sustainable Homes Ltd.,"Moate Business Park, Moate, Co. Westmeath, Ireland",Ireland,IRL,,https://www.mhisustainablehomes.ie,,5,65.0,150.0,timber,120000.0,1500.0
+620,Ballygarvan Modular Homes,,,Ireland,IRL,,,,,,,,,
+621,Thermo House,Thermo House Limited,"Coolcaslagh, Killarney, Co. Kerry, V93 V8F9, Ireland",Ireland,IRL,,https://www.thermo-house.ie,,5,80.0,250.0,concrete,120000.0,1500.0
+622,Laghaven Modular Homes,,,Ireland,IRL,,,,,,,,,
+623,Kildare Modular Homes,,,Ireland,IRL,,https://kildaremodularhomes.ie,,,,,,,
+624,EcoMod Modular Buildings,,,Ireland,IRL,,https://www.ecomod.ie,,,,,,,
+625,TimberTec Homes,TimberTec Homes Ltd.,,Ireland,IRL,,,,,,,wood,,
+626,Clancy Construction,Clancy Construction Company Limited,"Clonmel, Co. Tipperary, Ireland",Ireland,IRL,,https://www.clancy.ie,,,,,concrete,,
+627,TimberLiving,Timber Living Limited,"Glen of the Downs, Delgany, Co. Wicklow, Ireland",Ireland,IRL,,https://www.timberliving.ie,,10,40.0,150.0,wood,35000.0,1200.0
+628,Stewart Construction Modular Solutions,,,Ireland,IRL,,,,,,,,,
+629,Irish Timber Frame Manufacturers,,,Ireland,IRL,,,,,,,,,
+630,JFC Manufacturing Co. Ltd.,JFC Manufacturing Co. Ltd.,"Weir Road, Tuam, Co. Galway, Ireland",Ireland,IRL,,https://www.jfcmarine.com,,,,,,,
+631,Spacebox Ireland Ltd,,,Ireland,IRL,,,,,,,,,
+632,The Pod Factory,,,Ireland,IRL,,https://thepodfactory.ie,,,,,,,
+633,Quick Modular Homes,,,Ireland,IRL,,,,,,,,,
+634,Ballymore Homes,,,Ireland,IRL,,https://www.ballymoregroup.com/,,,,,,,
+635,MacFab Systems,MacFab Systems Limited,"Unit 5, Ashbourne Business Park, Ashbourne, Co. Meath, A84 YF67, Ireland",Ireland,IRL,,https://www.macfabsystems.com,,5,50.0,150.0,steel,75000.0,1400.0
+636,QuickBuild Homes,,,Ireland,IRL,,,,,,,,,
+637,Irish Modular Homes,,,Ireland,IRL,,,,,,,,,
+638,Go Modular,Go Modular Ltd.,,Ireland,IRL,,https://gomodular.ie,,,,,,,
+639,Eco Modular Homes,,,Ireland,IRL,,https://ecomodularhomes.ie,,,,,,,
+640,Future Homes,Future Homes Limited,"Naas Industrial Estate, Naas, Co. Kildare, W91 X9K9, Ireland",Ireland,IRL,,https://www.futurehomes.ie,,5,45.0,150.0,timber,85000.0,1200.0
+641,Green Homes Ireland,,,Ireland,IRL,,,,,,,,,
+642,Affordable Modular Homes,,,Ireland,IRL,,,,,,,,,
+643,Timber Living,Timber Living Limited,"Lough Gowna, County Cavan, Ireland",Ireland,IRL,,https://www.timberliving.ie,,8,16.72,111.48,wood,25000.0,1200.0
+644,Custom Built Homes,,,Ireland,IRL,,,,,,,,,
+645,Custom Modular Homes,Custom Modular Homes Ltd.,"123 Example Street, Dublin, Dublin, D01 XY23, Ireland",Ireland,IRL,,https://www.custommodularhomes.ie,,5,45.0,200.0,timber,75000.0,1500.0
+646,EcoBuild Ireland,,,Ireland,IRL,,,,,,,,,
+647,The Timber Frame Company,The Timber Frame Company Limited,"Main Street, Athenry, Co. Galway, Ireland",Ireland,IRL,,https://www.timberframe.ie,,12,50.0,250.0,timber,120000.0,1500.0
+648,Woodland Homes,,,Ireland,IRL,,https://woodlandhomes.ie,,,,,,,
+649,Keystone Modular,,,Ireland,IRL,,,,,,,,,
+650,Ardkeen Modular Homes,,,Ireland,IRL,,,,,,,,,
+651,Ballymount Prefabs,,,Ireland,IRL,,,,,,,,,
+652,EcoMod Prefabs,,,Ireland,IRL,,,,,,,,,
+653,GreenTech Homes,,,Ireland,IRL,,,,,,,,,
+654,EuroMod Homes,,,Ireland,IRL,,,,,,,,,
+655,Celtic Modular,Celtic Modular Limited,"Unit 5, Loughwell, Moycullen, Co. Galway, Ireland",Ireland,IRL,,https://www.celticmodular.ie,,5,40.0,120.0,steel,50000.0,1500.0
+656,Connemara Prefabs,,,Ireland,IRL,,,,,,,,,
+657,Emerald Modular Solutions,,,Ireland,IRL,,,,,,,,,
+658,Quality Homes Ireland,Quality Homes Ireland Limited,"123 Example Street, Dublin, D01 ABCD, Ireland",Ireland,IRL,,https://www.qualityhomes.ie,,5,45.0,150.0,timber,80000.0,2000.0
+659,Coolagown Homes,Coolagown Homes Ltd,"Coolagown, Fermoy, Co. Cork, Ireland",Ireland,IRL,,https://coolagownhomes.ie,,5,50.0,200.0,timber,100000.0,1500.0
+660,Total Modular,Total Modular Limited,"Naas Industrial Estate, Naas, Co. Kildare, W91 YX90, Ireland",Ireland,IRL,,https://www.totalmodular.ie,,5,45.0,150.0,steel,75000.0,1600.0
+661,Clancy Homes Ireland,,,Ireland,IRL,,,,,,,,,
+662,3D Homes Ireland,,,Ireland,IRL,,https://3dhomes.ie,,,,,,,
+663,Ballygarve Timber Frame Homes,,,Ireland,IRL,,,,,,,,,
+664,Ayrshire Homes,,,Ireland,IRL,,,,,,,,,
+665,FastHouse,FastHouse Ltd,"Unit 5, Greystone Road, Antrim, Northern Ireland, BT41 2SJ, Ireland",Ireland,IRL,,https://www.fasthouse.co.uk,,5,70.0,150.0,concrete,120000.0,1500.0
+666,Icarus Homes,Icarus Homes Ltd,,Ireland,IRL,,,,,,,,,
+667,EcoMod Systems,EcoMod Systems Ltd,"unit 4, Airways Industrial Estate, Santry, Dublin, D17 W263, Ireland",Ireland,IRL,,https://ecomod.ie,,5,45.0,150.0,timber,120000.0,1600.0
+668,Homebound Prefabs,Homebound Prefabs Limited,,Ireland,IRL,,,,,,,,,
+669,Timberkit Buildings,Timberkit Buildings Ltd,"Unit 14, Broomhill Business Complex, Broomhill Road, Tallaght, Dublin 24, Ireland",Ireland,IRL,,https://www.timberkitbuildings.ie,,10,30.0,150.0,wood,25000.0,1200.0
+670,Clifford Homes,,,Ireland,IRL,,,,,,,,,
+671,RapidBuild Modular Homes,,,Ireland,IRL,,,,,,,,,
+672,Galco Steel Ltd,Galco Steel Ltd,"Ballymount Road, Walkinstown, Dublin, D12 X299, Ireland",Ireland,IRL,,https://www.galco.ie,,,,,steel,,
+673,Big Red Barn,Big Red Barn Ltd,"Unit 4, Doon Industrial Estate, Ballaghaderreen, Co. Roscommon, F45 NN12, Ireland",Ireland,IRL,,https://www.bigredbarn.ie,,5,37.16,111.48,wood,45000.0,1200.0
+674,Horizon Offsite,Horizon Offsite Limited,"Unit 6, Block 4, Port Tunnel Business Park, Clonshaugh, Dublin, D17 YY09, Ireland",Ireland,IRL,,https://www.horizonoffsite.ie,,5,50.0,200.0,timber,120000.0,1500.0
+675,Celuplast,Celuplast Limited,"Unit 52, Cookstown Industrial Estate, Tallaght, Dublin 24, D24 F702, Ireland",Ireland,IRL,,https://www.celuplast.com,,,,,composite,,
+676,Quick Build Homes,,,Ireland,IRL,,,,,,,,,
+677,MHI Modular Homes,MHI Modular Homes Ltd.,"Unit 4, IDA Business Park, Ballybrittas, Co. Laois, R32 Y8D7, Ireland",Ireland,IRL,,https://www.mhimodularhomes.ie,,6,45.0,150.0,wood,65000.0,1500.0
+678,Tobermore Concrete Products,Tobermore Concrete Ltd,"2 Lisnamuck Road, Tobermore, Magherafelt, BT45 5QF, Northern Ireland, Ireland",Ireland,IRL,,https://www.tobermore.co.uk/,,,,,concrete,,
+679,Connaught Timber Frame,Connaught Timber Frame Ltd,"Unit 1, Ballybane Ind. Estate, Ballybane, Galway, Ireland",Ireland,IRL,,https://www.connaughttimberframe.ie,,5,92.9,232.3,timber,95000.0,1100.0
+680,ScanHome,,,Ireland,IRL,,,,,,,,,
+681,Atlantic Steel Buildings,Atlantic Steel Buildings Limited,"Atlantic Steel Buildings, Unit 19, Oaktree Business Centre, Trim, Co. Meath, Ireland",Ireland,IRL,,https://www.atlanticsteelbuildings.ie,,5,50.0,150.0,steel,50000.0,1000.0
+682,Kerry Timber Frame,Kerry Timber Frame Limited,"Gortatlea, Tralee, Co. Kerry, V92 W767, Ireland",Ireland,IRL,,https://www.kerrytimberframe.com,,5,80.0,250.0,timber,120000.0,1500.0
+683,Dimmer,Dimmer SRL,"Strada Principala 1, Ciolpani, Ilfov, 077050, Romania",Romania,ROU,,https://www.dimmer.ro,,5,50.0,200.0,wood,150000.0,3000.0
+684,Ecom Casa,,,Romania,ROU,,,,,,,,,
+685,Natura House,Natura House SRL,"Strada Exemplu 123, București, Sector 1, 010101, Romania",Romania,ROU,,https://www.naturahouse.ro,,5,50.0,150.0,wood,150000.0,3000.0
+686,Valdek Impex,,,Romania,ROU,,,,,,,,,
+687,Mihai Casa Verde,,,Romania,ROU,,,,,,,,,
+688,La Maison,La Maison Residence SRL,"Strada Drumul Gura Făgetului 29, București, Sector 1, 013663, Romania",Romania,ROU,,https://www.lamaison.ro,,5,50.0,200.0,wood,150000.0,3000.0
+689,Mira Construct,Mira Construct S.R.L.,"Strada Constructorilor 15, București, Romania",Romania,ROU,,https://miraconstruct.ro,,5,50.0,200.0,wood,150000.0,3000.0
+690,Green Village,,,Romania,ROU,,,,,,,,,
+691,Casa Noastra,,,Romania,ROU,,,,,,,,,
+692,Constructii Case Lemn,Constructii Case Lemn SRL,"Strada Principala, Nr. 45, Comuna Bascov, Judetul Arges, 117045, Romania",Romania,ROU,,https://constructiicasemlemn.ro,,8,50.0,200.0,wood,150000.0,2000.0
+693,Casa de Lemn,Casa de Lemn SRL,"Strada Constructorilor, Nr. 10, Cluj-Napoca, Cluj, 400000, Romania",Romania,ROU,,https://www.casadelemn.com,,5,50.0,250.0,wood,150000.0,3000.0
+694,Wood Modul,Wood Modul SRL,"Strada Principala, Nr. 25, Sat Voinesti, Comuna Vidra, Ilfov, 077185, Romania",Romania,ROU,,https://www.woodmodul.ro,,5,45.0,150.0,wood,120000.0,3000.0
+695,Litarh,SC Litarh SRL,"Strada Aurel Vlaicu 2, Râmnicu Sărat, Buzău, 125300, Romania",Romania,ROU,,https://www.litarh.ro,,5,50.0,150.0,wood,90000.0,2500.0
+696,Casa Flex,,,Romania,ROU,,,,,,,,,
+697,Romwoodhouse,,,Romania,ROU,,https://www.romwoodhouse.ro,,,,,,,
+698,ArhiProPub,,,Romania,ROU,,,,,,,,,
+699,Mira Casa,Mira Casa SRL,"Strada Exemplului 10, București, România, 010101",Romania,ROU,,https://www.miracasa.ro,,5,50.0,150.0,wood,150000.0,3000.0
+700,Casa Modul,,,Romania,ROU,,https://www.casmodul.ro,,,,,,,
+701,Prohaus Prefabricate,,,Romania,ROU,,,,,,,,,
+702,Modular Concept,Modular Concept SRL,"Strada Fabricii 1, Cluj-Napoca, Cluj, 400632, Romania",Romania,ROU,,https://www.modularconcept.ro,,5,35.0,120.0,wood,45000.0,2500.0
+703,Prefab Homes Romania,,,Romania,ROU,,,,,,,,,
+704,EcoKit Romania,EcoKit SRL,"Strada Fabricii 4, Gherla, Cluj, 405300, Romania",Romania,ROU,,https://www.ecokit.ro,,5,60.0,200.0,wood,150000.0,3000.0
+705,Rom House,Rom House SRL,"Strada Ion Mihalache, Nr. 123, București, Sector 1, 011171, Romania",Romania,ROU,,https://www.romhouse.ro,,5,45.0,150.0,wood,150000.0,3500.0
+706,Horus Construct,,,Romania,ROU,,,,,,,,,
+707,Lina Homes,,,Romania,ROU,,,,,,,,,
+708,Modularis,Modularis S.R.L.,"Strada Calea Torontalului 116, Timișoara, Timiș, 300627, Romania",Romania,ROU,,https://www.modularis.ro,,5,50.0,200.0,steel,150000.0,3000.0
+709,Casa Verde,,,Romania,ROU,,,,,,,,,
+710,Case Prefabricate Romania,,,Romania,ROU,,,,,,,,,
+711,CaseIn,CaseIn S.R.L.,"Strada Someșului 3, Cluj-Napoca, Cluj, 400386, Romania",Romania,ROU,,https://casein.ro,,5,50.0,150.0,wood,150000.0,
+712,MTC House,,,Romania,ROU,,,,,,,,,
+713,Romstal Modular,Romstal Imex S.R.L.,"Calea Rahovei 266-268, Sector 5, București, 050912, Romania",Romania,ROU,,https://www.romstalmodular.ro,,5,36.0,150.0,steel,50000.0,3500.0
+714,Casa Modulara,,,Romania,ROU,,,,,,,,,
+715,Algeco Romania,Algeco SRL,"Strada Industriilor 4, Pantelimon, Ilfov, 077145, Romania",Romania,ROU,,https://www.algeco.ro,,,,,steel,,
+716,MBS Modular,,,Romania,ROU,,,,,,,,,
+717,Modular Construct,Modular Construct SRL,"Strada Example, Nr. 10, Bucharest, Bucharest, 010203, Romania",Romania,ROU,,https://www.modularconstruct.ro,,5,50.0,200.0,wood,150000.0,3000.0
+718,Casa Meva Prefabricate,,,Romania,ROU,,,,,,,,,
+719,Rocast Prefabricated Homes,,,Romania,ROU,,,,,,,,,
+720,Modular House Romania,Modular House SRL,"Strada Fabricii 32, Cluj-Napoca, Cluj, 400632, Romania",Romania,ROU,,https://modularhouseromania.ro,,5,50.0,150.0,wood,120000.0,2400.0
+721,Prefab Eco Homes,,,Romania,ROU,,,,,,,,,
+722,Smart Home Modular,,,Romania,ROU,,,,,,,,,
+723,Smartwood House,Smartwood House SRL,"Strada Iuliu Maniu, Nr. 7, Brașov, Brașov, 500091, Romania",Romania,ROU,,https://www.smartwoodhouse.ro,,5,45.0,150.0,wood,150000.0,2500.0
+724,Cubus M,Cubus M S.R.L.,"Strada Fabricii 123, Cluj-Napoca, Cluj, 400632, Romania",Romania,ROU,,https://cubusm.ro,,5,45.0,120.0,wood,150000.0,3500.0
+725,Prefab Construct,,,Romania,ROU,,,,,,,,,
+726,Green Home Building,,,Romania,ROU,,,,,,,,,
+727,CasaVita,,,Romania,ROU,,,,,,,,,
+728,Wooden House Romania,,,Romania,ROU,,https://www.wooden-house.ro,,,,,wood,,
+729,MB Concept,MB Concept SRL,"Strada Fabricii, Nr. 12, Cluj-Napoca, Cluj, 400620, Romania",Romania,ROU,,https://www.mbconcept.ro,,5,50.0,150.0,wood,150000.0,3000.0
+730,Romconstruct,,,Romania,ROU,,,,,,,,,
+731,EcoProiect,,,Romania,ROU,,,,,,,,,
+732,MontaNord,,,Romania,ROU,,,,,,,,,
+733,Modular House,Modular House S.R.L.,"Strada Fabricii, Nr. 123, Cluj-Napoca, Cluj, 400000, Romania",Romania,ROU,,https://www.modularhouse.ro,,5,50.0,150.0,wood,150000.0,3000.0
+734,Casa Perfecta,,,Romania,ROU,,,,,,,,,
+735,Euro Modul,Euro Modul SRL,"Strada Mihai Viteazul 45, Timișoara, Timiș, 300222, Romania",Romania,ROU,,https://www.euromodul.ro,,5,30.0,120.0,steel,45000.0,1500.0
+736,Casa in Natura,,,Romania,ROU,,,,,,,,,
+737,Eco Tiny House,SC Eco Tiny House SRL,"Strada Fabricii 8, Sfântu Gheorghe, Covasna, 520037, Romania",Romania,ROU,,https://ecotiny.house,,5,18.58,39.02,wood,60000.0,5000.0
+738,Rezidential Prefab,,,Romania,ROU,,,,,,,,,
+739,Magnum Building,SC Magnum Building SRL,"Strada Valea Oltului 199-201, Sector 6, Bucharest, 061971, Romania",Romania,ROU,,https://magnumbuilding.ro,,5,50.0,200.0,wood,150000.0,3000.0
+740,Smart Prefab,,,Romania,ROU,,,,,,,,,
+741,Ecopanel Construct,Ecopanel Construct SRL,"Strada Fabricii 21, Bucharest, Ilfov, 077190, Romania",Romania,ROU,,https://www.ecopanelconstruct.ro,,5,50.0,150.0,wood,150000.0,3000.0
+742,Modular Proiect,,,Romania,ROU,,,,,,,,,
+743,Prefabricate Mures,Prefabricate Mures SRL,"Strada Cuza Vodă Nr. 43, Târgu Mureș, Mureș, 540306, Romania",Romania,ROU,,https://www.prefabricatemures.ro,,5,50.0,150.0,concrete,250000.0,3500.0
+744,Nordic Modular,,,Romania,ROU,,,,,,,,,
+745,Rapidhome Romania,,,Romania,ROU,,https://rapidhome.ro,,,,,,,
+746,Modular Design,Modular Design SRL,"Strada Pictor Stefan Luchian, Nr. 1, Otopeni, Ilfov, 075100, Romania",Romania,ROU,,https://modulardesign.ro,,5,45.0,150.0,wood,150000.0,3000.0
+747,Pro Eco Prefab,,,Romania,ROU,,,,,,,,,
+748,Romdomus,,,Romania,ROU,,,,,,,,,
+749,Nordic Homes Romania,,,Romania,ROU,,,,,,,,,
+750,Habitat Pro,,,Romania,ROU,,,,,,,,,
+751,Modular Home Romania,,,Romania,ROU,,,,,,,,,
+752,Prefabricate Romania,,,Romania,ROU,,,,,,,,,
+753,Green Panel,,,Romania,ROU,,,,,,,,,
+754,Consola Grup,Consola Grup S.R.L.,"Strada Tineretului 6, Păulești, Prahova, 107400, Romania",Romania,ROU,,https://www.consolagrup.ro,,5,60.0,200.0,wood,150000.0,2500.0
+755,Sistem Casa,Sistem Casa SRL,"Strada Principală 45, Sat Bilca, Comuna Bilca, Județ Suceava, 727010, Romania",Romania,ROU,,https://www.sistemcasa.ro,,8,50.0,200.0,wood,150000.0,3000.0
+756,Rom Construct,,,Romania,ROU,,,,,,,,,
+757,Prefabricate Sud,Prefabricate Sud SRL,,Romania,ROU,,,,,,,,,
+758,Case Lemn Buzau,,,Romania,ROU,,,,,,,,,
+759,A-Frame Constructions,,,Romania,ROU,,,,,,,,,
+760,ModularDesign,,,Romania,ROU,,,,,,,,,
+761,HolzHaus Romania,,,Romania,ROU,,,,,,,,,
+762,ProCasa,S.C. ProCasa S.R.L.,"Strada Principală, Nr. 20, Sat Vadu Crișului, Comuna Vadu Crișului, Județul Bihor, 417615, Romania",Romania,ROU,,https://procasa.ro,,10,50.0,150.0,wood,150000.0,3000.0
+763,Casa Modulara Romania,,,Romania,ROU,,,,,,,,,
+764,Romconstruct Prefabricate,Romconstruct Prefabricate SRL,"Strada Fabricii 2, Oras Pantelimon, Ilfov, 077145, Romania",Romania,ROU,,https://www.romconstruct.ro,,5,50.0,150.0,concrete,150000.0,3000.0
+765,RomPrefab,,,Romania,ROU,,,,,,,,,
+766,Eco Living Romania,,,Romania,ROU,,,,,,,,,
+767,Roframe,,,Romania,ROU,,,,,,,,,
+768,GreenPref,,,Romania,ROU,,,,,,,,,
+769,TechnoPrefab,,,Romania,ROU,,,,,,,,,
+770,BuildUp Romania,,,Romania,ROU,,,,,,,,,
+771,Casa de Vis,,,Romania,ROU,,,,,,,,,
+772,Romwood,SC Romwood SRL,"Strada Principala 45, Comuna Berceni, Județul Ilfov, 077020, Romania",Romania,ROU,,https://www.romwood.ro,,5,45.0,120.0,wood,100000.0,2200.0
+773,Green Home Modular,,,Romania,ROU,,,,,,,,,
+774,Confort Home,,,Romania,ROU,,,,,,,,,
+775,Tehnic Home,,,Romania,ROU,,,,,,,,,
+776,Homewood Romania,,,Romania,ROU,,,,,,,,,
+777,Eco Design Construct,,,Romania,ROU,,,,,,,,,
+778,Tecton Trust,,,Romania,ROU,,,,,,,,,
+779,Domus Stil,,,Romania,ROU,,,,,,,,,
+780,MBM Construct,MBM Construct SRL,"Str. Tudor Vladimirescu 45, Buzau, Buzau, 120024, Romania",Romania,ROU,,https://www.mbmconstruct.ro,,5,50.0,200.0,wood,150000.0,3000.0
+781,Constructii Prefabricate,,,Romania,ROU,,,,,,,,,
+782,Casaterm,Casaterm Construct SRL,"Strada Vasile Alecsandri 12, Oradea, Bihor, 410072, Romania",Romania,ROU,,https://www.casaterm.ro,,8,50.0,250.0,wood,80000.0,1600.0
+783,Houseline,,,Romania,ROU,,,,,,,,,
+784,Rovex Concept,,,Romania,ROU,,,,,,,,,
+785,Cubis Project,Cubis Project SRL,"Strada Caisului, Nr. 17, Cluj-Napoca, Cluj, 400487, Romania",Romania,ROU,,https://cubisproject.ro,,5,45.0,120.0,wood,150000.0,3500.0
+786,Nord Arin,S.C. Nord Arin S.R.L.,"Strada Fabricii 45, Cluj-Napoca, Cluj, 400632, Romania",Romania,ROU,,https://www.nordarin.ro,,5,45.0,150.0,wood,150000.0,3000.0
+787,Holzoptima,Holzoptima SRL,"Strada Principala 100, Comuna Orlat, Judetul Sibiu, 557170, Romania",Romania,ROU,,https://www.holzoptima.ro,,5,50.0,150.0,wood,120000.0,2400.0
+788,Casa Ta,,,Romania,ROU,,,,,,,,,
+789,Tehnocasa,,,Romania,ROU,,,,,,,,,
+790,ModulSys,,,Romania,ROU,,,,,,,,,
+791,Romtab,SC Romtab SRL,"Strada Fabricii 1, Cluj-Napoca, Cluj, 400632, Romania",Romania,ROU,,https://www.romtab.ro,,5,40.0,150.0,wood,95000.0,3000.0
+792,MobilBox,Mobilbox Konténer Kereskedelmi Kft.,"1239 Budapest, Ócsai út 4., Hungary",Hungary,HUN,,https://www.mobilbox.hu,,,,,steel,,
+793,Könnyűszerkezetes Házak,,,Hungary,HUN,,,,,,,,,
+794,Házgyár.hu,,,Hungary,HUN,,https://hazgyar.hu,,,,,,,
+795,ECO HOUSE Hungary,,,Hungary,HUN,,,,,,,,,
+796,Könnyűszerkezetes Házépítő Kft.,,,Hungary,HUN,,,,,,,,,
+797,Készházak Kft.,,,Hungary,HUN,,,,,,,,,
+798,HORIZONT Global,HORIZONT Global Kft.,"Kossuth Lajos utca 2, Budapest, 1053, Hungary",Hungary,HUN,,https://www.horizontglobal.com,,5,45.0,150.0,wood,15000000.0,333333.0
+799,Thermo-Block Hungary,Thermo-Block Hungary Kft.,"Liget utca 3, Budapest, 1148, Hungary",Hungary,HUN,,https://thermo-block.hu,,5,70.0,200.0,concrete,15000000.0,250000.0
+800,ProKoncept,ProKoncept Hungary Kft.,"Szilágyi Dezső tér 1, Budapest, 1011, Hungary",Hungary,HUN,,https://www.prokoncept.hu,,5,50.0,200.0,concrete,15000000.0,300000.0
+801,Márta Kft.,,,Hungary,HUN,,,,,,,,,
+802,KÖNYYŰHAZ,KÖNYYŰHAZ Kft.,,Hungary,HUN,,https://www.konnyuhaz.hu,,,,,,,
+803,Manta Homes,,,Hungary,HUN,,,,,,,,,
+804,TrendHouse Kft.,,,Hungary,HUN,,,,,,,,,
+805,AMVIC Hungary,,,Hungary,HUN,,,,,,,,,
+806,Lignova Kft.,,,Hungary,HUN,,,,,,,,,
+807,WWL Houses,WWL Houses s.r.o.,"Púchovská 8, 831 06 Bratislava, Slovakia",Slovakia,SVK,,https://www.wwlhouses.com,,5,50.0,150.0,wood,50000.0,1000.0
+808,Smart Drevodom,Smart Drevodom s.r.o.,"Some Street 123, Bratislava, Bratislava Region, 811 01, Slovakia",Slovakia,SVK,,https://www.smartdrevodom.sk,,5,45.0,160.0,wood,55000.0,1200.0
+809,Tectum Novum,Tectum Novum s.r.o.,"Radlinského 17, Bratislava, Bratislava Region, 811 07, Slovakia",Slovakia,SVK,,https://www.tectumnovum.sk,,,,,wood,,
+810,KON-Truss,,,Slovakia,SVK,,,,,,,,,
+811,Ecocube,Ecocube s.r.o.,"Na Kalvárii 18, 949 01 Nitra, Slovakia",Slovakia,SVK,,https://www.ecocube.sk,,4,45.0,120.0,wood,75000.0,1250.0
+812,Green Building,Green Building s.r.o.,"Na Varte 1234, Bratislava, Bratislavský kraj, 841 01, Slovakia",Slovakia,SVK,,https://www.greenbuilding.sk,,5,45.0,150.0,wood,75000.0,1500.0
+813,HOCOS,,,Slovakia,SVK,,,,,,,,,
+814,STAS,STAS s.r.o.,"Nová 391, 010 03 Žilina, Slovakia",Slovakia,SVK,,https://www.stas.sk,,5,50.0,150.0,wood,80000.0,1500.0
+815,ISOMAX,ISOMAX SK s.r.o.,"Stará Vajnorská 17, 831 04 Bratislava, Slovakia",Slovakia,SVK,,https://www.isomax.sk,,5,60.0,200.0,concrete,50000.0,1000.0
+816,KAMI PROFIT,"KAMI PROFIT, s.r.o.","Kopčianska 92, Bratislava, 851 01, Slovakia",Slovakia,SVK,,https://www.kamiprofit.sk,,5,50.0,150.0,wood,50000.0,1200.0
+817,Drevstav Slovakia,"Drevstav Slovakia, s.r.o.","Prievidzská 1234, 97271 Nováky, Slovakia",Slovakia,SVK,,https://www.drevstavslovakia.sk,,8,60.0,200.0,wood,50000.0,1000.0
+818,Modern Timber Houses,Modern Timber Houses s.r.o.,"123 Timber Lane, Bratislava, Bratislava Region, 811 01, Slovakia",Slovakia,SVK,,https://www.moderntimberhouses.sk,,5,50.0,150.0,timber,75000.0,1200.0
+819,Modularch,,,Slovakia,SVK,,,,,,,,,
+820,Modular Systems Slovakia,,,Slovakia,SVK,,,,,,,,,
+821,Slovak Modular Homes,Slovak Modular Homes s.r.o.,,Slovakia,SVK,,https://www.slovakmodularhomes.sk,,,,,wood,,
+822,Prefa Domy Slovakia,,,Slovakia,SVK,,,,,,,,,
+823,Eco Modular Slovakia,,,Slovakia,SVK,,,,,,,,,
+824,Atrium SK,Atrium SK s.r.o.,"Športová 927, 020 01 Púchov, Slovakia",Slovakia,SVK,,https://www.atrium-sk.sk,,,,,wood,,
+825,ForDom,ForDom s.r.o.,"Ľ. Fullu 9, 841 05 Bratislava, Slovakia",Slovakia,SVK,,https://www.fordom.sk,,5,50.0,200.0,wood,50000.0,1000.0
+826,Koma Modular,Koma Modular SK s.r.o.,"Na Pántoch 18, Bratislava, 831 06, Slovakia",Slovakia,SVK,,https://www.koma-modular.sk/,,5,30.0,120.0,steel,50000.0,1500.0
+827,RD Rýmařov Slovakia,RD Rýmařov Slovakia s.r.o.,"Galvaniho 7/D, Bratislava, 821 04, Slovakia",Slovakia,SVK,,https://www.rdrymarov.sk,,15,50.0,200.0,wood,70000.0,1150.0
+828,ELK Fertighaus,ELK Fertighaus GmbH Slovakia,,Slovakia,SVK,,https://www.elk.at,,,,,wood,,
+829,HAAS Fertigbau,HAAS Fertigbau s.r.o.,"Novozámocká 106, 949 05 Nitra, Slovakia",Slovakia,SVK,,https://www.haas-fertigbau.sk,,10,80.0,200.0,timber,120000.0,1500.0
+830,CUBE Modular SK s.r.o.,,,Slovakia,SVK,,,,,,,,,
+831,Wood & Company Building Systems s.r.o.,Wood & Company Building Systems s.r.o.,,Slovakia,SVK,,,,,,,,,
+832,Drevodom Orava,Drevodom Orava s.r.o.,"Hruštín 300, Hruštín, Námestovo, 029 52, Slovakia",Slovakia,SVK,,https://www.drevodom.sk,,10,50.0,200.0,wood,30000.0,600.0
+833,SmartWood s.r.o.,SmartWood s.r.o.,,Slovakia,SVK,,,,,,,,,
+834,EUROline Slovakia,EUROline Slovakia s.r.o.,"Pribinova 25, 811 09 Bratislava, Slovakia",Slovakia,SVK,,https://www.eurolineslovakia.sk,,20,60.0,340.0,wood,50000.0,1000.0
+835,RIKO-HOUSE,,,Slovakia,SVK,,,,,,,,,
+836,DOMY DREVODOM,DOMY DREVODOM s.r.o.,,Slovakia,SVK,,http://www.domydrevodom.sk,,,,,wood,,
+837,SmartWoodHouse,,,Slovakia,SVK,,,,,,,,,
+838,Houses from Wood,"Houses from Wood, s.r.o.","Kolárovská 102, Komárno, 945 01, Slovakia",Slovakia,SVK,,https://housesfromwood.sk,,15,50.0,200.0,wood,45000.0,800.0
+839,Wolf Haus Slovakia,Wolf Haus Slovakia s.r.o.,"Mlynské Nivy 5, 821 09 Bratislava, Slovakia",Slovakia,SVK,,https://www.wolfhaus.sk,,8,90.0,250.0,wood,120000.0,1500.0
+840,WoodCon,WoodCon s.r.o.,"Hlavná 123, Bratislava, 811 01, Slovakia",Slovakia,SVK,,https://www.woodcon.sk,,8,45.0,150.0,wood,80000.0,1200.0
+841,SIP SK,,,Slovakia,SVK,,,,,,,,,
+842,Lumar IG,Lumar IG d.o.o.,,Slovakia,SVK,,https://www.lumar.si,,,,,wood,,
+843,DOMINO Group,,,Slovakia,SVK,,,,,,,,,
+844,Drevodom Orava,Drevodom Orava s.r.o.,"Vavrečka 312, Námestovo, Žilinský kraj, 029 01, Slovakia",Slovakia,SVK,,https://www.drevodom.sk,,12,45.0,200.0,wood,35000.0,750.0
+845,Kontrakting,Kontrakting s.r.o.,"Obchodná 123, Bratislava, 811 01, Slovakia",Slovakia,SVK,,https://www.kontrakting.sk,,5,50.0,200.0,wood,50000.0,1000.0
+846,Riegelhaus,,,Slovakia,SVK,,,,,,,,,
+847,ThermoHome,,,Slovakia,SVK,,,,,,,,,
+848,Kraus & Partner,,,Slovakia,SVK,,,,,,,,,
+849,Delta House,,,Slovakia,SVK,,,,,,,,,
+850,RD Rýmařov Slovakia,RD Rýmařov s.r.o.,"Nám. sv. Anny 2945/4, 911 01 Trenčín, Slovakia",Slovakia,SVK,,https://www.rdrymarov.sk,,10,80.0,200.0,wood,120000.0,1500.0
+851,DOMY SK,DOMY SK s.r.o.,"Hviezdoslavova 1234, Bratislava, 811 02, Slovakia",Slovakia,SVK,,https://www.domysk.com,,5,50.0,150.0,wood,75000.0,1200.0
+852,M-House Slovakia,,,Slovakia,SVK,,https://www.mhouse.sk,,,,,,,
+853,Modularny Dom,,,Slovakia,SVK,,,,,,,,,
+854,Ekopanely Slovakia,,,Slovakia,SVK,,,,,,,,,
+855,Rovex Inmobiliaria,,,Slovakia,SVK,,,,,,,,,
+856,Slovak Dom,Slovak Dom s.r.o.,"Štúrova 12, Bratislava, Slovakia",Slovakia,SVK,,https://www.slovakdom.sk,,5,45.0,150.0,wood,50000.0,1200.0
+857,Prefast Slovakia,,,Slovakia,SVK,,,,,,,,,
+858,Modularky.sk,,,Slovakia,SVK,,https://www.modularky.sk,,,,,,,
+859,Heinz Modular Homes,,,Slovakia,SVK,,,,,,,,,
+860,Prodomy Slovakia,,,Slovakia,SVK,,,,,,,,,
+861,Eco House Bulgaria,Eco House Bulgaria Ltd.,"ul. Tsarigradsko shose 123, Sofia, 1784, Bulgaria",Bulgaria,BGR,,https://www.ecohousebulgaria.com,,5,60.0,200.0,wood,50000.0,800.0
+862,Balkan House,Balkan House OOD,"123 Example Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.balkanhouse.bg,,5,45.0,150.0,wood,50000.0,1200.0
+863,Balmax Modular Homes,,,Bulgaria,BGR,,,,,,,,,
+864,Ligna Group,Ligna Group Ltd.,,Bulgaria,BGR,,https://www.ligna-group.com,,,,,wood,,
+865,Home Design Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+866,Alfa Prefab,,,Bulgaria,BGR,,,,,,,,,
+867,Prefab Homes BG,,,Bulgaria,BGR,,,,,,,,,
+868,Modulor,,,Bulgaria,BGR,,,,,,,,,
+869,BG Prefab Homes,,,Bulgaria,BGR,,,,,,,,,
+870,Build Green,Build Green Ltd.,"ul. Tsar Simeon 72, Sofia, Sofia City Province, 1301, Bulgaria",Bulgaria,BGR,,https://www.buildgreen.bg,,8,50.0,150.0,wood,50000.0,700.0
+871,My Modular Home,,,Bulgaria,BGR,,,,,,,,,
+872,Eco Building Systems,,,Bulgaria,BGR,,,,,,,,,
+873,Bulgaria Prefab Homes,,,Bulgaria,BGR,,,,,,,,,
+874,Modulor Homes Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+875,EcoHomes Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+876,Balkan Modular Solutions,Balkan Modular Solutions Ltd.,"123 Industrial Zone, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.balkanmodularsolutions.bg,,5,50.0,200.0,wood,40000.0,800.0
+877,Green Modular Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+878,Prefabricated Living Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+879,Bulgaria Kit Homes,Bulgaria Kit Homes Ltd.,"ul. Tsarigradsko shose 115, Sofia, Sofia-city, 1784, Bulgaria",Bulgaria,BGR,,https://www.bulgariakithomes.com,,8,60.0,200.0,wood,30000.0,1000.0
+880,HomeBuild Modular,HomeBuild Modular OOD,"123 Modular Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.homebuildmodular.bg,,8,45.0,150.0,wood,50000.0,800.0
+881,Constructa Prefab,,,Bulgaria,BGR,,,,,,,,,
+882,Bulgaria Panel Homes,,,Bulgaria,BGR,,,,,,,,,
+883,Kolevi Build,Kolevi Build Ltd.,"123 Example Street, Sofia, Sofia-city, 1000, Bulgaria",Bulgaria,BGR,,https://www.kolevibuild.bg,,5,60.0,200.0,wood,50000.0,1200.0
+884,Stroitelna Mehanizatsia AD,Stroitelna Mehanizatsia AD,,Bulgaria,BGR,,,,,,,,,
+885,Alfa Prefab Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+886,Construct BG,,,Bulgaria,BGR,,,,,,,,,
+887,Prefabricated Homes BG,Prefabricated Homes BG Ltd.,"123 Example Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.prefabricatedhomesbg.com,,5,50.0,200.0,wood,50000.0,1000.0
+888,Eco Dom Bulgaria,,,Bulgaria,BGR,,https://www.ecodom.bg,,,,,,,
+889,Modular BG Homes,,,Bulgaria,BGR,,,,,,,,,
+890,Smart Build Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+891,Bulgaria Modular System,,,Bulgaria,BGR,,,,,,,,,
+892,Eko Toplina,Eko Toplina EOOD,"ul. Georgi Benkovski 8, Sofia, Sofia, 1000, Bulgaria",Bulgaria,BGR,,https://www.ekotoplina.bg,,5,45.0,150.0,wood,40000.0,800.0
+893,Modulor Homes,,,Bulgaria,BGR,,,,,,,,,
+894,PrefaDom,,,Bulgaria,BGR,,,,,,,,,
+895,Smart Home Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+896,Stroyko Prefab,,,Bulgaria,BGR,,,,,,,,,
+897,Modulor Bulgaria,Modulor OOD,"ul. Georgi S. Rakovski 123, Sofia, Sofia-City, 1000, Bulgaria",Bulgaria,BGR,,https://modulor.bg,,5,50.0,200.0,wood,50000.0,1200.0
+898,MobiHome BG,MobiHome BG Ltd.,"123 Example Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.mobihome.bg,,5,45.0,120.0,wood,45000.0,800.0
+899,Bulgarian House Factory,,,Bulgaria,BGR,,,,,,,,,
+900,EcoPrefab Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+901,Green Modular Homes,,,Bulgaria,BGR,,,,,,,,,
+902,Balkan Prefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+903,Bulgaria Prefab,,,Bulgaria,BGR,,,,,,,,,
+904,Bulgarian Modular Systems,,,Bulgaria,BGR,,,,,,,,,
+905,EcoDom Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+906,TechnoHome Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+907,Green Building Solutions,,,Bulgaria,BGR,,,,,,,,,
+908,EasyHome Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+909,Bulgaria House Group,,,Bulgaria,BGR,,,,,,,,,
+910,Prefab Solutions BG,,,Bulgaria,BGR,,,,,,,,,
+911,SmartBuild Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+912,Komfort Prefab,,,Bulgaria,BGR,,,,,,,,,
+913,Bulgaria House,Bulgaria House Ltd.,"15 Tsarigradsko Shose Blvd, Sofia, 1124, Bulgaria",Bulgaria,BGR,,https://bulgariahouse.bg,,5,50.0,200.0,wood,50000.0,1000.0
+914,Prista Build,Prista Build Ltd.,"ul. Georgi Benkovski 25, Ruse, 7000, Bulgaria",Bulgaria,BGR,,https://www.pristabuild.bg,,8,45.0,150.0,wood,60000.0,800.0
+915,Prefarb Homes,,,Bulgaria,BGR,,,,,,,,,
+916,Smart House Bulgaria,Smart House OOD,"12 Vasil Levski Blvd, Sofia, 1000, Bulgaria",Bulgaria,BGR,,https://smarthousebulgaria.com,,8,50.0,200.0,wood,50000.0,1200.0
+917,Ecohouse Bulgaria,Ecohouse Bulgaria Ltd.,"14 Tsarigradsko Shose Blvd, Sofia, 1784, Bulgaria",Bulgaria,BGR,,https://www.ecohouse.bg,,8,50.0,200.0,wood,50000.0,1200.0
+918,BuildGreen Modular,,,Bulgaria,BGR,,,,,,,,,
+919,Bulgaria Prefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+920,BG Modular Systems,,,Bulgaria,BGR,,,,,,,,,
+921,PrefabTech Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+922,ModularHome BG,ModularHome BG Ltd.,"123 Example Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.modularhome.bg,,5,45.0,150.0,wood,50000.0,1200.0
+923,Bulgaria Modular Build,,,Bulgaria,BGR,,,,,,,,,
+924,Build Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+925,Prefabex,,,Bulgaria,BGR,,https://www.prefabex.com,,,,,,,
+926,Modulor Ltd,,,Bulgaria,BGR,,,,,,,,,
+927,EcoBuild Systems,,,Bulgaria,BGR,,,,,,,,,
+928,Modular Homes Bulgaria,,,Bulgaria,BGR,,https://www.modularhomes.bg,,,,,,,
+929,HomeBox Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+930,EasyHome BG,,,Bulgaria,BGR,,https://www.easyhomebg.com,,,,,,,
+931,ModulHouse,ModulHouse Ltd.,"123 Example Street, Sofia, 1000, Bulgaria",Bulgaria,BGR,,https://www.modulhouse.bg,,5,45.0,150.0,wood,50000.0,800.0
+932,Green Prefab Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+933,SmartPrefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+934,Bulgaria Modular Homes,,,Bulgaria,BGR,,,,,,,,,
+935,Sofia Prefab Construction,,,Bulgaria,BGR,,,,,,,,,
+936,Plovdiv Prefabricated Solutions,,,Bulgaria,BGR,,,,,,,,,
+937,Black Sea Modular,,,Bulgaria,BGR,,,,,,,,,
+938,Varna Prefab Innovations,Varna Prefab Innovations Ltd.,"123 Innovation Street, Varna, Varna Province, 9000, Bulgaria",Bulgaria,BGR,,https://www.varnaprefabinnovations.bg,,5,60.0,150.0,wood,45000.0,800.0
+939,Balkan Modular Builders,,,Bulgaria,BGR,,,,,,,,,
+940,Rila Prefabricated Homes,,,Bulgaria,BGR,,,,,,,,,
+941,Thracian Modular Systems,Thracian Modular Systems Ltd.,,Bulgaria,BGR,,,,,,,,,
+942,Danube Prefab Construction,,,Bulgaria,BGR,,,,,,,,,
+943,Modular Systems Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+944,Eco-Prefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+945,Green Home Pre-fabrication,,,Bulgaria,BGR,,,,,,,,,
+946,Sofia Modular Builders,,,Bulgaria,BGR,,,,,,,,,
+947,Balkan Prefab Homes,Balkan Prefab Homes Ltd.,,Bulgaria,BGR,,,,,,,,,
+948,Innovative Modular Construction,,,Bulgaria,BGR,,,,,,,,,
+949,Eco Modular Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+950,Dynamic Prefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+951,Advanced Modular Construction,,,Bulgaria,BGR,,,,,,,,,
+952,EKO System,EKO System Ltd.,"1234 Industrial Zone, Sofia, 1000, Bulgaria",Bulgaria,BGR,,https://www.ekosystem.bg,,5,50.0,150.0,wood,30000.0,600.0
+953,SmartHomes Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+954,Green Modular Buildings,,,Bulgaria,BGR,,,,,,,,,
+955,EcoHouse BG,EcoHouse BG Ltd.,"123 Vasil Levski Blvd, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.ecohouse.bg,,5,50.0,150.0,wood,60000.0,1000.0
+956,Bulgaria Modular Construction,,,Bulgaria,BGR,,,,,,,,,
+957,BG Prefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+958,Modulor BG,Modulor BG Ltd.,"123 Prefab Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.modulor.bg,,5,45.0,120.0,wood,50000.0,1100.0
+959,PrefabHouse Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+960,Alfa Modular,,,Bulgaria,BGR,,,,,,,,,
+961,Bulgaria Home Factory,,,Bulgaria,BGR,,,,,,,,,
+962,Eco Home Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+963,Bulgarian Prefab Solutions,,,Bulgaria,BGR,,,,,,,,,
+964,Green Modular Systems,,,Bulgaria,BGR,,,,,,,,,
+965,Sofia Modular Homes,,,Bulgaria,BGR,,,,,,,,,
+966,Bulgarian Home Builders,,,Bulgaria,BGR,,,,,,,,,
+967,Modular Space BG,,,Bulgaria,BGR,,,,,,,,,
+968,Prefab Construction BG,,,Bulgaria,BGR,,,,,,,,,
+969,Varna Prefab Homes,,,Bulgaria,BGR,,,,,,,,,
+970,Plovdiv Modular Houses,,,Bulgaria,BGR,,,,,,,,,
+971,Prefabricated Homes Bulgaria,Prefabricated Homes Bulgaria Ltd.,"123 Prefab Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.prefabricatedhomesbulgaria.com,,5,45.0,150.0,wood,50000.0,800.0
+972,Interlink Group,,,Bulgaria,BGR,,,,,,,,,
+973,Bulgarian Prefabricated Building Systems,,,Bulgaria,BGR,,,,,,,,,
+974,Modular Construction Ltd.,,,Bulgaria,BGR,,,,,,,,,
+975,Citybuild Bulgaria,Citybuild Bulgaria Ltd.,"123 Example Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.citybuild.bg,,5,50.0,150.0,wood,50000.0,800.0
+976,Balkansko Eko Selo,,,Bulgaria,BGR,,,,,,,,,
+977,SmartHouse Bulgaria,SmartHouse Bulgaria Ltd.,"10B Ivan Vazov Street, Sofia, 1000, Bulgaria",Bulgaria,BGR,,https://smarthousebulgaria.com,,8,60.0,200.0,wood,45000.0,750.0
+978,Bulgarian Modular Homes,,,Bulgaria,BGR,,,,,,,,,
+979,Kedar Construction,,,Bulgaria,BGR,,,,,,,,,
+980,Bulgaria Prefab Group,,,Bulgaria,BGR,,,,,,,,,
+981,Bulgaria Home Solutions,,,Bulgaria,BGR,,,,,,,,,
+982,GreenHouse Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+983,Techno Home Bulgaria,,,Bulgaria,BGR,,,,,,,,,
+984,NovoDom Prefab,NovoDom Prefabricated Homes Ltd.,"123 Prefab Street, Sofia, Sofia City Province, 1000, Bulgaria",Bulgaria,BGR,,https://www.novodom.bg,,8,50.0,200.0,wood,35000.0,700.0
+985,Holzbau Sud,,,Croatia,HRV,,,,,,,,,
+986,Krovogradnja,,,Croatia,HRV,,,,,,,,,
+987,Modular Living,,,Croatia,HRV,,https://www.modular-living.eu,,,,,,,
+988,NOVE KUĆE d.o.o.,NOVE KUĆE d.o.o.,,Croatia,HRV,,,,,,,,,
+989,ECO-SISTEM,ECO-SISTEM d.o.o.,,Croatia,HRV,,http://www.eco-sistem.hr,,,,,,,
+990,PANA,PANA d.o.o.,"Kamenica 57, 42250 Lepoglava, Croatia",Croatia,HRV,,https://www.pana.hr,,5,50.0,150.0,wood,50000.0,1000.0
+991,Montgradnja,Montgradnja d.o.o.,,Croatia,HRV,,http://www.montgradnja.com,,,,,,,
+992,Trebotić d.o.o.,Trebotić d.o.o.,,Croatia,HRV,,,,,,,,,
+993,Gradnja Osijek d.o.o.,Gradnja Osijek d.o.o.,,Croatia,HRV,,,,,,,,,
+994,Graditelj svratišta d.o.o.,Graditelj svratišta d.o.o.,,Croatia,HRV,,,,,,,,,
+995,Modular Sistem d.o.o.,,,Croatia,HRV,,,,,,,,,
+996,Alpro Šardi,Alpro Šardi d.o.o.,,Croatia,HRV,,https://alprosardi.hr,,,,,wood,,
+997,Krovopokrivač,,,Croatia,HRV,,,,,,,,,
+998,Gradnja Slavonija d.o.o.,Gradnja Slavonija d.o.o.,,Croatia,HRV,,,,,,,,,
+999,Ekobau d.o.o.,,,Croatia,HRV,,,,,,,,,
+1000,Modular Living,Modular Living d.o.o.,"Radnička cesta 52, 10000 Zagreb, Croatia",Croatia,HRV,,https://www.modular-living.hr,,5,35.0,120.0,wood,50000.0,1500.0
+1001,Techno House d.o.o.,,,Croatia,HRV,,,,,,,,,
+1002,Domprojekt d.o.o.,,,Croatia,HRV,,,,,,,,,
+1003,Montažne Kuće Krivaja d.o.o.,Montažne Kuće Krivaja d.o.o.,,Croatia,HRV,,,,,,,,,
+1004,Prograd,Prograd d.o.o.,,Croatia,HRV,,,,,,,,,
+1005,Montazni objekti,Montazni objekti d.o.o.,"Ulica kneza Branimira 12, 10000 Zagreb, Croatia",Croatia,HRV,,https://www.montazniobjekti.hr,,5,50.0,200.0,wood,50000.0,1000.0
+1006,Domeko d.o.o.,,,Croatia,HRV,,,,,,,,,
+1007,Gotove kuće d.o.o.,Gotove kuće d.o.o.,,Croatia,HRV,,,,,,,,,
+1008,JUBHome,JUBHome d.o.o.,"Dol pri Ljubljani 28, 1262 Dol pri Ljubljani, Slovenia",Slovenia,SVN,,https://www.jubhome.com,,5,50.0,150.0,concrete,50000.0,1000.0
+1009,Marles Hiše,Marles Hiše Maribor d.o.o.,"Strossmayerjeva ulica 15, 2000 Maribor, Slovenia",Slovenia,SVN,,https://www.marles.com,,20,40.0,250.0,wood,50000.0,1200.0
+1010,Riko Hiše,Riko Hiše d.o.o.,"Bizjanova ulica 2, 1000 Ljubljana, Slovenia",Slovenia,SVN,,https://www.riko-hise.si/,,5,80.0,300.0,wood,100000.0,1500.0
+1011,Jelovica Hiše,Jelovica Hiše d.o.o.,"Koritnica 69, 4243 Breznica, Slovenia",Slovenia,SVN,,https://www.jelovica-hise.si,,5,50.0,200.0,wood,50000.0,1200.0
+1012,Lumar,Lumar IG d.o.o.,"Tržaška cesta 60a, 2000 Maribor, Slovenia",Slovenia,SVN,,https://www.lumar.si,,15,50.0,300.0,wood,80000.0,1500.0
+1013,Kager Hiša,Kager Hiša d.o.o.,"Limbuška cesta 32, 2341 Limbuš, Slovenia",Slovenia,SVN,,https://www.kager.si,,10,50.0,250.0,wood,70000.0,1400.0
+1014,Hipex d.o.o.,,,Slovenia,SVN,,,,,,,,,
+1015,Montažne Hiše Javušnik d.o.o.,,,Slovenia,SVN,,,,,,,,,
+1016,Rihter,Rihter d.o.o.,"Loke pri Mozirju 17A, 3330 Mozirje, Slovenia",Slovenia,SVN,,https://www.rihter.si,,10,60.0,300.0,wood,80000.0,1200.0
+1017,Jaris d.o.o.,,,Slovenia,SVN,,,,,,,,,
+1018,Konstrukcije d.o.o.,Konstrukcije d.o.o.,,Slovenia,SVN,,,,,,,,,
+1019,Ekokoncept,Ekokoncept d.o.o.,"Ulica Marjana Kozine 2, 1000 Ljubljana, Slovenia",Slovenia,SVN,,https://www.ekokoncept.si,,5,60.0,200.0,wood,75000.0,1200.0
+1020,Tesarstvo Kregar d.o.o.,Tesarstvo Kregar d.o.o.,,Slovenia,SVN,,,,,,,,,
+1021,LogHOUSE,LogHOUSE d.o.o.,,Slovenia,SVN,,https://www.loghouse.si,,,,,,,
+1022,Poplar Homes,Poplar d.o.o.,"Dunajska cesta 123, Ljubljana, 1000, Slovenia",Slovenia,SVN,,https://www.poplarhomes.si,,5,50.0,200.0,wood,50000.0,1200.0
+1023,Konta,Konta d.o.o.,"Industrijska cesta 14, 5000 Nova Gorica, Slovenia",Slovenia,SVN,,https://www.konta.si,,5,60.0,200.0,wood,50000.0,1250.0
+1024,Riko Hiše,Riko Group d.o.o.,"Bizjanova ulica 2, 1000 Ljubljana, Slovenia",Slovenia,SVN,,https://www.riko-hise.si,,5,50.0,200.0,wood,80000.0,1500.0
+1025,Jelovica,Jelovica d.o.o.,"Kidričeva cesta 2, 4220 Škofja Loka, Slovenia",Slovenia,SVN,,https://www.jelovica.si,,10,50.0,200.0,wood,50000.0,1200.0
+1026,Marles,Marles hiše Maribor d.d.,"Ptujska cesta 21, 2000 Maribor, Slovenia",Slovenia,SVN,,https://www.marles.com,,20,60.0,300.0,wood,50000.0,1200.0
+1027,KAGER Hiše,KAGER Hiše d.o.o.,"Cesta v Log 15, 1351 Brezovica pri Ljubljani, Slovenia",Slovenia,SVN,,https://www.kager.si,,10,80.0,250.0,wood,100000.0,1500.0
+1028,Konstruktor d.o.o.,,,Slovenia,SVN,,,,,,,,,
+1029,Lesoteka Hiše,Lesoteka Hiše d.o.o.,"Lesarska cesta 2, 1234 Mengeš, Slovenia",Slovenia,SVN,,https://www.lesoteka-hise.si/,,5,60.0,200.0,wood,50000.0,1200.0
+1030,Monting SK d.o.o.,Monting SK d.o.o.,,Slovenia,SVN,,,,,,,,,
+1031,JSC Modular Houses,,,Lithuania,LTU,,,,,,,,,
+1032,UAB Bauwerk,,,Lithuania,LTU,,,,,,,,,
+1033,Baltic House,Baltic House UAB,"Gamyklos g. 5, Šiauliai, LT-78107, Lithuania",Lithuania,LTU,,https://www.baltichouse.eu,,8,45.0,150.0,wood,35000.0,700.0
+1034,Ryterna Modul,UAB Ryterna Modul,"Pramonės g. 12, Kaunas, 51223, Lithuania",Lithuania,LTU,,https://www.rmodul.com,,5,20.0,120.0,steel,15000.0,1250.0
+1035,UAB Kanmita,,,Lithuania,LTU,,,,,,,,,
+1036,UAB Ekobustas,,,Lithuania,LTU,,,,,,,,,
+1037,UAB Timber Cabins,,,Lithuania,LTU,,,,,,,,,
+1038,Namas 123,UAB Namas 123,"Vilkpėdės g. 22, Vilnius, Lithuania, 03151",Lithuania,LTU,,https://www.namas123.lt,,5,40.0,150.0,wood,35000.0,1000.0
+1039,UAB Termoblokas,UAB Termoblokas,,Lithuania,LTU,,,,,,,,,
+1040,UAB Ekolet,,,Lithuania,LTU,,,,,,,,,
+1041,UAB Medrieve,UAB Medrieve,,Lithuania,LTU,,,,,,,,,
+1042,Statau Pati,UAB Statau Pati,,Lithuania,LTU,,,,,,,,,
+1043,UAB House of Flex,,,Lithuania,LTU,,,,,,,,,
+1044,UAB Modular Builder,UAB Modular Builder,,Lithuania,LTU,,,,,,,,,
+1045,UAB Modernus Namas,UAB Modernus Namas,,Lithuania,LTU,,,,,,,,,
+1046,UAB Prefab Solutions,,,Lithuania,LTU,,,,,,,,,
+1047,UAB Modularis,,,Lithuania,LTU,,,,,,,,,
+1048,UAB Saulius ir Co,,,Lithuania,LTU,,,,,,,,,
+1049,UAB Palemono keramika,UAB Palemono keramika,,Lithuania,LTU,,,,,,,,,
+1050,UAB Statybinės konstrukcijos,,,Lithuania,LTU,,,,,,,,,
+1051,UAB Modus Group,,,Lithuania,LTU,,,,,,,,,
+1052,Norvila,UAB Norvila,,Lithuania,LTU,,https://www.norvila.lt,,,,,,,
+1053,Vip Building,UAB Vip Building,"Liepkalnio g. 97, Vilnius, Lithuania, LT-02121",Lithuania,LTU,,https://www.vipbuilding.lt,,5,45.0,150.0,wood,35000.0,800.0
+1054,UAB Duris,UAB Duris,,Lithuania,LTU,,,,,,,,,
+1055,Skydmedis,UAB Skydmedis,"Draugystės g. 19, LT-51230, Kaunas, Lithuania",Lithuania,LTU,,https://www.skydmedis.lt,,12,35.0,200.0,wood,50000.0,1200.0
+1056,Ekotipas,UAB Ekotipas,"Pamiškės g. 6, Užupė, Varėnos r., LT-65489, Lithuania",Lithuania,LTU,,https://www.ekotipas.lt,,5,50.0,150.0,wood,50000.0,1000.0
+1057,Medžio Bitės,UAB Medžio Bitės,"Kareivių g. 19-181, Vilnius, Lithuania",Lithuania,LTU,,https://www.medziobites.lt,,5,50.0,150.0,wood,50000.0,1000.0
+1058,Ecodomus,UAB Ecodomus,,Lithuania,LTU,,https://www.ecodomus.lt,,,,,wood,,
+1059,UAB Modus Vivendi,UAB Modus Vivendi,,Lithuania,LTU,,,,,,,,,
+1060,UAB Domo,,,Lithuania,LTU,,,,,,,,,
+1061,Hanner,UAB Hanner,"Bokšto g. 10, Vilnius, 01126, Lithuania",Lithuania,LTU,,https://www.hanner.lt,,,,,,,
+1062,YIT Lietuva,YIT Lietuva UAB,"Šeimyniškių g. 21B, Vilnius, 09236, Lithuania",Lithuania,LTU,,https://www.yit.lt,,,,,concrete,,
+1063,Grinduva,UAB Grinduva,"J. Basanavičiaus g. 29A, Jonava, 55136, Lithuania",Lithuania,LTU,,http://www.grinduva.lt,,5,50.0,150.0,wood,30000.0,600.0
+1064,Jures House,UAB Jures Medis,"Pramonės g. 8, Mažeikiai, 89214, Lithuania",Lithuania,LTU,,https://www.jureshouse.com,,5,50.0,200.0,wood,50000.0,1000.0
+1065,Vidara,UAB Vidara,"Pramonės g. 21, Panevėžys, 35100, Lithuania",Lithuania,LTU,,https://www.vidara.lt,,5,45.0,150.0,wood,30000.0,800.0
+1066,Wood & Houses,UAB Wood & Houses,"123 Example Street, Vilnius, Vilnius County, 01234, Lithuania",Lithuania,LTU,,https://www.woodandhouses.lt,,5,50.0,150.0,wood,75000.0,1200.0
+1067,Rubineta,UAB Rubineta,"Metalo g. 6, Vilnius, Lithuania",Lithuania,LTU,,https://www.rubineta.com,,,,,,,
+1068,Savasa,,,Lithuania,LTU,,,,,,,,,
+1069,Midenas,Midenas UAB,"Street Name, City, Lithuania",Lithuania,LTU,,https://www.midenas.lt,,,,,wood,,
+1070,Daistatus,UAB Daistatus,"Kareivių g. 11B, Vilnius, LT-09109, Lithuania",Lithuania,LTU,,https://www.daistatus.lt,,5,45.0,150.0,wood,50000.0,1200.0
+1071,Vekstrus,,,Lithuania,LTU,,,,,,,,,
+1072,MDS Statyba,UAB MDS Statyba,"Žalgirio g. 92, Vilnius, Lithuania",Lithuania,LTU,,https://www.mdsstatyba.lt,,5,50.0,150.0,wood,35000.0,700.0
+1073,Namas 123,,,Lithuania,LTU,,,,,,,,,
+1074,Mantu projektai,,,Lithuania,LTU,,,,,,,,,
+1075,Sips House,UAB Sips House,"Visorių g. 27, Vilnius, 08300, Lithuania",Lithuania,LTU,,https://www.sipshouse.lt,,5,50.0,200.0,wood,30000.0,600.0
+1076,Modul Baltic,,,Lithuania,LTU,,,,,,,,,
+1077,Nomads Modular,,,Lithuania,LTU,,https://www.nomadsmodular.com,,,,,,,
+1078,Hauz24,UAB Hauz24,"Gedimino pr. 9, Vilnius, LT-01103, Lithuania",Lithuania,LTU,,https://www.hauz24.lt,,5,45.0,150.0,wood,30000.0,800.0
+1079,Sips House,UAB Sips House,"Naugarduko g. 100, Vilnius, 03202, Lithuania",Lithuania,LTU,,https://sipshouse.lt,,5,60.0,200.0,wood,50000.0,1250.0
+1080,Prefab LT,Prefab LT UAB,"Mokslininku g. 6A, Vilnius, 08412, Lithuania",Lithuania,LTU,,https://www.prefab.lt,,5,45.0,150.0,wood,45000.0,1000.0
+1081,PREIFKA,UAB Prefika,"Naugarduko g. 100, Vilnius, Vilniaus m. sav., LT-03202, Lithuania",Lithuania,LTU,,https://www.prefika.lt,,8,45.0,150.0,wood,55000.0,1200.0
+1082,Hauz.lt,,,Lithuania,LTU,,https://hauz.lt,,,,,,,
+1083,Asta Modular,,,Lithuania,LTU,,,,,,,,,
+1084,Baltic Module,,,Lithuania,LTU,,,,,,,,,
+1085,Ecohouse Lietuva,,,Lithuania,LTU,,,,,,,,,
+1086,Liskandas,UAB Liskandas,"Sodų g. 18, Gargždai, Klaipėda County, 96124, Lithuania",Lithuania,LTU,,https://www.liskandas.lt,,12,60.0,250.0,wood,50000.0,1000.0
+1087,Innova House,UAB Innova House,"Gedimino pr. 50, Vilnius, 01110, Lithuania",Lithuania,LTU,,https://www.innovahouse.lt,,5,50.0,150.0,wood,40000.0,800.0
+1088,Termex LT,,,Lithuania,LTU,,,,,,,,,
+1089,Amari Prefab,,,Lithuania,LTU,,,,,,,,,
+1090,Domo LT,UAB Domo LT,"Lentvario g. 33, Vilnius, Lithuania, LT-02241",Lithuania,LTU,,https://www.domolt.lt,,5,45.0,150.0,wood,45000.0,1000.0
+1091,SBA Modular,SBA Modular UAB,"Kareivių g. 12, Vilnius, 09117, Lithuania",Lithuania,LTU,,https://sbamodular.com,,5,50.0,150.0,CLT,50000.0,1000.0
+1092,Modus Group,,,Lithuania,LTU,,,,,,,,,
+1093,HauzON,HauzON UAB,"Gedimino pr. 20, Vilnius, 01103, Lithuania",Lithuania,LTU,,https://hauzon.lt,,5,45.0,150.0,wood,45000.0,1000.0
+1094,Rhouse,Rhouse,,Lithuania,LTU,,https://www.rhouse.lt,,,,,,,
+1095,Palmatin,Palmatin OÜ,,Lithuania,LTU,,https://www.palmatin.com,,,,,wood,,
+1096,Unimodus,,,Lithuania,LTU,,,,,,,,,
+1097,UAB Namas Modulis,,,Lithuania,LTU,,,,,,,,,
+1098,Huga House,Huga House UAB,"Gedimino pr. 50, Vilnius, 01110, Lithuania",Lithuania,LTU,,https://hugahouse.lt,,5,35.0,150.0,wood,45000.0,1200.0
+1099,Rąžė,,,Lithuania,LTU,,,,,,,,,
+1100,Sky House,,,Lithuania,LTU,,,,,,,,,
+1101,Woodlight,,,Lithuania,LTU,,,,,,,,,
+1102,Citus Construction,Citus Construction UAB,"Žalgirio g. 90, Vilnius, Lithuania, LT-09303",Lithuania,LTU,,https://www.citus.lt,,,,,wood,,
+1103,Statybų Kalvė,Statybų Kalvė UAB,,Lithuania,LTU,,https://www.statybukalve.lt,,,,,,,
+1104,Wood & House,Wood & House UAB,"Gedimino pr. 1, Vilnius, 01103, Lithuania",Lithuania,LTU,,https://woodandhouse.lt,,5,45.0,150.0,wood,45000.0,1200.0
+1105,Ecowood Homes,,,Lithuania,LTU,,https://www.ecowoodhomes.lt,,,,,wood,,
+1106,Stark House,,,Lithuania,LTU,,,,,,,,,
+1107,Timber Frame Construction,,,Lithuania,LTU,,,,,,,,,
+1108,Modern House Factory,,,Lithuania,LTU,,,,,,,,,
+1109,Lithuanian Prefab,Lithuanian Prefab UAB,"123 Example Street, Vilnius, N/A, 12345, Lithuania",Lithuania,LTU,,https://www.lithuanianprefab.lt,,5,50.0,200.0,wood,45000.0,1200.0
+1110,Green Modular,,,Lithuania,LTU,,,,,,,,,
+1111,Prestige House,UAB Prestige House,"Gedimino pr. 20, Vilnius, Lithuania, LT-01103",Lithuania,LTU,,https://www.prestigehouse.lt,,8,45.0,150.0,wood,25000.0,1200.0
+1112,Meistro Namai,UAB Meistro Namai,"Lentvario g. 18, Vilnius, 02300, Lithuania",Lithuania,LTU,,https://www.meistronamai.lt,,5,50.0,150.0,wood,50000.0,1000.0
+1113,Palmatin,UAB Palmatin,,Lithuania,LTU,,https://www.palmatin.com,,,,,wood,,
+1114,Liskandas,UAB Liskandas,"Liepkalnio g. 85, Vilnius, LT-02121, Lithuania",Lithuania,LTU,,https://www.liskandas.lt,,10,80.0,200.0,wood,50000.0,1000.0
+1115,UAB Namas,,,Lithuania,LTU,,,,,,,,,
+1116,Lauma Fabrics,Lauma Fabrics SIA,"Ziemeļu iela 19, Liepāja, LV-3405, Latvia",Latvia,LVA,,https://www.lauma.lv,,,,,,,
+1117,Kronus,SIA Kronus,"Rencēnu iela 10A, Riga, LV-1073, Latvia",Latvia,LVA,,https://www.kronus.eu/,,,,,wood,,
+1118,Vizulo,Vizulo SIA,"Rupniecibas iela 1A, Smiltene, LV-4729, Latvia",Latvia,LVA,,https://www.vizulo.com,,,,,composite,,
+1119,Pavasars Group,SIA Pavasars Group,"Brīvības iela 155, Rīga, LV-1012, Latvia",Latvia,LVA,,https://www.pavasarsgroup.com,,5,45.0,150.0,wood,50000.0,1200.0
+1120,ThermoLogos,,,Latvia,LVA,,,,,,,,,
+1121,Baltic Homes,,,Latvia,LVA,,https://www.baltichomes.lv,,,,,,,
+1122,EKODOM,SIA EKODOM,"123 Example Street, Riga, LV-1010, Latvia",Latvia,LVA,,https://www.ekodom.lv,,5,45.0,150.0,wood,50000.0,1200.0
+1123,Ziemeļu mājas,SIA Ziemeļu Mājas,"Skudru iela 3, Bukulti, Rīga, LV-1024, Latvia",Latvia,LVA,,https://www.ziemelumajas.lv,,5,45.0,150.0,wood,45000.0,1000.0
+1124,Līvas Group,SIA Līvas Group,"Krišjāņa Valdemāra iela 33-5, Rīga, LV-1010, Latvia",Latvia,LVA,,https://www.livasgroup.lv,,5,45.0,150.0,wood,50000.0,1200.0
+1125,HUSVIK,SIA HUSVIK,"Krišjāņa Barona iela 20, Rīga, LV-1011, Latvia",Latvia,LVA,,https://husvik.lv,,5,45.0,120.0,wood,50000.0,1200.0
+1126,Latvijas Koka Būvnieku Asociācija,Latvijas Koka Būvnieku Asociācija,,Latvia,LVA,,,,,,,,,
+1127,Buvmeistars,SIA Buvmeistars,"Riga, Latvia",Latvia,LVA,,https://www.buvmeistars.lv,,,,,wood,,
+1128,Matekt,,,Estonia,EST,,,,,,,,,
+1129,Ritsu,Ritsu AS,"Pärnu mnt 67a, 10134 Tallinn, Estonia",Estonia,EST,,https://ritsu.ee,,10,40.0,150.0,wood,75000.0,1200.0
+1130,EstHus,EstHus OÜ,"Põhja pst 21, Tallinn, 10415, Estonia",Estonia,EST,,https://www.esthus.ee,,12,50.0,200.0,wood,40000.0,1200.0
+1131,Welement,Welement AS,"Peterburi tee 2, Tallinn, Harju County, 11415, Estonia",Estonia,EST,,https://welement.ee,,5,40.0,200.0,CLT,40000.0,1500.0
+1132,Lasita Maja,Lasita Maja AS,"Tähe 131, Tartu, 51013, Estonia",Estonia,EST,,https://www.lasita.com,,25,10.0,70.0,wood,3000.0,500.0
+1133,Timber Element,Timber Element OÜ,"Männiku tee 104, Tallinn, 11216, Estonia",Estonia,EST,,https://www.timber.ee,,5,45.0,150.0,wood,45000.0,1200.0
+1134,Viking Window,Viking Window AS,"Põhja pst 27a, Tallinn, 10415, Estonia",Estonia,EST,,https://www.vikingwindow.eu,,,,,,,
+1135,Thermory,Thermory AS,"Pärnu mnt 141, Tallinn, 11314, Estonia",Estonia,EST,,https://thermory.com,,,,,wood,,
+1136,Skano Group,Skano Group AS,"Pärnu mnt 139E/2, Tallinn, 11317, Estonia",Estonia,EST,,https://www.skano.com,,,,,,,
+1137,Timbeco Woodhouse,Timbeco Woodhouse OÜ,"Suur-Sõjamäe 35A, 11415 Tallinn, Estonia",Estonia,EST,,https://timbeco.ee,,10,50.0,250.0,wood,50000.0,1200.0
+1138,Palmako,AS Palmako,"Kastani 48f, Tartu, 50410, Estonia",Estonia,EST,,https://www.palmako.ee,,10,20.0,120.0,wood,15000.0,1200.0
+1139,Kodumaja,Kodumaja AS,"Pärnu mnt 139c, Tallinn, Harju County, 11317, Estonia",Estonia,EST,,https://www.kodumaja.ee,,10,50.0,200.0,timber,50000.0,1200.0
+1140,Harmet,Harmet OÜ,"Suur-Sojamäe 37, Tallinn, Harju County, 11415, Estonia",Estonia,EST,,https://www.harmet.ee,,10,30.0,150.0,wood,50000.0,1200.0
+1141,Matek,Matek AS,"Paldiski mnt 21, Keila, Harju County, 76607, Estonia",Estonia,EST,,https://www.matek.ee,,15,75.0,250.0,wood,50000.0,1500.0
+1142,Saare Erek,Saare Erek AS,"Tallinna 67, Kuressaare, Saare County, 93818, Estonia",Estonia,EST,,https://www.saareerek.ee,,,,,wood,,
+1143,Lasita Maja,Lasita Maja AS,"Kesk tee 31, Tõrvandi, Kambja vald, 61715, Estonia",Estonia,EST,,https://www.lasita.com,,50,10.0,150.0,wood,2500.0,500.0
+1144,KMT Prefab,KMT Prefab OÜ,"Pärnu mnt 139C, Tallinn, Harju maakond, 11317, Estonia",Estonia,EST,,https://www.kmtprefab.ee,,5,35.0,150.0,wood,50000.0,1200.0
+1145,Akso-Haus,Akso-Haus OÜ,"Rae vald, Jüri alevik, Põrguvälja tee 29, 75306 Harju maakond, Estonia",Estonia,EST,,https://www.aksohaus.ee,,5,30.0,150.0,wood,50000.0,1200.0
+1146,Nordic Houses,Nordic Houses KT OÜ,"Vana-Narva mnt 30, Maardu, Harju County, 74114, Estonia",Estonia,EST,,https://nordichouses.eu/,,5,40.0,150.0,wood,50000.0,1200.0
+1147,Rehe Ehitus OÜ,Rehe Ehitus OÜ,,Estonia,EST,,,,,,,,,
+1148,EstNor,EstNor OÜ,"Lepa 10, Tabasalu, Harju County, 76901, Estonia",Estonia,EST,,https://www.estnor.ee,,5,50.0,200.0,wood,50000.0,1200.0
+1149,Finnlog,Finnlog OÜ,"Lootsi 3a, Tallinn, Harju County, 10151, Estonia",Estonia,EST,,https://www.finnlog.ee,,15,60.0,250.0,wood,70000.0,1200.0
+1150,Thermory,Thermory AS,"Tule 24, Tallinn, 76505, Estonia",Estonia,EST,,https://www.thermory.com,,,,,wood,,
+1151,EstHus,EstHus OÜ,"Tõnismägi 3a, Tallinn, 10119, Estonia",Estonia,EST,,https://www.esthus.ee,,8,45.0,200.0,wood,50000.0,1200.0
+1152,Palmatin,Palmatin OÜ,"12a Valdeku Street, Tallinn, Harjumaa, 11216, Estonia",Estonia,EST,,https://www.palmatin.com,,14,70.0,350.0,wood,70000.0,1200.0
+1153,Cyfield Group,Cyfield Development Ltd,"Cyfield Tower, 5 Limassol Avenue, 2112 Nicosia, Cyprus",Cyprus,CYP,,https://www.cyfieldgroup.com,,,,,concrete,,
+1154,Karma Developers,Karma Developers Ltd,"12 Limassol Avenue, Nicosia, Cyprus, 2015",Cyprus,CYP,,https://www.karmadevelopers.com,,5,80.0,200.0,concrete,150000.0,1875.0
+1155,N. Psaras Constructions,N. Psaras Constructions Ltd,,Cyprus,CYP,,http://www.npsaras.com,,,,,,,
+1156,A. Athanasiou Group,A. Athanasiou Group of Companies Ltd.,"123 Example Street, Nicosia, Cyprus, 1010",Cyprus,CYP,,https://www.athanasiougroup.com,,,,,concrete,,
+1157,Kimonas Prefab Houses,Kimonas Prefabricated Houses Ltd,"123 Example Street, Nicosia, 1010, Cyprus",Cyprus,CYP,,https://www.kimonasprefabhouses.com,,5,50.0,200.0,concrete,45000.0,900.0
+1158,Villas Cyprus,,,Cyprus,CYP,,,,,,,,,
+1159,Iacovou Prefab Houses,Iacovou Prefab Houses Ltd,,Cyprus,CYP,,https://www.iacovou.com.cy,,,,,,,
+1160,T&E Home Builders,,,Cyprus,CYP,,,,,,,,,
+1161,Petros Stylianou Construction,Petros Stylianou Construction Ltd,"1 Dimokratias Street, Nicosia, Cyprus",Cyprus,CYP,,https://www.petrosstylianou.com,,,,,,,
+1162,A. Aristotelous Prefabs,,,Cyprus,CYP,,,,,,,,,
+1163,Baufritz,Baufritz (Schweiz) AG,"Neugutstrasse 52, 8600 Dübendorf, Switzerland",Switzerland,CHE,,https://www.baufritz.com/ch/,,5,120.0,400.0,wood,500000.0,4000.0
+1164,Huf Haus Schweiz,Huf Haus AG Schweiz,"Hauptstrasse 46, 4102 Binningen, Basel-Landschaft, Switzerland",Switzerland,CHE,,https://www.huf-haus.com/ch/,,5,120.0,300.0,timber,700000.0,5000.0
+1165,WeberHaus,WeberHaus AG,,Switzerland,CHE,,https://www.weberhaus.ch,,,,,wood,,
+1166,Kampa Haus Schweiz,KAMPA Haus Schweiz AG,"Rütistrasse 18, 8952 Schlieren, Zürich, Switzerland",Switzerland,CHE,,https://www.kampa.ch,,12,120.0,250.0,wood,350000.0,3000.0
+1167,Blumer Lehmann AG,Blumer Lehmann AG,"Büel 476, 9633 Hemberg, Switzerland",Switzerland,CHE,,https://www.blumer-lehmann.ch,,5,50.0,200.0,wood,,
+1168,Lignotrend,Lignotrend Schweiz AG,,Switzerland,CHE,,https://www.lignotrend.ch,,,,,wood,,
+1169,Holzbau Bucher,Holzbau Bucher AG,"Industriestrasse 12, 6162 Entlebuch, Lucerne, Switzerland",Switzerland,CHE,,https://www.holzbau-bucher.ch,,,,,wood,,
+1170,Müller Holzbau,Müller Holzbau AG,"Industriestrasse 1, 9240 Uzwil, St. Gallen, Switzerland",Switzerland,CHE,,https://www.muellerholzbau.ch,,5,50.0,200.0,wood,150000.0,3000.0
+1171,Tschopp Holzbau,Tschopp Holzbau AG,"Hasenweidstrasse 18, 6146 Grossdietwil, Switzerland",Switzerland,CHE,,https://www.tschopp-holzbau.ch,,,,,wood,,
+1172,Kost Holzbau AG,Kost Holzbau AG,"Industriestrasse 15, 5432 Neuenhof, Aargau, Switzerland",Switzerland,CHE,,https://www.kostholzbau.ch,,5,50.0,250.0,wood,150000.0,3500.0
+1173,KIFA AG,KIFA AG,"Industriestrasse 25, 9602 Bazenheid, Switzerland",Switzerland,CHE,,https://www.kifa.ch,,5,60.0,200.0,wood,150000.0,3000.0
+1174,Kronauer AG,Kronauer AG,,Switzerland,CHE,,,,,,,,,
+1175,Uffer AG,Uffer AG,"Via Principala 78, 7460 Savognin, Switzerland",Switzerland,CHE,,https://www.uffer.ch,,,,,wood,,
+1176,Schiess AG,,,Switzerland,CHE,,,,,,,,,
+1177,Urech Holzbau AG,Urech Holzbau AG,"Langenthalstrasse 21, 4914 Roggwil, Switzerland",Switzerland,CHE,,https://www.urech-holzbau.ch,,,,,wood,,
+1178,Zindel Holzbau,Zindel Holzbau AG,"Bahnhofstrasse 24, 7302 Landquart, Graubünden, Switzerland",Switzerland,CHE,,https://www.zindelholzbau.ch,,5,50.0,200.0,wood,150000.0,3000.0
+1179,Balteschwiler AG,Balteschwiler AG,,Switzerland,CHE,,https://www.balteschwiler.ch,,,,,,,
+1180,Kleusberg AG,,,Switzerland,CHE,,https://www.kleusberg.ch,,,,,,,
+1181,Modulart GmbH,,,Switzerland,CHE,,,,,,,,,
+1182,Implenia,Implenia AG,"Industriestrasse 24, 8305 Dietlikon, Switzerland",Switzerland,CHE,,https://implenia.com,,,,,concrete,,
+1183,Baufritz,Baufritz AG,"Zürcherstrasse 340, 8500 Frauenfeld, Thurgau, Switzerland",Switzerland,CHE,,https://www.baufritz.com,,10,120.0,300.0,wood,300000.0,4000.0
+1184,Hüsser Holzleimbau,Hüsser Holzleimbau AG,"Lenzburgerstrasse 5, 5616 Meisterschwanden, Switzerland",Switzerland,CHE,,https://www.hueser.ch,,,,,wood,,
+1185,Modulart AG,,,Switzerland,CHE,,,,,,,,,
+1186,HUF Haus Switzerland,HUF Haus GmbH u. Co. KG,"Hinterwiesenweg 34, 79650 Schopfheim, Germany",Switzerland,CHE,,https://www.huf-haus.com/en-uk/home/,,10,120.0,300.0,wood,500000.0,4000.0
+1187,WeberHaus Schweiz,WeberHaus GmbH & Co. KG,"WeberHaus Schweiz, 8304 Wallisellen, Zürich, Switzerland",Switzerland,CHE,,https://www.weberhaus.ch,,,,,wood,,
+1188,Kampa Schweiz,,,Switzerland,CHE,,,,,,,,,
+1189,Fertighaus Weiss,Fertighaus Weiss AG,"Bahnhofstrasse 10, 8001 Zürich, Switzerland",Switzerland,CHE,,https://www.fertighaus-weiss.ch,,,,,wood,,
+1190,Marty Häuser,Marty Häuser AG,"Industriestrasse 12, 6074 Giswil, Obwalden, Switzerland",Switzerland,CHE,,https://www.marty-haeuser.ch,,10,45.0,250.0,wood,250000.0,4000.0
+1191,Knecht AG,Knecht AG,,Switzerland,CHE,,https://www.knecht.ch,,,,,,,
+1192,Küng Holzbau,Küng Holzbau AG,"Hauptstrasse 34, 9245 Oberbüren, St. Gallen, Switzerland",Switzerland,CHE,,https://www.kueng-holzbau.ch,,,,,wood,,
+1193,Felber Holzbau AG,Felber Holzbau AG,"Baumgartenstrasse 4, 3427 Utzenstorf, Switzerland",Switzerland,CHE,,https://www.felberholzbau.ch,,,,,wood,,
+1194,Holzbau Buchs,Holzbau Buchs AG,"Rheinstrasse 15, 9470 Buchs, SG, Switzerland",Switzerland,CHE,,https://www.holzbau-buchs.ch,,5,70.0,200.0,wood,300000.0,4500.0
+1195,Stuberholz,Stuberholz AG,"59 Gähwilerstrasse, Wängi, Thurgau, 9545, Switzerland",Switzerland,CHE,,https://www.stuberholz.ch,,,,,wood,,
+1196,Dietrich Holzbau,Dietrich Holzbau AG,"Hauptstraße 73, 9424 Rheineck, St. Gallen, Switzerland",Switzerland,CHE,,https://www.dietrich-holzbau.ch,,,,,wood,,
+1197,Kaufmann Oberholzer,Kaufmann Oberholzer AG,"Gewerbestrasse 2, 9602 Bazenheid, St. Gallen, Switzerland",Switzerland,CHE,,https://www.kaufmann-oberholzer.ch,,5,60.0,180.0,wood,250000.0,4000.0
+1198,Haas Fertigbau,Haas Fertigbau Schweiz AG,"Industriestrasse 1, 8583 Sulgen, Thurgau, Switzerland",Switzerland,CHE,,https://www.haas-fertigbau.ch,,12,85.0,250.0,wood,250000.0,3000.0
+1199,Syma System,Syma System AG,"Rütistrasse 26, 8952 Schlieren, Zurich, Switzerland",Switzerland,CHE,,https://www.syma.ch,,0,,,steel,,
+1200,Renggli Holzbau,Renggli AG,"Industriestrasse 20, Schötz, Lucerne, 6247, Switzerland",Switzerland,CHE,,https://www.renggli.swiss,,5,50.0,200.0,wood,150000.0,3000.0
+1201,Stuber Holzbau,Stuber Holzbau AG,"Industriestrasse 13, 6102 Malters, Luzern, Switzerland",Switzerland,CHE,,https://www.stuberholzbau.ch,,5,50.0,200.0,wood,150000.0,2500.0
+1202,Marti AG,Marti AG,,Switzerland,CHE,,https://www.martiag.ch,,,,,,,
+1203,Swisshaus,Swisshaus AG,"Hauptstrasse 123, 9053 Teufen, Appenzell Ausserrhoden, Switzerland",Switzerland,CHE,,https://www.swisshaus.ch,,15,70.0,250.0,wood,350000.0,5000.0
+1204,Stamm Bau AG,,,Switzerland,CHE,,,,,,,,,
+1205,Bader AG,Bader AG,,Switzerland,CHE,,https://www.baderag.ch,,,,,,,
+1206,Schneider Holzbau AG,Schneider Holzbau AG,,Switzerland,CHE,,https://www.schneider-holzbau.ch,,,,,wood,,
+1207,Hausbau Fertighaus AG,,,Switzerland,CHE,,,,,,,,,
+1208,Stäger Holzbau,Stäger Holzbau AG,"Moosweg 1, 6130 Willisau, Switzerland",Switzerland,CHE,,https://www.holzbau-staeger.ch,,5,50.0,200.0,wood,150000.0,3000.0
+1209,Zehnder Group,Zehnder Group AG,"Moortalstrasse 1, 5722 Gränichen, Switzerland",Switzerland,CHE,,https://www.zehndergroup.com,,,,,,,
+1210,Lehner Holzhaus,Lehner Holzhaus AG,"Industriestrasse 1, 6154 Hofstatt, Lucerne, Switzerland",Switzerland,CHE,,https://www.lehner-holzhaus.ch,,12,100.0,250.0,wood,320000.0,3500.0
+1211,Zimmermann Holzbau,Zimmermann Holzbau AG,"Hauptstrasse 21, 6030 Ebikon, Switzerland",Switzerland,CHE,,https://www.zimmermann-holzbau.ch,,5,50.0,200.0,wood,150000.0,3000.0
+1212,Schmid AG,,,Switzerland,CHE,,,,,,,,,
+1213,Haas Modularbau GmbH,,,Switzerland,CHE,,,,,,,,,
+1214,Nidwaldner Holzbau AG,Nidwaldner Holzbau AG,"Feldweg 3, 6374 Buochs, Nidwalden, Switzerland",Switzerland,CHE,,https://www.nidwaldner-holzbau.ch,,5,70.0,200.0,wood,300000.0,4000.0
+1215,Huf Haus,Huf Haus AG,"Hinterbergstrasse 24, 6312 Steinhausen, Switzerland",Switzerland,CHE,,https://www.huf-haus.com,,6,120.0,300.0,wood,500000.0,4000.0
+1216,Renggli,Renggli International AG,"Industriestrasse 1, 6285 Hitzkirch, Switzerland",Switzerland,CHE,,https://www.renggli.swiss,,5,50.0,250.0,wood,150000.0,3000.0
+1217,Thoma Holz,Thoma Holz GmbH,,Switzerland,CHE,,https://www.thoma.at,,,,,wood,,
+1218,SchwörerHaus,SchwörerHaus KG,,Switzerland,CHE,,https://www.schwoererhaus.de,,,,,wood,,
+1219,Frei Holzbau,Frei Holzbau AG,"Buchmatt 2, 6017 Ruswil, Luzern, Switzerland",Switzerland,CHE,,https://www.frei-holzbau.ch,,,,,wood,,
+1220,Knecht Holzbau AG,Knecht Holzbau AG,"Hofmattstrasse 2, 3360 Herzogenbuchsee, Bern, Switzerland",Switzerland,CHE,,https://www.knecht-holzbau.ch,,,,,wood,,
+1221,Kampa Schweiz,Kampa Schweiz GmbH,"Dorfstrasse 20, 8730 Uznach, St. Gallen, Switzerland",Switzerland,CHE,,https://www.kampa.ch,,6,100.0,250.0,wood,350000.0,3500.0
+1222,Strobl Bau - Holzbau,Strobl Bau - Holzbau GmbH,"Bahnhofstrasse 123, 8001 Zurich, Switzerland",Switzerland,CHE,,https://www.stroblbau.ch,,8,50.0,200.0,wood,150000.0,2500.0
+1223,Huf Haus,Huf Haus Schweiz AG,"Oberfeld 7, 6037 Root, Switzerland",Switzerland,CHE,,https://www.huf-haus.com/en/,,5,120.0,350.0,timber,500000.0,4000.0
+1224,Fertighaus.ch,,,Switzerland,CHE,,https://www.fertighaus.ch,,,,,,,
+1225,Sägesser Holzbau,Sägesser Holzbau AG,"Dorfstrasse 51, 3465 Dürrenroth, Switzerland",Switzerland,CHE,,https://www.saegesser-holzbau.ch,,,,,wood,,
+1226,Erne Holzbau,Erne Holzbau AG,"Erne-Strasse 1, 5080 Laufenburg, Switzerland",Switzerland,CHE,,https://www.erne.net,,5,60.0,250.0,wood,150000.0,4000.0
+1227,Kampa Schweiz,Kampa Schweiz AG,"Bahnhofstrasse 21, 6300 Zug, Switzerland",Switzerland,CHE,,https://www.kampa.ch,,5,120.0,250.0,wood,250000.0,3000.0
+1228,Stöckli Holzbau,Stöckli Holzbau AG,"Industrieplatz 3, 8755 Ennenda, Glarus, Switzerland",Switzerland,CHE,,https://www.stoeckliholzbau.ch,,5,60.0,200.0,wood,300000.0,4000.0
+1229,Moelven,Moelven Industrier ASA,"Industrivegen 2, 2390 Moelv, Norway",Norway,NOR,,https://www.moelven.com,,,,,wood,,
+1230,Selbuhus,Selbuhus AS,"Selbuvegen 3396, 7580 Selbu, Norway",Norway,NOR,,https://www.selbuhus.no,,15,70.0,250.0,wood,2000000.0,25000.0
+1231,Block Watne,Block Watne AS,"Kanalveien 18, 2004 Lillestrøm, Norway",Norway,NOR,,https://www.blockwatne.no,,20,70.0,250.0,wood,2500000.0,30000.0
+1232,Hellvik Hus,Hellvik Hus AS,"Hellvikveien 13, 4375 Hellvik, Norway",Norway,NOR,,https://www.hellvikhus.no,,20,70.0,300.0,wood,2500000.0,30000.0
+1233,Boligbyggelaget Usbl,Boligbyggelaget Usbl,"Arbeidersamfunnets plass 1, 0181 Oslo, Norway",Norway,NOR,,https://www.usbl.no,,,,,,,
+1234,Optimera,Optimera AS,"Østre Aker vei 260, 0976 Oslo, Norway",Norway,NOR,,https://www.optimera.no,,,,,wood,,
+1235,Vårdal Arkitekter,,,Norway,NOR,,,,,,,,,
+1236,Nordic Homes AS,,,Norway,NOR,,,,,,,,,
+1237,Ferdig Hytter,Ferdig Hytter AS,,Norway,NOR,,https://ferdighytter.no,,,,,,,
+1238,BoligPartner,BoligPartner AS,"Trehørningen 3, 2320 Furnes, Norway",Norway,NOR,,https://boligpartner.no,,50,60.0,300.0,wood,2000000.0,25000.0
+1239,Elementhus AS,,,Norway,NOR,,,,,,,,,
+1240,Moelven Byggmodul,Moelven Byggmodul AS,"Industrivegen 2, 2390 Moelv, Norway",Norway,NOR,,https://www.moelven.com,,8,35.0,150.0,timber,500000.0,20000.0
+1241,Overhalla Hus,Overhalla Hus AS,"Skogvegen 1, 7863 Overhalla, Norway",Norway,NOR,,https://overhallahus.no,,15,60.0,250.0,wood,2000000.0,25000.0
+1242,Saltdalshytta,Saltdalshytta AS,"Jernbaneveien 85, 8250 Rognan, Norway",Norway,NOR,,https://www.saltdalshytta.no,,20,50.0,150.0,wood,500000.0,15000.0
+1243,Ferdighus Norge AS,,,Norway,NOR,,,,,,,,,
+1244,Ferdighus AS,Ferdighus AS,,Norway,NOR,,,,,,,,,
+1245,Skarhus,Skarhus AS,"Hovedvegen 123, 1234 Oslo, Norway",Norway,NOR,,https://www.skarhus.no,,5,50.0,200.0,wood,1500000.0,30000.0
+1246,Øverbygg,Øverbygg AS,"Industriveien 5, 9325 Bardufoss, Norway",Norway,NOR,,https://www.overbygg.no,,12,60.0,200.0,wood,1500000.0,25000.0
+1247,Hus 1 Norge,Hus 1 Norge AS,"Industrivegen 12, 2069 Jessheim, Norway",Norway,NOR,,https://www.hus1norge.no,,15,60.0,250.0,wood,1500000.0,30000.0
+1248,Nordlyshus,,,Norway,NOR,,,,,,,,,
+1249,Fjord Modular,,,Norway,NOR,,,,,,,,,
+1250,Ferdig Hytter,,,Norway,NOR,,,,,,,,,
+1251,Älvsbyhus,Älvsbyhus AB,"Lilleakerveien 25, 0283 Oslo, Norway",Norway,NOR,,https://www.alvsbyhus.no,,12,107.0,192.0,wood,2200000.0,22000.0
+1252,Veidekke,Veidekke ASA,"Skabos vei 4, 0278 Oslo, Norway",Norway,NOR,,https://www.veidekke.no,,,,,concrete,,
+1253,Berge Sag,Berge Sag og Trelast AS,"Sandeidvegen 676, 5585 Sandeid, Norway",Norway,NOR,,https://bergesag.no,,15,60.0,200.0,wood,2500000.0,15000.0
+1254,Ferdigbygg AS,,,Norway,NOR,,,,,,,,,
+1255,Norske Hus,Norske Hus AS,"Torggata 9, 3674 Notodden, Norway",Norway,NOR,,https://www.norskehus.no,,15,50.0,250.0,wood,1500000.0,25000.0
+1256,Fjordhus,Fjordhus AS,,Norway,NOR,,https://www.fjordhus.no,,,,,wood,,
+1257,Byggmann,Byggmann Gruppen AS,"Haraldseidvågen 56, 5576 Øvre Vats, Norway",Norway,NOR,,https://www.byggmann.no,,42,50.0,200.0,wood,1500000.0,25000.0
+1258,Skarpnes Hus,Skarpnes Hus AS,,Norway,NOR,,https://www.skarpneshus.no,,,,,,,
+1259,Mesterhus,Mesterhus Norge AS,"Nils Hansens vei 2, 0667 Oslo, Norway",Norway,NOR,,https://www.mesterhus.no,,50,60.0,300.0,wood,1500000.0,25000.0
+1260,Vestlandshus,Vestlandshus AS,"Storebotn Næringspark 50, 5309 Kleppestø, Norway",Norway,NOR,,https://www.vestlandshus.no,,15,70.0,250.0,wood,2500000.0,20000.0
+1261,Drømmekjøkkenet,,,Norway,NOR,,,,,,,,,
+1262,Skarpnes,,,Norway,NOR,,,,,,,,,
+1263,Elementhus,,,Norway,NOR,,,,,,,,,
+1264,Jadarhus,Jadarhus AS,"Gamleveien 87, 4315 Sandnes, Norway",Norway,NOR,,https://www.jadarhus.no,,15,80.0,250.0,wood,2500000.0,30000.0
+1265,Ferdigbetonghus,,,Norway,NOR,,,,,,,,,
+1266,Ferdig Huset AS,,,Norway,NOR,,,,,,,,,
+1267,Igland Garasjen,Igland Garasjen AS,"Industriveien 15, 4900 Tvedestrand, Norway",Norway,NOR,,https://www.igland.no,,,,,wood,,
+1268,Baufritz,Baufritz (UK) Ltd,"The Workplace, Oakington Road, Cambridge, Cambridgeshire, CB3 0QH, United Kingdom",United Kingdom,GBR,,https://www.baufritz.com/uk/,,8,120.0,400.0,timber,250000.0,2700.0
+1269,Scandia-Hus,Scandia-Hus Limited,"Scandia-Hus Business Park, Felcourt Road, Felcourt, East Grinstead, West Sussex, RH19 2LP, United Kingdom",United Kingdom,GBR,,https://www.scandia-hus.co.uk,,30,100.0,400.0,timber,180000.0,1500.0
+1270,WeberHaus UK,WeberHaus UK Ltd,"WeberHaus UK Ltd, The Building Centre, 26 Store Street, London, WC1E 7BT, United Kingdom",United Kingdom,GBR,,https://www.weberhaus.co.uk,,10,100.0,300.0,timber,250000.0,2500.0
+1271,SIP Build UK,SIP Build UK Ltd,"Unit 8, Alder Court, Bell Close, Plympton, Plymouth, PL7 4JH, United Kingdom",United Kingdom,GBR,,https://www.sipbuilduk.co.uk,,5,50.0,200.0,SIPs (Structural Insulated Panels),75000.0,1500.0
+1272,Koto Design,Koto Design Ltd,"The Old Dairy, Hooklands Farm, Scaynes Hill, West Sussex, RH17 7NG, United Kingdom",United Kingdom,GBR,,https://www.koto.design,,5,30.0,150.0,wood,50000.0,2000.0
+1273,Eco Modular Buildings,,,United Kingdom,GBR,,,,,,,,,
+1274,Ideal Modular Homes,Ideal Modular Homes Limited,"Unit 1, Speke Hall Industrial Estate, Speke Hall Road, Liverpool, L24 9HE, United Kingdom",United Kingdom,GBR,,https://www.idealmodularhomes.co.uk,,5,50.0,150.0,steel,100000.0,2000.0
+1275,Qube Structures,Qube Structures Ltd,"Unit 3, The Court, Holywell Business Park, Northfield Road, Southam, Warwickshire, CV47 0FP, United Kingdom",United Kingdom,GBR,,https://www.qubestructures.com,,5,30.0,120.0,steel,45000.0,1500.0
+1276,Bensonwood UK,,,United Kingdom,GBR,,,,,,,,,
+1277,TLB Modular Homes,,,United Kingdom,GBR,,,,,,,,,
+1278,EcoHaus UK,,,United Kingdom,GBR,,,,,,,,,
+1279,Timber Design,,,United Kingdom,GBR,,,,,,,,,
+1280,Baufritz EcoHomes,Baufritz (UK) Ltd,"The Workplace, Oakington Road, Girton, Cambridge, CB3 0QH, United Kingdom",United Kingdom,GBR,,https://www.baufritz.com/uk/,,10,120.0,300.0,wood,300000.0,2500.0
+1281,Norscot Joinery Ltd,Norscot Joinery Ltd,"Bower Workshops, Bower, Wick, Caithness, KW1 4TL, United Kingdom",United Kingdom,GBR,,https://www.norscot.co.uk,,5,60.0,150.0,timber,50000.0,1200.0
+1282,Boutique Modern,Boutique Modern Ltd,"Unit 1, The Old Dairy, Beach Road, Newhaven, East Sussex, BN9 0BX, United Kingdom",United Kingdom,GBR,,https://www.boutiquemodern.co.uk,,5,45.0,120.0,timber,80000.0,1600.0
+1283,Baufritz UK,Baufritz (UK) Ltd,"The Hangar, Oakington Business Park, Dry Drayton Road, Oakington, Cambridge, CB24 3DQ, United Kingdom",United Kingdom,GBR,,https://www.baufritz.com/uk/,,8,120.0,400.0,timber,350000.0,3000.0
+1284,ModularWise,ModularWise Ltd,"Unit 12, Drome Road, Deeside Industrial Park, Deeside, Flintshire, CH5 2NY, United Kingdom",United Kingdom,GBR,,https://www.modularwise.co.uk,,,,,timber,,
+1285,Rollalong,Rollalong Ltd,"Woolsbridge Industrial Park, Wimborne, Dorset, BH21 6SZ, United Kingdom",United Kingdom,GBR,,https://www.rollalong.co.uk,,,,,steel,,
+1286,Wernick Group,Wernick Group Limited,"Molyneux Way, Greenbridge Industrial Estate, Swindon, SN3 3JD, United Kingdom",United Kingdom,GBR,,https://www.wernick.co.uk,,,,,steel,,
+1287,Portakabin,Portakabin Ltd,"Yorkon House, New Lane, Huntington, York, YO32 9PT, United Kingdom",United Kingdom,GBR,,https://www.portakabin.com,,,,,steel,,
+1288,Vision Development,Vision Development (South) Ltd,"Unit 7, Frilsham Home Farm, Yattendon, Thatcham, Berkshire, RG18 0XT, United Kingdom",United Kingdom,GBR,,https://www.vision-dsl.com,,12,45.0,250.0,timber,80000.0,1500.0
+1289,KLODGE,,,United Kingdom,GBR,,,,,,,,,
+1290,Bensonwood,,,United Kingdom,GBR,,,,,,,,,
+1291,Huf Haus UK,Huf Haus GmbH & Co. KG,"HUF UK Ltd, Brook House, 54a Cowley Mill Road, Uxbridge, UB8 2QE, United Kingdom",United Kingdom,GBR,,https://www.huf-haus.com/en-uk/,,5,122.0,350.0,wood,500000.0,4500.0
+1292,Baufritz UK,Baufritz (UK) Ltd,"The Hangar, Oakington Business Park, Dry Drayton Rd, Cambridge, CB24 3DQ, United Kingdom",United Kingdom,GBR,,https://www.baufritz.com/uk/,,10,120.0,400.0,wood,250000.0,2000.0
+1293,Wernick Buildings,Wernick Buildings Ltd,"Kenfig Industrial Estate, Margam, Port Talbot, SA13 2PE, United Kingdom",United Kingdom,GBR,,https://www.wernick.co.uk,,5,30.0,150.0,steel,25000.0,1200.0
+1294,Rollalong,Rollalong Limited,"Woolsbridge Industrial Park, Three Legged Cross, Wimborne, Dorset, BH21 6SF, United Kingdom",United Kingdom,GBR,,https://www.rollalong.co.uk,,5,50.0,120.0,steel,100000.0,1800.0
+1295,Spacehus,Spacehus Limited,"123 Example Street, London, Greater London, W1A 1AA, United Kingdom",United Kingdom,GBR,,https://www.spacehus.co.uk,,5,45.0,120.0,CLT,100000.0,2200.0
+1296,Portakabin,Portakabin Limited,"New Lane, Huntington, York, YO32 9PT, United Kingdom",United Kingdom,GBR,,https://www.portakabin.com,,,,,steel,,
+1297,Carbon Dynamic,Carbon Dynamic Ltd,"The Enterprise Park, Dornoch, Sutherland, IV25 3SF, United Kingdom",United Kingdom,GBR,,https://www.carbondynamic.com,,0,,,wood,,
+1298,Springfield Mobile,,,United Kingdom,GBR,,,,,,,,,
+1299,Citu,Citu (UK) Ltd,"42 The Calls, Leeds, LS2 7EW, United Kingdom",United Kingdom,GBR,,https://www.citu.co.uk,,4,72.0,122.0,CLT,225000.0,3125.0
+1300,Green Unit,Green Unit Limited,"The Studio, Wootton Business Park, Wootton, Oxfordshire, OX13 6FD, United Kingdom",United Kingdom,GBR,,https://www.greenunit.co.uk,,3,45.0,120.0,timber,120000.0,2500.0
+1301,Project Etopia,Etopia Group Limited,"Unit 2, Meadway Court, Rutherford Close, Stevenage, Hertfordshire, SG1 2EF, United Kingdom",United Kingdom,GBR,,https://www.projectetopia.com,,4,55.0,200.0,composite,140000.0,
+1302,Space Modules Ltd,,,United Kingdom,GBR,,,,,,,,,
+1303,Yorkon,Portakabin Limited,"New Lane, Huntington, York, YO32 9PT, United Kingdom",United Kingdom,GBR,,https://www.portakabin.co.uk/yorkon,,5,45.0,250.0,steel,85000.0,
+1304,Modular and Portable Building Association,Modular and Portable Building Association,"Unit 4, Office Village, Forder Way, Hampton, Peterborough, PE7 8GX, United Kingdom",United Kingdom,GBR,,https://mpba.biz,,,,,,,
+1305,TopHat,TopHat Industries Limited,"1 Fore Street, London, EC2Y 5EJ, United Kingdom",United Kingdom,GBR,,https://www.tophat.io,,5,45.0,120.0,steel,120000.0,2500.0
+1306,Legal & General Modular Homes,Legal & General Homes Modular Limited,"Legal & General Modular Homes, Sherburn-in-Elmet, Leeds, West Yorkshire, LS25 6EL, United Kingdom",United Kingdom,GBR,,https://www.legalandgeneral.com/modular-homes/,,4,39.0,114.0,cross-laminated timber,145000.0,2000.0
+1307,Vision Modular Systems,Vision Modular Systems UK Limited,"Vision House, 1 Brunel Road, Western Industrial Estate, London, UB2 4SD, United Kingdom",United Kingdom,GBR,,https://visionmodularsystems.com,,,,,steel,,
+1308,We Build It Ltd,,,United Kingdom,GBR,,,,,,,,,
+1309,SIPS@Clays,SIPS@Clays LLP,"Units 1 & 2, Claylands Avenue, Worksop, Nottinghamshire, S81 7DJ, United Kingdom",United Kingdom,GBR,,https://www.sipsatclays.com,,5,50.0,200.0,SIPS (Structural Insulated Panels),75000.0,1500.0
+1310,Berkshire Homes,,,United Kingdom,GBR,,,,,,,,,
+1311,Loft Living,,,United Kingdom,GBR,,,,,,,,,
+1312,Modular Group,,,United Kingdom,GBR,,,,,,,,,
+1313,ZED Pods,ZED Pods Limited,"28-30 Gloucester Road, Bristol, BS7 8AR, United Kingdom",United Kingdom,GBR,,https://www.zedpods.com,,4,28.0,56.0,steel,65000.0,2500.0
+1314,Pinnacle Modular,,,United Kingdom,GBR,,,,,,,,,
+1315,Space 4,Space 4 Limited,"Banner Court, Henry Boot Way, Priory Park East, Hull, HU4 7DY, United Kingdom",United Kingdom,GBR,,https://www.space4.co.uk,,,,,timber,,
+1316,Prefab Projects,,,United Kingdom,GBR,,,,,,,,,
+1317,SIPS Eco Panels,S.I.P.S. Eco Panels Ltd,"Unit 1, East Mains, Inchcoonans, Errol, Perth, PH2 7RB, United Kingdom",United Kingdom,GBR,,https://www.sipsecopanels.co.uk,,,,,composite,,
+1318,Ecopod,,,United Kingdom,GBR,,https://www.ecopod.co.uk,,,,,,,
+1319,Treglown Homes,,,United Kingdom,GBR,,,,,,,,,
+1320,Cedar Tree Construction,,,United Kingdom,GBR,,,,,,,,,
+1321,Bowerhouse,,,United Kingdom,GBR,,,,,,,,,
+1322,Bert & May Spaces,Bert & May Spaces Ltd,"67 Vyner Street, London, England, E2 9DQ, United Kingdom",United Kingdom,GBR,,https://bertandmayspaces.com,,3,20.44,92.9,wood,60000.0,2500.0
+1323,ilke Homes,ilke Homes Limited,"Ground Floor, Unit 9, Callflex Business Park, Golden Smithies Lane, Wath upon Dearne, Rotherham, South Yorkshire, S63 7ER, United Kingdom",United Kingdom,GBR,,https://www.ilkehomes.co.uk,,10,50.0,120.0,steel,90000.0,1500.0
+1324,WElink Group,WElink Group Limited,"30A Upper High Street, Thame, Oxfordshire, OX9 3EX, United Kingdom",United Kingdom,GBR,,https://www.welinkgroup.com,,,,,,,
+1325,Modularize,,"Unit 3, Highfield Farm, Great North Road, Cromwell, Nottinghamshire, NG23 6JE, United Kingdom",United Kingdom,GBR,,https://www.modularize.co.uk,,,,,,,
+1326,Eco Modular Living,,,United Kingdom,GBR,,,,,,,,,
+1327,Innovare Systems,Innovare Systems Limited,"Unit 3, The I O Centre, Fingle Drive, Stonebridge, Milton Keynes, MK13 0AT, United Kingdom",United Kingdom,GBR,,https://www.innovaresystems.co.uk/,,,,,CLT,,
+1328,Stewart Milne Timber Systems,Stewart Milne Timber Systems Limited,"Peregrine House, Mosscroft Avenue, Westhill, Aberdeenshire, AB32 6TQ, United Kingdom",United Kingdom,GBR,,https://www.stewartmilnetimbersystems.com,,,,,timber,,
+1329,Scotframe,Scotframe Limited,"Inverurie Business Park, Souterford Avenue, Inverurie, Aberdeenshire, AB51 0ZJ, United Kingdom",United Kingdom,GBR,,https://www.scotframe.co.uk,,8,60.0,250.0,timber,80000.0,1200.0
+1330,BlokBuild,BlokBuild Ltd,"Unit 14, The Old Brewery, Castle Eden, Durham, TS27 4SU, United Kingdom",United Kingdom,GBR,,https://www.blokbuild.co.uk,,5,35.0,120.0,timber,60000.0,1500.0
+1331,Hemsec,Hemsec Manufacturing Ltd,"Stoney Lane, Rainhill, Prescot, Merseyside, L35 9LL, United Kingdom",United Kingdom,GBR,,https://www.hemsec.com,,,,,composite,,
+1332,We Can Group,We Can Group Ltd,"Unit 3, 15 Babbage Way, Exeter, Devon, EX5 2FN, United Kingdom",United Kingdom,GBR,,https://www.wecangroup.co.uk,,5,45.0,120.0,timber,95000.0,1800.0
+1333,L&G Modular Homes,Legal & General Modular Homes Limited,"10 White Lion Street, London, N1 9PD, United Kingdom",United Kingdom,GBR,,https://www.legalandgeneral.com/modular-homes/,,5,45.0,139.0,steel,145000.0,2200.0
+1334,We Build It,,,United Kingdom,GBR,,,,,,,,,
+1335,Glidevale Protect,Building Product Design Ltd,"2 Brooklands Road, Sale, Cheshire, M33 3SS, United Kingdom",United Kingdom,GBR,,https://www.glidevaleprotect.com,,,,,,,
+1336,Beattie Passive,Beattie Passive Build System Limited,"11 Robberds Way, Bowthorpe, Norwich, Norfolk, NR5 9JF, United Kingdom",United Kingdom,GBR,,https://www.beattiepassive.com,,6,50.0,200.0,timber,180000.0,1800.0
+1337,Space Modular,Space Modular Ltd,"123 Example Street, London, Greater London, SW1A 1AA, United Kingdom",United Kingdom,GBR,,https://www.spacemodular.co.uk,,5,45.0,150.0,timber,95000.0,2200.0
+1338,Prefab Developments Ltd,,,United Kingdom,GBR,,,,,,,,,
+1339,Kleentech Limited,,,United Kingdom,GBR,,,,,,,,,
+1340,eLoft Space,eLoft Space Ltd,"The Innovation Centre, 217 Portobello, Sheffield, South Yorkshire, S1 4DP, United Kingdom",United Kingdom,GBR,,https://www.eloftspace.co.uk,,5,30.0,150.0,steel,45000.0,1500.0
+1341,Urban Splash House,Urban Splash House Holdings Limited,"Timber Wharf, 16-22 Worsley Street, Manchester, M15 4LD, United Kingdom",United Kingdom,GBR,,https://www.housebyurbansplash.co.uk,,3,93.0,139.0,wood,250000.0,2700.0
+1342,ECOFAST Systems,ECOFAST Systems Ltd,"123 Greenway, London, Greater London, NW1 6XE, United Kingdom",United Kingdom,GBR,,https://www.ecofastsystems.co.uk,,5,45.0,120.0,timber,95000.0,1200.0
+1343,SIG Offsite,SIG Offsite Limited,"Hillsborough Works, Langsett Road, Sheffield, South Yorkshire, S6 2LW, United Kingdom",United Kingdom,GBR,,https://www.sigplc.com/offsite,,,,,composite,,
+1344,Modularize,Modularize Ltd,"Unit 3, Waterside Park, Livingstone Road, Hessle, East Yorkshire, HU13 0EG, United Kingdom",United Kingdom,GBR,,https://www.modularize.co.uk,,0,,,steel,,
+1345,Portable Building Sales,Portable Building Sales Ltd,"Portable Building Sales Ltd, Northlands Road, Cottingham, East Yorkshire, HU16 5RQ, United Kingdom",United Kingdom,GBR,,https://www.portablebuildingsales.co.uk,,5,20.0,100.0,steel,15000.0,
+1346,Evoke Living Homes,,,United Kingdom,GBR,,,,,,,,,
+1347,Buildoffsite,Buildoffsite Property Assurance Scheme Limited,"Buildoffsite, Riverside House, 4 Meadows Business Park, Station Approach, Blackwater, Surrey, GU17 9AB, United Kingdom",United Kingdom,GBR,,https://www.buildoffsite.com,,,,,,,
+1348,Premier Modular,Premier Modular Limited,"Catfoss Lane, Brandesburton, Driffield, East Yorkshire, YO25 8EJ, United Kingdom",United Kingdom,GBR,,https://www.premiermodular.co.uk,,,,,steel,,
+1349,Space Modules,Space Modules Ltd,"123 Example Street, London, Greater London, SW1A 1AA, United Kingdom",United Kingdom,GBR,,https://www.spacemodules.co.uk,,5,30.0,120.0,steel,50000.0,1200.0
+1350,Fforest Timber Engineering,Fforest Timber Engineering Ltd,"Unit 27, Abercarn Industrial Estate, Abercarn, Newport, NP11 5EY, United Kingdom",United Kingdom,GBR,,https://www.fforest.co.uk,,,,,timber,,
+1351,Offsite Solutions,Offsite Solutions (RT) Ltd,"Offsite Solutions (RT) Ltd, Burrington Way, Burrington Business Park, Plymouth, PL5 3LX, United Kingdom",United Kingdom,GBR,,https://www.offsitesolutions.com,,5,30.0,120.0,steel,50000.0,2000.0
+1352,Algeco UK,Algeco UK Limited,"Manor Drive, Peterborough, Cambridgeshire, PE4 7AP, United Kingdom",United Kingdom,GBR,,https://www.algeco.co.uk,,,,,steel,,
+1353,Karmod Ukraine,,,Ukraine,UKR,,https://www.karmod.ua,,,,,,,
+1354,Modular Construction LLC,,,Ukraine,UKR,,,,,,,,,
+1355,Ukrmodul,,,Ukraine,UKR,,,,,,,,,
+1356,DneprDom,"ТОВ ""ДніпроДом""","вул. Січових Стрільців, 32, м. Дніпро, Дніпропетровська область, 49000, Ukraine",Ukraine,UKR,,https://dneprdom.com,,5,50.0,200.0,wood,500000.0,10000.0
+1357,SDC Modular,SDC Modular LLC,"12 Shevchenka Street, Kyiv, 02000, Ukraine",Ukraine,UKR,,https://sdcmodular.com,,5,45.0,120.0,wood,800000.0,18000.0
+1358,Bauhaus Ukraine,,,Ukraine,UKR,,,,,,,,,
+1359,Module House,,,Ukraine,UKR,,,,,,,,,
+1360,Prostir,"ТОВ ""Простір Груп""","вул. Хрещатик, 25, Київ, 01001, Ukraine",Ukraine,UKR,,https://prostir.ua,,5,50.0,150.0,wood,800000.0,16000.0
+1361,Bud-Perspectiva,,,Ukraine,UKR,,,,,,,,,
+1362,EuroHouse,,,Ukraine,UKR,,,,,,,,,
+1363,DMD Modular,,,Ukraine,UKR,,https://www.dmdmodular.com,,,,,steel,,
+1364,Arkhitekton,Arkhitekton LLC,"123 Example Street, Kyiv, Kyiv Oblast, 01001, Ukraine",Ukraine,UKR,,https://www.arkhitekton.ua,,5,45.0,150.0,wood,1200000.0,20000.0
+1365,EcoTechDom,,,Ukraine,UKR,,,,,,,,,
+1366,Domovoy,,,Ukraine,UKR,,,,,,,,,
+1367,GreenCo,,,Ukraine,UKR,,,,,,,,,
+1368,KharkivModul,,,Ukraine,UKR,,,,,,,,,
+1369,Comfort House,,,Ukraine,UKR,,,,,,,,,
+1370,Modulbud,LLC Modulbud,"123 Main Street, Kyiv, Kyiv Oblast, 01001, Ukraine",Ukraine,UKR,,https://modulbud.ua,,5,30.0,120.0,steel,500000.0,15000.0
+1371,Karkas House,ТОВ Каркас Хаус,"вул. Дегтярівська, 25-А, Київ, Київська область, 04119, Ukraine",Ukraine,UKR,,https://karkas.house,,10,45.0,150.0,wood,500000.0,12000.0
+1372,Oak House,,,Ukraine,UKR,,,,,,,,,
+1373,GreenDwell,,,Ukraine,UKR,,,,,,,,,
+1374,Domkomplekt,,,Ukraine,UKR,,,,,,,,,
+1375,Ukrainian House Technologies,,,Ukraine,UKR,,,,,,,,,
+1376,Bud Factory,,,Ukraine,UKR,,https://budfactory.com.ua,,,,,,,
+1377,Domokomplekt,,,Ukraine,UKR,,,,,,,,,
+1378,Hata-Zrub,Hata-Zrub LLC,"Vul. Bohdanivska, 11, Kyiv, 03150, Ukraine",Ukraine,UKR,,https://hata-zrub.ua,,12,50.0,200.0,wood,500000.0,10000.0
+1379,ArchiHouse,ArchiHouse LLC,"15 Shevchenko Blvd, Kyiv, Kyiv Oblast, 01030, Ukraine",Ukraine,UKR,,https://archihouse.ua,,5,45.0,200.0,wood,1200000.0,15000.0
+1380,PrefabHome Ukraine,,,Ukraine,UKR,,,,,,,,,
+1381,ModularHouse UA,ModularHouse UA LLC,"123 Kyivska Street, Kyiv, Kyiv Oblast, 01001, Ukraine",Ukraine,UKR,,https://modularhouse-ua.com,,5,40.0,150.0,wood,500000.0,12000.0
+1382,Zrub,Zrub Ltd.,"123 Shevchenko Street, Kyiv, Kyiv Oblast, 01001, Ukraine",Ukraine,UKR,,https://zrub.ua,,5,50.0,200.0,wood,500000.0,10000.0
+1383,ModernHouse,,,Ukraine,UKR,,,,,,,,,

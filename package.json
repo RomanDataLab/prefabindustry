@@ -1,0 +1,13 @@
+{
+  "name": "prefab-research",
+  "version": "1.0.0",
+  "description": "Research EU prefab home companies",
+  "main": "core/researchPrefabCompanies.js",
+  "scripts": {
+    "research": "node core/researchPrefabCompanies.js"
+  },
+  "dependencies": {
+    "openai": "^4.20.0",
+    "csv-writer": "^1.6.0"
+  }
+}

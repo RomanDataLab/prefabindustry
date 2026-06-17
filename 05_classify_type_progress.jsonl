@@ -1,0 +1,748 @@
+{"event": "start", "total_classify": 138, "total_evaluate": 608, "input": "c:\\12_CODINGHARD\\prefab\\maps\\public\\prefabworldfin_reducedby_4.csv", "output": "c:\\12_CODINGHARD\\prefab\\maps\\public\\prefabworldfin_reducedby_4.csv"}
+{"mode": "classify", "idx": 2, "brand": "Madeira & Madeira Construções", "webpage": "https://www.madeiraemadeira.com.br", "type": "home", "certainty": "Reported", "content_length": 33792}
+{"mode": "classify", "idx": 3, "brand": "Construtora Casas Paraná", "webpage": "https://www.casaparana.com.br", "type": "commercial", "certainty": "Reported", "content_length": 705}
+{"mode": "classify", "idx": 5, "brand": "Tecverde Engenharia", "webpage": "https://www.tecverde.com.br", "type": "home", "certainty": "Confirmed", "content_length": 19769}
+{"mode": "classify", "idx": 6, "brand": "Casas Brasil", "webpage": "https://www.casasbrasil.com.br", "type": "commercial", "certainty": "Reported", "content_length": 27733}
+{"mode": "classify", "idx": 8, "brand": "Ecoplan Engenharia", "webpage": "https://www.ecoplanengenharia.com.br", "type": "unknown", "certainty": "Unknown", "content_length": 9600}
+{"mode": "classify", "idx": 9, "brand": "Construtora Baggio", "webpage": "https://www.construtorabaggio.com.br", "type": "industrial", "certainty": "Reported", "content_length": 3546}
+{"mode": "classify", "idx": 11, "brand": "Construtora Leal", "webpage": "https://www.construtoraleal.com.br", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 13, "brand": "Pormade Casa Pronta", "webpage": "https://www.pormade.com.br", "type": "doors", "certainty": "Confirmed", "content_length": 26254}
+{"mode": "classify", "idx": 14, "brand": "Racional Engenharia", "webpage": "https://www.racional.com", "type": "industrial", "certainty": "Reported", "content_length": 27854}
+{"mode": "classify", "idx": 18, "brand": "SRI Homes", "webpage": "https://www.srihomes.com", "type": "unknown", "certainty": "Unknown", "content_length": 186}
+{"mode": "classify", "idx": 20, "brand": "Winalta", "webpage": "https://www.winalta.com", "type": "unknown", "certainty": "Unknown", "content_length": 222}
+{"mode": "classify", "idx": 26, "brand": "Rocky Mountain Modular", "webpage": "https://www.rockymountainmodular.com", "type": "unknown", "certainty": "Unknown", "content_length": 673}
+{"mode": "classify", "idx": 27, "brand": "Summit Modular Construction", "webpage": "https://www.summitmodular.com", "type": "unknown", "certainty": "Unknown", "content_length": 5298}
+{"mode": "classify", "idx": 29, "brand": "Urban Timber", "webpage": "https://www.urbantimber.ca", "type": "panels", "certainty": "Reported", "content_length": 49069}
+{"mode": "classify", "idx": 32, "brand": "Miro Construction", "webpage": "https://www.miroconstruction.com", "type": "home", "certainty": "Reported", "content_length": 14165}
+{"mode": "classify", "idx": 33, "brand": "BC Timberframe", "webpage": "https://www.bctimberframe.ca", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 36, "brand": "Metric Modular", "webpage": "https://www.metricmodular.com", "type": "home", "certainty": "Reported", "content_length": 16463}
+{"mode": "classify", "idx": 37, "brand": "Fast + Epp", "webpage": "https://www.fastepp.com", "type": "panels", "certainty": "Reported", "content_length": 34687}
+{"mode": "classify", "idx": 38, "brand": "EcoNest Homes", "webpage": "https://www.econesthomes.com", "type": "home", "certainty": "Reported", "content_length": 20060}
+{"mode": "classify", "idx": 40, "brand": "Britco", "webpage": "https://www.britco.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 41, "brand": "Greenstone Building Products", "webpage": "https://www.greenstoneproductsonline.com/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 47, "brand": "Kemp Construction Management Ltd.", "webpage": "https://kempconstruction.ca", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 52, "brand": "Tamarack Grove Engineering", "webpage": "https://www.tamarackgrove.com", "type": "industrial", "certainty": "Reported", "content_length": 38629}
+{"mode": "classify", "idx": 54, "brand": "Zebra Group", "webpage": "https://www.zebragroup.ca/", "type": "home", "certainty": "Reported", "content_length": 13806}
+{"mode": "classify", "idx": 55, "brand": "Viceroy Homes", "webpage": "https://www.viceroy.com", "type": "unknown", "certainty": "Unknown", "content_length": 4912}
+{"mode": "classify", "idx": 57, "brand": "BC Passive House", "webpage": "https://www.bcpassivehouse.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 58, "brand": "Merrick Architecture", "webpage": "https://www.merrickarch.com", "type": "commercial", "certainty": "Reported", "content_length": 29033}
+{"mode": "classify", "idx": 60, "brand": "Shell Systems", "webpage": "https://www.shellsystems.com", "type": "unknown", "certainty": "Unknown", "content_length": 134}
+{"mode": "classify", "idx": 63, "brand": "B.C. Passive House", "webpage": "https://bcpassivehouse.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 64, "brand": "Cove Continuity Advisors", "webpage": "https://www.coveadvisors.com", "type": "insurance", "certainty": "Confirmed", "content_length": 55054}
+{"mode": "classify", "idx": 68, "brand": "Coastal Custom Homes", "webpage": "https://www.coastalcustomhomes.ca", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 69, "brand": "Kettle River Timberworks Ltd.", "webpage": "https://www.kettlerivertimber.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 74, "brand": "Naikoon Contracting Ltd.", "webpage": "https://naikooncontracting.com", "type": "industrial", "certainty": "Reported", "content_length": 2499}
+{"mode": "classify", "idx": 75, "brand": "Kindred Construction", "webpage": "https://kindredconstruction.com", "type": "home", "certainty": "Reported", "content_length": 46950}
+{"mode": "classify", "idx": 77, "brand": "Build Prefab", "webpage": "https://buildprefab.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 78, "brand": "High Performance Homes", "webpage": "https://www.highperformancehomes.ca", "type": "unknown", "certainty": "Unknown", "content_length": 804}
+{"mode": "classify", "idx": 79, "brand": "Prefabulous Living", "webpage": "https://www.prefabulousliving.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 82, "brand": "Kamloops Home Hardware Building Centre", "webpage": "https://www.homehardware.ca/store/18349", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 87, "brand": "Nelson River Construction", "webpage": "https://www.nelsonriver.com", "type": "infrastructure", "certainty": "Reported", "content_length": 24157}
+{"mode": "classify", "idx": 88, "brand": "Kroeker Farms", "webpage": "https://www.kroekerfarms.com", "type": "potatoes", "certainty": "Confirmed", "content_length": 740}
+{"mode": "classify", "idx": 90, "brand": "Supreme Homes", "webpage": "https://www.supremehomes.ca", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 94, "brand": "Allsco Building Products", "webpage": "https://www.allsco.com", "type": "unknown", "certainty": "Unknown", "content_length": 12037}
+{"mode": "classify", "idx": 97, "brand": "East Coast Homes", "webpage": "https://www.eastcoasthomes.ca", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 99, "brand": "Mini Home Sales", "webpage": "https://www.minihomesales.ca", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 102, "brand": "Haven Modular", "webpage": "https://havenmodular.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 112, "brand": "EcoLog Homes", "webpage": "https://www.ecologhomes.com", "type": "unknown", "certainty": "Unknown", "content_length": 1289}
+{"mode": "classify", "idx": 118, "brand": "Maisons Usinées du Québec", "webpage": "https://www.maisonsusinees.com", "type": "unknown", "certainty": "Unknown", "content_length": 5126}
+{"mode": "classify", "idx": 131, "brand": "Habitation Trigone", "webpage": "https://www.habitationtrigone.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 132, "brand": "Habitation Desrosiers", "webpage": "https://habitationdesrosiers.com", "type": "commercial", "certainty": "Reported", "content_length": 3511}
+{"mode": "classify", "idx": 144, "brand": "Edificaciones Industriales Prefabricadas", "webpage": "https://www.eip.com.mx", "type": "unknown", "certainty": "Unknown", "content_length": 3921}
+{"mode": "classify", "idx": 156, "brand": "Künzli Holz AG", "webpage": "https://www.kuenzli.ch/", "type": "gardening", "certainty": "Confirmed", "content_length": 22505}
+{"mode": "classify", "idx": 158, "brand": "Stalder Holzbau AG", "webpage": "https://www.stalder-holzbau.ch/", "type": "home", "certainty": "Reported", "content_length": 16338}
+{"mode": "classify", "idx": 159, "brand": "Holzbau Schmid AG", "webpage": "https://www.holzbau-schmid.ch/", "type": "home", "certainty": "Reported", "content_length": 26809}
+{"mode": "classify", "idx": 171, "brand": "Basecamp Explorer", "webpage": "https://www.basecampexplorer.com", "type": "adventures", "certainty": "Confirmed", "content_length": 60000}
+{"mode": "classify", "idx": 189, "brand": "Qube Modular", "webpage": "https://www.qubemodular.com", "type": "unknown", "certainty": "Unknown", "content_length": 646}
+{"mode": "classify", "idx": 193, "brand": "Euromodul", "webpage": "https://euromodul.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 216, "brand": "Prefabri", "webpage": "https://www.prefabri.com/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 221, "brand": "Mi Casa", "webpage": "https://www.micasa.com", "type": "commercial", "certainty": "Reported", "content_length": 710}
+{"mode": "classify", "idx": 222, "brand": "Green Habitat", "webpage": "https://www.greenhabitat.es", "type": "home", "certainty": "Reported", "content_length": 3307}
+{"mode": "classify", "idx": 235, "brand": "Heijmans", "webpage": "https://www.heijmans.nl", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 236, "brand": "KleurrijkWonen", "webpage": "https://www.kleurrijkwonen.nl", "type": "home", "certainty": "Reported", "content_length": 669}
+{"mode": "classify", "idx": 244, "brand": "Ark Shelter", "webpage": "https://www.arkshelter.com", "type": "unknown", "certainty": "Unknown", "content_length": 5343}
+{"mode": "classify", "idx": 245, "brand": "Pibox", "webpage": "https://www.pibox.com", "type": "audio", "certainty": "Confirmed", "content_length": 12442}
+{"mode": "classify", "idx": 249, "brand": "Wolf System", "webpage": "https://www.wolfsystem.at", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 259, "brand": "Skanska", "webpage": "https://www.skanska.se", "type": "home", "certainty": "Reported", "content_length": 44431}
+{"mode": "classify", "idx": 272, "brand": "Bjerg Arkitektur", "webpage": "https://www.bjerg.nu", "type": "unknown", "certainty": "Unknown", "content_length": 255}
+{"mode": "classify", "idx": 273, "brand": "Scanwo", "webpage": "https://www.scanwo.dk", "type": "unknown", "certainty": "Unknown", "content_length": 8600}
+{"mode": "classify", "idx": 290, "brand": "Puustelli", "webpage": "https://www.puustelli.fi", "type": "kitchens", "certainty": "Confirmed", "content_length": 60000}
+{"mode": "classify", "idx": 292, "brand": "K-Rauta", "webpage": "https://www.k-rauta.fi", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 299, "brand": "Ekoinbud", "webpage": "https://ekoinbud.pl", "type": "home", "certainty": "Reported", "content_length": 9203}
+{"mode": "classify", "idx": 301, "brand": "Bodex", "webpage": "https://www.bodex.pl", "type": "industrial", "certainty": "Reported", "content_length": 2866}
+{"mode": "classify", "idx": 323, "brand": "EcoKit", "webpage": "https://www.ecokit.com", "type": "furniture", "certainty": "Confirmed", "content_length": 5928}
+{"mode": "classify", "idx": 324, "brand": "Domical", "webpage": "https://www.domical.gr", "type": "doors", "certainty": "Reported", "content_length": 22568}
+{"mode": "classify", "idx": 325, "brand": "Kleemann Houses", "webpage": "https://www.kleemann.gr", "type": "elevators", "certainty": "Confirmed", "content_length": 60000}
+{"mode": "classify", "idx": 327, "brand": "Karavanas Prefab Homes", "webpage": "https://www.karavanas.gr", "type": "unknown", "certainty": "Unknown", "content_length": 8032}
+{"mode": "classify", "idx": 333, "brand": "Eco Timber Frame", "webpage": "https://www.ecotimberframe.ie", "type": "unknown", "certainty": "Unknown", "content_length": 1112}
+{"mode": "classify", "idx": 350, "brand": "Balkanstroy", "webpage": "https://www.balkanstroy.com", "type": "unknown", "certainty": "Unknown", "content_length": 109}
+{"mode": "classify", "idx": 370, "brand": "Xella", "webpage": "https://www.xella.com", "type": "unknown", "certainty": "Unknown", "content_length": 39}
+{"mode": "classify", "idx": 374, "brand": "Doleta", "webpage": "https://www.doleta.lt", "type": "doors", "certainty": "Reported", "content_length": 29518}
+{"mode": "classify", "idx": 383, "brand": "Akso-Haus", "webpage": "https://aksohaus.ee", "type": "home", "certainty": "Reported", "content_length": 6352}
+{"mode": "classify", "idx": 396, "brand": "Contern Group", "webpage": "https://www.contern.lu", "type": "unknown", "certainty": "Unknown", "content_length": 3078}
+{"mode": "classify", "idx": 399, "brand": "Trojan General Contracting", "webpage": "https://www.trojanconstructiongroup.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 404, "brand": "Al Fara'a Construction Group", "webpage": "https://www.alfaraagroup.com", "type": "unknown", "certainty": "Unknown", "content_length": 11516}
+{"mode": "classify", "idx": 406, "brand": "Pivot Engineering & General Contracting", "webpage": "https://www.pivot.ae", "type": "unknown", "certainty": "Unknown", "content_length": 40}
+{"mode": "classify", "idx": 407, "brand": "Unibuild Group", "webpage": "https://www.unibuildgroup.com", "type": "unknown", "certainty": "Unknown", "content_length": 800}
+{"mode": "classify", "idx": 415, "brand": "Gulf Precast", "webpage": "https://www.gulfprecast.ae", "type": "unknown", "certainty": "Unknown", "content_length": 158}
+{"mode": "classify", "idx": 422, "brand": "Al Shirawi Contracting Company", "webpage": "https://www.alshirawi.com/", "type": "unknown", "certainty": "Unknown", "content_length": 158}
+{"mode": "classify", "idx": 423, "brand": "Danube Homes", "webpage": "https://www.danubehome.com", "type": "home", "certainty": "Reported", "content_length": 58169}
+{"mode": "classify", "idx": 427, "brand": "Al Futtaim Construction", "webpage": "https://www.alfuttaim.com", "type": "industrial", "certainty": "Reported", "content_length": 60000}
+{"mode": "classify", "idx": 428, "brand": "Dubai Precast", "webpage": "https://www.dubaiprecast.com", "type": "unknown", "certainty": "Unknown", "content_length": 48}
+{"mode": "classify", "idx": 430, "brand": "Emirates Beton", "webpage": "https://www.emiratesbeton.com/", "type": "panels", "certainty": "Reported", "content_length": 27574}
+{"mode": "classify", "idx": 432, "brand": "Bee'ah Prefabricated Solutions", "webpage": "https://www.beeah.ae", "type": "unknown", "certainty": "Unknown", "content_length": 8919}
+{"mode": "classify", "idx": 438, "brand": "Trojan General Contracting", "webpage": "https://trojanconstructiongroup.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 447, "brand": "Heritage Homes of Nebraska", "webpage": "http://heritagehomesofne.com/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 450, "brand": "Impact Housing", "webpage": "http://www.impacthousing.global/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 453, "brand": "Daiwa House", "webpage": "http://www.daiwahouse.co.jp/English/index.html", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 454, "brand": "フジ産業", "webpage": "http://www.fuji-sangyou.co.jp/index.php", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 468, "brand": "Sekisui House", "webpage": "http://www.sh-rc.co.jp/eng/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 485, "brand": "Modex Spaces", "webpage": "http://www.modex-spaces.co.uk", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 537, "brand": "Hemp Built", "webpage": "http://www.hempbuilt.com.au/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 548, "brand": "Bespoke Outdoors Living", "webpage": "https://www.bespokeoutdoorsliving.com/geodesic-glamping-dome/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 550, "brand": "Out of the Valley", "webpage": "https://outofthevalley.co.uk/cabins/nomad-studio/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 562, "brand": "Madeiguincho", "webpage": "https://www.madeiguincho.pt/melides-casa-na-rvore/9e0qt1oz73tqdjowdp264zawuzchl9", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 574, "brand": "SF System", "webpage": "https://www.sfsystem.es", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 575, "brand": "Enerblock", "webpage": "https://www.enerblock.net", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 589, "brand": "Elit Prefabrike", "webpage": "https://elitprefabrik.com/", "type": "unknown", "certainty": "Unknown", "content_length": 158}
+{"mode": "classify", "idx": 604, "brand": "CETESA", "webpage": "http://cetesa.com.co/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 622, "brand": "HAUS", "webpage": "https://haushomes.co.uk", "type": "home", "certainty": "Reported", "content_length": 30986}
+{"mode": "classify", "idx": 632, "brand": "Prefab Homes", "webpage": "https://prefabhomes.uk.com/", "type": "unknown", "certainty": "Unknown", "content_length": 106}
+{"mode": "classify", "idx": 640, "brand": "Trident Modular", "webpage": "https://tridentmodular.com", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 649, "brand": "KIFA SYSTEMBAU", "webpage": "http://www.kifa.ch", "type": "unknown", "certainty": "Unknown", "content_length": 398}
+{"mode": "classify", "idx": 653, "brand": "schaerholzbau", "webpage": "http://www.schaerholzbau.ch", "type": "home", "certainty": "Reported", "content_length": 1880}
+{"mode": "classify", "idx": 657, "brand": "Dores", "webpage": "https://dores.house/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 665, "brand": "Dores House", "webpage": "https://dores.house/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 674, "brand": "Timber Design", "webpage": "http://www.timberdesign.lt", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 681, "brand": "Egoin Wood Group", "webpage": "http://www.egoin.com/", "type": "panels", "certainty": "Reported", "content_length": 3000}
+{"mode": "classify", "idx": 684, "brand": "Madera y Construcción", "webpage": "https://www.maderayconstruccion.com/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 687, "brand": "Timber Design", "webpage": "http://www.timberdesign.lt", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 690, "brand": "Woodea", "webpage": "http://www.woodea.es/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 692, "brand": "ZUBI Cities", "webpage": "https://www.zubicities.com/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 693, "brand": "Egoin Wood Group", "webpage": "http://www.egoin.com/", "type": "home", "certainty": "Reported", "content_length": 3000}
+{"mode": "classify", "idx": 695, "brand": "Madera y Construcción", "webpage": "https://www.maderayconstruccion.com/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 697, "brand": "Woodea", "webpage": "http://www.woodea.es/", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 709, "brand": "Luxhome Concept", "webpage": "https://www.luxhome.lu", "type": "home", "certainty": "Reported", "content_length": 5975}
+{"mode": "classify", "idx": 713, "brand": "ЭкоДом", "webpage": "https://ekodom.ru", "type": "unknown", "certainty": "Unknown", "content_length": 301}
+{"mode": "classify", "idx": 716, "brand": "Сибдом", "webpage": "https://sibdom.ru", "type": "home", "certainty": "Reported", "content_length": 60000}
+{"mode": "classify", "idx": 718, "brand": "СтройПанель", "webpage": "https://stroy-panel.ru", "type": "unknown", "certainty": "Unknown", "content_length": 12037}
+{"mode": "classify", "idx": 720, "brand": "СК Дома", "webpage": "https://skdoma.ru", "type": "unknown", "certainty": "Unknown", "content_length": 156}
+{"mode": "classify", "idx": 721, "brand": "ПСК Дома", "webpage": "https://pskdom.ru", "type": "commercial", "certainty": "Reported", "content_length": 49509}
+{"mode": "classify", "idx": 723, "brand": "МодульПроект", "webpage": "https://modulproekt.ru", "type": "unknown", "certainty": "Unknown", "content_length": 12037}
+{"mode": "classify", "idx": 725, "brand": "СтройСити", "webpage": "https://stroysiti.ru", "type": "unknown", "certainty": "Unknown", "content_length": 159}
+{"mode": "classify", "idx": 726, "brand": "Арт-Дом", "webpage": "https://art-dom.ru", "type": "home", "certainty": "Reported", "content_length": 60000}
+{"mode": "classify", "idx": 727, "brand": "ТехноНИКОЛЬ", "webpage": "https://www.tn.ru", "type": "panels", "certainty": "Reported", "content_length": 60000}
+{"mode": "classify", "idx": 730, "brand": "МодульДом СПб", "webpage": "https://moduldom-spb.ru", "type": "home", "certainty": "Confirmed", "content_length": 59620}
+{"mode": "classify", "idx": 740, "brand": "Система Дом", "webpage": "https://sistema-dom.ru", "type": "unknown", "certainty": "Unknown", "content_length": 60000}
+{"mode": "classify", "idx": 743, "brand": "StroyPanel", "webpage": "https://stroy-panel.ru", "type": "unknown", "certainty": "Unknown", "content_length": 12037}
+{"mode": "classify", "idx": 744, "brand": "СтройИнвест", "webpage": "https://stroiinvest.ru", "type": "unknown", "certainty": "Unknown", "content_length": 0}
+{"mode": "classify", "idx": 745, "brand": "Красноярский завод домостроений", "webpage": "https://kzd.ru", "type": "panels", "certainty": "Reported", "content_length": 44852}
+{"mode": "evaluate", "idx": 0, "brand": "Casas Paraná", "webpage": "https://www.casasparana.com.br", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1638}
+{"mode": "evaluate", "idx": 1, "brand": "Casas Paraná", "webpage": "https://www.casasparana.com.br", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1638}
+{"mode": "evaluate", "idx": 4, "brand": "Conceito Modular", "webpage": "https://www.conceitomodular.com.br", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 10149}
+{"mode": "evaluate", "idx": 7, "brand": "Modularis Offsite Building", "webpage": "https://www.modularis.com.br", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 3102}
+{"mode": "evaluate", "idx": 10, "brand": "Casas Pormade", "webpage": "https://www.pormade.com.br", "proposed_type": "doors", "type": "doors", "source": "from_list", "content_length": 26254}
+{"mode": "evaluate", "idx": 12, "brand": "Precon Engenharia", "webpage": "https://www.precon.com.br/", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 49877}
+{"mode": "evaluate", "idx": 15, "brand": "Triple M Housing", "webpage": "https://www.triplemhousing.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30812}
+{"mode": "evaluate", "idx": 16, "brand": "Grandeur Housing", "webpage": "https://www.grandeurhousing.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 16300}
+{"mode": "evaluate", "idx": 17, "brand": "Zentner Steel Buildings", "webpage": "https://zentnersteelbuildings.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 19, "brand": "Northgate Industries", "webpage": "https://www.northgateindustries.com", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 46414}
+{"mode": "evaluate", "idx": 21, "brand": "Karmod Canada", "webpage": "https://www.karmod.ca", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 9084}
+{"mode": "evaluate", "idx": 22, "brand": "Lindal Cedar Homes", "webpage": "https://lindal.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 23, "brand": "Linwood Custom Homes", "webpage": "https://www.linwoodhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 31024}
+{"mode": "evaluate", "idx": 24, "brand": "Jandel Homes", "webpage": "https://www.jandelhomes.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 25, "brand": "Cedar Ridge Homes", "webpage": "https://www.cedarridgehomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 31918}
+{"mode": "evaluate", "idx": 28, "brand": "Alta-Fab Structures", "webpage": "https://www.altafab.com", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 4417}
+{"mode": "evaluate", "idx": 30, "brand": "Fort Modular", "webpage": "https://www.fortmodular.com", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 30214}
+{"mode": "evaluate", "idx": 31, "brand": "Prairie Cedar Homes", "webpage": "https://prairiecedarhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 50598}
+{"mode": "evaluate", "idx": 34, "brand": "Pacific Homes", "webpage": "https://pacific-homes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 35, "brand": "Freeport Industries", "webpage": "https://www.freeportindustries.ca", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 27774}
+{"mode": "evaluate", "idx": 39, "brand": "Stack Modular", "webpage": "https://www.stackmodular.com", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 37019}
+{"mode": "evaluate", "idx": 42, "brand": "Blackfish Homes", "webpage": "https://www.blackfishhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 7701}
+{"mode": "evaluate", "idx": 43, "brand": "Ma Modular", "webpage": "https://www.mamodular.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 24357}
+{"mode": "evaluate", "idx": 44, "brand": "Canadian Timberframes", "webpage": "https://canadiantimberframes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 45, "brand": "Winton Homes & Cottages", "webpage": "https://www.wintonhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 46, "brand": "Tamlin Homes", "webpage": "https://tamlinhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 48, "brand": "Method Homes", "webpage": "https://www.methodhomes.net", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 49, "brand": "Timberland Homes", "webpage": "https://www.timberlandhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 11164}
+{"mode": "evaluate", "idx": 50, "brand": "Harmony Homes", "webpage": "https://www.harmonyhomes.net", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 55205}
+{"mode": "evaluate", "idx": 51, "brand": "Pioneer Log Homes of British Columbia", "webpage": "https://www.pioneerloghomesofbc.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 19899}
+{"mode": "evaluate", "idx": 53, "brand": "Collective Carpentry", "webpage": "https://www.collectivecarpentry.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 31931}
+{"mode": "evaluate", "idx": 56, "brand": "Island TimberFrame", "webpage": "https://www.islandtimberframe.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 9783}
+{"mode": "evaluate", "idx": 59, "brand": "Moduline Industries", "webpage": "https://www.moduline.ca", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 12900}
+{"mode": "evaluate", "idx": 61, "brand": "Structurlam", "webpage": "https://www.structurlam.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 4676}
+{"mode": "evaluate", "idx": 62, "brand": "Vancouver Island Tiny Homes", "webpage": "https://www.vancouverislandtinyhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 6762}
+{"mode": "evaluate", "idx": 65, "brand": "Alair Homes", "webpage": "https://www.alairhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 5383}
+{"mode": "evaluate", "idx": 66, "brand": "Honomobo", "webpage": "https://www.honomobo.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 67, "brand": "Dvele", "webpage": "https://www.dvele.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 41219}
+{"mode": "evaluate", "idx": 70, "brand": "Hamill Creek Timber Homes", "webpage": "https://www.hamillcreek.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 54638}
+{"mode": "evaluate", "idx": 71, "brand": "Westform Metals Inc.", "webpage": "https://www.westform.com/", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 72, "brand": "Formwerks Boutique Properties", "webpage": "https://www.formwerksboutique.ca/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 26454}
+{"mode": "evaluate", "idx": 73, "brand": "Horizon Pacific Contracting", "webpage": "https://www.horizoncontracting.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 36358}
+{"mode": "evaluate", "idx": 76, "brand": "Averra Developments", "webpage": "https://www.averra.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 3493}
+{"mode": "evaluate", "idx": 80, "brand": "True North Log Homes", "webpage": "https://www.truenorthloghomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 36132}
+{"mode": "evaluate", "idx": 81, "brand": "TruNorth Homes", "webpage": "https://www.trunorthhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2694}
+{"mode": "evaluate", "idx": 83, "brand": "Warkentin Custom Homes", "webpage": "https://warkentinhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 24745}
+{"mode": "evaluate", "idx": 84, "brand": "Star Ready to Move Homes", "webpage": "https://www.starreadytomovehomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 85, "brand": "Giesbrecht Buildings", "webpage": "https://giesbrechtbuildings.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 86, "brand": "Penner Builders", "webpage": "https://www.pennerbuilders.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 37219}
+{"mode": "evaluate", "idx": 89, "brand": "Kent Homes", "webpage": "https://www.kenthomes.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 2104}
+{"mode": "evaluate", "idx": 91, "brand": "Maple Leaf Homes", "webpage": "https://mapleleafhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45120}
+{"mode": "evaluate", "idx": 92, "brand": "Prestige Homes", "webpage": "https://prestigehomes.ca", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 430}
+{"mode": "evaluate", "idx": 93, "brand": "Guildcrest Homes", "webpage": "https://www.guildcrest.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 49062}
+{"mode": "evaluate", "idx": 95, "brand": "Kent Homes", "webpage": "https://www.kenthomes.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 96, "brand": "Maple Leaf Homes", "webpage": "https://www.mapleleafhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 37705}
+{"mode": "evaluate", "idx": 98, "brand": "The Home Centre", "webpage": "https://www.thehomecentre.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30211}
+{"mode": "evaluate", "idx": 100, "brand": "Royal Homes", "webpage": "https://www.royalhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 26911}
+{"mode": "evaluate", "idx": 101, "brand": "Guildcrest Homes", "webpage": "https://guildcrest.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45805}
+{"mode": "evaluate", "idx": 103, "brand": "R-Hauz Solutions Inc.", "webpage": "https://r-hauz.ca", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 2210}
+{"mode": "evaluate", "idx": 104, "brand": "Timber Block", "webpage": "https://www.timberblock.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 31550}
+{"mode": "evaluate", "idx": 105, "brand": "Ritz Homes", "webpage": "https://www.ritzhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 37319}
+{"mode": "evaluate", "idx": 106, "brand": "Bonneville Homes", "webpage": "https://www.maisonsbonneville.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 9927}
+{"mode": "evaluate", "idx": 107, "brand": "Kent Homes", "webpage": "https://www.kenthomes.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 2104}
+{"mode": "evaluate", "idx": 108, "brand": "Maple Leaf Homes", "webpage": "https://www.mapleleafhomes.ca/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 34467}
+{"mode": "evaluate", "idx": 109, "brand": "Northlander Industries", "webpage": "https://www.northlanderindustries.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 29361}
+{"mode": "evaluate", "idx": 110, "brand": "Zentner Steel Buildings", "webpage": "https://zentnersteelbuildings.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 111, "brand": "Discovery Dream Homes", "webpage": "https://www.discoverydreamhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45599}
+{"mode": "evaluate", "idx": 113, "brand": "Royal Modular Homes", "webpage": "https://royalhomes.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 2863}
+{"mode": "evaluate", "idx": 114, "brand": "Green Terra Homes", "webpage": "https://www.greenterrahomes.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 115, "brand": "Maisons Laprise", "webpage": "https://www.maisonlaprise.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 43245}
+{"mode": "evaluate", "idx": 116, "brand": "Pro-Fab", "webpage": "https://www.profab.ca", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 117, "brand": "Maisons Usinées Confort Design", "webpage": "https://www.confortdesign.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 950}
+{"mode": "evaluate", "idx": 119, "brand": "Mecart", "webpage": "https://www.mecart.com", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 24099}
+{"mode": "evaluate", "idx": 120, "brand": "Maisons Usinées Rémillard", "webpage": "https://www.maisonsremillard.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 16828}
+{"mode": "evaluate", "idx": 121, "brand": "Constructions Pro-Fab", "webpage": "https://www.profab.ca", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 122, "brand": "Habitation Jutras", "webpage": "https://www.habitationjutras.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 5256}
+{"mode": "evaluate", "idx": 123, "brand": "Maisons Usinées Pro-Concept", "webpage": "https://www.pro-concept.ca", "proposed_type": "home", "type": "sécurité", "source": "evaluated", "content_length": 219}
+{"mode": "evaluate", "idx": 124, "brand": "Bâtiments Préfabriqués Nordiques", "webpage": "https://bpn.ca", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 125, "brand": "Maisons Bonneville", "webpage": "https://maisonsbonneville.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 9923}
+{"mode": "evaluate", "idx": 126, "brand": "Batitech", "webpage": "https://www.batitech.ca/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 127, "brand": "Cabanons Mirabel", "webpage": "https://www.cabanonsmirabel.com", "proposed_type": "cabins", "type": "cabins", "source": "from_list", "content_length": 44185}
+{"mode": "evaluate", "idx": 128, "brand": "Maisons Laprise Est", "webpage": "https://www.maisonlaprise.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 43245}
+{"mode": "evaluate", "idx": 129, "brand": "Maisons Usinées Bâtitech", "webpage": "https://www.batitech.ca", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 130, "brand": "Maisons Usinées Charpentes Montmorency", "webpage": "https://www.charpentesmontmorency.com", "proposed_type": "home", "type": "structures", "source": "evaluated", "content_length": 1744}
+{"mode": "evaluate", "idx": 133, "brand": "Maisons Charplexe", "webpage": "https://www.maisonscharplexe.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 4052}
+{"mode": "evaluate", "idx": 134, "brand": "Les Habitations Jutras", "webpage": "https://www.habitationsjutras.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 15784}
+{"mode": "evaluate", "idx": 135, "brand": "Zak's Building Group", "webpage": "https://zaksbuilding.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 46575}
+{"mode": "evaluate", "idx": 136, "brand": "Warman Homes", "webpage": "https://warmanhomes.ca/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 57198}
+{"mode": "evaluate", "idx": 137, "brand": "J&H Homes", "webpage": "https://www.jhhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 138, "brand": "North Prairie Developments", "webpage": "https://www.northprairiehomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 139, "brand": "Ehrenburg Homes", "webpage": "https://ehrenburg.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 41693}
+{"mode": "evaluate", "idx": 140, "brand": "Superior Homes", "webpage": "https://superiorhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 23527}
+{"mode": "evaluate", "idx": 141, "brand": "Deneschuk Homes", "webpage": "https://deneschukhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 14246}
+{"mode": "evaluate", "idx": 142, "brand": "Northridge Developments", "webpage": "https://www.northridgedevelopment.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1766}
+{"mode": "evaluate", "idx": 143, "brand": "Crawford Homes", "webpage": "https://crawfordhomes.ca", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 145, "brand": "Renggli AG", "webpage": "https://www.renggli.swiss", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 6658}
+{"mode": "evaluate", "idx": 146, "brand": "HUF Haus", "webpage": "https://www.huf-haus.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 147, "brand": "SchwörerHaus", "webpage": "https://www.schwoererhaus.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 148, "brand": "Bau-Fritz AG", "webpage": "https://www.baufritz.com/ch", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 149, "brand": "WeberHaus", "webpage": "https://www.weberhaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 150, "brand": "Kampa AG", "webpage": "https://www.kampa.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 50993}
+{"mode": "evaluate", "idx": 151, "brand": "Erne AG Holzbau", "webpage": "https://www.erne.net", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 152, "brand": "Fertighaus Weiss", "webpage": "https://www.fertighaus-weiss.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 153, "brand": "Lignotrend", "webpage": "https://www.lignotrend.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 154, "brand": "Blumer-Lehmann AG", "webpage": "https://www.blumer-lehmann.ch", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 155, "brand": "Implenia", "webpage": "https://implenia.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 157, "brand": "Tschopp Holzbau", "webpage": "https://www.tschopp-holzbau.ch", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 59001}
+{"mode": "evaluate", "idx": 160, "brand": "Nordbohus", "webpage": "https://www.nordbohus.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 161, "brand": "Mesterhus", "webpage": "https://www.mesterhus.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 162, "brand": "Systemhus", "webpage": "https://www.systemhus.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 163, "brand": "Hedalm Anebyhus", "webpage": "https://www.hedalm-anebyhus.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 164, "brand": "Blink Hus", "webpage": "https://www.blinkhus.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 165, "brand": "BoligPartner", "webpage": "https://boligpartner.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 166, "brand": "Norgeshus", "webpage": "https://www.norgeshus.no", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 94}
+{"mode": "evaluate", "idx": 167, "brand": "Ferdighus", "webpage": "https://www.ferdighus.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 51287}
+{"mode": "evaluate", "idx": 168, "brand": "OBOS Block Watne", "webpage": "https://obosblockwatne.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 14962}
+{"mode": "evaluate", "idx": 169, "brand": "Älvsbyhus Norge", "webpage": "https://www.alvsbyhus.no", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 47637}
+{"mode": "evaluate", "idx": 170, "brand": "Hus1 Norge", "webpage": "https://www.hus1norge.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 44658}
+{"mode": "evaluate", "idx": 172, "brand": "Rindalshytter", "webpage": "https://rindalshytter.no/", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 1869}
+{"mode": "evaluate", "idx": 173, "brand": "Hedda Hytter", "webpage": "https://www.hedda.no", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 39036}
+{"mode": "evaluate", "idx": 174, "brand": "Element Nor", "webpage": "https://www.elementnor.no", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 6160}
+{"mode": "evaluate", "idx": 175, "brand": "Húsasmiðjan", "webpage": "https://www.husa.is", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 20620}
+{"mode": "evaluate", "idx": 176, "brand": "Límtré Vírnet", "webpage": "https://www.limtrevirnet.is", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1156}
+{"mode": "evaluate", "idx": 177, "brand": "Modularwise", "webpage": "https://www.modularwise.co.uk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 46908}
+{"mode": "evaluate", "idx": 178, "brand": "We Build Eco", "webpage": "https://www.webuildeco.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 3917}
+{"mode": "evaluate", "idx": 179, "brand": "Baufritz", "webpage": "https://www.baufritz.com/uk/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 180, "brand": "Huf Haus", "webpage": "https://www.huf-haus.com/en/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 181, "brand": "HebHomes", "webpage": "https://www.hebhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 182, "brand": "Scandia-Hus", "webpage": "https://www.scandia-hus.co.uk", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 183, "brand": "Koto", "webpage": "https://www.koto.design", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 184, "brand": "Tingdene Homes", "webpage": "https://www.tingdene.co.uk", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 185, "brand": "Willerby", "webpage": "https://www.willerby.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 53918}
+{"mode": "evaluate", "idx": 186, "brand": "Homestead Timber Buildings", "webpage": "https://www.homesteadtimberbuildings.co.uk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 5148}
+{"mode": "evaluate", "idx": 187, "brand": "MIMA Housing", "webpage": "https://www.mimahousing.pt", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 46749}
+{"mode": "evaluate", "idx": 188, "brand": "ZEDFactory", "webpage": "https://www.zedfactory.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30416}
+{"mode": "evaluate", "idx": 190, "brand": "The Wee House Company", "webpage": "https://theweehousecompany.co.uk", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 191, "brand": "Urban Splash", "webpage": "https://www.urbansplash.co.uk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 192, "brand": "Facit Homes", "webpage": "https://facit-homes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2604}
+{"mode": "evaluate", "idx": 194, "brand": "Bien-Zenker", "webpage": "https://www.bien-zenker.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 195, "brand": "Luxhaus", "webpage": "https://www.luxhaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 196, "brand": "Hanlo Haus", "webpage": "https://www.hanlo.at/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 53773}
+{"mode": "evaluate", "idx": 197, "brand": "Kampa", "webpage": "https://www.kampa.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 53743}
+{"mode": "evaluate", "idx": 198, "brand": "FingerHaus", "webpage": "https://www.fingerhaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 199, "brand": "Danwood", "webpage": "https://www.danwood.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45845}
+{"mode": "evaluate", "idx": 200, "brand": "Baufritz", "webpage": "https://www.baufritz.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 201, "brand": "RENSCH-HAUS", "webpage": "https://www.rensch-haus.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 202, "brand": "ELK Fertighaus", "webpage": "https://www.elk-fertighaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 53366}
+{"mode": "evaluate", "idx": 203, "brand": "Talbau-Haus", "webpage": "https://www.talbau-haus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 204, "brand": "Lehner-Haus", "webpage": "https://www.lehner-haus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 32073}
+{"mode": "evaluate", "idx": 205, "brand": "STREIF Haus", "webpage": "https://www.streif.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 206, "brand": "Wolf-Haus", "webpage": "https://www.wolf-haus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 207, "brand": "Hanse Haus", "webpage": "https://www.hanse-haus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 208, "brand": "Fullwood Wohnblockhaus", "webpage": "https://www.fullwood.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 209, "brand": "Kaufman & Broad", "webpage": "https://www.kaufmanbroad.fr", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 210, "brand": "Maisons Phénix", "webpage": "https://www.maisons-phenix.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2537}
+{"mode": "evaluate", "idx": 211, "brand": "Babeau Seguin", "webpage": "https://www.babeau-seguin.fr", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 212, "brand": "Maisons Pierre", "webpage": "https://www.maisons-pierre.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 213, "brand": "PopUp House", "webpage": "https://www.popup-house.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 15278}
+{"mode": "evaluate", "idx": 214, "brand": "Casas inHAUS", "webpage": "https://casasinhaus.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 215, "brand": "Modular Home", "webpage": "https://www.modularhome.es", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 12041}
+{"mode": "evaluate", "idx": 217, "brand": "Arquima", "webpage": "https://www.arquima.net", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 218, "brand": "Cubicup", "webpage": "https://www.cubicup.es", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2537}
+{"mode": "evaluate", "idx": 219, "brand": "Alucasa", "webpage": "https://alucasa.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 12035}
+{"mode": "evaluate", "idx": 220, "brand": "Eurocasa", "webpage": "https://www.eurocasas.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 223, "brand": "Ábaton", "webpage": "https://www.abaton.es", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 937}
+{"mode": "evaluate", "idx": 224, "brand": "Pujol", "webpage": "https://www.pujol.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 13975}
+{"mode": "evaluate", "idx": 225, "brand": "Jan Snel", "webpage": "https://www.jansnel.com", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 226, "brand": "De Meeuw", "webpage": "https://www.demeeuw.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 8207}
+{"mode": "evaluate", "idx": 227, "brand": "Barli", "webpage": "https://www.barli.nl/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 34353}
+{"mode": "evaluate", "idx": 228, "brand": "Livingstone", "webpage": "https://www.livingstone.org", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 57812}
+{"mode": "evaluate", "idx": 229, "brand": "Dura Vermeer", "webpage": "https://www.duravermeer.nl", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 230, "brand": "Van Wijnen", "webpage": "https://www.vanwijnen.nl", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45005}
+{"mode": "evaluate", "idx": 231, "brand": "Hodes Huisvesting", "webpage": "https://www.hodes.nl", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 78}
+{"mode": "evaluate", "idx": 232, "brand": "Heijmans ONE", "webpage": "https://www.heijmans.nl/en/heijmans-one/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 233, "brand": "FaberWonen", "webpage": "https://www.faberwonen.nl", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 234, "brand": "Woonpioniers", "webpage": "https://www.woonpioniers.nl", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45953}
+{"mode": "evaluate", "idx": 237, "brand": "WeberHaus", "webpage": "https://www.weberhaus.co.uk/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 53488}
+{"mode": "evaluate", "idx": 238, "brand": "Skilpod", "webpage": "https://www.skilpod.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 43727}
+{"mode": "evaluate", "idx": 239, "brand": "Bostoen", "webpage": "https://www.bostoen.be", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 240, "brand": "Danilith", "webpage": "https://www.danilith.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 49810}
+{"mode": "evaluate", "idx": 241, "brand": "Dewaele Woningbouw", "webpage": "https://www.dewaele.be", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 242, "brand": "Ecohuis", "webpage": "https://www.ecohuis.be", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 243, "brand": "Machiels Building Solutions", "webpage": "https://www.machielsbuildingsolutions.be", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 6841}
+{"mode": "evaluate", "idx": 246, "brand": "ELK Fertighaus", "webpage": "https://www.elk.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 57022}
+{"mode": "evaluate", "idx": 247, "brand": "Hartl Haus", "webpage": "https://www.hartlhaus.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 248, "brand": "Haas Fertigbau", "webpage": "https://www.haas-fertigbau.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 250, "brand": "Griffnerhaus", "webpage": "https://www.griffner.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 251, "brand": "Weissenseer", "webpage": "https://www.weissenseer.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 252, "brand": "WimbergerHaus", "webpage": "https://www.wimbergerhaus.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 253, "brand": "Genböck Haus", "webpage": "https://www.genboeck.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 254, "brand": "Fertighaus Weiss", "webpage": "https://www.fertighaus-weiss.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 255, "brand": "Glorit", "webpage": "https://www.glorit.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 256, "brand": "Zenker Hausbau", "webpage": "https://www.zenker-hausbau.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 3647}
+{"mode": "evaluate", "idx": 257, "brand": "Vario Haus", "webpage": "https://www.variohaus.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 258, "brand": "Hanlo Haus", "webpage": "https://www.hanlo.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 53783}
+{"mode": "evaluate", "idx": 260, "brand": "Peab", "webpage": "https://peab.se", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 261, "brand": "OBOS Sverige", "webpage": "https://obos.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 262, "brand": "NCC", "webpage": "https://www.ncc.group", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 44504}
+{"mode": "evaluate", "idx": 263, "brand": "Derome", "webpage": "https://www.derome.se/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45648}
+{"mode": "evaluate", "idx": 264, "brand": "Lindbäcks", "webpage": "https://lindbacks.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 265, "brand": "Älvsbyhus", "webpage": "https://www.alvsbyhus.se", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 31547}
+{"mode": "evaluate", "idx": 266, "brand": "Modulhus", "webpage": "https://modulhus.se", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 267, "brand": "Fiskarhedenvillan", "webpage": "https://www.fiskarhedenvillan.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 7081}
+{"mode": "evaluate", "idx": 268, "brand": "Rörvikshus", "webpage": "https://www.rorvikshus.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 9117}
+{"mode": "evaluate", "idx": 269, "brand": "VästkustVillan", "webpage": "https://www.vastkustvillan.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 3497}
+{"mode": "evaluate", "idx": 270, "brand": "Götenehus", "webpage": "https://www.gotenehus.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 17798}
+{"mode": "evaluate", "idx": 271, "brand": "Trivselhus", "webpage": "https://www.trivselhus.se", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 274, "brand": "Danhaus", "webpage": "https://www.danhaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 275, "brand": "EBK HUSE", "webpage": "https://www.ebk.dk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 8314}
+{"mode": "evaluate", "idx": 276, "brand": "Scandi Byg", "webpage": "https://www.scandibyg.dk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 25958}
+{"mode": "evaluate", "idx": 277, "brand": "HusCompagniet", "webpage": "https://www.huscompagniet.dk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 26792}
+{"mode": "evaluate", "idx": 278, "brand": "Lasse Larsen Huse", "webpage": "https://www.lasselarsenhuse.dk/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1773}
+{"mode": "evaluate", "idx": 279, "brand": "M2plus", "webpage": "https://m2plus.dk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 280, "brand": "Honka", "webpage": "https://honka.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 281, "brand": "Kontio", "webpage": "https://www.kontio.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 282, "brand": "Finnlamelli", "webpage": "https://www.finnlamelli.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 283, "brand": "Kuusamo Log Houses", "webpage": "https://www.kuusamohirsitalot.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 37922}
+{"mode": "evaluate", "idx": 284, "brand": "Polar Life Haus", "webpage": "https://www.polarlifehaus.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 285, "brand": "Hirsiset", "webpage": "https://www.hirsiset.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 286, "brand": "Lapponia House", "webpage": "https://lapponiahouse.fi", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 40025}
+{"mode": "evaluate", "idx": 287, "brand": "Jetta-Talo", "webpage": "https://www.jetta-talo.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 288, "brand": "Kastelli", "webpage": "https://www.kastelli.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 289, "brand": "Älvsbytalo", "webpage": "https://www.alvsbytalo.fi/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 29988}
+{"mode": "evaluate", "idx": 291, "brand": "Vieskan Elementti", "webpage": "https://www.vieskanelementti.fi", "proposed_type": "home", "type": "puuelementit", "source": "evaluated", "content_length": 1608}
+{"mode": "evaluate", "idx": 293, "brand": "Teri-Hus", "webpage": "https://www.terihus.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 294, "brand": "Kimara", "webpage": "https://www.kimara.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 4254}
+{"mode": "evaluate", "idx": 295, "brand": "Honkatalot", "webpage": "https://honkatalot.fi", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 8715}
+{"mode": "evaluate", "idx": 296, "brand": "Budimex", "webpage": "https://www.budimex.pl", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 5952}
+{"mode": "evaluate", "idx": 297, "brand": "Unibep", "webpage": "https://unihouse.pl/en/", "proposed_type": "modular", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 298, "brand": "Danwood", "webpage": "https://www.danwood.pl", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 54687}
+{"mode": "evaluate", "idx": 300, "brand": "Balex Metal", "webpage": "https://www.balex.eu/", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 302, "brand": "Lipińscy Domy", "webpage": "https://lipinscy.pl", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 303, "brand": "RD Rýmařov", "webpage": "https://www.rdrymarov.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 304, "brand": "ELK Fertighaus", "webpage": "https://www.elk.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 31629}
+{"mode": "evaluate", "idx": 305, "brand": "Canaba", "webpage": "https://www.canaba.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 57368}
+{"mode": "evaluate", "idx": 306, "brand": "Haas Fertigbau", "webpage": "https://www.haas-fertigbau.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 51120}
+{"mode": "evaluate", "idx": 307, "brand": "Ekonomické stavby", "webpage": "https://www.ekonomicke-stavby.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 308, "brand": "Dřevostavby Biskup", "webpage": "https://www.drevostavbybiskup.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 14986}
+{"mode": "evaluate", "idx": 309, "brand": "Vesper Frames", "webpage": "https://www.vesperhomes.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 33888}
+{"mode": "evaluate", "idx": 310, "brand": "Domesi", "webpage": "http://www.domesi.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 21125}
+{"mode": "evaluate", "idx": 311, "brand": "Easy Homes Solutions", "webpage": "https://www.easyhomes.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 35696}
+{"mode": "evaluate", "idx": 312, "brand": "Atrium", "webpage": "https://www.atrium.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 313, "brand": "Hoffmann", "webpage": "https://www.hoffmann.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 52079}
+{"mode": "evaluate", "idx": 314, "brand": "Wood System", "webpage": "https://www.woodsystem.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 315, "brand": "Thermo Plus", "webpage": "http://www.thermoplus.cz", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 17520}
+{"mode": "evaluate", "idx": 316, "brand": "Origis", "webpage": "https://www.origis.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 317, "brand": "WOLF System", "webpage": "https://www.wolfsystem.cz", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 54320}
+{"mode": "evaluate", "idx": 318, "brand": "KOMA Modular", "webpage": "https://www.koma-modular.cz", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 319, "brand": "MS Haus", "webpage": "https://www.mshaus.cz", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2720}
+{"mode": "evaluate", "idx": 320, "brand": "Moravské dřevostavby", "webpage": "https://www.moravskedrevostavby.cz", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 321, "brand": "PURLIVE", "webpage": "https://www.purlive.cz", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 35232}
+{"mode": "evaluate", "idx": 322, "brand": "Kofinas Prefabricated Houses", "webpage": "https://www.kofinas.gr", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 37931}
+{"mode": "evaluate", "idx": 326, "brand": "ThermoHouse", "webpage": "https://www.thermohouse.ie", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 54997}
+{"mode": "evaluate", "idx": 328, "brand": "Clancy Homes", "webpage": "https://clancyhomes.ie", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1545}
+{"mode": "evaluate", "idx": 329, "brand": "EcoMod", "webpage": "https://www.ecomod.ie", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 330, "brand": "Kingspan Timber Solutions", "webpage": "https://www.kingspantimbersolutions.co.uk/", "proposed_type": "home", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 331, "brand": "Ballytherm", "webpage": "https://www.ballytherm.ie", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 38368}
+{"mode": "evaluate", "idx": 332, "brand": "Timber Frame Ireland", "webpage": "https://www.timberframeireland.ie", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 334, "brand": "Cygnum Timber Frame", "webpage": "https://www.cygnum.ie", "proposed_type": "home", "type": "panels", "source": "from_list", "content_length": 15648}
+{"mode": "evaluate", "idx": 335, "brand": "Ecokit", "webpage": "https://www.ecokit.ro", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 8351}
+{"mode": "evaluate", "idx": 336, "brand": "Doralnic", "webpage": "https://doralnic.ro", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 17666}
+{"mode": "evaluate", "idx": 337, "brand": "Karmod Romania", "webpage": "https://karmod.ro", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 338, "brand": "Case Calduroase", "webpage": "https://www.casecalduroase.ro", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 12393}
+{"mode": "evaluate", "idx": 339, "brand": "Case MEXI", "webpage": "https://www.casemexi.ro", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 58550}
+{"mode": "evaluate", "idx": 340, "brand": "WOLF Haus", "webpage": "https://www.wolfhaus.hu", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 38334}
+{"mode": "evaluate", "idx": 341, "brand": "Thermo-Block", "webpage": "https://thermo-block.hu", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 342, "brand": "Könnyűház", "webpage": "https://www.konnyuhaz.hu", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 13466}
+{"mode": "evaluate", "idx": 343, "brand": "ECO Modul", "webpage": "https://www.ecomodul.hu", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 891}
+{"mode": "evaluate", "idx": 344, "brand": "Ecocapsule", "webpage": "https://www.ecocapsule.sk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 345, "brand": "ForDom", "webpage": "https://www.fordom.sk", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 171}
+{"mode": "evaluate", "idx": 346, "brand": "M-House", "webpage": "https://www.mhouse.sk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 347, "brand": "Prodom", "webpage": "https://www.prodom.sk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 348, "brand": "Drevodom Rajec", "webpage": "https://www.drevodom.sk", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 349, "brand": "Karmod Bulgaria", "webpage": "https://www.karmod.bg", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 15690}
+{"mode": "evaluate", "idx": 351, "brand": "EcoHouse", "webpage": "https://www.ecohouse.bg", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 29750}
+{"mode": "evaluate", "idx": 352, "brand": "DOMUSplus", "webpage": "https://www.domusplus.hr", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 17465}
+{"mode": "evaluate", "idx": 353, "brand": "Promming", "webpage": "https://www.promming.hr", "proposed_type": "industrial", "type": "equipment", "source": "evaluated", "content_length": 4419}
+{"mode": "evaluate", "idx": 354, "brand": "Kamgrad", "webpage": "https://www.kamgrad.hr", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 37127}
+{"mode": "evaluate", "idx": 355, "brand": "Tehnomont", "webpage": "https://www.tehnomont.hr", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 21662}
+{"mode": "evaluate", "idx": 356, "brand": "Euromodul", "webpage": "https://www.euromodul.hr/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 3455}
+{"mode": "evaluate", "idx": 357, "brand": "Domprojekt", "webpage": "https://www.domprojekt.hr", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 52212}
+{"mode": "evaluate", "idx": 358, "brand": "Monting", "webpage": "https://www.monting.hr", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 1432}
+{"mode": "evaluate", "idx": 359, "brand": "Gradnja", "webpage": "https://www.gradnja.hr", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 48179}
+{"mode": "evaluate", "idx": 360, "brand": "Riko Hiše", "webpage": "https://www.riko-hise.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 54166}
+{"mode": "evaluate", "idx": 361, "brand": "Jelovica Hiše", "webpage": "https://www.jelovica-hise.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 6870}
+{"mode": "evaluate", "idx": 362, "brand": "Marles Hiše", "webpage": "https://www.marles.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 25894}
+{"mode": "evaluate", "idx": 363, "brand": "Lumar", "webpage": "https://www.lumar.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 50030}
+{"mode": "evaluate", "idx": 364, "brand": "Kager Hiša", "webpage": "https://www.kager.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 48801}
+{"mode": "evaluate", "idx": 365, "brand": "JUBHome", "webpage": "https://www.jubhome.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 55984}
+{"mode": "evaluate", "idx": 366, "brand": "Rihter", "webpage": "https://www.rihter.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 367, "brand": "Lesoteka Hiše", "webpage": "https://www.lesoteka-hise.si/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 368, "brand": "Kager Hiša", "webpage": "https://www.kager.si/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 41516}
+{"mode": "evaluate", "idx": 369, "brand": "Ekokoncept", "webpage": "https://www.ekokoncept.si", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 15850}
+{"mode": "evaluate", "idx": 371, "brand": "Ryterna Modul", "webpage": "https://www.rmodul.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 372, "brand": "INHUS Prefab", "webpage": "https://www.inhus.eu", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 27489}
+{"mode": "evaluate", "idx": 373, "brand": "Ecococon", "webpage": "https://ecococon.eu", "proposed_type": "home", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 375, "brand": "Kodumaja", "webpage": "https://www.kodumaja.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 13848}
+{"mode": "evaluate", "idx": 376, "brand": "ZTC", "webpage": "https://ztc.lv", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1383}
+{"mode": "evaluate", "idx": 377, "brand": "Cross Timber Systems", "webpage": "https://www.crosstimbersystems.lv", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 2844}
+{"mode": "evaluate", "idx": 378, "brand": "Eco House", "webpage": "https://www.ecohouse.lv", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 11567}
+{"mode": "evaluate", "idx": 379, "brand": "HUS.LV", "webpage": "https://hus.lv", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 29392}
+{"mode": "evaluate", "idx": 380, "brand": "Nordic Homes", "webpage": "https://nordichomes.lv", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 2326}
+{"mode": "evaluate", "idx": 381, "brand": "TimberART", "webpage": "https://www.timberart.lv", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2382}
+{"mode": "evaluate", "idx": 382, "brand": "Kodumaja", "webpage": "https://www.kodumaja.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 13848}
+{"mode": "evaluate", "idx": 384, "brand": "Harmet", "webpage": "https://www.harmet.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 15151}
+{"mode": "evaluate", "idx": 385, "brand": "Matek", "webpage": "https://www.matek.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 44131}
+{"mode": "evaluate", "idx": 386, "brand": "Q-haus", "webpage": "https://www.qhaus.eu", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 7081}
+{"mode": "evaluate", "idx": 387, "brand": "EstNor", "webpage": "https://www.estnor.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 22351}
+{"mode": "evaluate", "idx": 388, "brand": "Nordic Houses", "webpage": "https://nordichouses.eu/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45742}
+{"mode": "evaluate", "idx": 389, "brand": "Timbeco", "webpage": "https://timbeco.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 390, "brand": "KMT Prefab", "webpage": "https://www.kmtprefab.ee", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 4632}
+{"mode": "evaluate", "idx": 391, "brand": "Avrame", "webpage": "https://www.avrame.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 392, "brand": "Ritsu", "webpage": "https://www.ritsu.ee", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 1808}
+{"mode": "evaluate", "idx": 393, "brand": "Finnlog", "webpage": "https://www.finnlog.ee", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 5906}
+{"mode": "evaluate", "idx": 394, "brand": "Greencube", "webpage": "https://greencube.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 17577}
+{"mode": "evaluate", "idx": 395, "brand": "Welement", "webpage": "https://welement.ee", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 36358}
+{"mode": "evaluate", "idx": 397, "brand": "Rubner Haus", "webpage": "https://www.haus.rubner.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 7003}
+{"mode": "evaluate", "idx": 398, "brand": "Al Geemi & Partners", "webpage": "https://www.algeemi.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 3015}
+{"mode": "evaluate", "idx": 400, "brand": "Square General Contracting", "webpage": "https://www.squaregc.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 11481}
+{"mode": "evaluate", "idx": 401, "brand": "Al Sahel Contracting Company", "webpage": "https://www.alsahelcon.com", "proposed_type": "industrial", "type": "construction", "source": "evaluated", "content_length": 39540}
+{"mode": "evaluate", "idx": 402, "brand": "Arabian Construction Company", "webpage": "https://www.accgroup.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 11790}
+{"mode": "evaluate", "idx": 403, "brand": "Eversendai Construction", "webpage": "https://www.eversendai.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 43843}
+{"mode": "evaluate", "idx": 405, "brand": "Amana Contracting & Steel Buildings", "webpage": "https://www.amanabuildings.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 12045}
+{"mode": "evaluate", "idx": 408, "brand": "Gulf Precast Concrete Co.", "webpage": "https://www.gulfprecast.ae/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 159}
+{"mode": "evaluate", "idx": 409, "brand": "Advanced Construction Technology Services", "webpage": "https://www.acts-int.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 410, "brand": "DuBox", "webpage": "https://www.dubox.me", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 411, "brand": "Karmod Prefabricated Technologies", "webpage": "https://karmod.ae/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 412, "brand": "Prefab UAE", "webpage": "https://www.prefabuae.com", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 6024}
+{"mode": "evaluate", "idx": 413, "brand": "Speed House Group", "webpage": "https://www.speedhouse.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 37830}
+{"mode": "evaluate", "idx": 414, "brand": "Byldis Middle East", "webpage": "https://www.byldis.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 5927}
+{"mode": "evaluate", "idx": 416, "brand": "Algeco", "webpage": "https://www.algeco.com", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 4990}
+{"mode": "evaluate", "idx": 417, "brand": "Red Sea Housing Services", "webpage": "https://www.redseahousing.com", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 418, "brand": "Elematic", "webpage": "https://www.elematic.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 18522}
+{"mode": "evaluate", "idx": 419, "brand": "Emirates Building Systems", "webpage": "https://www.ebsl.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 420, "brand": "Cladtech International", "webpage": "https://www.cladtech-int.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 9396}
+{"mode": "evaluate", "idx": 421, "brand": "BK Gulf LLC", "webpage": "https://www.bkgulf.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 27188}
+{"mode": "evaluate", "idx": 424, "brand": "Cemex Topmix", "webpage": "https://www.cemex.ae", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 425, "brand": "Hitech Modular Buildings", "webpage": "https://www.hitechmodular.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 426, "brand": "Emaar Industries & Investments", "webpage": "https://www.eii.ae", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 11985}
+{"mode": "evaluate", "idx": 429, "brand": "National Industries Park", "webpage": "https://www.jafza.ae/en/national-industries-park", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 431, "brand": "Al Hamra Group", "webpage": "https://www.alhamra.ae", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 433, "brand": "Karmod Prefabricated Building Technologies", "webpage": "https://www.karmod.ae", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 8518}
+{"mode": "evaluate", "idx": 434, "brand": "Al Zayed Shades & Tents", "webpage": "https://www.alzayedshades.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 39239}
+{"mode": "evaluate", "idx": 435, "brand": "Prefab UAE", "webpage": "https://www.prefabuae.com", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 6024}
+{"mode": "evaluate", "idx": 436, "brand": "Mabani Steel", "webpage": "https://www.mabanisteel.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 25322}
+{"mode": "evaluate", "idx": 437, "brand": "Al Shafar Steel Engineering LLC", "webpage": "https://www.asse.ae", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 439, "brand": "Affinity by Vantem", "webpage": "http://www.affinitybuildingsystems.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 440, "brand": "Apex Homes", "webpage": "http://www.apexhomesofpa.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 40019}
+{"mode": "evaluate", "idx": 441, "brand": "Blue Ridge Log Cabins", "webpage": "http://www.blueridgelogcabins.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 442, "brand": "Buckhorn Builders", "webpage": "https://www.buckhornbuilders.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 23496}
+{"mode": "evaluate", "idx": 443, "brand": "Cavco Homes", "webpage": "https://www.cavcohomes.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 88}
+{"mode": "evaluate", "idx": 444, "brand": "Champion Homes", "webpage": "http://www.championhomes.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 59493}
+{"mode": "evaluate", "idx": 445, "brand": "Fading West", "webpage": "http://www.fadingwestdevelopment.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 38653}
+{"mode": "evaluate", "idx": 446, "brand": "Fairmont Homes", "webpage": "https://www.fairmonthomes.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 91}
+{"mode": "evaluate", "idx": 448, "brand": "Huntington Homes", "webpage": "http://www.huntingtonhomesvt.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 1047}
+{"mode": "evaluate", "idx": 449, "brand": "Icon Legacy", "webpage": "http://www.iconlegacy.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 47930}
+{"mode": "evaluate", "idx": 451, "brand": "Ironwood Homes", "webpage": "http://www.ironwoodhomesinc.ca/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 24093}
+{"mode": "evaluate", "idx": 452, "brand": "Asahi Kasei Homes", "webpage": "http://www.asahi-kasei.co.jp/asahi/en/aboutasahi/homes/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 3021}
+{"mode": "evaluate", "idx": 455, "brand": "北都ハウス工業", "webpage": "http://www.hokuto-house.co.jp/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 5097}
+{"mode": "evaluate", "idx": 456, "brand": "Kenken", "webpage": "http://www.kenken-pc.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 21109}
+{"mode": "evaluate", "idx": 457, "brand": "郡リース", "webpage": "http://www.kohri.co.jp/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 15890}
+{"mode": "evaluate", "idx": 458, "brand": "Misawa Homes", "webpage": "http://www.misawa.co.jp/en/info/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 54909}
+{"mode": "evaluate", "idx": 459, "brand": "ナガワ", "webpage": "https://group.nagawa.co.jp/index.html", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 41022}
+{"mode": "evaluate", "idx": 460, "brand": "Nissei Build", "webpage": "http://www.nisseibuild.co.jp/en/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 461, "brand": "日東工営", "webpage": "http://www.nittohkoei.co.jp/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 14570}
+{"mode": "evaluate", "idx": 462, "brand": "オリエントハウス (Orient House)", "webpage": "http://www.orient-house.com/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 463, "brand": "Panasonic Homes", "webpage": "https://homes.panasonic.com/english/index.html", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 464, "brand": "Rescohouse", "webpage": "http://www.hinokiya-group.jp/english/resco_house.html", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 31784}
+{"mode": "evaluate", "idx": 465, "brand": "Sankyo Frontier", "webpage": "http://www.sankyofrontier-global.com/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 466, "brand": "SEKISUI HEIM", "webpage": "http://www.sekisuichemical.com/about/division/housing/index.html", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 27893}
+{"mode": "evaluate", "idx": 467, "brand": "Sekisui House", "webpage": "http://www.sekisuihouse-global.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 51798}
+{"mode": "evaluate", "idx": 469, "brand": "立川ハウス工業", "webpage": "http://www.tachikawahouse.co.jp/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 15455}
+{"mode": "evaluate", "idx": 470, "brand": "パルコン (Palcon)", "webpage": "http://www.palcon.jp/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 23915}
+{"mode": "evaluate", "idx": 471, "brand": "Taisei U-lec", "webpage": "https://www.u-lec.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 24616}
+{"mode": "evaluate", "idx": 472, "brand": "トヨタホーム", "webpage": "http://www.toyotahome.co.jp/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 39169}
+{"mode": "evaluate", "idx": 473, "brand": "トヨタT&S建設", "webpage": "http://www.toyota-ts.co.jp/", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 19428}
+{"mode": "evaluate", "idx": 474, "brand": "セレ コーポレーション", "webpage": "http://www.cel-co.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 11799}
+{"mode": "evaluate", "idx": 475, "brand": "セキスイハウス (Sekisui House)", "webpage": "https://www.sekisuihouse.co.jp", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 47915}
+{"mode": "evaluate", "idx": 476, "brand": "百年住宅", "webpage": "https://www.wpc100.co.jp/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 40273}
+{"mode": "evaluate", "idx": 477, "brand": "Elite Systems GB", "webpage": "http://www.elitesystemsgb.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 478, "brand": "SKW Construction", "webpage": "http://www.skwgroup.co.uk/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 23492}
+{"mode": "evaluate", "idx": 479, "brand": "SiBCAS", "webpage": "https://sibcas.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 47306}
+{"mode": "evaluate", "idx": 480, "brand": "Phoenix Building Systems", "webpage": "http://www.phoenixbuildingsystems.com", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 481, "brand": "Vision Built", "webpage": "http://www.vision-built.com", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 1146}
+{"mode": "evaluate", "idx": 482, "brand": "TG Escapes", "webpage": "http://www.tgescapes.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 483, "brand": "Premier Modular", "webpage": "http://www.premiermodular.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 484, "brand": "JDC Building Works", "webpage": "http://jdcbuildingworks.com/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 19924}
+{"mode": "evaluate", "idx": 486, "brand": "Thurston Group", "webpage": "http://www.thurstongroup.co.uk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 17346}
+{"mode": "evaluate", "idx": 487, "brand": "Wernick Refurbished Buildings", "webpage": "http://www.wernick.co.uk/refurbished", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 488, "brand": "Cabins & Containers", "webpage": "http://www.cabinsandcontainers.co.uk", "proposed_type": "industrial", "type": "cabins", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 489, "brand": "Portakabin", "webpage": "https://www.portakabin.com/?utm_source=MPBA&utm_medium=referral&utm_campaign=cta", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 490, "brand": "The Qube", "webpage": "http://www.theqube.co.uk", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 491, "brand": "Ideal Building Systems", "webpage": "http://www.idealbuildingsystems.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 20786}
+{"mode": "evaluate", "idx": 492, "brand": "Paragon Space", "webpage": "http://www.paragonspace.co.uk/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 50757}
+{"mode": "evaluate", "idx": 493, "brand": "Boyton-BRJ", "webpage": "http://www.boyton-brj.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 10322}
+{"mode": "evaluate", "idx": 494, "brand": "Newspace", "webpage": "http://www.newspace.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 19402}
+{"mode": "evaluate", "idx": 495, "brand": "Silwood Space", "webpage": "http://www.silwoodspace.com", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 20126}
+{"mode": "evaluate", "idx": 496, "brand": "MRC Modular", "webpage": "http://www.mrcmodular.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 20411}
+{"mode": "evaluate", "idx": 497, "brand": "ASG Fabrications", "webpage": "http://www.asgfabrications.com", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 18497}
+{"mode": "evaluate", "idx": 498, "brand": "Hemsec", "webpage": "http://www.hemsec.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 20088}
+{"mode": "evaluate", "idx": 499, "brand": "Actiform", "webpage": "http://actiform.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 500, "brand": "PF Modular", "webpage": "http://www.pfmodular.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 501, "brand": "Chaparral", "webpage": "http://www.chaparralbuilt.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 36088}
+{"mode": "evaluate", "idx": 502, "brand": "Shelter", "webpage": "http://www.shelterhomes.ca/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 5783}
+{"mode": "evaluate", "idx": 503, "brand": "Lumar Haus", "webpage": "https://www.lumar-haus.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 504, "brand": "Marles", "webpage": "https://www.marles.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 51246}
+{"mode": "evaluate", "idx": 505, "brand": "Sonnleitner", "webpage": "https://www.sonnleitner.de/home.html", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 506, "brand": "Mein Schwabenhaus", "webpage": "https://mein-schwabenhaus.at", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 11158}
+{"mode": "evaluate", "idx": 507, "brand": "Wolf Haus", "webpage": "https://www.wolfhaus.at", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 508, "brand": "Nema", "webpage": "https://www.nema.cz/", "proposed_type": "home", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 509, "brand": "TESAŘSTVÍ BISKUP", "webpage": "https://www.tesari.cz/?utm_source=admd&utm_medium=proklik", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 8481}
+{"mode": "evaluate", "idx": 510, "brand": "DMK System", "webpage": "https://www.dmk-system.cz/?utm_source=admd&utm_medium=proklik", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 43203}
+{"mode": "evaluate", "idx": 511, "brand": "Woodbase", "webpage": "https://woodbase.cz/", "proposed_type": "panels", "type": "configurator", "source": "evaluated", "content_length": 1529}
+{"mode": "evaluate", "idx": 512, "brand": "BL Sport Houses", "webpage": "http://www.blsporthouses.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 513, "brand": "Братя Пашкулеви", "webpage": "http://www.paskulevi.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 16533}
+{"mode": "evaluate", "idx": 514, "brand": "Еврохолц", "webpage": "https://www.euroholz.eu", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2097}
+{"mode": "evaluate", "idx": 515, "brand": "Екозид", "webpage": "http://www.ecozid.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 56391}
+{"mode": "evaluate", "idx": 516, "brand": "Ted House", "webpage": "http://www.ted-house.com", "proposed_type": "home", "type": "construction", "source": "evaluated", "content_length": 3415}
+{"mode": "evaluate", "idx": 517, "brand": "ТЕС", "webpage": "http://www.tes-bg.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 24699}
+{"mode": "evaluate", "idx": 518, "brand": "LapWall", "webpage": "http://www.lapwall.fi", "proposed_type": "industrial", "type": "panels", "source": "from_list", "content_length": 13053}
+{"mode": "evaluate", "idx": 519, "brand": "Adlerhaus", "webpage": "http://www.adlerhaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 40398}
+{"mode": "evaluate", "idx": 520, "brand": "ALHO", "webpage": "http://www.alho.com", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 521, "brand": "allkauf haus", "webpage": "http://www.allkauf.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 522, "brand": "Baufritz", "webpage": "http://www.baufritz.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 12037}
+{"mode": "evaluate", "idx": 523, "brand": "Beilharz Haus", "webpage": "http://www.beilharz-haus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 34901}
+{"mode": "evaluate", "idx": 524, "brand": "Büdenbender Hausbau", "webpage": "http://www.buedenbender-hausbau.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 525, "brand": "ELK", "webpage": "https://www.elkhaus.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 526, "brand": "Fingerhut Haus", "webpage": "http://www.fingerhuthaus.de", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 56002}
+{"mode": "evaluate", "idx": 527, "brand": "Haas Fertighaus", "webpage": "http://haas-fertighaus.de/hp1/Startseite.htm#1", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 528, "brand": "HARTL HAUS", "webpage": "http://www.hartlhaus.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 529, "brand": "Hauck Hausbau", "webpage": "https://hauck-hausbau.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 48246}
+{"mode": "evaluate", "idx": 530, "brand": "HBB Holzbau Bayern", "webpage": "https://holzbau-bayern.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 24683}
+{"mode": "evaluate", "idx": 531, "brand": "HolzHaus Bonndorf", "webpage": "https://holzhaus.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 532, "brand": "ISOWOODhaus", "webpage": "http://www.isowoodhaus.de/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 533, "brand": "Interhaus Barta", "webpage": "http://www.interhaus.hu", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 19172}
+{"mode": "evaluate", "idx": 534, "brand": "Variosystem", "webpage": "http://www.variosystem.hu", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 52579}
+{"mode": "evaluate", "idx": 535, "brand": "ARBIO", "webpage": "https://www.arbio.ch/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2821}
+{"mode": "evaluate", "idx": 536, "brand": "Artcan (Maisons en Chanvre)", "webpage": "http://maisonenchanvre.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 58449}
+{"mode": "evaluate", "idx": 538, "brand": "Hemp Building Company", "webpage": "https://www.hempbuildingco.com/", "proposed_type": "home", "type": "construction", "source": "evaluated", "content_length": 22807}
+{"mode": "evaluate", "idx": 539, "brand": "Tiny House Scotland", "webpage": "https://tinyhousescotland.co.uk/tiny-house-scotland-store/tiny-houses/nesthouse-moveable-micro-house-complete-ex-works/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 540, "brand": "Klein", "webpage": "https://liveklein.com/houses/a45/", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 23260}
+{"mode": "evaluate", "idx": 541, "brand": "ekokoncept", "webpage": "http://www.ekokoncept.com/en/prefabricated-houses/prefabricated-house-ek-014/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30236}
+{"mode": "evaluate", "idx": 542, "brand": "Lushna", "webpage": "http://www.glamping-lushna.com/lushna-suite-lux-glamping-cabin", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 543, "brand": "houzEKO", "webpage": "https://houzeko.com/project/our-wooden-tiny-house/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 26114}
+{"mode": "evaluate", "idx": 544, "brand": "Tiny Wunder House", "webpage": "http://www.tinywunderhouse.com/models/pollux/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 545, "brand": "Eco Tiny House", "webpage": "https://ecotiny.house/products/tiny-houses/tinyvictor", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 546, "brand": "Eco Pod Design", "webpage": "http://www.ecopoddesign.co.uk/residential/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 59888}
+{"mode": "evaluate", "idx": 547, "brand": "Lune Valley Pods", "webpage": "https://lunevalleypods.co.uk/portfolio/apartment-pod/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 49377}
+{"mode": "evaluate", "idx": 549, "brand": "Armadilla", "webpage": "https://armadilla.co.uk/kurv", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 551, "brand": "The Wee House Company", "webpage": "https://theweehousecompany.co.uk/modular-homes/two-bedroom-cottage-style/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 552, "brand": "Blackdown Shepherd Huts", "webpage": "https://www.blackdownshepherdhuts.co.uk/our-huts/the-turnkey-hut/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 45869}
+{"mode": "evaluate", "idx": 553, "brand": "Omnipods & Cabins UK", "webpage": "https://www.omnipodsandcabins.co.uk/medio", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 47268}
+{"mode": "evaluate", "idx": 554, "brand": "KOTO", "webpage": "https://kotodesign.co.uk/small-cabin", "proposed_type": "home", "type": "cabins", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 555, "brand": "Podmakers", "webpage": "https://www.podmakers.co.uk/the-escape-pod-2", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 556, "brand": "Pod Space", "webpage": "https://www.pod-space.co.uk/pods/lite-pod/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 557, "brand": "Berghaus Tiny House", "webpage": "https://berghaus-tinyhouse.com/magdalena-tinyhousemodel/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 558, "brand": "Aurora Company", "webpage": "https://auroracompany.pl/modele-domkow/porto/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 559, "brand": "Systimber", "webpage": "https://www.systimber.com/tuinkantoren/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 560, "brand": "EcoCabins", "webpage": "https://www.eco-cabins.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 49667}
+{"mode": "evaluate", "idx": 561, "brand": "Wikkelhouse", "webpage": "https://wikkelhouse.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 563, "brand": "Mima Housing", "webpage": "https://www.mimahousing.com/mimalight", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 564, "brand": "Jular", "webpage": "https://www.jular.pt/en/produtos/casas-pre-fabricadas/casas-modulares-treehouse-sw", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 565, "brand": "Ark Shelter", "webpage": "https://ark-shelter.com/work", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 566, "brand": "MIND", "webpage": "https://mind.masaveu.com", "proposed_type": "home", "type": "panels", "source": "from_list", "content_length": 37953}
+{"mode": "evaluate", "idx": 567, "brand": "Grupo Avintia", "webpage": "https://www.grupoavintia.com", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 39148}
+{"mode": "evaluate", "idx": 568, "brand": "Gardiun Techno", "webpage": "https://www.gardiuntechno.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 569, "brand": "Evowall", "webpage": "https://www.evowall.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30764}
+{"mode": "evaluate", "idx": 570, "brand": "Sismo Spain", "webpage": "https://www.sismospain.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 571, "brand": "American Building System", "webpage": "https://www.abs.es", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 41062}
+{"mode": "evaluate", "idx": 572, "brand": "SecoSteel", "webpage": "https://www.secosteel.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 573, "brand": "Tini Living", "webpage": "https://www.tiniliving.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 576, "brand": "La Casa de Hormigón", "webpage": "https://www.lacasadehormigon.es", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 12046}
+{"mode": "evaluate", "idx": 577, "brand": "Zero Housing", "webpage": "https://www.zerohousing.es", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 912}
+{"mode": "evaluate", "idx": 578, "brand": "Thermochip", "webpage": "https://www.thermochip.com", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 579, "brand": "STALART", "webpage": "https://www.stalart.es", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 5740}
+{"mode": "evaluate", "idx": 580, "brand": "Modulya", "webpage": "https://www.modulya.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 37486}
+{"mode": "evaluate", "idx": 581, "brand": "Medgón", "webpage": "https://www.medgon.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 582, "brand": "Alacali", "webpage": "https://www.alacali.com.tr", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 31077}
+{"mode": "evaluate", "idx": 583, "brand": "ALFA Prefabrik", "webpage": "http://www.alfaprefabrik.com.tr/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 2279}
+{"mode": "evaluate", "idx": 584, "brand": "Batı Prefabrik", "webpage": "https://www.batiprefabrik.com.tr/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 10946}
+{"mode": "evaluate", "idx": 585, "brand": "Cemre Prefabrik", "webpage": "https://cemreprefabrik.com.tr/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 21436}
+{"mode": "evaluate", "idx": 586, "brand": "Dagyapi Prefabrik", "webpage": "https://www.dagyapiprefabrik.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 27315}
+{"mode": "evaluate", "idx": 587, "brand": "Dayan Beton", "webpage": "https://www.dayanbeton.com.tr/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 16945}
+{"mode": "evaluate", "idx": 588, "brand": "EKS Göktaş Prefabrik", "webpage": "https://www.eksgoktas.com.tr/", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 8913}
+{"mode": "evaluate", "idx": 590, "brand": "Er Prefabrik", "webpage": "https://www.erprefabrik.com.tr/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 17218}
+{"mode": "evaluate", "idx": 591, "brand": "Ete Beton", "webpage": "https://www.etebeton.com.tr/", "proposed_type": "home", "type": "industrial", "source": "from_list", "content_length": 31884}
+{"mode": "evaluate", "idx": 592, "brand": "Gümüş Prefabrik", "webpage": "https://gumusprefabrik.com.tr", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 24300}
+{"mode": "evaluate", "idx": 593, "brand": "Gürbağ Prefabrik", "webpage": "https://www.gurbagprefabrik.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 10690}
+{"mode": "evaluate", "idx": 594, "brand": "Ilgaz Prefabrik", "webpage": "https://www.ilgazprefabrik.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 22424}
+{"mode": "evaluate", "idx": 595, "brand": "KA•YAPI", "webpage": "https://www.kayapi.com/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 11659}
+{"mode": "evaluate", "idx": 596, "brand": "Legoyap", "webpage": "https://www.legoyap.com.tr/", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 27444}
+{"mode": "evaluate", "idx": 597, "brand": "Okaply", "webpage": "http://okaply.com/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 598, "brand": "Out-Back Portable Buildings", "webpage": "http://www.outbackportablebuildings.com.au/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 7730}
+{"mode": "evaluate", "idx": 599, "brand": "Concrelaje", "webpage": "http://www.concrelaje.com.br", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 23905}
+{"mode": "evaluate", "idx": 600, "brand": "CPI - Solucoes em Premoldados", "webpage": "http://www.cpi.eng.br", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 327}
+{"mode": "evaluate", "idx": 601, "brand": "Engedelta Engenharia", "webpage": "http://www.engedelta.com.br", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 25155}
+{"mode": "evaluate", "idx": 602, "brand": "Manturi", "webpage": "http://www.manturi.com.br", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 17828}
+{"mode": "evaluate", "idx": 603, "brand": "PUMA Lajes Alveolares", "webpage": "http://www.pumalajes.com.br", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 28942}
+{"mode": "evaluate", "idx": 605, "brand": "Facoro", "webpage": "https://www.facoro.cl/", "proposed_type": "panels", "type": "panels", "source": "from_list", "content_length": 23911}
+{"mode": "evaluate", "idx": 606, "brand": "R-Anell Homes", "webpage": "http://r-anell.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 607, "brand": "Fleetwood Homes", "webpage": "http://fleetwoodhomes.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 87}
+{"mode": "evaluate", "idx": 608, "brand": "Cavco", "webpage": "https://cavco.com/northcarolina", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 92}
+{"mode": "evaluate", "idx": 609, "brand": "Nationwide Homes", "webpage": "http://nationwide-homes.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 610, "brand": "Destiny Home Builders", "webpage": "http://destinyhomebuilders.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 611, "brand": "Champion Homes", "webpage": "http://championhomesofnc.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 16396}
+{"mode": "evaluate", "idx": 612, "brand": "Champion Homes", "webpage": "http://championhomesky.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 13186}
+{"mode": "evaluate", "idx": 613, "brand": "Champion Homes", "webpage": "http://championhomesoftn.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 8829}
+{"mode": "evaluate", "idx": 614, "brand": "Clayton Addison", "webpage": "http://claytonaddisonhbf.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 7633}
+{"mode": "evaluate", "idx": 615, "brand": "Guerdon Modular Buildings", "webpage": "https://www.guerdonmodularbuildings.com/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 32994}
+{"mode": "evaluate", "idx": 616, "brand": "Algeco", "webpage": "https://www.algeco.co.uk/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 617, "brand": "KLEUSBERG", "webpage": "https://www.kleusberg.de/", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 618, "brand": "Connect Homes", "webpage": "https://www.connect-homes.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 619, "brand": "Dan-Wood", "webpage": "https://www.dan-wood.co.uk/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30957}
+{"mode": "evaluate", "idx": 620, "brand": "Prefabulous", "webpage": "https://prefabulous.net.au/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 22693}
+{"mode": "evaluate", "idx": 621, "brand": "Greencore Homes", "webpage": "https://www.greencorehomes.co.uk/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 2299}
+{"mode": "evaluate", "idx": 623, "brand": "Villen inHAUS", "webpage": "https://villeninhaus.de", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 624, "brand": "Karmod International", "webpage": "https://www.karmodint.co.uk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 625, "brand": "KC Modular Buildings", "webpage": "https://kcmodularbuildings.co.uk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 626, "brand": "Koto", "webpage": "https://koto.co.uk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 627, "brand": "Merit", "webpage": "https://www.merit.co.uk", "proposed_type": "industrial", "type": "industrial", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 628, "brand": "MORE Housing", "webpage": "https://www.more-housing.co.uk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 629, "brand": "nHouse", "webpage": "https://www.the-nhouse.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 40655}
+{"mode": "evaluate", "idx": 630, "brand": "Palmatin Wooden Houses", "webpage": "https://www.palmatin.com/kit-houses-uk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 631, "brand": "Premier Modular", "webpage": "https://premiermodulargroup.co.uk", "proposed_type": "industrial", "type": "modular", "source": "from_list", "content_length": 15186}
+{"mode": "evaluate", "idx": 633, "brand": "Scandia-Hus", "webpage": "https://www.scandia-hus.co.uk", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 634, "brand": "Scandinavian Homes", "webpage": "https://scandinavianhomes.com", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 41303}
+{"mode": "evaluate", "idx": 635, "brand": "Scotframe", "webpage": "https://scotframe.co.uk", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 30655}
+{"mode": "evaluate", "idx": 636, "brand": "siphouse", "webpage": "https://siphouse.co.uk", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 637, "brand": "Tempohousing", "webpage": "http://www.tempohousing.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 18211}
+{"mode": "evaluate", "idx": 638, "brand": "The Tiny Housing Co", "webpage": "https://www.thetinyhousing.co", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 48147}
+{"mode": "evaluate", "idx": 639, "brand": "Totally Modular", "webpage": "https://www.totallymodular.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 60000}
+{"mode": "evaluate", "idx": 641, "brand": "Wudl", "webpage": "https://www.wudl.co.uk/", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 46348}
+{"mode": "evaluate", "idx": 642, "brand": "ZED PODS", "webpage": "https://www.zedpods.com/", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 59280}
+{"mode": "evaluate", "idx": 643, "brand": "Alpiger Holzbau AG", "webpage": "http://alpiger-holzbau.ch", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 54323}
+{"mode": "evaluate", "idx": 644, "brand": "Beer Holzbau", "webpage": "http://www.beer-holzbau.ch", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 38204}
+{"mode": "evaluate", "idx": 645, "brand": "Blumer Lehmann", "webpage": "http://www.blumer-lehmann.com", "proposed_type": "home", "type": "modular", "source": "from_list", "content_length": 6592}
+{"mode": "evaluate", "idx": 646, "brand": "Erni Gruppe", "webpage": "http://www.erni-gruppe.ch", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 17522}
+{"mode": "evaluate", "idx": 647, "brand": "Holzbau Bucher AG", "webpage": "http://www.holzbau-bucher.ch", "proposed_type": "home", "type": "home", "source": "from_list", "content_length": 20807}
+{"mode": "evaluate", "idx": 648, "brand": "Kaufmann Oberholzer", "webpage": "http://www.kaufmann-oberholzer.ch", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 4687}
+{"mode": "evaluate", "idx": 650, "brand": "Kost Holzbau", "webpage": "http://www.kost.ch", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 5608}
+{"mode": "evaluate", "idx": 651, "brand": "Krattiger Holzbau", "webpage": "http://krattigerholzbau.ch", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2012}
+{"mode": "evaluate", "idx": 652, "brand": "Kühni Holzbau", "webpage": "http://www.kuehni.ch", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3723}
+{"mode": "evaluate", "idx": 654, "brand": "UFFER Holz AG", "webpage": "http://www.ufferholz.swiss", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 4076}
+{"mode": "evaluate", "idx": 655, "brand": "EHI Group", "webpage": "https://www.ehi.lv/en", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 578}
+{"mode": "evaluate", "idx": 656, "brand": "Modern House", "webpage": "https://www.modern-house.lv/en", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 658, "brand": "Bitus Latvia", "webpage": "https://bitus.com/latvia-lv/koka-majas/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 0}
+{"mode": "evaluate", "idx": 659, "brand": "UFFER Holz AG", "webpage": "http://www.ufferholz.swiss", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 4076}
+{"mode": "evaluate", "idx": 660, "brand": "Husvik", "webpage": "https://husvikhus.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 1388}
+{"mode": "evaluate", "idx": 661, "brand": "VIA-S houses", "webpage": "https://en.via-s.lv/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2145}
+{"mode": "evaluate", "idx": 662, "brand": "EHI Group", "webpage": "https://www.ehi.lv/en", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 578}
+{"mode": "evaluate", "idx": 663, "brand": "Jēkabpils PMK", "webpage": "https://jpmk.lv/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 8390}
+{"mode": "evaluate", "idx": 664, "brand": "Modern House", "webpage": "https://www.modern-house.lv/en", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 454}
+{"mode": "evaluate", "idx": 666, "brand": "SVM BALTIC", "webpage": "http://www.svmbaltic.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2827}
+{"mode": "evaluate", "idx": 667, "brand": "Bitus Latvia", "webpage": "https://bitus.com/latvia-lv/koka-majas/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 12054}
+{"mode": "evaluate", "idx": 668, "brand": "Ecodomus", "webpage": "http://ecodomus.lt/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3865}
+{"mode": "evaluate", "idx": 669, "brand": "Kriautė", "webpage": "http://www.kriaute.lt", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3502}
+{"mode": "evaluate", "idx": 670, "brand": "LHM Grupė", "webpage": "http://www.lhm.lt", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 12032}
+{"mode": "evaluate", "idx": 671, "brand": "Husvik", "webpage": "https://husvikhus.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 1388}
+{"mode": "evaluate", "idx": 672, "brand": "VIA-S houses", "webpage": "https://en.via-s.lv/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2145}
+{"mode": "evaluate", "idx": 673, "brand": "Skado Medis", "webpage": "http://skadomedis.lt/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2967}
+{"mode": "evaluate", "idx": 675, "brand": "Jēkabpils PMK", "webpage": "https://jpmk.lv/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 8390}
+{"mode": "evaluate", "idx": 676, "brand": "MB SVM BALTIC", "webpage": "http://www.svmbaltic.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2827}
+{"mode": "evaluate", "idx": 677, "brand": "011h", "webpage": "http://www.011h.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 9855}
+{"mode": "evaluate", "idx": 678, "brand": "Ecodomus", "webpage": "http://ecodomus.lt/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3865}
+{"mode": "evaluate", "idx": 679, "brand": "alterMATERIA", "webpage": "https://altermateria.com/empresa/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 1101}
+{"mode": "evaluate", "idx": 680, "brand": "Kriautė", "webpage": "http://www.kriaute.lt", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3502}
+{"mode": "evaluate", "idx": 682, "brand": "LignumTech", "webpage": "https://lignumtech.es/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 5443}
+{"mode": "evaluate", "idx": 683, "brand": "LHM Grupė", "webpage": "http://www.lhm.lt", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 12032}
+{"mode": "evaluate", "idx": 685, "brand": "Skado medis", "webpage": "http://skadomedis.lt/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2967}
+{"mode": "evaluate", "idx": 686, "brand": "Madergia", "webpage": "http://www.madergia.com/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 2200}
+{"mode": "evaluate", "idx": 688, "brand": "011h", "webpage": "http://www.011h.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 9855}
+{"mode": "evaluate", "idx": 689, "brand": "AlterMateria", "webpage": "https://altermateria.com/empresa/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 1101}
+{"mode": "evaluate", "idx": 691, "brand": "Xilonor", "webpage": "https://xilonor.es/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 2000}
+{"mode": "evaluate", "idx": 694, "brand": "LignumTech", "webpage": "https://lignumtech.es/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 5443}
+{"mode": "evaluate", "idx": 696, "brand": "Madergia", "webpage": "http://www.madergia.com/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 2200}
+{"mode": "evaluate", "idx": 698, "brand": "Xilonor", "webpage": "https://xilonor.es/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 2000}
+{"mode": "evaluate", "idx": 699, "brand": "Velima", "webpage": "https://www.velimasystem.com/", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 5752}
+{"mode": "evaluate", "idx": 700, "brand": "Xilonor", "webpage": "https://xilonor.es/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 2000}
+{"mode": "evaluate", "idx": 701, "brand": "Advanced Precast Company", "webpage": "http://advancedprecastcompany.com/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 2290}
+{"mode": "evaluate", "idx": 702, "brand": "APS Precast", "webpage": "https://www.apsprecast.com/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 3459}
+{"mode": "evaluate", "idx": 703, "brand": "ATMI Precast", "webpage": "https://www.atmiprecast.com/atmi-indy", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 3284}
+{"mode": "evaluate", "idx": 704, "brand": "AVAN Precast", "webpage": "https://avanpc.com/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 1752}
+{"mode": "evaluate", "idx": 705, "brand": "Bethlehem Construction", "webpage": "https://www.bethlehemconstruction.com/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 2075}
+{"mode": "evaluate", "idx": 706, "brand": "Blakeslee Prestress", "webpage": "http://www.blakesleeprestress.com/", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 4976}
+{"mode": "evaluate", "idx": 707, "brand": "BPDL", "webpage": "http://bpdl.com/", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 3159}
+{"mode": "evaluate", "idx": 708, "brand": "Holzbau Goetzinger", "webpage": "https://www.holzbau.lu", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 3435}
+{"mode": "evaluate", "idx": 710, "brand": "Теремъ", "webpage": "https://terem-pro.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 12035}
+{"mode": "evaluate", "idx": 711, "brand": "ДубльДом", "webpage": "https://dubldom.com", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2407}
+{"mode": "evaluate", "idx": 712, "brand": "Промстрой", "webpage": "https://promstroy.ru", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 8481}
+{"mode": "evaluate", "idx": 714, "brand": "РусьДом", "webpage": "https://rusdom.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 6151}
+{"mode": "evaluate", "idx": 715, "brand": "ЮгСтройДом", "webpage": "https://yugstroydom.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 11652}
+{"mode": "evaluate", "idx": 717, "brand": "КаркасДомСтрой", "webpage": "https://karkasdomstroy.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 12040}
+{"mode": "evaluate", "idx": 719, "brand": "СтройПанельКомплект", "webpage": "https://www.stroypanel.ru", "proposed_type": "modular", "type": "modular", "source": "unchanged", "content_length": 3247}
+{"mode": "evaluate", "idx": 722, "brand": "СК Блок-Контейнер", "webpage": "https://block-container.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3547}
+{"mode": "evaluate", "idx": 724, "brand": "СибКаркас", "webpage": "https://sibkarkas.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 2887}
+{"mode": "evaluate", "idx": 728, "brand": "Экопан", "webpage": "https://www.ecopan.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3018}
+{"mode": "evaluate", "idx": 729, "brand": "ЛенСтройДом", "webpage": "https://lenstroydom.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 6414}
+{"mode": "evaluate", "idx": 731, "brand": "МодульСтрой", "webpage": "https://modulstroy.ru", "proposed_type": "industrial", "type": "industrial", "source": "unchanged", "content_length": 4337}
+{"mode": "evaluate", "idx": 732, "brand": "Блок Контейнер Воронеж", "webpage": "https://blok-konteyner-voronezh.ru", "proposed_type": "modular", "type": "modular", "source": "unchanged", "content_length": 11686}
+{"mode": "evaluate", "idx": 733, "brand": "СборДом", "webpage": "https://sbordom.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3883}
+{"mode": "evaluate", "idx": 734, "brand": "ООО Блок-контейнер", "webpage": "https://block-container.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3547}
+{"mode": "evaluate", "idx": 735, "brand": "Блок-Контейнер Сервис", "webpage": "https://block-container.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3547}
+{"mode": "evaluate", "idx": 736, "brand": "Блок-контейнер Алтай", "webpage": "https://block-container.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 3547}
+{"mode": "evaluate", "idx": 737, "brand": "ПанельСтрой", "webpage": "https://www.panelstroy.ru", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 2916}
+{"mode": "evaluate", "idx": 738, "brand": "СтройМодуль", "webpage": "https://www.stroymodule.ru", "proposed_type": "modular", "type": "modular", "source": "unchanged", "content_length": 5884}
+{"mode": "evaluate", "idx": 739, "brand": "КонтейнерСтрой", "webpage": "https://containerstroy.ru", "proposed_type": "home", "type": "home", "source": "unchanged", "content_length": 8606}
+{"mode": "evaluate", "idx": 741, "brand": "ПанельКомплект", "webpage": "https://www.panelkomplekt.ru", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 12043}
+{"mode": "evaluate", "idx": 742, "brand": "PanelStroy", "webpage": "https://panelstroy.ru", "proposed_type": "panels", "type": "panels", "source": "unchanged", "content_length": 2912}
+{"event": "done", "classified": 11, "updated": 608, "total_classify": 138, "total_evaluate": 608}

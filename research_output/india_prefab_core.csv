@@ -1,0 +1,226 @@
+id,brand,head_office_legal_name,address,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,Champion Prefabs,Champion Infratech Pvt. Ltd.,"No. 21/1, 3rd Floor, 9th Cross, 6th Main, 2nd Block, Jayanagar, Bengaluru, Karnataka, 560011, India",https://www.championprefabs.com,,8,37.16,148.64,wood,1500000.0,40000.0
+2,Nest-In by Tata Steel,Tata Steel Limited,"Jeevan Bharti Building, Tower 1, 10th floor, 124 Connaught Circus, New Delhi, Delhi, 110001, India",https://www.nestin.co.in,,5,27.87,92.9,steel,300000.0,10000.0
+3,EPACK Prefab,EPACK Polymers Private Limited,"A-213, Sector 63, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com,,,,,steel,,
+4,Modscape Prefab,,,,,,,,,,
+5,KEF Infra,KEF Infra,,https://kefinfra.com,,,,,concrete,,
+6,Modulex Modular Buildings,,,https://www.modulex.in/,,,,,,,
+7,Ramakrishna Housing,Ramakrishna Housing Pvt Ltd,"Plot No. 1, Ramakrishna Venuzia, Kaza, Guntur, Andhra Pradesh, 522508, India",https://www.ramakrishnahousing.com,,,,,concrete,,
+8,Prefab India,,,,,,,,,,
+9,B.G. Shirke Construction Technology,B.G. Shirke Construction Technology Pvt. Ltd.,"72-73, Industrial Estate, Mundhwa, Pune, Maharashtra, 411036, India",https://www.bgshirke.com,,,,,concrete,,
+10,Rapid Homes,,,,,,,,,,
+11,E-Pack Polymers,E-Pack Polymers Private Limited,"Plot No. 5, Sector 8, IMT Manesar, Gurugram, Haryana, 122050, India",https://www.epack.in,,,,,steel,,
+12,Modular Infra Solutions,,,,,,,,,,
+13,Champion Prefabs,Champion Infratech Pvt. Ltd.,,https://championprefabs.com,,,,,wood,,
+14,Nirmiti Precast,Nirmiti Precast Private Limited,"Plot No. 123, GIDC Estate, Waghodia, Vadodara, Gujarat, 391760, India",https://www.nirmitiprecast.com,,5,50.0,200.0,concrete,500000.0,15000.0
+15,E-Pack Prefab,E-Pack Polymers Private Limited,"A-2, Sector 8, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com,,,,,steel,,
+16,Redbrick Prefab,,,,,,,,,,
+17,Bigbloc Construction,Bigbloc Construction Limited,"601-B, A Wing, International Trade Center, Majura Gate, Ring Road, Surat, Gujarat, 395002, India",https://www.bigblocconstruction.com,,,,,AAC blocks,,
+18,Prefab Structures,Prefab Structures Pvt. Ltd.,"123 Industrial Lane, Ahmedabad, Gujarat, 380015, India",https://www.prefabstructures.com,,5,46.45,185.8,steel,500000.0,15000.0
+19,Richa Industries,Richa Industries Limited,"Plot No. 29, DLF Industrial Area, Phase-2, Faridabad, Haryana, 121003, India",https://www.richa.in,,,,,steel,,
+20,Vardhman Pre-Engineered Building Systems,Vardhman Pre-Engineered Building Systems Pvt. Ltd.,"Plot No. 1, Survey No. 172, Paiki Sub Plot No. 1, At Post - Haripar, Kunapur Road, Taluka - Kalavad, District - Jamnagar, Gujarat, 361012, India",http://www.vardhmansteel.com,,,,,steel,,
+21,EPACK Prefab,EPACK Prefab Private Limited,"EPACK Prefab, A-103, Sector-63, Noida, Uttar Pradesh, 201307, India",https://www.epackpolymers.com,,,,,steel,,
+22,Satec Envir Engineering,Satec Envir Engineering Pvt. Ltd.,"Plot No. 146, Gujarat Industrial Development Corporation, Umbergaon, Valsad, Gujarat, 396171, India",https://www.satec.co.in,,,,,steel,,
+23,Prefab World,,,,,,,,,,
+24,Interarch Building Products Pvt. Ltd.,,,,,,,,,,
+25,LGSF Building Solution,LGSF Building Solution Pvt Ltd,,https://www.lgsfbuildingsolution.com,,,,,steel,,
+26,Era Infra Engineering,Era Infra Engineering Ltd.,"370-374/2, S.G. Road, Bodakdev, Ahmedabad, Gujarat, 380054, India",http://www.eragroup.co.in,,,,,,,
+27,Tata BlueScope Steel,Tata BlueScope Steel Limited,"The Metropolitan, Final Plot No. 27, Survey No. 21, Wakdewadi, Shivaji Nagar, Pune, Maharashtra, 411005, India",https://www.tatabluescopesteel.com,,,,,steel,,
+28,Sintex Industries,Sintex Industries Limited,"In the Absentia of Specific Street Address, Kalol (N.G.), Gujarat, India",https://www.sintex.in,,,,,composite,,
+29,Lloyd Insulations,Lloyd Insulations (India) Limited,"Plot No 45, GIDC Industrial Estate, Naroda, Ahmedabad, Gujarat, 382330, India",https://www.lloydinsulation.com,,,,,composite,,
+30,Kirby Building Systems,Kirby Building Systems India Ltd.,"Plot No. 488/489, Manjusar GIDC, Savli Road, Vadodara, Gujarat, 391775, India",https://www.kirbyinternational.com,,,,,steel,,
+31,Epack Polymers,Epack Polymers Private Limited,"A-213, Sector 63, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com,,,,,steel,,
+32,Hindustan Prefab Private Limited,Hindustan Prefab Private Limited,,,,,,,,,
+33,Modulex Modular Buildings,Modulex Modular Buildings Private Limited,"Plot No. 115, Sector 44, Gurugram, Haryana, 122003, India",https://www.modulex.in,,,,,steel,,
+34,Champion Prefabs India Pvt. Ltd.,,,,,,,,,,
+35,Interarch Building Products,Interarch Building Products Pvt. Ltd.,"C-29, Sector 57, Noida, Uttar Pradesh, 201301, India",https://www.interarchbuildings.com,,,,,steel,,
+36,Kirby Building Systems,Kirby Building Systems India Pvt. Ltd.,"Plot No. 15, Sector 5, IMT Manesar, Gurgaon, Haryana, 122051, India",https://www.kirby-india.com/,,,,,steel,,
+37,Lloyd Insulations India,Lloyd Insulations (India) Limited,"Plot No. 2, Mathura Road, Faridabad, Haryana, 121003, India",https://www.lloydinsulations.com,,,,,steel,,
+38,Prefab Structures India Pvt. Ltd.,Prefab Structures India Pvt. Ltd.,,,,,,,,,
+39,Tata Bluescope Steel,Tata Bluescope Steel Limited,"The Corenthum, 6th Floor, Tower-B, A-41, Sector-62, Noida, Uttar Pradesh, 201301, India",https://www.tatabluescopesteel.com,,,,,steel,,
+40,Pennar Engineered Building Systems,Pennar Engineered Building Systems Ltd.,"9th Floor, DHFLVC Silicon Towers, Kondapur, Hyderabad, Telangana, 500084, India",https://www.pebspennar.com,,,,,steel,,
+41,POD Interiors,,,,,,,,,,
+42,Champion Prefabs,Champion Infratech Pvt. Ltd.,"No. 36, 1st Floor, NGEF Lane, Indiranagar, Bangalore, Karnataka, 560038, India",https://www.championprefabs.com,,10,37.16,185.8,wood,500000.0,12000.0
+43,Modular Homes,,,,,,,,,,
+44,Prefab World,,,,,,,,,,
+45,HRS Infrastructure,,,,,,,,,,
+46,Tata Steel Nest-In,Tata Steel Limited,"43, Jawaharlal Nehru Road, Bengaluru, Karnataka, 560001, India",https://www.nestin.co.in,,5,37.16,92.9,steel,500000.0,13440.0
+47,EcoPro Modular Homes,,,,,,,,,,
+48,Vnext by Visaka,Visaka Industries Limited,"Gandhi Nagar, Secunderabad, Telangana, 500003, India",https://www.visaka.co/vnext,,,,,composite,,
+49,Champion Prefabs,Champion Infratech Pvt. Ltd.,"No. 11, Nal Wind Tunnel Road, Murugeshpalya, Bangalore, Karnataka, 560017, India",https://www.championprefabs.com,,10,37.16,185.8,wood,1500000.0,40000.0
+50,Durobuild,Durobuild India Pvt. Ltd.,"No. 123, Industrial Layout, Jigani, Bengaluru, Karnataka, 560105, India",https://www.durobuild.in,,5,50.0,200.0,steel,1500000.0,30000.0
+51,Epack Polymers,Epack Polymers Private Limited,"B-53, Sector-57, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com,,,,,steel,,
+52,Teemage Builders,Teemage Builders Private Limited,"No. 19, 3rd Cross, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka, 560095, India",https://www.teemagebuilders.com,,5,50.0,200.0,concrete,500000.0,10000.0
+53,Katerra,Katerra India Pvt. Ltd.,"No. 18/3, 9th Floor, Salarpuria Towers-I, Hosur Road, Bengaluru, Karnataka, 560095, India",https://www.katerra.com,,,,,concrete,,
+54,Prefab Projects,,,,,,,,,,
+55,Bharathi Cement Prefab,,,,,,,,,,
+56,Lightweight Solutions,,,,,,,,,,
+57,Red Earth Prefab,,,,,,,,,,
+58,Prefab Homes India,Prefab Homes India Pvt. Ltd.,"1234, Example Street, Bengaluru, Karnataka, 560001, India",https://www.prefabhomesindia.com,,5,50.0,200.0,concrete,1500000.0,25000.0
+59,Trident Prefab,,,,,,,,,,
+60,Prefab Housing Solutions,,,,,,,,,,
+61,Nest-In,Tata Steel Limited,"Tata Steel Limited, Nest-In, Floor 3, Jeevan Bharti Tower 1, 124 Connaught Circus, New Delhi, 110001, India",https://www.nestin.co.in/,,,,,steel,,
+62,Evens Construction,Evens Construction Pvt. Ltd.,"Evens Construction, Kollam, Kerala, 691001, India",https://evensconstruction.com,,5,74.32,185.81,concrete,1500000.0,25000.0
+63,Jaks Associates,Jaks Associates,"Kaniyamkandathil Building, Near Al Ameen School, Nilambur, Malappuram, Kerala, 679329, India",http://www.jaksassociates.com,,5,46.45,185.81,steel,1500000.0,35000.0
+64,BuildNext,BuildNext Construction Solutions Private Limited,"Door No. 11/537-K, Suite 202, Second Floor, DD Vyapar Bhavan, Kadavanthra, Kochi, Kerala, 682020, India",https://buildnext.in,,5,46.45,185.8,concrete,1200000.0,25000.0
+65,Kottoor International,Kottoor International Private Limited,"Kottoor, Kottayam, Kerala, 686001, India",https://www.kottoorinternational.com,,5,56.0,186.0,concrete,1500000.0,30000.0
+66,Modular Builders,,,,,,,,,,
+67,Lifecare Builders,,,,,,,,,,
+68,SFS Homes,Skyline Foundations and Structures Pvt. Ltd.,"SFS Grande, Pattom Palace P.O, Trivandrum, Kerala, 695004, India",https://www.sfshomes.com,,,,,concrete,,
+69,Tritvam,Tritvam Constructions Pvt Ltd,"Marine Drive, Kochi, Kerala, 682018, India",https://www.tritvam.com,,,,,,,
+70,Infra Housing,Infra Housing Pvt Ltd,"Infra Housing Pvt Ltd, 40/1783, 1st Floor, Jos Brothers, MG Road, Kochi, Kerala, 682016, India",https://www.infrahousing.com,,,,,,,
+71,Nallalam Builders,,,,,,,,,,
+72,Featherlite Homes,Featherlite Products Pvt. Ltd.,"No. 16, 3rd Main Road, Ashwini Layout, Ejipura, Bengaluru, Karnataka, 560047, India",https://www.featherlitehomes.com,,5,55.0,150.0,steel,1500000.0,30000.0
+73,Space Tech Builders,,,,,,,,,,
+74,Mir Realtors,Mir Realtors Private Limited,"Mir Realtors, Kottayam, Kerala, 686001, India",https://www.mirrealtors.in,,5,55.0,140.0,concrete,1500000.0,27000.0
+75,Mather Builders,Mather Builders Private Limited,"Mather Square, Town Railway Station Road, Kochi, Kerala, 682018, India",https://www.matherprojects.com,,,,,concrete,,
+76,Skyline Builders,Skyline Foundations and Structures Pvt. Ltd.,"Skyline House, Rajaji Road, Kochi, Kerala, 682035, India",https://www.skylinebuilders.com,,,,,concrete,,
+77,Asset Homes,Asset Homes Pvt. Ltd.,"Asset Homes, 33/2566 H1 (3rd Floor), Asset House, NH Bypass, Palarivattom, Kochi, Kerala, 682025, India",https://assethomes.in,,,,,concrete,,
+78,Confident Group,,,,,,,,,,
+79,Prestige Group,Prestige Estates Projects Limited,"The Falcon House, No. 1, Main Guard Cross Road, Bengaluru, Karnataka, 560001, India",https://www.prestigeconstructions.com,,,,,,,
+80,Sobha Limited,Sobha Limited,"SOBHA Corporate Office, Sarjapur - Marathahalli Outer Ring Road (ORR), Devarabisanahalli, Bellandur Post, Bangalore, Karnataka, 560103, India",https://www.sobha.com,,,,,,,
+81,Madhya Pradesh Prefab Homes,,,,,,,,,,
+82,Indore Modular Builders,Indore Modular Builders Pvt. Ltd.,"123 MG Road, Indore, Madhya Pradesh, 452001, India",https://www.indoremodularbuilders.com,,8,50.0,200.0,steel,1500000.0,30000.0
+83,Bhopal Prefabricated Solutions,,,,,,,,,,
+84,Jabalpur Factory-Built Homes,,,,,,,,,,
+85,Gwalior Panelized Homes,,,,,,,,,,
+86,Ujjain Kit Homes,,,,,,,,,,
+87,Sagar Modular Housing,,,,,,,,,,
+88,Rewa Prefab Construction,,,,,,,,,,
+89,Satna Manufactured Homes,,,,,,,,,,
+90,Dewas Prefabrication Services,,,,,,,,,,
+91,Ratlam Modular Solutions,,,,,,,,,,
+92,Khargone Prefab Builders,,,,,,,,,,
+93,Hoshangabad Panelized Construction,,,,,,,,,,
+94,Singrauli Factory-Built Homes,,,,,,,,,,
+95,Vidisha Kit Home Manufacturers,,,,,,,,,,
+96,B.E. Billimoria & Co. Ltd.,B.E. Billimoria & Co. Ltd.,"B. E. Billimoria & Co. Ltd., 2nd Floor, East Wing, Electric Mansion, Appasaheb Marathe Marg, Prabhadevi, Mumbai, Maharashtra, 400025, India",https://www.bebanco.com,,,,,,,
+97,Epack Prefab,Epack Polymers Private Limited,"Plot No. 11, Udyog Kendra II, Ecotech III, Greater Noida, Uttar Pradesh 201306, India",https://www.epackpolymers.com,,,,,steel,,
+98,Champion Prefabs,Champion Infratech Pvt. Ltd.,"Naigaon, Vasai, Maharashtra, 401208, India",https://www.championprefabs.com,,10,37.16,148.64,wood,1000000.0,40000.0
+99,Katerra India,Katerra India Private Limited,,https://www.katerra.com,,,,,,,
+100,Supertech Industries,,,,,,,,,,
+101,Metastone Constructions,,,,,,,,,,
+102,Samarth Modular Solutions,,,,,,,,,,
+103,Modular Kitchen Pune,,,,,,,,,,
+104,New Life Steel Structures,New Life Steel Structures,"Plot No.4, Survey No.35, Hissa No. 1, Near Sai weigh Bridge, Dhumal Nagar, Waliv, Vasai East, Palghar, Maharashtra, 401208, India",https://www.newlifesteel.com,,,,,steel,,
+105,Satec Envir Engineering,Satec Envir Engineering Private Limited,"Plot No. K-2, Additional MIDC, P.O. Ambernath, Anand Nagar, Ambernath, Thane, Maharashtra, 421506, India",https://www.satec.co.in,,,,,steel,,
+106,Vesta Modular,,,,,,,,,,
+107,Prefab Homes India,,,,,,,,,,
+108,Tata Steel Nest-In,Tata Steel Limited,"Jamshedpur, Maharashtra, India",https://www.nestin.co.in,,5,25.0,120.0,steel,500000.0,20000.0
+109,Hindustan Prefab Limited,Hindustan Prefab Limited,"Jangpura, New Delhi, Delhi, 110014, India",https://www.hindprefab.org,,,,,concrete,,
+110,Poddar Housing and Development Ltd.,Poddar Housing and Development Ltd.,"Unit 3-5, Neeru Silk Mills, Mathuradas Mills Compound, 126 N. M. Joshi Marg, Lower Parel, Mumbai, Maharashtra, 400013, India",https://www.poddarhousing.com/,,,,,,,
+111,Eco-Homes,,,,,,,,,,
+112,Prefab India,Prefab India Pvt. Ltd.,"123 Industrial Estate, Pune, Maharashtra, 411038, India",https://prefabindia.com,,5,50.0,150.0,steel,500000.0,10000.0
+113,Unity Infrastructure,,,,,,,,,,
+114,Prefab Home Builders India,Prefab Home Builders India Pvt Ltd,"123 Industrial Estate, Andheri East, Mumbai, Maharashtra, 400069, India",https://www.prefabhomebuildersindia.com,,5,50.0,150.0,steel,1500000.0,30000.0
+115,Reliable Prefab,Reliable Prefab Private Limited,"123 Industrial Estate, Pune, Maharashtra, 411001, India",https://www.reliableprefab.com,,5,45.0,150.0,steel,1200000.0,30000.0
+116,E-Pack Polymers,E-Pack Polymers Pvt. Ltd.,"Plot No. 11, Ecotech III, Udyog Kendra-II, Greater Noida, Uttar Pradesh, 201306, India",https://www.epackpolymers.com,,,,,steel,,
+117,Magicrete Building Solutions,Magicrete Building Solutions Pvt. Ltd.,"101, 1st Floor, B-Block, Ansal Plaza, Gurugram, Haryana, 122017, India",https://www.magicrete.in,,,,,concrete,,
+118,EPACK Prefab,EPACK Polymers Private Limited,"A-213, Sector 83, Noida, Uttar Pradesh, 201305, India",https://www.epackpolymers.com/,,,,,steel,,
+119,Champion Prefabs,Champion Prefabs Pvt. Ltd.,"SCO 43, 1st Floor, Sector 82, JLPL Industrial Area, Mohali, Punjab, 160055, India",https://www.championprefabs.com,,10,37.16,185.8,wood,500000.0,25000.0
+120,Hutch Prefab,Hutch Prefab Pvt. Ltd.,"123 Industrial Area, Mohali, Punjab, 160055, India",https://www.hutchprefab.com,,5,46.45,185.8,steel,1500000.0,35000.0
+121,Modular Concepts,Modular Concepts Pvt. Ltd.,"Street Number 4, Industrial Area, Mohali, Punjab, 160055, India",https://www.modularconcepts.in,,5,37.16,185.8,steel,1500000.0,40000.0
+122,Prefab India,Prefab India Pvt. Ltd.,"123 Industrial Area, Phase 8, Mohali, Punjab, 160071, India",https://www.prefabindia.com,,5,50.0,200.0,steel,500000.0,15000.0
+123,Modular Home Concepts,,,,,,,,,,
+124,Vijay Systems Engineers Pvt. Ltd.,Vijay Systems Engineers Pvt. Ltd.,,,,,,,,,
+125,Satec Envir Engineering,Satec Envir Engineering (India) Pvt. Ltd.,"Plot No. 38, Industrial Area, Phase 1, Chandigarh, Punjab, 160002, India",https://www.satec.co.in,,,,,steel,,
+126,Metek Building Systems Pvt. Ltd.,,,,,,,,,,
+127,Vindhya Prefab,,,,,,,,,,
+128,Prefab Structures India,Prefab Structures India Pvt. Ltd.,"Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab, 160055, India",https://www.prefabstructuresindia.com,,5,46.45,185.81,steel,500000.0,20000.0
+129,Trident Prefab,,,https://tridentprefab.com,,,,,,,
+130,Prefabricated Steel Structures India,,,,,,,,steel,,
+131,E-Pack Polymers,E-Pack Polymers Private Limited,"A-2, Sector 132, Noida, Uttar Pradesh, 201304, India",https://www.epackpolymers.com,,5,37.16,185.8,steel,500000.0,13500.0
+132,EPACK Prefab,EPACK Prefab Private Limited,"A-191D, Sector 63, Noida, Uttar Pradesh, 201307, India",https://www.epackpolymers.com,,8,37.16,185.8,steel,500000.0,15000.0
+133,Perfect Metal Structure,Perfect Metal Structure Pvt. Ltd.,"G1-32, RIICO Industrial Area, Khushkhera, Alwar, Rajasthan, 301707, India",https://www.perfectmetalstructure.com,,5,46.45,139.35,steel,1500000.0,25000.0
+134,Anmol Prefab,,,,,,,,,,
+135,Sri Ram Panels,,,,,,,,,,
+136,Modular Homes,,,,,,,,,,
+137,Standard Prefab,,,,,,,,,,
+138,Kumar & Associates,,,,,,,,,,
+139,New Life Steel Structures,New Life Steel Structures,"E-99, RIICO Industrial Area, Phase I, Beawar, Ajmer, Rajasthan, 305901, India",https://www.newlifesteel.com,,5,37.16,148.64,steel,500000.0,13500.0
+140,Shree Prefab Steels,Shree Prefab Steels Pvt. Ltd.,"123 Industrial Area, Jaipur, Rajasthan, 302001, India",https://www.shreeprefabsteels.com,,5,50.0,150.0,steel,500000.0,12000.0
+141,Supertech Industries,Supertech Industries Pvt. Ltd.,"123 Industrial Area, Jaipur, Rajasthan, 302001, India",https://www.supertechindustries.in,,5,50.0,200.0,steel,1500000.0,30000.0
+142,Pioneer India,Pioneer India Prefab Pvt. Ltd.,"A-1, Industrial Area, Jhotwara, Jaipur, Rajasthan, 302012, India",https://www.pioneerindia.com,,5,46.45,232.26,steel,500000.0,12000.0
+143,Nivritti Structures,Nivritti Structures Private Limited,"123, Industrial Area, Jaipur, Rajasthan, 302006, India",https://nivrittistructures.com,,5,50.0,200.0,steel,1500000.0,20000.0
+144,Innovative Prefab,Innovative Prefab Pvt. Ltd.,"123 Industrial Road, Jaipur, Rajasthan, 302001, India",https://www.innovativeprefab.in,,5,46.45,185.8,steel,1500000.0,32000.0
+145,Rajasthan Prefab,,,,,,,,,,
+146,Champion Prefabs,Champion Infratech Pvt. Ltd.,"No. 3, 2nd Cross, 4th Main, Ashwini Layout, Ejipura, Koramangala, Bangalore, Karnataka, 560047, India",https://www.championprefabs.com,,5,37.16,185.81,wood,1500000.0,40000.0
+147,Modular Homes India,Modular Homes India Pvt Ltd,"1234 Example Street, Chennai, Tamil Nadu, 600001, India",https://www.modularhomesindia.com,,5,45.0,150.0,steel,1200000.0,25000.0
+148,Epack Prefab,Epack Polymers Private Limited,"B-1, Sector-7, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com,,,,,steel,,
+149,Bharat Prefab Solutions,,,,,,,,,,
+150,Greenway Building Systems,Greenway Building Systems Private Limited,"No. 15, ABC Complex, Anna Salai, Chennai, Tamil Nadu, 600002, India",https://www.greenwaybuildingsystems.com,,5,50.0,200.0,steel,1500000.0,30000.0
+151,Prefab Projects India Pvt Ltd,Prefab Projects India Pvt Ltd,,,,,,,,,
+152,Everest Industries,Everest Industries Limited,"Genesis Complex, A-32, Mohan Cooperative Industrial Estate, Mathura Road, New Delhi, 110044, India",https://www.everestind.com,,,,,steel,,
+153,Jansons Industries,,,,,,,,,,
+154,Hibond Prefab,Hibond Prefab Private Limited,"No. 123, Hibond Street, Chennai, Tamil Nadu, 600001, India",https://www.hibondprefab.com,,5,46.45,139.35,steel,1500000.0,35000.0
+155,Trinity Modular Homes,,,,,,,,,,
+156,Aacess Tough Doors & Frames,,,,,,,,,,
+157,Satec Envir Engineering,Satec Envir Engineering (India) Pvt. Ltd.,"Plot No. 109, Sector-1, Pithampur Industrial Area, Dhar, Madhya Pradesh, 454775, India",https://www.satec.co.in,,5,37.16,92.9,steel,500000.0,15000.0
+158,Supertech Industries,Supertech Industries,"No. 123, Industrial Estate, Perungudi, Chennai, Tamil Nadu, 600096, India",https://www.supertechindustries.in,,5,37.16,92.9,steel,500000.0,15000.0
+159,VME Precast,VME Precast Private Limited,"No. 2/212, Mount Poonamallee Road, Ayyappanthangal, Chennai, Tamil Nadu, 600056, India",https://www.vmeprecast.com,,,,,concrete,,
+160,Prefab Solutions India,,,,,,,,,,
+161,Techno Build,,,,,,,,,,
+162,Modtech Solutions,,,,,,,,,,
+163,Future Homes,,,,,,,,,,
+164,Strucfabs India,Strucfabs India Private Limited,"123, Industrial Estate, Coimbatore, Tamil Nadu, 641021, India",https://www.strucfabsindia.com,,5,37.16,148.64,steel,1500000.0,40000.0
+165,Steelion Prefab Infra Solutions,Steelion Prefab Infra Solutions Pvt. Ltd.,"No. 12, Kamarajar Street, Thiruvanmiyur, Chennai, Tamil Nadu, 600041, India",https://www.steelionprefab.com,,5,50.0,250.0,steel,800000.0,20000.0
+166,B-One Infra,B-One Infra Private Limited,"Plot No. 123, Street No. 5, Banjara Hills, Hyderabad, Telangana, 500034, India",https://www.boneinfra.com,,5,55.0,150.0,steel,1500000.0,30000.0
+167,Modular Homes India,,,,,,,,,,
+168,Sri Sai Modular Homes,,,,,,,,,,
+169,Telangana Prefab Solutions,,,,,,,,,,
+170,Green Build Prefab,,,,,,,,,,
+171,Eco Modular Constructions,,,,,,,,,,
+172,Bhavana Prefab Homes,Bhavana Prefab Homes Pvt. Ltd.,"1234 Prefab Street, Hyderabad, Telangana, 500001, India",https://www.bhavanaprefabhomes.com,,5,46.45,185.8,steel,1200000.0,25000.0
+173,Innovative Modular Solutions,,,,,,,,,,
+174,Sunshine Prefab Buildings,,,,,,,,,,
+175,NextGen Modular Homes,NextGen Modular Homes Pvt. Ltd.,"Plot No. 25, Road No. 10, Banjara Hills, Hyderabad, Telangana, 500034, India",https://www.nextgenmodularhomes.com,,5,46.45,139.35,steel,1200000.0,25000.0
+176,Smart Prefab Builders,,,,,,,,,,
+177,FutureBuild Prefab,,,,,,,,,,
+178,TRS Modular Homes,,,,,,,,,,
+179,Vibrant Prefab Constructions,,,,,,,,,,
+180,Pioneer Prefab Structures,Pioneer Prefab Structures Private Limited,"Plot No. 12, Industrial Park, Medchal, Hyderabad, Telangana, 501401, India",https://www.pioneerprefab.com,,8,46.45,185.81,steel,1500000.0,18000.0
+181,Visionary Modular Homes,,,,,,,,,,
+182,Urban Prefab Solutions,Urban Prefab Solutions Pvt. Ltd.,"Plot No. 23, Road No. 5, Jubilee Hills, Hyderabad, Telangana, 500033, India",https://www.urbanprefabsolutions.com,,5,50.0,200.0,steel,1500000.0,30000.0
+183,Hyderabad Modular Builders,,,,,,,,,,
+184,Sustainable Prefab Creations,,,,,,,,,,
+185,Dynamic Prefab Technologies,,,,,,,,,,
+186,Epack Prefab,Epack Polymers Private Limited,"Epack Polymers Private Limited, A-5, Sector 8, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com,,,,,steel,,
+187,Interarch Building Products,Interarch Building Products Pvt. Ltd.,"C-29, Sector 57, Noida, Uttar Pradesh, 201301, India",https://www.interarchbuildings.com,,,,,steel,,
+188,Modular Concepts India Pvt. Ltd.,Modular Concepts India Pvt. Ltd.,,,,,,,,,
+189,Tata Steel Nest-In,Tata Steel Limited,"43, Jawahar Nagar, Kanpur, Uttar Pradesh, 208012, India",https://www.nestin.co.in,,5,37.16,92.9,steel,500000.0,13500.0
+190,LGS India,LGS India Private Limited,"Plot No. 25, Ecotech 12, Greater Noida, Uttar Pradesh, 201306, India",https://www.lgsindia.com,,5,50.0,200.0,steel,1500000.0,30000.0
+191,Hindustan Prefab Limited,Hindustan Prefab Limited,"Jangpura, New Delhi, Delhi, 110014, India",http://www.hindprefab.in,,,,,concrete,,
+192,Bharat Prefab Solutions,,,,,,,,,,
+193,Satec Envir Engineering Pvt. Ltd.,Satec Envir Engineering Pvt. Ltd.,"Plot No. 901-914, GIDC, Umbergaon, Valsad, Gujarat, 396171, India",https://www.satec.co.in,,,,,steel,,
+194,Vishwakarma Prefab,Vishwakarma Prefab Private Limited,"123, Industrial Area, Kanpur, Uttar Pradesh, 208012, India",https://www.vishwakarmaprefab.com,,5,45.0,150.0,steel,500000.0,15000.0
+195,Kumar and Associates,,,,,,,,,,
+196,Epack Prefab,Epack Polymers Private Limited,"B-2, Noida Phase-II, Gautam Budh Nagar, Uttar Pradesh, 201305, India",https://www.epackpolymers.com,,,,,steel,,
+197,Bhardwaj Buildtech Pvt Ltd,,,,,,,,,,
+198,Magicrete Building Solutions,Magicrete Building Solutions Pvt Ltd,"101-104, 1st Floor, Tower D, Unitech Business Zone, Nirvana Country, Sector 50, Gurgaon, Haryana, 122018, India",https://www.magicrete.in,,,,,concrete,,
+199,Porta Cabin Systems,Porta Cabin Systems Pvt. Ltd.,"C-5, Street 22, Madhu Vihar, Patparganj, Delhi, 110092, India",https://portacabinsystems.com,,5,18.58,92.9,steel,300000.0,15000.0
+200,Champion Prefabs,Champion Infratech Pvt. Ltd.,"Champion Prefabs, A-15, Hauz Khas, New Delhi, Delhi, 110016, India",https://championprefabs.com,,10,46.45,185.81,wood,1500000.0,32500.0
+201,Jindal Prefab,Jindal Prefab Private Limited,"C-6/5, Safdarjung Development Area, Hauz Khas, New Delhi, Delhi, 110016, India",http://www.jindalprefab.com,,5,46.45,185.8,steel,500000.0,15000.0
+202,Kothari Associates,Kothari Associates,,http://www.kothariassociates.com,,,,,,,
+203,Pushpa Prefab,,,,,,,,,,
+204,Richa Industries,Richa Industries Limited,"Plot No. 29, DLF Industrial Area, Phase-II, Faridabad, Haryana, 121003, India",https://www.richa.in,,,,,steel,,
+205,LGS India,LGS India Pvt Ltd,"C-16, Okhla Industrial Area Phase I, New Delhi, Delhi, 110020, India",https://www.lgsind.com,,5,46.45,185.81,steel,1500000.0,32600.0
+206,Modular Concepts India,,,,,,,,,,
+207,Prefab Homes India,,,https://www.prefabhomesindia.com,,,,,,,
+208,EPACK Prefab,EPACK Polymers Private Limited,"A-213, Sector 63, Noida, Uttar Pradesh, 201301, India",https://www.epackpolymers.com/,,5,46.45,185.8,steel,1500000.0,32258.0
+209,Pyramid Prefab India,Pyramid Prefab India Pvt. Ltd.,"A-12, Okhla Industrial Area Phase II, New Delhi, Delhi, 110020, India",http://www.pyramidprefab.com,,5,37.16,92.9,steel,1200000.0,35000.0
+210,Satec Envir Engineering India Pvt Ltd,Satec Envir Engineering India Pvt Ltd,"A-8, Mayapuri Industrial Area, Phase-1, New Delhi, Delhi, 110064, India",https://www.satec.co.in,,,,,steel,,
+211,Jammu Prefab,,,,,,,,,,
+212,Kashmir Prefabricated Solutions,Kashmir Prefabricated Solutions Pvt. Ltd.,,,,,,,,,
+213,Himalayan Modular Homes,,,,,,,,,,
+214,Valley Prefab Structures,,,,,,,,,,
+215,JK Smart Homes,,,,,,,,,,
+216,EcoPanel Homes,,,,,,,,,,
+217,Mountain View Prefab,,,,,,,,,,
+218,Green Valley Homes,,,,,,,,,,
+219,Snowline Modular Builders,,,,,,,,,,
+220,Kashmir Kit Homes,,,,,,,,,,
+221,Everest Prefab Industries,,,,,,,,,,
+222,Zenith Modular Solutions,,,,,,,,,,
+223,J&K Prefab Constructions,,,,,,,,,,
+224,Paradise Prefab Homes,,,,,,,,,,
+225,Trikuta Homes,Trikuta Homes Pvt. Ltd.,,,,,,,,,

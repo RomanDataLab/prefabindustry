@@ -1,0 +1,3128 @@
+[
+  {
+    "id": 1,
+    "brand": "Modular Engenharia",
+    "webpage": "https://www.modularengenharia.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 2,
+    "brand": "Construções Pré-Moldadas Capixaba",
+    "webpage": "https://www.premoldadascapixaba.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 3,
+    "brand": "Casas Rápidas ES",
+    "webpage": "https://www.casasrapideses.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 4,
+    "brand": "Casas Paraná",
+    "webpage": "https://www.casasparana.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 11,
+    "brand": "Casas Paraná",
+    "webpage": "https://www.casasparana.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 5,
+    "brand": "Construtora Modelar",
+    "webpage": "https://www.constructoramodelar.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 6,
+    "brand": "Casas Pré-Moldadas BH",
+    "webpage": "https://www.casaspremoldadasbh.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 7,
+    "brand": "Eco Modular Construções",
+    "webpage": "https://www.ecomodularconstrucoes.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 8,
+    "brand": "Construtora Modular Ceará",
+    "webpage": "https://www.construtoramodularceara.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 9,
+    "brand": "Casa Modular Brasil",
+    "webpage": "https://www.casamodularbrasil.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 10,
+    "brand": "Casa Modular MS",
+    "webpage": "https://www.casamodularms.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 12,
+    "brand": "Casas Brasília Pré-Fabricadas",
+    "webpage": "https://www.casasbrasilia.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 14,
+    "brand": "Casas Brasil Pré-Fabricadas",
+    "webpage": "https://www.casasbrasilprefabricadas.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 15,
+    "brand": "Ecologic Houses",
+    "webpage": "https://www.ecologichouses.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 16,
+    "brand": "Construtora Casas Paraná",
+    "webpage": "https://www.casaparana.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 17,
+    "brand": "Modular Design RS",
+    "webpage": "https://www.modulardesignrs.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 20,
+    "brand": "Casas MM",
+    "webpage": "https://www.casasmmprefab.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 21,
+    "brand": "Casas Brasil",
+    "webpage": "https://www.casasbrasil.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 22,
+    "brand": "Casas Jung",
+    "webpage": "https://casasjung.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 23,
+    "brand": "Casas Solaris",
+    "webpage": "https://www.casassolaris.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 24,
+    "brand": "Casas Kehl",
+    "webpage": "https://www.casaskel.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 26,
+    "brand": "Casas de Madeira Guindani",
+    "webpage": "https://www.casasdemadeiraguindani.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 27,
+    "brand": "Ecoplan Engenharia",
+    "webpage": "https://www.ecoplanengenharia.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 29,
+    "brand": "Construtora Kakimoto",
+    "webpage": "https://www.construtorakakimoto.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 30,
+    "brand": "Casas Roca",
+    "webpage": "https://www.casasroca.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 31,
+    "brand": "Casas Pormade",
+    "webpage": "https://casaspormade.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 33,
+    "brand": "Construtora Berlanda",
+    "webpage": "https://www.construtoraberlanda.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 34,
+    "brand": "Casas Alvorada",
+    "webpage": "https://www.casalvorada.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 35,
+    "brand": "Casas de Madeira Estrela",
+    "webpage": "https://www.casasdemadeiraestrela.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 36,
+    "brand": "Tecmódulo",
+    "webpage": "https://www.tecmodule.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 37,
+    "brand": "Casas Santa Fé",
+    "webpage": "https://casasstafe.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 38,
+    "brand": "Casa Container Brasil",
+    "webpage": "https://www.casacontainerbrasil.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 39,
+    "brand": "Brasil ao Cubo",
+    "webpage": "https://brasilaucubo.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 40,
+    "brand": "Smart Modular",
+    "webpage": "https://www.smartmodular.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 41,
+    "brand": "Módulo Engenharia",
+    "webpage": "https://www.moduloengenharia.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 42,
+    "brand": "Habitech Brasil",
+    "webpage": "https://www.habitechbrasil.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 43,
+    "brand": "Precon Engenharia",
+    "webpage": "https://www.preconengenharia.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 46,
+    "brand": "Steel House Brasil",
+    "webpage": "https://www.steelhousebrasil.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 49,
+    "brand": "Zentner Steel Buildings",
+    "webpage": "https://zentnersteelbuildings.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 50,
+    "brand": "Ritz-Can Homes",
+    "webpage": "https://www.ritzcan.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 53,
+    "brand": "Nelson Homes",
+    "webpage": "https://www.nelsonhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 54,
+    "brand": "Winalta",
+    "webpage": "https://www.winalta.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 56,
+    "brand": "Lindal Cedar Homes",
+    "webpage": "https://lindal.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 58,
+    "brand": "Empire Modular Homes",
+    "webpage": "https://empiremodularhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 60,
+    "brand": "Modular Calgary Homes",
+    "webpage": "https://www.modularcalgaryhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 63,
+    "brand": "Foothills Modular Homes",
+    "webpage": "https://www.foothillsmodularhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 65,
+    "brand": "Prairie Sky Modular",
+    "webpage": "https://www.prairieskymodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 66,
+    "brand": "Alberta Factory Built Homes",
+    "webpage": "https://albertafabricatedhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 67,
+    "brand": "Alberta Homes Direct",
+    "webpage": "https://www.albertahomesdirect.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 69,
+    "brand": "Brock Modular",
+    "webpage": "https://brockmodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 72,
+    "brand": "Bayshore Home Sales",
+    "webpage": "https://www.bayshorehomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 73,
+    "brand": "Western Canadian Modular Homes",
+    "webpage": "https://www.westerncanadianmodularhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 76,
+    "brand": "Eagle Lake Professional Modular Homes",
+    "webpage": "https://www.eaglelakemodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 77,
+    "brand": "West Coast Homes",
+    "webpage": "https://www.westcoasthomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 79,
+    "brand": "BONE Structure",
+    "webpage": "https://bonestructure.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 83,
+    "brand": "Karoleena",
+    "webpage": "https://www.karoleena.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 86,
+    "brand": "Jenom Homes",
+    "webpage": "https://www.jenomhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 88,
+    "brand": "Katerra",
+    "webpage": "https://www.katerra.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 90,
+    "brand": "Britco",
+    "webpage": "https://www.britco.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 91,
+    "brand": "Greenstone Building Products",
+    "webpage": "https://www.greenstoneproductsonline.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 96,
+    "brand": "Tamlin Homes",
+    "webpage": "https://tamlinhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 99,
+    "brand": "Summit Prefab Homes",
+    "webpage": "https://summitprefabhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 101,
+    "brand": "Pinnacle Prefab",
+    "webpage": "https://www.pinnacleprefab.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 103,
+    "brand": "Sierra Modular Homes",
+    "webpage": "https://www.sierramodularhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 104,
+    "brand": "Tyee Homes",
+    "webpage": "https://tyeehomes.ca/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 105,
+    "brand": "Shelter Modular",
+    "webpage": "https://www.sheltermodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 108,
+    "brand": "Pacific Smart Homes",
+    "webpage": "https://www.pacificsmarthomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 113,
+    "brand": "Bayside Modular",
+    "webpage": "https://www.baysidemodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 117,
+    "brand": "Shell Systems",
+    "webpage": "https://www.shellsystems.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 125,
+    "brand": "Boreal Prefab",
+    "webpage": "https://borealprefab.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 127,
+    "brand": "Columbia Valley Modular Homes",
+    "webpage": "https://www.columbiavalleymodularhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 128,
+    "brand": "Kettle River Timberworks Ltd.",
+    "webpage": "https://www.kettlerivertimber.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 129,
+    "brand": "Purcell Timber Frame Homes",
+    "webpage": "https://www.purcell.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 130,
+    "brand": "Paradigm Building Solutions",
+    "webpage": "https://www.paradigmbuildingsolutions.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 131,
+    "brand": "Hamill Creek Timber Homes",
+    "webpage": "https://www.hamillcreek.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 135,
+    "brand": "Naikoon Contracting Ltd.",
+    "webpage": "https://naikooncontracting.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 142,
+    "brand": "TruNorth Homes",
+    "webpage": "https://www.trunorthhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 143,
+    "brand": "Alouette Homes",
+    "webpage": "https://www.alouettehomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 238,
+    "brand": "Alouette Homes",
+    "webpage": "https://www.alouettehomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 144,
+    "brand": "Kamloops Home Hardware Building Centre",
+    "webpage": "https://www.homehardware.ca/store/18349",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 146,
+    "brand": "Star Ready to Move Homes",
+    "webpage": "https://www.starreadymovehomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 147,
+    "brand": "Triple E Homes",
+    "webpage": "https://www.tripleemodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 149,
+    "brand": "Best Buy Homes",
+    "webpage": "https://www.bestbuyhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 150,
+    "brand": "Penner Builders",
+    "webpage": "https://www.pennerbuilders.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 152,
+    "brand": "Arlt Homes",
+    "webpage": "http://www.arlthomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 154,
+    "brand": "Heritage Lane Builders",
+    "webpage": "https://heritagelanebuilders.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 161,
+    "brand": "Hickman Timber Mart",
+    "webpage": "https://www.hickmantimbermart.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 162,
+    "brand": "Clarke Builders",
+    "webpage": "https://www.clarkebuilders.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 163,
+    "brand": "Riverside Cabins",
+    "webpage": "https://riversidecabins.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 164,
+    "brand": "J-Lyn Enterprises",
+    "webpage": "https://www.jlynenterprises.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 165,
+    "brand": "East Coast Homes",
+    "webpage": "http://www.eastcoasthomes.org",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 166,
+    "brand": "Island Precast",
+    "webpage": "https://www.islandprecast.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 170,
+    "brand": "Coastal Modular Homes",
+    "webpage": "https://www.coastalmodularhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 173,
+    "brand": "Royal Homes",
+    "webpage": "https://www.royalhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 175,
+    "brand": "Quality Homes",
+    "webpage": "https://www.qualityhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 177,
+    "brand": "R-Hauz Solutions Inc.",
+    "webpage": "https://rhauz.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 178,
+    "brand": "Modular Home Additions",
+    "webpage": "https://www.modularhomeadditions.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 179,
+    "brand": "Watson Building Supplies",
+    "webpage": "https://www.watsonbuildingsupplies.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 181,
+    "brand": "Alouette Homes",
+    "webpage": "https://alouettehomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 185,
+    "brand": "Maple Leaf Homes",
+    "webpage": "https://www.mapleleafthehomes.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 187,
+    "brand": "Zentner Steel Buildings",
+    "webpage": "https://zentnersteelbuildings.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 189,
+    "brand": "Stonewood Building Group",
+    "webpage": "https://www.stonewoodgroup.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 191,
+    "brand": "Royal Modular Homes",
+    "webpage": "https://royalhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 193,
+    "brand": "Maison Usinée Côté",
+    "webpage": "https://www.maisonusineecote.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 197,
+    "brand": "Les Maisons Monty",
+    "webpage": "https://www.maisonsmonty.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 198,
+    "brand": "Maisons Alouette",
+    "webpage": "https://www.maisonsalouette.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 200,
+    "brand": "Concept Dub",
+    "webpage": "https://www.conceptdub.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 201,
+    "brand": "Maisons Bâtisseurs",
+    "webpage": "https://maisonsbatisseurs.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 202,
+    "brand": "Constructions Modulaires Grilli",
+    "webpage": "https://www.constructionsmodulairesgrilli.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 203,
+    "brand": "Les Constructions R.G.B.",
+    "webpage": "https://www.constructionsrgb.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 204,
+    "brand": "Concepts RMR",
+    "webpage": "https://www.conceptsrmr.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 205,
+    "brand": "Maisons Usinées R.T.",
+    "webpage": "https://maisonsusineesrt.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 206,
+    "brand": "Maisons Roco",
+    "webpage": "https://maisonsroco.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 207,
+    "brand": "Habitations Lortie",
+    "webpage": "http://www.habitationslortie.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 208,
+    "brand": "Maisons Usinées Côté",
+    "webpage": "https://www.maisonsusineescote.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 209,
+    "brand": "Habitation La Vérendrye",
+    "webpage": "https://www.habitationlaverendrye.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 210,
+    "brand": "Maisons Confort Design",
+    "webpage": "https://maisonsconfortdesign.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 211,
+    "brand": "Maisons Usinées PRG",
+    "webpage": "https://www.maisonsprg.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 213,
+    "brand": "Maisons Usinées Rémillard",
+    "webpage": "https://www.maisonsusineesremillard.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 214,
+    "brand": "Bâtiment Préfabriqué Béton",
+    "webpage": "https://www.batimentprefabriquebeton.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 215,
+    "brand": "Maisons Modulaires de Beauce",
+    "webpage": "https://maisonsmodulairesdebeauce.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 217,
+    "brand": "Écohabitations Boréales",
+    "webpage": "https://www.ecohabitationsboreales.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 219,
+    "brand": "Constructions Métropolitaines",
+    "webpage": "https://www.constructionsmetropolitaines.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 220,
+    "brand": "Maisons Concept Dubé",
+    "webpage": "https://maisonsconceptdube.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 221,
+    "brand": "Habitation Modulor",
+    "webpage": "https://www.habitationmodulor.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 222,
+    "brand": "Maisons Modulaires André",
+    "webpage": "https://www.maisonsmodulairesandre.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 223,
+    "brand": "Maisons Usinées Pro-Concept",
+    "webpage": "https://www.maisonsusineesproconcept.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 224,
+    "brand": "Habitation JML",
+    "webpage": "https://www.habitationjml.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 225,
+    "brand": "Maisons Lumar",
+    "webpage": "https://maisonslumar.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 226,
+    "brand": "Bâtiments Préfabriqués Nordiques",
+    "webpage": "https://www.bpnordiques.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 227,
+    "brand": "Maisons ModulR",
+    "webpage": "https://www.maisonsmodulr.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 228,
+    "brand": "Construction Maxera",
+    "webpage": "https://www.constructionmaxera.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 229,
+    "brand": "Habitat Multi-Concept",
+    "webpage": "https://www.habitatmulticoncept.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 230,
+    "brand": "Maisons Usinées Havre",
+    "webpage": "https://www.maisonsusineeshavre.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 231,
+    "brand": "Maisons Usinées Estrie",
+    "webpage": "https://www.maisonsusineesestrie.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 232,
+    "brand": "Maisons L.B.",
+    "webpage": "https://maisonslb.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 234,
+    "brand": "Maisons Usinées S. Turner",
+    "webpage": "https://www.maisonsturner.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 235,
+    "brand": "Les Constructions Raymond & Fils",
+    "webpage": "https://www.raymondetfils.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 236,
+    "brand": "Constructions M. Bergeron",
+    "webpage": "https://www.constructionsmbergeron.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 237,
+    "brand": "Batitech",
+    "webpage": "https://www.batitech.ca/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 239,
+    "brand": "Récit Habitation",
+    "webpage": "https://recithabitation.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 240,
+    "brand": "Constructions Yvan Blouin",
+    "webpage": "https://www.constructionsyvanblouin.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 241,
+    "brand": "KYO",
+    "webpage": "https://www.kyo.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 242,
+    "brand": "Concept Modulab",
+    "webpage": "https://www.conceptmodulab.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 243,
+    "brand": "Maison Usinée Prestige",
+    "webpage": "https://www.maisonusineeprestige.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 244,
+    "brand": "Maisons Modulaires du Québec",
+    "webpage": "https://www.maisonsmodulairesduquebec.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 245,
+    "brand": "Constructions Modulaires du Québec",
+    "webpage": "https://www.constructionsmodulairesduquebec.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 246,
+    "brand": "Habitation Concept",
+    "webpage": "https://www.habitationconcept.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 247,
+    "brand": "Maisons Modulaire Estrie",
+    "webpage": "https://maisonsmodulaireestrie.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 248,
+    "brand": "Systèmes de Construction Avancés",
+    "webpage": "https://www.constructionavances.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 249,
+    "brand": "Habitation Léonard",
+    "webpage": "https://www.habitationleonard.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 250,
+    "brand": "Ecohabitations Boréales",
+    "webpage": "https://ecohabitationsboreales.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 251,
+    "brand": "Maisons PM",
+    "webpage": "https://www.maisons-pm.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 252,
+    "brand": "Maisons Usinées Saguenay",
+    "webpage": "https://www.maisonsusineessaguenay.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 253,
+    "brand": "Maisons Dunfab",
+    "webpage": "https://www.maisonsdunfab.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 254,
+    "brand": "Constructions Modulaires Côté",
+    "webpage": "https://www.constructionsmodulairescote.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 256,
+    "brand": "Habitations L2C",
+    "webpage": "https://habitationsl2c.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 257,
+    "brand": "Les Constructions Citébec",
+    "webpage": "https://www.constructionscitebec.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 258,
+    "brand": "Maisons Usinées Gagnon",
+    "webpage": "https://www.maisonsusineesgagnon.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 260,
+    "brand": "Habitation Solécio",
+    "webpage": "https://www.habitationsolecio.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 261,
+    "brand": "Maisons Modulaires de l'Est",
+    "webpage": "https://www.maisonsmodulairesdelest.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 262,
+    "brand": "Maisons Apogée",
+    "webpage": "https://www.maisonsapogee.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 263,
+    "brand": "Maisons Usinées Bâtitech",
+    "webpage": "https://www.batitech.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 265,
+    "brand": "Habitation Domicil",
+    "webpage": "https://www.habitationdomicil.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 266,
+    "brand": "Maisons Usinées Noblesse",
+    "webpage": "https://maisonsnoblesse.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 267,
+    "brand": "Les Habitations Lévesque",
+    "webpage": "https://www.habitationlevesque.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 268,
+    "brand": "Habitation Trigone",
+    "webpage": "https://www.habitationtrigone.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 269,
+    "brand": "Habitation Desrosiers",
+    "webpage": "https://habitationdesrosiers.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 271,
+    "brand": "Concept SGA",
+    "webpage": "https://www.conceptsga.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 272,
+    "brand": "Habitation Innovatek",
+    "webpage": "https://www.habitationinnovatek.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 274,
+    "brand": "Maisons Usinées A. Marois",
+    "webpage": "https://www.amarois.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 275,
+    "brand": "Habitations Préfabriquées MDM",
+    "webpage": "https://www.habitationsmdm.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 276,
+    "brand": "Maisons Usinées Domicil",
+    "webpage": "https://maisonsusineesdomicil.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 277,
+    "brand": "Maisons Nordik",
+    "webpage": "https://maisonsnordik.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 278,
+    "brand": "Maisons Usinées Révolution",
+    "webpage": "https://www.maisonsusineesrevolution.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 279,
+    "brand": "Maison Modulaire Innovante",
+    "webpage": "https://www.maisonmodulaireinnovante.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 280,
+    "brand": "Usinage Constructions Québec",
+    "webpage": "https://www.usinageconstructionsquebec.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 281,
+    "brand": "Maisons Préfabriquées Harmonie",
+    "webpage": "https://www.maisonsharmonie.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 283,
+    "brand": "Warman Homes",
+    "webpage": "https://warmanhomes.ca/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 284,
+    "brand": "B&B Homes",
+    "webpage": "https://bbhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 291,
+    "brand": "B & B Homes",
+    "webpage": "https://bbhomes.ca",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 285,
+    "brand": "J&H Homes",
+    "webpage": "https://www.jhhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 288,
+    "brand": "Sun Ridge Residential",
+    "webpage": "http://www.sunridgeresidential.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 290,
+    "brand": "Deneschuk Homes",
+    "webpage": "https://www.deneschukhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 292,
+    "brand": "Saskatoon Modular Homes",
+    "webpage": "https://www.saskatoonmodularhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 295,
+    "brand": "KazBuild Modular",
+    "webpage": "https://www.kazbuildmodular.kz",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 296,
+    "brand": "StroyPanel Kazakhstan",
+    "webpage": "https://stroypanel.kz",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 297,
+    "brand": "Prefabricados La Serena",
+    "webpage": "https://www.prefabricadoslaserena.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 298,
+    "brand": "Chile Modular Homes",
+    "webpage": "https://www.chilemodularhomes.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 299,
+    "brand": "Prefabricados Chile",
+    "webpage": "https://www.prefabricadoschile.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 300,
+    "brand": "Casas Prefabricadas O'Higgins",
+    "webpage": "http://www.casasprefabricadasohiggins.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 301,
+    "brand": "Premoldeadas Rancagua",
+    "webpage": "http://www.premoldeadasrancagua.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 302,
+    "brand": "Casa Modular Chile",
+    "webpage": "https://www.casamodularchile.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 303,
+    "brand": "Prefabricados Pucón",
+    "webpage": "https://www.prefabricadospucon.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 304,
+    "brand": "Constructora Los Lagos",
+    "webpage": "https://www.constructoraloslagos.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 305,
+    "brand": "SurModular",
+    "webpage": "https://www.surmodular.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 306,
+    "brand": "Premoldeados Austral",
+    "webpage": "http://www.premoldeadosaustral.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 307,
+    "brand": "Modular Homes Chile",
+    "webpage": "https://www.modularhomeschile.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 308,
+    "brand": "Casas Prefabricadas Puerto Varas",
+    "webpage": "https://www.casasprefabricadaspuertovaras.cl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 309,
+    "brand": "Viviendas Prefabricadas del Centro",
+    "webpage": "https://viviendasprefabricadasdelcentro.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 310,
+    "brand": "Casas de Kit Industriales",
+    "webpage": "https://www.casasdkitindustriales.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 311,
+    "brand": "Prefabricados del Norte",
+    "webpage": "https://www.prefabricadosdelnorte.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 312,
+    "brand": "Modulares y Prefabricados Cabo",
+    "webpage": "https://www.modularesyprefabricadoscabo.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 313,
+    "brand": "Prefabricados Chihuahua",
+    "webpage": "https://prefabricadoschihuahua.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 314,
+    "brand": "Innovación Modular",
+    "webpage": "https://www.innovacionmodular.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 315,
+    "brand": "Viviendas Prefabricadas del Norte",
+    "webpage": "https://www.viviendasprefabricadasdelnorte.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 316,
+    "brand": "Viviendas Industriales Coahuila",
+    "webpage": "https://viviendasindustrialescoahuila.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 317,
+    "brand": "Espaciomovil",
+    "webpage": "https://www.espaciomovil.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 318,
+    "brand": "Casas Prefabricadas México",
+    "webpage": "https://www.casasprefabricadasmexico.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 319,
+    "brand": "Casas Prefabricadas Elizondo",
+    "webpage": "https://www.casasprefabricadaselizondo.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 320,
+    "brand": "Casa Modular",
+    "webpage": "https://www.casamodular.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 321,
+    "brand": "Prefabricados y Estructuras León",
+    "webpage": "https://www.prefabricadosleon.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 322,
+    "brand": "Casas Prefabricadas México",
+    "webpage": "https://casasprefabricadasmexico.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 323,
+    "brand": "Panel Homes México",
+    "webpage": "https://www.panelhomes.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 324,
+    "brand": "Estructuras Prefabricadas del Estado",
+    "webpage": "https://www.estructurasprefabricadasdelestado.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 325,
+    "brand": "Prefabricados del Centro",
+    "webpage": "https://www.prefabricadosdelcentro.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 326,
+    "brand": "Edificaciones Industriales Prefabricadas",
+    "webpage": "https://www.eiprefabricadas.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 327,
+    "brand": "Desarrollos Prefabricados Integrales",
+    "webpage": "https://www.desarrollosprefabricadosintegrales.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 328,
+    "brand": "Casas Prefabricadas Monterrey",
+    "webpage": "https://casasprefabricadasmonterrey.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 329,
+    "brand": "Casas Industrializadas Monterrey",
+    "webpage": "https://www.casasindustrializadasmonterrey.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 330,
+    "brand": "Casas Industrializadas del Pacífico",
+    "webpage": "https://www.casasindustrializadasdelpacifico.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 331,
+    "brand": "Arquitectura Modular",
+    "webpage": "https://www.arquitecturamodular.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 332,
+    "brand": "Proyectos Prefabricados de SLP",
+    "webpage": "https://www.proyectosprefabricadosdeslp.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 333,
+    "brand": "Casas y Modulares del Bajío",
+    "webpage": "https://www.casasy-modularesdelbajio.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 334,
+    "brand": "Prefabricados y Construcciones Mérida",
+    "webpage": "https://www.prefabricadosmerida.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 335,
+    "brand": "Prefabricados del Sur",
+    "webpage": "https://www.prefabricadosdelsur.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 336,
+    "brand": "Construcciones Prefabricadas de Occidente",
+    "webpage": "https://www.conprefor.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 337,
+    "brand": "Prefabricados y Estructuras de Jalisco",
+    "webpage": "https://www.prefabricadosyestructurasjalisco.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 338,
+    "brand": "Prefabrikasa",
+    "webpage": "https://www.prefabrikasa.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 339,
+    "brand": "Fabricación de Viviendas Prefabricadas",
+    "webpage": "https://www.viviendasprefabricadasjalisco.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 340,
+    "brand": "Industrializadas Morelos",
+    "webpage": "https://www.industrializadasmorelos.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 341,
+    "brand": "Casas Krea",
+    "webpage": "https://www.casaskrea.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 342,
+    "brand": "Espacio Prefabricados",
+    "webpage": "https://www.espacioprefabricados.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 343,
+    "brand": "Prefabricados y Modulares del Norte",
+    "webpage": "https://www.prefabricadosmodularesdelnorte.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 344,
+    "brand": "InnovaCasa",
+    "webpage": "https://www.innovacasa.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 345,
+    "brand": "Modular Tec",
+    "webpage": "https://www.modulartec.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 346,
+    "brand": "CasaLista",
+    "webpage": "https://www.casalista.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 347,
+    "brand": "Prefabricados Monterrey",
+    "webpage": "https://prefabricadosmonterrey.com.mx",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 349,
+    "brand": "Casas Prefabricadas Playa",
+    "webpage": "https://casasprefabricadasplaya.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 350,
+    "brand": "Casa Prefabricada Riviera Maya",
+    "webpage": "https://casaprefabricadarivieramaya.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 362,
+    "brand": "Künzli Holz AG",
+    "webpage": "https://www.kuenzli.ch/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 365,
+    "brand": "Holzbau Schmid AG",
+    "webpage": "https://www.schmid-holzbau.ch/en/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 366,
+    "brand": "Lüscher Holzbau",
+    "webpage": "https://www.luescherholzbau.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 367,
+    "brand": "Haeberli Holzbau AG",
+    "webpage": "https://www.haeberli-holzbau.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 382,
+    "brand": "Saltdalshus",
+    "webpage": "https://saltdalshus.no",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 384,
+    "brand": "Módulhús",
+    "webpage": "https://www.modulhus.is",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 389,
+    "brand": "Boutique Modern",
+    "webpage": "https://www.boutiquemodern.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 395,
+    "brand": "Tingdene Homes",
+    "webpage": "https://www.tingdene.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 401,
+    "brand": "The Wee House Company",
+    "webpage": "https://www.weehousecompany.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 419,
+    "brand": "Fullwood Wohnblockhaus",
+    "webpage": "https://www.fullwood.de",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 420,
+    "brand": "Kaufman & Broad",
+    "webpage": "https://www.kaufmanbroad.fr",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 425,
+    "brand": "Casas inHAUS",
+    "webpage": "https://casasinhaus.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 427,
+    "brand": "TecnoHome",
+    "webpage": "https://www.technohome.es",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 428,
+    "brand": "Hormipresa",
+    "webpage": "https://www.hormipresa.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 430,
+    "brand": "Noem",
+    "webpage": "https://noem.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 433,
+    "brand": "Alucasa",
+    "webpage": "https://alucasa.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 441,
+    "brand": "Barli",
+    "webpage": "https://www.barli.nl/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 446,
+    "brand": "Heijmans ONE",
+    "webpage": "https://www.heijmans.nl/en/heijmans-one/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 448,
+    "brand": "Bouwbedrijf Veenstra",
+    "webpage": "https://www.bouwbedrijfveenstra.nl/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 449,
+    "brand": "Sustainer Homes",
+    "webpage": "https://sustainerhomes.nl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 451,
+    "brand": "Heijmans",
+    "webpage": "https://www.heijmans.nl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 459,
+    "brand": "GUY GYSEMANS Houtskeletbouw",
+    "webpage": "https://www.gysemans.be",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 472,
+    "brand": "Kampa",
+    "webpage": "https://www.kampa.at",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 480,
+    "brand": "NCC",
+    "webpage": "https://www.ncc.group",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 485,
+    "brand": "Villa Vida",
+    "webpage": "https://www.villavida.se",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 496,
+    "brand": "Jakobsen Huse",
+    "webpage": "https://jakobsenhuse.dk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 498,
+    "brand": "Lasse Larsen Huse",
+    "webpage": "https://www.lasselarsenhuse.dk/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 512,
+    "brand": "K-Rauta",
+    "webpage": "https://www.k-rauta.fi",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 515,
+    "brand": "Punkaharjun Puutaito",
+    "webpage": "https://www.punkaharjunpuutaito.fi/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 519,
+    "brand": "EcoReadyHouse",
+    "webpage": "https://www.ecoreadyhouse.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 521,
+    "brand": "Module Home",
+    "webpage": "https://modulehome.pl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 522,
+    "brand": "Ekoinbud",
+    "webpage": "https://ekoinbud.pl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 526,
+    "brand": "Domy z Wizją",
+    "webpage": "https://www.domyzwizja.pl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 554,
+    "brand": "Modern Homes Ireland",
+    "webpage": "https://www.modernhomesireland.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 556,
+    "brand": "Modular Homes Ireland",
+    "webpage": "https://modularhomes.ie",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 560,
+    "brand": "Clodagh Construction",
+    "webpage": "https://www.clodaghconstruction.ie",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 562,
+    "brand": "Century Homes",
+    "webpage": "https://centuryhomes.ie/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 572,
+    "brand": "Kerámiaház",
+    "webpage": "https://www.keramiahaz.hu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 573,
+    "brand": "Haas Fertigbau",
+    "webpage": "https://www.haas-fertigbau.hu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 575,
+    "brand": "ForDom",
+    "webpage": "https://www.fordom.sk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 576,
+    "brand": "Hoffmann",
+    "webpage": "https://www.hoffmann.sk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 578,
+    "brand": "Domesi",
+    "webpage": "https://www.domesi.sk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 598,
+    "brand": "Rihter",
+    "webpage": "https://www.rihter.si",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 599,
+    "brand": "Lesoteka Hiše",
+    "webpage": "https://www.lesotekahise.si/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 606,
+    "brand": "Doleta",
+    "webpage": "https://www.doleta.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 620,
+    "brand": "Nordic Houses",
+    "webpage": "https://nordichouses.eu/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 631,
+    "brand": "Target Engineering Construction Company",
+    "webpage": "https://www.targetengineering.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 633,
+    "brand": "Square General Contracting",
+    "webpage": "https://www.squaregc.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 634,
+    "brand": "Al Mansouri 3B Construction",
+    "webpage": "https://www.almansouri3b.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 637,
+    "brand": "CSCEC Middle East",
+    "webpage": "https://www.chinaconstruction.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 640,
+    "brand": "Al Jaber Group",
+    "webpage": "https://www.aljaber.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 654,
+    "brand": "Red Sea Housing Services",
+    "webpage": "https://www.redseahousing.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 656,
+    "brand": "TSSC Group",
+    "webpage": "https://www.tsscuae.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 657,
+    "brand": "Emirates Building Systems",
+    "webpage": "https://www.ebsl.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 660,
+    "brand": "Al Shirawi Contracting Company",
+    "webpage": "https://www.alshirawi.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 661,
+    "brand": "Danube Homes",
+    "webpage": "https://www.danubehome.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 664,
+    "brand": "Atlas Continent Contracting",
+    "webpage": "https://atlascontinent.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 665,
+    "brand": "Dubai Modular Homes",
+    "webpage": "https://www.dubaimodularhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 666,
+    "brand": "Eco Prefab Homes",
+    "webpage": "https://ecoprefabhomes.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 668,
+    "brand": "Emaar Industries & Investments",
+    "webpage": "https://www.eiicorporation.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 670,
+    "brand": "Dubai Precast",
+    "webpage": "https://www.dubaiprecast.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 671,
+    "brand": "Modern Prefab Systems",
+    "webpage": "https://www.modernprefabsystems.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 672,
+    "brand": "Advanced Concrete Technologies",
+    "webpage": "https://www.actech.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 673,
+    "brand": "National Industries Park",
+    "webpage": "https://www.jafza.ae/en/national-industries-park",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 674,
+    "brand": "Emirates Beton",
+    "webpage": "https://www.ebrm.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 679,
+    "brand": "Al Zayed Shades & Tents",
+    "webpage": "https://www.alzayedshades.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 680,
+    "brand": "Space Box",
+    "webpage": "https://www.spaceboxuae.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 683,
+    "brand": "Al Shafar Steel Engineering LLC",
+    "webpage": "https://www.asse.ae",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 695,
+    "brand": "Heritage Homes of Nebraska",
+    "webpage": "http://heritagehomesofne.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 696,
+    "brand": "Huntington Homes",
+    "webpage": "http://www.huntingtonhomesvt.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 701,
+    "brand": "Daiwa House",
+    "webpage": "http://www.daiwahouse.co.jp/English/index.html",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 702,
+    "brand": "Daiwa Lease",
+    "webpage": "https://www.daiwalease.co.jp/english/index.html",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 703,
+    "brand": "フジ産業",
+    "webpage": "http://www.fuji-sangyou.co.jp/index.php",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 707,
+    "brand": "Misawa Homes",
+    "webpage": "http://www.misawa.co.jp/en/info/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 709,
+    "brand": "Nissei Build",
+    "webpage": "http://www.nisseibuild.co.jp/en/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 712,
+    "brand": "Panasonic Homes",
+    "webpage": "https://homes.panasonic.com/english/index.html",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 717,
+    "brand": "Sekisui House",
+    "webpage": "http://www.sh-rc.co.jp/eng/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 724,
+    "brand": "セキスイハウス (Sekisui House)",
+    "webpage": "https://www.hsnet.jp/index.html",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 737,
+    "brand": "MBS Modular Building Systems",
+    "webpage": "http://mbssltd.co.uk/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 749,
+    "brand": "MRC Modular",
+    "webpage": "http://www.mrcmodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 765,
+    "brand": "OTHERm",
+    "webpage": "https://www.otherm.cz",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 767,
+    "brand": "HOUSES BG",
+    "webpage": "http://www.houses-bg.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 777,
+    "brand": "ALHO",
+    "webpage": "http://www.alho.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 784,
+    "brand": "Haas Fertighaus",
+    "webpage": "http://haas-fertighaus.de/hp1/Startseite.htm#1",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 790,
+    "brand": "Interhaus Barta",
+    "webpage": "http://www.interhaus.hu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 791,
+    "brand": "Pannon Készház",
+    "webpage": "http://www.pannonkeszhaz.hu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 795,
+    "brand": "Hemp Built",
+    "webpage": "http://www.hempbuilt.com.au/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 803,
+    "brand": "Tiny Wunder House",
+    "webpage": "http://www.tinywunderhouse.com/models/pollux/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 804,
+    "brand": "Eco Tiny House",
+    "webpage": "https://ecotiny.house/products/tiny-houses/tinyvictor",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 805,
+    "brand": "Solido House",
+    "webpage": "https://solidohouse.ro/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 806,
+    "brand": "Eco Pod Design",
+    "webpage": "http://www.ecopoddesign.co.uk/residential/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 808,
+    "brand": "Bespoke Outdoors Living",
+    "webpage": "https://www.bespokeoutdoorsliving.com/geodesic-glamping-dome/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 809,
+    "brand": "Armadilla",
+    "webpage": "https://armadilla.co.uk/kurv",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 810,
+    "brand": "Out of the Valley",
+    "webpage": "https://outofthevalley.co.uk/cabins/nomad-studio/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 811,
+    "brand": "The Wee House Company",
+    "webpage": "https://theweehousecompany.co.uk/modular-homes/two-bedroom-cottage-style/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 815,
+    "brand": "Podmakers",
+    "webpage": "https://www.podmakers.co.uk/the-escape-pod-2",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 816,
+    "brand": "Pod Space",
+    "webpage": "https://www.pod-space.co.uk/pods/lite-pod/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 817,
+    "brand": "Redukt",
+    "webpage": "https://www.redukt.org/eng-start",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 818,
+    "brand": "Berghaus Tiny House",
+    "webpage": "https://berghaus-tinyhouse.com/magdalena-tinyhousemodel/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 820,
+    "brand": "Racocoon (U-Coon)",
+    "webpage": "https://www.racocoon.be/u-coon",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 822,
+    "brand": "Tiny House Benelux",
+    "webpage": "https://tinyhousebenelux.nl",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 826,
+    "brand": "Madeiguincho",
+    "webpage": "https://www.madeiguincho.pt/melides-casa-na-rvore/9e0qt1oz73tqdjowdp264zawuzchl9",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 827,
+    "brand": "Mima Housing",
+    "webpage": "https://www.mimahousing.com/mimalight",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 828,
+    "brand": "Jular",
+    "webpage": "https://www.jular.pt/en/produtos/casas-pre-fabricadas/casas-modulares-treehouse-sw",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 832,
+    "brand": "Gardiun Techno",
+    "webpage": "https://www.gardiuntechno.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 834,
+    "brand": "Sismo Spain",
+    "webpage": "https://www.sismospain.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 836,
+    "brand": "SecoSteel",
+    "webpage": "https://www.secosteel.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 846,
+    "brand": "Akat Prefabrike",
+    "webpage": "http://www.akatprefabrike.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 850,
+    "brand": "Beltas Yapı",
+    "webpage": "http://www.beltesyapi.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 851,
+    "brand": "BG Prefabrik",
+    "webpage": "https://www.bgprefabrik.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 852,
+    "brand": "Betonel",
+    "webpage": "https://www.betonel.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 853,
+    "brand": "Cemre Prefabrik",
+    "webpage": "https://cemreprefabrik.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 854,
+    "brand": "Dagyapi Prefabrik",
+    "webpage": "https://www.dagyapiprefabrik.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 855,
+    "brand": "Dayan Beton",
+    "webpage": "https://www.dayanbeton.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 856,
+    "brand": "EKS Göktaş Prefabrik",
+    "webpage": "https://www.eksgoktas.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 857,
+    "brand": "Elit Prefabrike",
+    "webpage": "https://elitprefabrik.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 858,
+    "brand": "Emek Prefabrik",
+    "webpage": "https://www.emekprefabrik.com/tr/home-tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 859,
+    "brand": "Er Prefabrik",
+    "webpage": "https://www.erprefabrik.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 860,
+    "brand": "Ete Beton",
+    "webpage": "https://www.etebeton.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 861,
+    "brand": "Fırat Prefabrik",
+    "webpage": "http://www.firatprefabrik76.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 862,
+    "brand": "Gümüş Prefabrik",
+    "webpage": "http://www.www.gumusprefabrik.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 863,
+    "brand": "Gürbağ Prefabrik",
+    "webpage": "https://www.gurbagprefabrik.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 864,
+    "brand": "Harran Prefabrik",
+    "webpage": "http://www.harranprefabrik.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 865,
+    "brand": "Ilgaz Prefabrik",
+    "webpage": "https://www.ilgazprefabrik.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 866,
+    "brand": "KA•YAPI",
+    "webpage": "https://www.kayapi.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 867,
+    "brand": "Legoyap",
+    "webpage": "https://www.legoyap.com.tr/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 868,
+    "brand": "Okaply",
+    "webpage": "http://okaply.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 869,
+    "brand": "Out-Back Portable Buildings",
+    "webpage": "http://www.outbackportablebuildings.com.au/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 870,
+    "brand": "Napresa",
+    "webpage": "http://www.napresa.com.mx/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 871,
+    "brand": "VIPROCOSA",
+    "webpage": "http://www.viprocosa.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 872,
+    "brand": "Concrelaje",
+    "webpage": "http://www.concrelaje.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 873,
+    "brand": "CPI - Solucoes em Premoldados",
+    "webpage": "http://www.cpi.eng.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 874,
+    "brand": "Engedelta Engenharia",
+    "webpage": "http://www.engedelta.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 875,
+    "brand": "Manturi",
+    "webpage": "http://www.manturi.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 876,
+    "brand": "PUMA Lajes Alveolares",
+    "webpage": "http://www.pumalajes.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 877,
+    "brand": "Sudeste",
+    "webpage": "http://www.sudeste.ind.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 878,
+    "brand": "T&A Pré-Fabricados",
+    "webpage": "http://www.tea.com.br",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 879,
+    "brand": "CETESA",
+    "webpage": "http://cetesa.com.co/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 880,
+    "brand": "Facoro",
+    "webpage": "https://www.facoro.cl/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 881,
+    "brand": "BG Manufacturing",
+    "webpage": "http://www.bgmfg.homes/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 882,
+    "brand": "R-Anell Homes",
+    "webpage": "http://r-anell.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 883,
+    "brand": "Fleetwood Homes",
+    "webpage": "http://fleetwoodhomes.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 884,
+    "brand": "Cavco",
+    "webpage": "https://cavco.com/northcarolina",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 885,
+    "brand": "Nationwide Homes",
+    "webpage": "http://nationwide-homes.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 886,
+    "brand": "Destiny Home Builders",
+    "webpage": "http://destinyhomebuilders.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 887,
+    "brand": "Champion Homes",
+    "webpage": "http://championhomesofnc.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 888,
+    "brand": "Champion Homes",
+    "webpage": "http://championhomesky.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 889,
+    "brand": "Champion Homes",
+    "webpage": "http://championhomesoftn.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 890,
+    "brand": "Clayton Addison",
+    "webpage": "http://claytonaddisonhbf.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 891,
+    "brand": "Guerdon Modular Buildings",
+    "webpage": "https://www.guerdonmodularbuildings.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 892,
+    "brand": "Red Sea International",
+    "webpage": "https://redseaintl.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 893,
+    "brand": "Algeco",
+    "webpage": "https://www.algeco.co.uk/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 894,
+    "brand": "KLEUSBERG",
+    "webpage": "https://www.kleusberg.de/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 895,
+    "brand": "Connect Homes",
+    "webpage": "https://www.connect-homes.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 896,
+    "brand": "Dan-Wood",
+    "webpage": "https://www.dan-wood.co.uk/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 897,
+    "brand": "Prefabulous",
+    "webpage": "https://prefabulous.net.au/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 898,
+    "brand": "Frame Build UK",
+    "webpage": "https://framebuilduk.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 899,
+    "brand": "Greencore Homes",
+    "webpage": "https://www.greencorehomes.co.uk/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 900,
+    "brand": "HAUS",
+    "webpage": "https://www.haus.uk.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 901,
+    "brand": "Villen inHAUS",
+    "webpage": "https://villeninhaus.de",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 902,
+    "brand": "Karmod International",
+    "webpage": "https://www.karmodint.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 903,
+    "brand": "KC Modular Buildings",
+    "webpage": "https://kcmodularbuildings.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 904,
+    "brand": "Koto",
+    "webpage": "https://koto.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 905,
+    "brand": "Merit",
+    "webpage": "https://www.merit.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 906,
+    "brand": "MORE Housing",
+    "webpage": "https://www.more-housing.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 907,
+    "brand": "nHouse",
+    "webpage": "https://www.the-nhouse.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 908,
+    "brand": "Palmatin Wooden Houses",
+    "webpage": "https://www.palmatin.com/kit-houses-uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 909,
+    "brand": "Premier Modular",
+    "webpage": "https://premiermodulargroup.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 910,
+    "brand": "Prefab Homes",
+    "webpage": "https://prefabhomes.uk.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 911,
+    "brand": "Scandia-Hus",
+    "webpage": "https://scandi-hus.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 912,
+    "brand": "Scandinavian Homes",
+    "webpage": "https://scandinavianhomes.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 913,
+    "brand": "Scotframe",
+    "webpage": "https://scotframe.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 914,
+    "brand": "siphouse",
+    "webpage": "https://siphouse.co.uk",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 915,
+    "brand": "Tempohousing",
+    "webpage": "http://www.tempohousing.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 916,
+    "brand": "The Tiny Housing Co",
+    "webpage": "https://www.thetinyhousing.co",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 917,
+    "brand": "Totally Modular",
+    "webpage": "https://www.totallymodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 918,
+    "brand": "Trident Modular",
+    "webpage": "https://tridentmodular.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 919,
+    "brand": "Wudl",
+    "webpage": "https://www.wudl.co.uk/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 920,
+    "brand": "ZED PODS",
+    "webpage": "https://www.zedpods.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 921,
+    "brand": "Alpiger Holzbau AG",
+    "webpage": "http://alpiger-holzbau.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 922,
+    "brand": "Beer Holzbau",
+    "webpage": "http://www.beer-holzbau.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 923,
+    "brand": "Blumer Lehmann",
+    "webpage": "http://www.blumer-lehmann.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 924,
+    "brand": "Erni Gruppe",
+    "webpage": "http://www.erni-gruppe.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 925,
+    "brand": "Holzbau Bucher AG",
+    "webpage": "http://www.holzbau-bucher.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 926,
+    "brand": "Kaufmann Oberholzer",
+    "webpage": "http://www.kaufmann-oberholzer.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 927,
+    "brand": "KIFA SYSTEMBAU",
+    "webpage": "http://www.kifa.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 928,
+    "brand": "Kost Holzbau",
+    "webpage": "http://www.kost.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 929,
+    "brand": "Krattiger Holzbau",
+    "webpage": "http://krattigerholzbau.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 930,
+    "brand": "Kühni Holzbau",
+    "webpage": "http://www.kuehni.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 931,
+    "brand": "schaerholzbau",
+    "webpage": "http://www.schaerholzbau.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 932,
+    "brand": "Sigrist Rafz",
+    "webpage": "http://www.sigrist-rafz.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 939,
+    "brand": "Sigrist Rafz",
+    "webpage": "http://www.sigrist-rafz.ch",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 933,
+    "brand": "UFFER Holz AG",
+    "webpage": "http://www.ufferholz.swiss",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 940,
+    "brand": "UFFER Holz AG",
+    "webpage": "http://www.ufferholz.swiss",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 934,
+    "brand": "EHI Group",
+    "webpage": "https://www.ehi.lv/en",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 943,
+    "brand": "EHI Group",
+    "webpage": "https://www.ehi.lv/en",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 935,
+    "brand": "Modern House",
+    "webpage": "https://www.modern-house.lv/en",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 945,
+    "brand": "Modern House",
+    "webpage": "https://www.modern-house.lv/en",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 936,
+    "brand": "Dores",
+    "webpage": "https://dores.house/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 946,
+    "brand": "Dores House",
+    "webpage": "https://dores.house/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 937,
+    "brand": "CLT Profi",
+    "webpage": "https://tidycal.com/cltprofi",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 948,
+    "brand": "CLT Profi",
+    "webpage": "https://tidycal.com/cltprofi",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 938,
+    "brand": "Bitus Latvia",
+    "webpage": "https://bitus.com/latvia-lv/koka-majas/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 949,
+    "brand": "Bitus Latvia",
+    "webpage": "https://bitus.com/latvia-lv/koka-majas/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 941,
+    "brand": "Husvik",
+    "webpage": "https://husvikhus.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 953,
+    "brand": "Husvik",
+    "webpage": "https://husvikhus.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 942,
+    "brand": "VIA-S houses",
+    "webpage": "https://en.via-s.lv/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 954,
+    "brand": "VIA-S houses",
+    "webpage": "https://en.via-s.lv/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 944,
+    "brand": "Jēkabpils PMK",
+    "webpage": "https://jpmk.lv/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 957,
+    "brand": "Jēkabpils PMK",
+    "webpage": "https://jpmk.lv/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 947,
+    "brand": "SVM BALTIC",
+    "webpage": "http://www.svmbaltic.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 958,
+    "brand": "MB SVM BALTIC",
+    "webpage": "http://www.svmbaltic.com",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 950,
+    "brand": "Ecodomus",
+    "webpage": "http://ecodomus.lt/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 960,
+    "brand": "Ecodomus",
+    "webpage": "http://ecodomus.lt/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 951,
+    "brand": "Kriautė",
+    "webpage": "http://www.kriaute.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 962,
+    "brand": "Kriautė",
+    "webpage": "http://www.kriaute.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 952,
+    "brand": "LHM Grupė",
+    "webpage": "http://www.lhm.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 965,
+    "brand": "LHM Grupė",
+    "webpage": "http://www.lhm.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 955,
+    "brand": "Skado Medis",
+    "webpage": "http://skadomedis.lt/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 967,
+    "brand": "Skado medis",
+    "webpage": "http://skadomedis.lt/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 956,
+    "brand": "Timber Design",
+    "webpage": "http://www.timberdesign.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 969,
+    "brand": "Timber Design",
+    "webpage": "http://www.timberdesign.lt",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 959,
+    "brand": "011h",
+    "webpage": "http://www.011h.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 971,
+    "brand": "011h",
+    "webpage": "http://www.011h.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 961,
+    "brand": "alterMATERIA",
+    "webpage": "https://altermateria.com/empresa/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 972,
+    "brand": "AlterMateria",
+    "webpage": "https://altermateria.com/empresa/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 963,
+    "brand": "Egoin Wood Group",
+    "webpage": "http://www.egoin.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 976,
+    "brand": "Egoin Wood Group",
+    "webpage": "http://www.egoin.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 964,
+    "brand": "LignumTech",
+    "webpage": "https://lignumtech.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 977,
+    "brand": "LignumTech",
+    "webpage": "https://lignumtech.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 966,
+    "brand": "Madera y Construcción",
+    "webpage": "https://www.maderayconstruccion.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 978,
+    "brand": "Madera y Construcción",
+    "webpage": "https://www.maderayconstruccion.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 968,
+    "brand": "Madergia",
+    "webpage": "http://www.madergia.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 979,
+    "brand": "Madergia",
+    "webpage": "http://www.madergia.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 970,
+    "brand": "Nemetona",
+    "webpage": "https://nemetona.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 980,
+    "brand": "Nemetona",
+    "webpage": "https://nemetona.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 973,
+    "brand": "Woodea",
+    "webpage": "http://www.woodea.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 981,
+    "brand": "Woodea",
+    "webpage": "http://www.woodea.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 974,
+    "brand": "Xilonor",
+    "webpage": "https://xilonor.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 982,
+    "brand": "Xilonor",
+    "webpage": "https://xilonor.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 984,
+    "brand": "Xilonor",
+    "webpage": "https://xilonor.es/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 975,
+    "brand": "ZUBI Cities",
+    "webpage": "https://www.zubicities.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 985,
+    "brand": "ZUBI Cities",
+    "webpage": "https://www.zubicities.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 983,
+    "brand": "Velima",
+    "webpage": "https://www.velimasystem.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 986,
+    "brand": "Advanced Precast Company",
+    "webpage": "http://advancedprecastcompany.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 987,
+    "brand": "APS Precast",
+    "webpage": "https://www.apsprecast.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 988,
+    "brand": "Atlanta Structural Concrete",
+    "webpage": "http://www.atlanta-structural.net/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 989,
+    "brand": "ATMI Precast",
+    "webpage": "https://www.atmiprecast.com/atmi-indy",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 990,
+    "brand": "AVAN Precast",
+    "webpage": "https://avanpc.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 991,
+    "brand": "Bethlehem Construction",
+    "webpage": "https://www.bethlehemconstruction.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 992,
+    "brand": "Blakeslee Prestress",
+    "webpage": "http://www.blakesleeprestress.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 993,
+    "brand": "BPDL",
+    "webpage": "http://bpdl.com/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 994,
+    "brand": "Holzbau Goetzinger",
+    "webpage": "https://www.holzbau-goetzinger.lu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 995,
+    "brand": "Luxhome Concept",
+    "webpage": "https://www.luxhomeconcept.lu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 996,
+    "brand": "Luxpanel",
+    "webpage": "https://luxpanel.lu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 997,
+    "brand": "Keller Holzbau",
+    "webpage": "https://www.kellerholzbau.lu",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 998,
+    "brand": "ДСK Астана",
+    "webpage": "https://dsk-astana.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 999,
+    "brand": "Qazpanel",
+    "webpage": "https://qazpanel.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1000,
+    "brand": "СтройДом KZ",
+    "webpage": "https://stroydomkz.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1001,
+    "brand": "KazPanel",
+    "webpage": "https://kazpanel.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1002,
+    "brand": "SIP Panel Kazakhstan",
+    "webpage": "https://sippanel.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1003,
+    "brand": "DOMSIP",
+    "webpage": "https://domsip.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1004,
+    "brand": "KazSIP",
+    "webpage": "https://kazsip.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1005,
+    "brand": "SIP Astana",
+    "webpage": "https://sipastana.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1006,
+    "brand": "Технодом",
+    "webpage": "https://tehnodom.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1007,
+    "brand": "Arman Panel",
+    "webpage": "https://armanpanel.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1008,
+    "brand": "Profpanel",
+    "webpage": "https://profpanel.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1009,
+    "brand": "SIP Panelli",
+    "webpage": "https://sip-panelli.kz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1010,
+    "brand": "UZ Sandwich Panel",
+    "webpage": "https://uzsandwichpanel.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1011,
+    "brand": "KARKAS.UZ",
+    "webpage": "https://karkas.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1012,
+    "brand": "Panel House",
+    "webpage": "https://panelhouse.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1013,
+    "brand": "UzSandwich",
+    "webpage": "https://uzsandwich.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1014,
+    "brand": "SIP House",
+    "webpage": "https://siphouse.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1015,
+    "brand": "Ecopan Uzbekistan",
+    "webpage": "https://ecopan.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1016,
+    "brand": "Tashkent Sandwich Panel",
+    "webpage": "https://tashkentsandwichpanel.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1017,
+    "brand": "SIP Panel Uzbekistan",
+    "webpage": "https://sippanel.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1018,
+    "brand": "Moduluz",
+    "webpage": "https://moduluz.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1019,
+    "brand": "UzModul",
+    "webpage": "https://uzmodul.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1020,
+    "brand": "PanelDom",
+    "webpage": "https://paneldom.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1021,
+    "brand": "Sahro Panel",
+    "webpage": "https://sahropanel.uz/",
+    "reason": "URL not accessible or invalid"
+  },
+  {
+    "id": 1022,
+    "brand": "UzPanel",
+    "webpage": "https://uzpanel.uz/",
+    "reason": "URL not accessible or invalid"
+  }
+]

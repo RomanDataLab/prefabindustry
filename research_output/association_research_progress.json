@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-02-01 14:18:09",
+  "stats": {
+    "associations_processed": 20,
+    "company_urls_found": 117,
+    "companies_relevant": 77,
+    "companies_existing": 40,
+    "companies_new": 11,
+    "companies_saved": 11,
+    "geocoded": 5,
+    "start_time": "2026-02-01 14:04:15",
+    "errors": [],
+    "current_association_index": 20,
+    "total_associations": 20,
+    "current_company_index": 18,
+    "total_companies_in_association": 18,
+    "end_time": "2026-02-01 14:18:09",
+    "status": "completed"
+  },
+  "status": "running"
+}

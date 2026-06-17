@@ -1,0 +1,16 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,KazBuild Modular,KazBuild Modular LLP,"123 Almaty Street, Almaty, 050000, Kazakhstan",Kazakhstan,KAZ,Kazakhstan,https://www.kazbuildmodular.kz,,15,45.0,250.0,steel,15000000.0,200000.0
+2,Astana Prefab Homes,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+3,Almaty Modular Construction,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+4,ModulStroy Kazakhstan,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+5,Kazakhstan Prefab Solutions,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+6,Sbornye Doma KZ,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+7,EcoModul Homes,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+8,Zavodskie Doma Almaty,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+9,StroyPanel Kazakhstan,StroyPanel Kazakhstan LLP,"123 Example Street, Almaty, 050000, Kazakhstan",Kazakhstan,KAZ,Kazakhstan,https://stroypanel.kz,,5,50.0,200.0,concrete,15000000.0,300000.0
+10,Kazakhstan Kit Homes,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+11,Modular Systems KZ,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+12,Prefabricated Constructions Astana,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+13,KazPrefab Industries,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+14,Modular Build KZ,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,
+15,KZ Factory-Built Homes,,,Kazakhstan,KAZ,Kazakhstan,,,,,,,,

@@ -1,0 +1,134 @@
+id,brand,country,webpage
+16,Construtora Casas Paraná,Brazil,https://www.casaparana.com.br
+21,Casas Brasil,Brazil,https://www.casasbrasil.com.br
+27,Ecoplan Engenharia,Brazil,https://www.ecoplanengenharia.com.br
+31,Casas Pormade,Brazil,https://www.pormade.com.br
+43,Precon Engenharia,Brazil,https://www.precon.com.br/
+44,Pormade Casa Pronta,Brazil,https://www.pormade.com.br
+54,Winalta,Canada,https://www.winalta.com
+62,Rocky Mountain Modular,Canada,https://www.rockymountainmodular.com
+64,Summit Modular Construction,Canada,https://www.summitmodular.com
+70,Urban Timber,Canada,https://www.urbantimber.ca
+74,Prairie Cedar Homes,Canada,https://prairiecedarhomes.com
+75,Miro Construction,Canada,https://www.miroconstruction.com
+87,EcoNest Homes,Canada,https://www.econesthomes.com
+91,Greenstone Building Products,Canada,https://www.greenstoneproductsonline.com/
+92,Blackfish Homes,Canada,https://www.blackfishhomes.ca
+97,Kemp Construction Management Ltd.,Canada,https://kempconstruction.ca
+100,Timberland Homes,Canada,https://www.timberlandhomes.ca
+106,Pioneer Log Homes of British Columbia,Canada,https://www.pioneerloghomesofbc.com
+110,Zebra Group,Canada,https://www.zebragroup.ca/
+111,Viceroy Homes,Canada,https://www.viceroy.com
+115,Merrick Architecture,Canada,https://www.merrickarch.com
+117,Shell Systems,Canada,https://www.shellsystems.com
+122,Alair Homes,Canada,https://www.alairhomes.ca
+126,Coastal Custom Homes,Canada,https://www.coastalcustomhomes.ca
+132,Westform Metals Inc.,Canada,https://www.westform.com/
+133,Formwerks Boutique Properties,Canada,https://www.formwerksboutique.ca/
+134,Horizon Pacific Contracting,Canada,https://www.horizoncontracting.ca
+137,Averra Developments,Canada,https://www.averra.ca
+142,TruNorth Homes,Canada,https://www.trunorthhomes.com
+144,Kamloops Home Hardware Building Centre,Canada,https://www.homehardware.ca/store/18349
+145,Warkentin Custom Homes,Canada,https://warkentinhomes.com
+148,Giesbrecht Buildings,Canada,https://giesbrechtbuildings.ca
+151,Nelson River Construction,Canada,https://www.nelsonriver.com
+160,Allsco Building Products,Canada,https://www.allsco.com
+182,Ritz Homes,Canada,https://www.ritzhomes.ca
+190,EcoLog Homes,Canada,https://www.ecologhomes.com
+199,Maisons Usinées du Québec,Canada,https://www.maisonsusinees.com
+218,Habitation Jutras,Canada,https://www.habitationjutras.com
+223,Maisons Usinées Pro-Concept,Canada,https://www.pro-concept.ca
+269,Habitation Desrosiers,Canada,https://habitationdesrosiers.com
+270,Maisons Charplexe,Canada,https://www.maisonscharplexe.com
+273,Les Habitations Jutras,Canada,https://www.habitationsjutras.com
+286,North Prairie Developments,Canada,https://www.northprairiehomes.com
+289,Superior Homes,Canada,https://superiorhomes.ca
+294,Crawford Homes,Canada,https://crawfordhomes.ca
+362,Künzli Holz AG,Switzerland,https://www.kuenzli.ch/
+364,Stalder Holzbau AG,Switzerland,https://www.stalder-holzbau.ch/
+365,Holzbau Schmid AG,Switzerland,https://www.holzbau-schmid.ch/
+385,Húsasmiðjan,Iceland,https://www.husa.is
+394,Koto,United Kingdom,https://www.koto.design
+398,MIMA Housing,Portugal,https://www.mimahousing.pt
+401,The Wee House Company,United Kingdom,https://theweehousecompany.co.uk
+402,Urban Splash,United Kingdom,https://www.urbansplash.co.uk
+420,Kaufman & Broad,France,https://www.kaufmanbroad.fr
+432,Cubicup,Spain,https://www.cubicup.es
+435,Mi Casa,Italy,https://www.micasa.com
+443,Dura Vermeer,Netherlands,https://www.duravermeer.nl
+445,Hodes Huisvesting,Netherlands,https://www.hodes.nl
+452,KleurrijkWonen,Netherlands,https://www.kleurrijkwonen.nl
+456,Danilith,Belgium,https://www.danilith.com
+461,Ark Shelter,Belgium,https://www.arkshelter.com
+473,Glorit,Austria,https://www.glorit.at
+478,Peab,Sweden,https://peab.se
+479,OBOS Sverige,Sweden,https://obos.se
+481,Derome,Sweden,https://www.derome.se/
+491,Bjerg Arkitektur,Denmark,https://www.bjerg.nu
+492,Scanwo,Denmark,https://www.scanwo.dk
+499,M2plus,Denmark,https://m2plus.dk
+510,Puustelli,Finland,https://www.puustelli.fi
+512,K-Rauta,Finland,https://www.k-rauta.fi
+525,Lipińscy Domy,Poland,https://lipinscy.pl
+534,Domesi,Czech Republic,http://www.domesi.cz
+548,Domical,Greece,https://www.domical.gr
+555,Kingspan Timber Solutions,United Kingdom,https://www.kingspantimbersolutions.co.uk/
+557,Ballytherm,Ireland,https://www.ballytherm.ie
+559,Eco Timber Frame,Ireland,https://www.ecotimberframe.ie
+570,Könnyűház,Hungary,https://www.konnyuhaz.hu
+579,Prodom,Slovakia,https://www.prodom.sk
+585,Promming,Croatia,https://www.promming.hr
+586,Kamgrad,Croatia,https://www.kamgrad.hr
+587,Tehnomont,Croatia,https://www.tehnomont.hr
+602,Xella,Germany,https://www.xella.com
+606,Doleta,Lithuania,https://www.doleta.lt
+615,Akso-Haus,Estonia,https://aksohaus.ee
+628,Contern Group,Luxembourg,https://www.contern.lu
+635,Al Sahel Contracting Company,United Arab Emirates,https://www.alsahelcon.com
+655,Elematic,Finland,https://www.elematic.com
+668,Emaar Industries & Investments,United Arab Emirates,https://www.eii.ae
+669,Al Futtaim Construction,United Arab Emirates,https://www.alfuttaim.com
+674,Emirates Beton,United Arab Emirates,https://www.emiratesbeton.com/
+675,Al Hamra Group,United Arab Emirates,https://www.alhamra.ae
+683,Al Shafar Steel Engineering LLC,United Arab Emirates,https://www.asse.ae
+703,フジ産業,Japan,http://www.fuji-sangyou.co.jp/index.php
+717,Sekisui House,Japan,http://www.sh-rc.co.jp/eng/
+723,セレ コーポレーション,Japan,http://www.cel-co.com/
+766,Woodbase,Czech Republic,https://woodbase.cz/
+796,Hemp Building Company,United States,https://www.hempbuildingco.com/
+810,Out of the Valley,United Kingdom,https://outofthevalley.co.uk/cabins/nomad-studio/
+816,Pod Space,United Kingdom,https://www.pod-space.co.uk/pods/lite-pod/
+828,Jular,Portugal,https://www.jular.pt/en/produtos/casas-pre-fabricadas/casas-modulares-treehouse-sw
+868,Okaply,Canada,http://okaply.com/
+876,PUMA Lajes Alveolares,Brazil,http://www.pumalajes.com.br
+900,HAUS,United Kingdom,https://haushomes.co.uk
+916,The Tiny Housing Co,United Kingdom,https://www.thetinyhousing.co
+921,Alpiger Holzbau AG,Switzerland,http://alpiger-holzbau.ch
+925,Holzbau Bucher AG,Switzerland,http://www.holzbau-bucher.ch
+926,Kaufmann Oberholzer,Switzerland,http://www.kaufmann-oberholzer.ch
+927,KIFA SYSTEMBAU,Switzerland,http://www.kifa.ch
+930,Kühni Holzbau,Switzerland,http://www.kuehni.ch
+956,Timber Design,Lithuania,http://www.timberdesign.lt
+975,ZUBI Cities,Indonesia,https://www.zubicities.com/
+987,APS Precast,Canada,https://www.apsprecast.com/
+990,AVAN Precast,United States,https://avanpc.com/
+991,Bethlehem Construction,United States,https://www.bethlehemconstruction.com/
+992,Blakeslee Prestress,United States,http://www.blakesleeprestress.com/
+995,Luxhome Concept,Luxembourg,https://www.luxhome.lu
+1026,ЭкоДом,Russia,https://ekodom.ru
+1034,ПСК Дома,Russia,https://pskdom.ru
+1039,Арт-Дом,Russia,https://art-dom.ru
+1040,ТехноНИКОЛЬ,Russia,https://www.tn.ru
+1053,Система Дом,Russia,https://sistema-dom.ru
+1058,Красноярский завод домостроений,Russia,https://kzd.ru
+1067,宝业集团 (Baoye Group),China,http://www.baoye.cc
+1094,Aathaworld,Malaysia,https://aathaworld.com
+1107,Brennerhaus,Italy,https://www.brennerhaus.com
+1110,Legno House Trentino,Italy,https://www.curzellegnohouse.it
+1123,Costruire Bio,Italy,https://www.costruirebio.it
+1127,Barra & Barra,Italy,https://barraebarra.com
+1156,Ami Bois,France,https://www.ami-bois.fr
+1162,Brily Maisons Eco,France,https://brily.fr
+1187,DANICA,Ukraine,https://danica.ua
+1197,SAVVATS,Ukraine,https://savvats.com.ua
+1212,ALMET,Ukraine,https://almet.com.ua

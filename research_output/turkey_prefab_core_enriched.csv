@@ -1,0 +1,216 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,Adana Prefab,,,Turkey,TUR,,,,,,,,,
+2,Çukurova Modular,,,Turkey,TUR,,,,,,,,,
+3,Adana Yapı,,,Turkey,TUR,,,,,,,,,
+4,Prefabrik Ev Adana,,,Turkey,TUR,,,,,,,,,
+5,Modular Homes Adana,,,Turkey,TUR,,,,,,,,,
+6,Adana Prefabrik,,,Turkey,TUR,,,,,,,,,
+7,Çukurova Prefab,,,Turkey,TUR,,,,,,,,,
+8,Adana Modular,,,Turkey,TUR,,,,,,,,,
+9,Prefabrik Adana,,,Turkey,TUR,,,,,,,,,
+10,Adana Panelized Homes,,,Turkey,TUR,,,,,,,,,
+11,Factory-Built Homes Adana,,,Turkey,TUR,,,,,,,,,
+12,Adana Kit Homes,,,Turkey,TUR,,,,,,,,,
+13,Adana Manufactured Homes,,,Turkey,TUR,,,,,,,,,
+14,Adana Construction,,,Turkey,TUR,,,,,,,,,
+15,Adana Factory Homes,,,Turkey,TUR,,,,,,,,,
+16,Dora Prefabrik,Dora Prefabrik Yapı İnşaat Sanayi ve Ticaret Limited Şirketi,"İvedik OSB Mah. 1443. Cad. No:21 Yenimahalle, Ankara, Turkey",Turkey,TUR,Ankara,,,15.0,30.0,150.0,steel,50000.0,1500.0
+17,Karmod Prefabrik,Karmod Prefabrik Yapı Teknolojileri A.Ş.,"Fatih Sultan Mehmet Bulvarı, No: 64, Sincan, Ankara, 06930, Turkey",Turkey,TUR,Ankara,https://www.karmod.com,,25.0,21.0,149.0,steel,45000.0,2000.0
+18,Hekim Holding,Hekim Holding A.Ş.,"Hacı Sabancı Organize Sanayi Bölgesi, Öztaş Caddesi No:1, Saray, Kazan, Ankara, 06980, Turkey",Turkey,TUR,Ankara,https://www.hekimholding.com,,15.0,45.0,200.0,steel,150000.0,3000.0
+19,Vefa Prefabrik,Vefa Prefabrik Yapı Sanayi Ticaret A.Ş.,"Başkent Organize Sanayi Bölgesi, 19. Cadde, No: 33, Malıköy Sincan, Ankara, 06909, Turkey",Turkey,TUR,Ankara,https://www.vefa.com.tr,,,,,steel,,
+20,Prefabrik Yapı İnşaat,,,Turkey,TUR,,,,,,,,,
+21,Özge Yapı,,,Turkey,TUR,,https://www.ozgeyapi.com.tr,,,,,,,
+22,Daf Prefabrik,Daf Prefabrik Yapı Sanayi ve Ticaret Limited Şirketi,"Bağlıca Mahallesi, Fatih Sultan Mehmet Bulvarı No:170, Etimesgut, Ankara, 06790, Turkey",Turkey,TUR,Ankara,,,12.0,50.0,200.0,steel,150000.0,3000.0
+23,Bungalov Evim,,,Turkey,TUR,,,,,,,,,
+24,Hekim Yapı,Hekim Yapı A.Ş.,"Hacettepe Mahallesi, 06230 Altındağ, Ankara, Turkey",Turkey,TUR,Ankara,https://www.hekimyapi.com,,,,,composite,,
+25,Ekoyapı Prefabrik,,,Turkey,TUR,,,,,,,,,
+26,Ak Prefabrik,,,Turkey,TUR,,,,,,,,,
+27,Aysan Prefabrik,Aysan Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"Ostim Mahallesi, 100. Yıl Bulvarı, No:55, Yenimahalle, Ankara, Turkey",Turkey,TUR,Ankara,,,15.0,40.0,200.0,steel,75000.0,2500.0
+28,Üçay Mühendislik,Üçay Mühendislik ve Taahhüt A.Ş.,"Kızılırmak Mah. 1443. Cad. No: 17, Çukurambar, Çankaya, Ankara, Turkey",Turkey,TUR,Ankara,https://www.ucay.com.tr,,,,,,,
+29,Güven Prefabrik,,,Turkey,TUR,,,,,,,,,
+30,Eko Prefabrik,Eko Prefabrik Yapı İnşaat Sanayi ve Ticaret A.Ş.,"İvedik Organize Sanayi Bölgesi, 1474. Sokak No:139, Yenimahalle, Ankara, Turkey",Turkey,TUR,Ankara,,,12.0,30.0,150.0,steel,75000.0,1500.0
+31,Akdemir Prefabrik,,,Turkey,TUR,,,,,,,,,
+32,Ekol Prefabrik,Ekol Prefabrik Yapı Sistemleri Sanayi ve Ticaret Limited Şirketi,"Organize Sanayi Bölgesi, 1. Kısım, 3. Cadde, No: 22, Döşemealtı, Antalya, Turkey",Turkey,TUR,Antalya,,,10.0,50.0,200.0,steel,150000.0,3000.0
+33,Prefabrikyapı,Prefabrikyapı İnşaat Taahhüt Sanayi ve Ticaret A.Ş.,"Akdeniz Sanayi Sitesi, 5006. Sokak No:34, Kepez, Antalya, 07070, Turkey",Turkey,TUR,Antalya,,,15.0,45.0,200.0,steel,120000.0,2500.0
+34,Ant Prefabrik,,,Turkey,TUR,,,,,,,,,
+35,Kent Prefabrik,,,Turkey,TUR,,https://www.kentprefabrik.com,,,,,,,
+36,Seçkin Prefabrik,,,Turkey,TUR,,,,,,,,,
+37,Güven Prefabrik,,,Turkey,TUR,,https://guvenprefabrik.com,,,,,,,
+38,Ak Prefabrik,Ak Prefabrik İnşaat Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi 2. Kısım, Antalya, Turkey",Turkey,TUR,Antalya,,,15.0,45.0,150.0,steel,75000.0,1000.0
+39,Mega Prefabrik,,,Turkey,TUR,,,,,,,,,
+40,Beylik Prefabrik,,,Turkey,TUR,,,,,,,,,
+41,Karmod Prefabricated Technologies,Karmod Prefabrik Yapı Teknolojileri Sanayi ve Ticaret A.Ş.,"Osmangazi, Kızılay Cd. No:41, 34887 Sancaktepe, Istanbul, Turkey",Turkey,TUR,Istanbul,https://www.karmod.com,,25.0,21.0,149.0,steel,50000.0,3000.0
+42,Vefa,Vefa Prefabrik Yapı Elemanları Sanayi Ticaret A.Ş.,"Güzelyurt Mahallesi, Beylikdüzü OSB, 4. Cadde No:1, Esenyurt, İstanbul, Turkey",Turkey,TUR,,https://www.vefa.com.tr,,,,,steel,,
+43,Dorce Prefabricated Building & Construction,Dorce Prefabricated Building & Construction Industry Trade Co. Inc.,"Ticaret Merkezi, No: 2-4-6, K:16 Beylikduzu, Istanbul, Turkey",Turkey,TUR,Istanbul,https://www.dorce.com.tr,,,,,steel,,
+44,Özge Yapı,Özge Yapı Sanayi ve Ticaret Anonim Şirketi,"Turgut Özal Bulvarı, No: 59, Esenyurt, Istanbul, 34522, Turkey",Turkey,TUR,Istanbul,https://www.ozgeyapi.com,,20.0,40.0,200.0,steel,150000.0,3000.0
+45,Ak Prefabrik,Ak Prefabrik İnşaat Sanayi ve Ticaret Limited Şirketi,"Davutpaşa Mahallesi, Cebealibey Caddesi, No:20/1, 34010, Esenler, Istanbul, Turkey",Turkey,TUR,Istanbul,,,12.0,45.0,250.0,steel,120000.0,2000.0
+46,Ekokabin,Ekokabin Prefabrik Yapı Sanayi ve Ticaret A.Ş.,"No: 10, İMES Sanayi Sitesi, B Blok, Dudullu Organize Sanayi Bölgesi, Umraniye, Istanbul, Turkey",Turkey,TUR,Istanbul,,,8.0,20.0,150.0,steel,100000.0,2500.0
+47,Konteynerci Prefabricated Structures,,,Turkey,TUR,,,,,,,,,
+48,BAF Prefabrik,BAF Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.,"Atatürk Mahallesi, İkitelli Caddesi, No: 44, Başakşehir, Istanbul, 34490, Turkey",Turkey,TUR,Istanbul,,,15.0,50.0,200.0,steel,150000.0,2000.0
+49,Hepsikonteyner,,,Turkey,TUR,,,,,,,,,
+50,Prefabrik Yapı,Prefabrik Yapı İnşaat Sanayi ve Ticaret A.Ş.,"Hadımköy Mahallesi, Mustafa İnan Cd. No:3, Arnavutköy, Istanbul, 34555, Turkey",Turkey,TUR,Istanbul,https://www.prefabrikyapi.com,,15.0,30.0,200.0,steel,100000.0,2500.0
+51,Fibrobeton,Fibrobeton Yapı Elemanları Sanayi ve Ticaret A.Ş.,"Hadımköy Mahallesi, Mustafa İnan Caddesi No: 43, 34555 Arnavutköy, Istanbul, Turkey",Turkey,TUR,Istanbul,https://www.fibrobeton.com,,,,,concrete,,
+52,Prefabrike Evim,Prefabrike Evim İnşaat Sanayi ve Ticaret Ltd. Şti.,,Turkey,TUR,,,,,,,steel,,
+53,Porta Prefabrik,Porta Prefabrik Yapı Sanayi ve Ticaret Ltd. Şti.,"Halkalı Merkez Mahallesi, Basın Ekspres Yolu, No: 4, Küçükçekmece, Istanbul, Turkey",Turkey,TUR,Istanbul,,,15.0,30.0,150.0,steel,100000.0,2500.0
+54,Prefabrik Evim,,,Turkey,TUR,,,,,,,,,
+55,Ege Prefabrik,,,Turkey,TUR,,,,,,,,,
+56,Ekopanel,,,Turkey,TUR,,,,,,,,,
+57,Lider Prefabrik,Lider Prefabrik Yapı Sistemleri Sanayi ve Ticaret Limited Şirketi,"Dudullu Organize Sanayi Bölgesi, 3. Cadde, No:19, Ümraniye, Istanbul, 34776, Turkey",Turkey,TUR,Istanbul,https://www.liderprefabrik.com,,15.0,30.0,150.0,steel,75000.0,5000.0
+58,Eryap Prefabrik,Eryap Prefabrik A.Ş.,,Turkey,TUR,,,,,,,,,
+59,Yapı Prefabrik,Yapı Prefabrik Yapı Sanayi ve Ticaret A.Ş.,"Eski Edirne Asfaltı No: 10, Sultangazi, Istanbul, 34265, Turkey",Turkey,TUR,Istanbul,,,15.0,45.0,180.0,steel,150000.0,3500.0
+60,Delta Prefabrik,Delta Prefabrik Yapı Sanayi ve Ticaret A.Ş.,"Esenşehir Mahallesi, Baraj Yolu, No:10, Ümraniye, Istanbul, Turkey",Turkey,TUR,Istanbul,https://www.deltaprefabrik.com,,8.0,50.0,200.0,steel,150000.0,3000.0
+61,Karmod Prefabricated Technologies,Karmod Prefabrik Yapı Teknolojileri A.Ş.,"Anadolu Cad. No: 47, İzmir, Turkey",Turkey,TUR,İzmir,https://www.karmod.com,,15.0,42.0,149.0,steel,150000.0,2000.0
+62,Vefa Prefabricated Construction,Vefa Prefabrik Yapı A.Ş.,"İstanbul Deri Organize Sanayi Bölgesi 9. Yol D-1 Parsel 34957 Tuzla, İstanbul, Türkiye",Turkey,TUR,,https://www.vefa.com.tr,,,,,steel,,
+63,Alkon Steel and Prefabricated Homes,Alkon Çelik ve Prefabrik Evler Sanayi ve Ticaret Ltd. Şti.,,Turkey,TUR,,,,,,,steel,,
+64,BVS Prefabricated,BVS Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"1204 Sokak No:33, Işıkkent, Bornova, İzmir, 35070, Turkey",Turkey,TUR,İzmir,,,10.0,45.0,150.0,steel,120000.0,2500.0
+65,Ekşioğlu Prefabricated,,,Turkey,TUR,,,,,,,,,
+66,Özge Yapı Prefabricated,Özge Yapı Sanayi ve Ticaret A.Ş.,"Kemalpaşa Atatürk Organize Sanayi Bölgesi, 21. Sokak No:10, İzmir, Turkey",Turkey,TUR,İzmir,https://www.ozgeyapi.com,,15.0,40.0,200.0,steel,85000.0,2000.0
+67,Birikim Prefabricated,,,Turkey,TUR,,,,,,,,,
+68,DORCE Prefabricated Building & Construction,DORCE Prefabrik Yapı ve İnşaat,"Ankara Asfaltı 1. Km, Sarayköy, Kazan, Ankara, Türkiye",Turkey,TUR,Ankara,https://www.dorce.com.tr,,,,,steel,,
+69,Prefabrik Yapı,Prefabrik Yapı A.Ş.,"Atatürk Organize Sanayi Bölgesi 10044 Sokak No:23 Çiğli, İzmir, 35620, Turkey",Turkey,TUR,İzmir,https://www.prefabrikyapi.com,,15.0,45.0,250.0,steel,150000.0,3000.0
+70,Hekim Holding,Hekim Holding A.Ş.,"Kemalpaşa Organize Sanayi Bölgesi, Mahallesi Aydın Caddesi No:27, Kemalpaşa, İzmir, 35735, Turkey",Turkey,TUR,İzmir,https://www.hekimholding.com,,12.0,45.0,200.0,steel,200000.0,4500.0
+71,Karmod Prefabrik,Karmod Prefabrik Yapı Teknolojileri A.Ş.,"Ovaakça Çeşmebaşı Mahallesi, Sanayi Caddesi No:17, Osmangazi, Bursa, 16335, Turkey",Turkey,TUR,Bursa,https://www.karmod.com.tr,,25.0,42.0,149.0,steel,100000.0,2500.0
+72,Vefa Prefabrik,Vefa Prefabrike Yapılar Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 75. Yıl Bulvarı No:12, Nilüfer, Bursa, 16200, Turkey",Turkey,TUR,Bursa,https://www.vefa.com.tr,,15.0,45.0,200.0,steel,150000.0,2000.0
+73,Prefabrik Yapı İnşaat,,,Turkey,TUR,,,,,,,,,
+74,Hekim Holding,Hekim Holding A.Ş.,"OSB, 16. Cadde, No: 13, Nilüfer, Bursa, 16140, Turkey",Turkey,TUR,Bursa,,,,,,steel,,
+75,Dora Prefabrik,Dora Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi, 1. Cadde, No: 10, Nilüfer, Bursa, 16140, Turkey",Turkey,TUR,Bursa,,,15.0,45.0,200.0,steel,150000.0,2500.0
+76,Kent Prefabrik,Kent Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi, 2. Cadde, Nilüfer, Bursa, 16140, Turkey",Turkey,TUR,Bursa,,,15.0,40.0,200.0,steel,150000.0,2000.0
+77,Konfor Prefabrik,,,Turkey,TUR,,https://konforprefabrik.com,,,,,,,
+78,Aksu Prefabrik,Aksu Prefabrik Yapı İnşaat Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi, Bursa, Turkey",Turkey,TUR,Bursa,,,10.0,30.0,150.0,steel,100000.0,4000.0
+79,Tuna Prefabrik,Tuna Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi, 1. Cadde No: 5, Nilüfer, Bursa, Turkey",Turkey,TUR,Bursa,http://www.tunaprefabrik.com,,5.0,45.0,150.0,steel,150000.0,2500.0
+80,Bursa Prefabrik,,,Turkey,TUR,,,,,,,,,
+81,Özge Yapı,Özge Yapı Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 75. Yıl Bulvarı No:12, Nilüfer, Bursa, 16140, Turkey",Turkey,TUR,Bursa,https://www.ozgeyapi.com,,20.0,40.0,150.0,steel,150000.0,2000.0
+82,Prefabrik Evim,,,Turkey,TUR,,,,,,,,,
+83,Tekno Yapı Prefabrik,Tekno Yapı Prefabrik İnşaat Sanayi ve Ticaret Ltd. Şti.,"Otosansit Sanayi Sitesi, 20. Blok No: 10, Yıldırım, Bursa, 16270, Turkey",Turkey,TUR,Bursa,,,10.0,50.0,200.0,steel,100000.0,1500.0
+84,Çelik Prefabrik,,,Turkey,TUR,,,,,,,,,
+85,Yapı Prefabrik,,,Turkey,TUR,,,,,,,,,
+86,Gaziantep Prefabrik,,,Turkey,TUR,,,,,,,,,
+87,Öz Prefabrik Yapı,,,Turkey,TUR,,,,,,,,,
+88,Prefabrik Ev Gaziantep,,,Turkey,TUR,,,,,,,,,
+89,Kardelen Prefabrik,,,Turkey,TUR,,,,,,,,,
+90,Anadolu Prefabrik,Anadolu Prefabrik Yapı Sistemleri Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 4. Cadde No:2, Gaziantep, Turkey",Turkey,TUR,Gaziantep,http://www.anadoluprefabrik.com.tr/,,15.0,45.0,200.0,steel,150000.0,3000.0
+91,Şahin Prefabrik,,,Turkey,TUR,,,,,,,,,
+92,Demir Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+93,Güneş Prefabrik,,,Turkey,TUR,,,,,,,,,
+94,Ege Prefabrik Yapı,,,Turkey,TUR,,,,,,,,,
+95,Çelik Prefabrik,,,Turkey,TUR,,,,,,,,,
+96,Prefabrik Ev Mersin,,,Turkey,TUR,,,,,,,,,
+97,Mersin Prefabrik,,,Turkey,TUR,,,,,,,,,
+98,Mersin Modüler Yapı,,,Turkey,TUR,,,,,,,,,
+99,Akdeniz Prefabrik,,,Turkey,TUR,,,,,,,,,
+100,Yeniçağ Prefabrik,,,Turkey,TUR,,,,,,,,,
+101,Mersin Panel Ev,,,Turkey,TUR,,,,,,,,,
+102,Güney Prefabrik,,,Turkey,TUR,,,,,,,,,
+103,Toros Prefabrik,,,Turkey,TUR,,,,,,,,,
+104,Erdemli Prefabrik,,,Turkey,TUR,,,,,,,,,
+105,Mersin Çelik Yapı,,,Turkey,TUR,,,,,,,,,
+106,Yörük Prefabrik,,,Turkey,TUR,,,,,,,,,
+107,Bozkurt Prefabrik,Bozkurt Prefabrik Yapı Sanayi ve Ticaret Ltd. Şti.,"Sanayi Mahallesi, 1234. Sokak, No:56, Mersin, Turkey",Turkey,TUR,Mersin,,,15.0,45.0,150.0,steel,120000.0,2500.0
+108,Adanus Prefabrik,,,Turkey,TUR,,,,,,,,,
+109,Mediterranean Prefab,,,Turkey,TUR,,,,,,,,,
+110,Kilikya Prefabrik,,,Turkey,TUR,,,,,,,,,
+111,Prefabrik Evim,,,Turkey,TUR,,,,,,,,,
+112,Karmod Prefabrik,Karmod Prefabrik Yapı Teknolojileri Sanayi ve Ticaret A.Ş.,"Yeni Mahalle, 115. Sk. No:1, Başiskele, Kocaeli, 41140, Turkey",Turkey,TUR,Kocaeli,https://www.karmod.com,,25.0,21.0,149.0,steel,50000.0,2500.0
+113,Vefa Prefabrik,Vefa Prefabrik Yapı Sistemleri Sanayi ve Ticaret A.Ş.,"TOSB Otomotiv Yan Sanayi İhtisas Organize Sanayi Bölgesi 3. Cadde No:1/1, Şekerpınar, Çayırova, Kocaeli, Turkey",Turkey,TUR,Kocaeli,https://www.vefa.com.tr,,15.0,30.0,300.0,steel,150000.0,2500.0
+114,Ak Prefabrik,AK Prefabrik Yapı Sanayi ve Ticaret Ltd. Şti.,"Sanayi Mahallesi, 3010. Sokak No:2, Başiskele, Kocaeli, Turkey",Turkey,TUR,Kocaeli,,,15.0,40.0,200.0,steel,150000.0,3500.0
+115,Dora Prefabrik,Dora Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,,Turkey,TUR,,,,,,,steel,,
+116,Hekim Holding,Hekim Yapı Endüstri Sanayi ve Ticaret A.Ş.,"Şekerpınar Mahallesi, İstiklal Caddesi, No: 203, Çayırova, Kocaeli, 41420, Turkey",Turkey,TUR,Kocaeli,,,,,,steel,,
+117,Evim Prefabrik,,,Turkey,TUR,,,,,,,,,
+118,İzopref,,,Turkey,TUR,,,,,,,,,
+119,Tekno Prefabrik,Tekno Prefabrik Yapı Elemanları San. ve Tic. Ltd. Şti.,"Gebze Plastikçiler Organize Sanayi Bölgesi, 8. Cadde, No:20, Gebze, Kocaeli, 41400, Turkey",Turkey,TUR,Kocaeli,https://www.teknoprefabrik.com.tr,,15.0,30.0,150.0,steel,200000.0,1500.0
+120,Düzce Prefabrik,,,Turkey,TUR,,,,,,,,,
+121,Özge Yapı,Özge Yapı Sanayi ve Ticaret Anonim Şirketi,"Sanayi Mah. Özgürlük Cad. No:38, Başiskele, Kocaeli, Turkey",Turkey,TUR,Kocaeli,https://www.ozgeyapi.com,,20.0,40.0,200.0,steel,150000.0,3000.0
+122,Modul Yapı,,,Turkey,TUR,,,,,,,,,
+123,Prefabrik Yapı,Prefabrik Yapı İnşaat Sanayi ve Ticaret A.Ş.,"Başiskele Mahallesi, 1. Cadde, No: 3, Başiskele, Kocaeli, Turkey",Turkey,TUR,Kocaeli,https://www.prefabrikyapi.com,,15.0,40.0,200.0,steel,150000.0,2500.0
+124,Natura Prefabrik,,,Turkey,TUR,,,,,,,,,
+125,Başak Prefabrik,,,Turkey,TUR,,,,,,,,,
+126,Karmod Prefabricated Technologies,Karmod Prefabrik Yapı Teknolojileri A.Ş.,"Organize Sanayi Bölgesi, 8. Cadde, No: 34, Selçuklu, Konya, Turkey",Turkey,TUR,Konya,https://www.karmod.com,,25.0,30.0,150.0,steel,50000.0,1500.0
+127,Hekim Holding,Hekim Yapı Endüstrisi A.Ş.,"Organize Sanayi Bölgesi, Büyük Kayacık Mah. 5. Sokak No: 7, Konya, Turkey",Turkey,TUR,Konya,https://www.hekimholding.com,,,,,steel,,
+128,Vefa Prefabricated Construction,Vefa Prefabrike Yapılar Sanayi Ticaret Anonim Şirketi,"Organize Sanayi Bölgesi, 15. Sokak No: 8, Selçuklu, Konya, 42050, Turkey",Turkey,TUR,Konya,https://www.vefa.com.tr,,,,,steel,,
+129,Prefabrik Yapı,Prefabrik Yapı Sanayi ve Ticaret Anonim Şirketi,"Organize Sanayi Bölgesi, 1. Cadde No: 10, Selçuklu, Konya, Turkey",Turkey,TUR,Konya,https://www.prefabrikyapi.com,,15.0,45.0,250.0,steel,60000.0,2000.0
+130,Özge Yapı,Özge Yapı Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 7. Sokak No:12, Konya, Turkey",Turkey,TUR,Konya,https://www.ozgeyapi.com,,25.0,40.0,200.0,steel,150000.0,3750.0
+131,Dorce Prefabricated Building & Construction,Dorce Prefabrik Yapı ve İnşaat Sanayi Ticaret A.Ş.,"Organize Sanayi Bölgesi, 12. Sokak No: 4, Selçuklu, Konya, 42050, Turkey",Turkey,TUR,Konya,https://www.dorce.com.tr,,10.0,50.0,200.0,steel,150000.0,3000.0
+132,Ak Prefabrik,Ak Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"Fevzi Çakmak Mahallesi, 10577. Sk. No:4, Karatay, Konya, 42050, Turkey",Turkey,TUR,Konya,,,8.0,45.0,150.0,steel,150000.0,2500.0
+133,Kontek Prefabrik,,,Turkey,TUR,,,,,,,,,
+134,Ege Prefabrik,,,Turkey,TUR,,,,,,,,,
+135,Polpref Prefabricated,Polpref Prefabrik İnşaat Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi, 15. Cadde No:3, Konya, Turkey",Turkey,TUR,Konya,,,5.0,45.0,180.0,steel,150000.0,3000.0
+136,Ugurel Prefabrik,,,Turkey,TUR,,,,,,,,,
+137,Fabrika Prefabrik,,,Turkey,TUR,,,,,,,,,
+138,As Prefabrik,As Prefabrik Yapı İnşaat Sanayi ve Ticaret Ltd. Şti.,"Beyşehir Yolu 15. Km, Meram, Konya, Turkey",Turkey,TUR,Konya,,,15.0,45.0,220.0,steel,150000.0,2000.0
+139,Eksen Prefabrik,Eksen Prefabrik Yapı Sistemleri Sanayi ve Ticaret Ltd. Şti.,"Büyükkayacık OSB Mah. 46. Sok. No:7 Selçuklu, Konya, 42000, Turkey",Turkey,TUR,Konya,,,15.0,45.0,250.0,steel,75000.0,3000.0
+140,Beton Prefabrik,Beton Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 10132. Sokak No:10, Selçuklu, Konya, 42250, Turkey",Turkey,TUR,Konya,,,5.0,50.0,200.0,concrete,150000.0,3000.0
+141,Prefabrik Yapı,Prefabrik Yapı İnşaat Sanayi ve Ticaret A.Ş.,"Adapazarı Karasu Yolu No: 14, Erenler, Sakarya, 54100, Turkey",Turkey,TUR,Sakarya,https://www.prefabrikyapi.com,,12.0,40.0,250.0,steel,75000.0,3000.0
+142,Vefa Prefabrik,Vefa Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.,"Vefa Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş., Yeni Mahalle, 3215. Sokak No: 13, Arifiye, Sakarya, Turkey",Turkey,TUR,Sakarya,https://www.vefa.com.tr,,20.0,30.0,250.0,steel,100000.0,2500.0
+143,Karmod Prefabrik,Karmod Prefabrik Yapı Teknolojileri A.Ş.,"Karmod Prefabrik, Arifiye Mahallesi, Sakarya Caddesi No: 24, Arifiye, Sakarya, Turkey",Turkey,TUR,Sakarya,https://www.karmod.com,,30.0,21.0,149.0,steel,50000.0,3000.0
+144,Ak Prefabrik,Ak Prefabrik Yapı İnşaat Sanayi ve Ticaret Ltd. Şti.,"Dörtyol Sanayi Sitesi 401 Nolu Cadde No: 5, Adapazarı, Sakarya, Turkey",Turkey,TUR,Sakarya,,,10.0,45.0,150.0,steel,150000.0,2000.0
+145,Hekim Holding,Hekim Yapı Endüstrisi Sanayi ve Ticaret A.Ş.,"Hekim Yapı A.Ş., Sakarya 2. Organize Sanayi Bölgesi, 2. Yol, No: 8, Hendek, Sakarya, Turkey",Turkey,TUR,Sakarya,https://www.hekimholding.eu/,,,,,steel,,
+146,Özge Yapı,Özge Yapı A.Ş.,"Arifiye, 1. Organize Sanayi Bölgesi 5. Cadde No:6, Sakarya, Turkey",Turkey,TUR,Sakarya,https://www.ozgeyapi.com,,15.0,35.0,200.0,steel,150000.0,2500.0
+147,Eryap Prefabrik,,,Turkey,TUR,,,,,,,,,
+148,Polpref Prefabrik,,,Turkey,TUR,,,,,,,,,
+149,Teknopanel,Teknopanel Çatı ve Cephe Panelleri Sanayi ve Ticaret A.Ş.,"Adapazarı-Karasu Yolu Üzeri, Çaybaşı Köyü Mevkii, No:255, Adapazarı, Sakarya, 54100, Turkey",Turkey,TUR,Sakarya,https://www.teknopanel.com.tr,,,,,steel,,
+150,Dora Prefabrik,,,Turkey,TUR,,,,,,,,,
+151,Armada Prefabrik,Armada Prefabrik Yapı Sistemleri Sanayi ve Ticaret Limited Şirketi,"Organize Sanayi Bölgesi, Adapazarı, Sakarya, Turkey",Turkey,TUR,Sakarya,,,12.0,40.0,200.0,steel,120000.0,1500.0
+152,Delta Prefabrik,Delta Prefabrik Yapı Sanayi ve Ticaret Ltd. Şti.,"Karaçay Mahallesi, 151. Sokak No:2, Adapazarı, Sakarya, 54100, Turkey",Turkey,TUR,Sakarya,https://www.deltaprefabrik.com,,12.0,40.0,200.0,steel,90000.0,2500.0
+153,Bertan Prefabrik,,,Turkey,TUR,,,,,,,,,
+154,Alfa Prefabrik,Alfa Prefabrik İnşaat Sanayi ve Ticaret Ltd. Şti.,"Dörtyol Sanayi Sitesi No:12, Sakarya, Turkey",Turkey,TUR,Sakarya,https://www.alfaprefabrik.com,,8.0,45.0,150.0,steel,120000.0,2500.0
+155,Nokta Prefabrik,,,Turkey,TUR,,,,,,,,,
+156,Karmod Prefabrik,Karmod Prefabrik Yapı Teknolojileri Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 11. Cadde No: 3, Eskişehir, Turkey",Turkey,TUR,Eskişehir,https://www.karmod.com,,20.0,21.0,149.0,steel,50000.0,2500.0
+157,Vefa Prefabrik,Vefa Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.,,Turkey,TUR,,https://www.vefa.com.tr,,,,,steel,,
+158,Ak Prefabrik,,,Turkey,TUR,,,,,,,,,
+159,Prefabrik Evim,,,Turkey,TUR,,,,,,,,,
+160,Özge Yapı,Özge Yapı A.Ş.,"Organize Sanayi Bölgesi, 16. Cadde, No: 9, Eskişehir, Turkey",Turkey,TUR,Eskişehir,https://www.ozgeyapi.com,,25.0,45.0,300.0,steel,150000.0,2000.0
+161,Dost Prefabrik,Dost Prefabrik Yapı Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 17. Cadde No:12, Eskişehir, Turkey",Turkey,TUR,Eskişehir,,,10.0,40.0,200.0,steel,100000.0,2500.0
+162,Hekim Yapı,Hekim Yapı Endüstrisi Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi, 9. Cadde, No:10, Eskişehir, Turkey",Turkey,TUR,Eskişehir,,,,,,steel,,
+163,Tuna Prefabrik,Tuna Prefabrik Yapı Sistemleri Sanayi ve Ticaret Limited Şirketi,"Organize Sanayi Bölgesi 15. Cadde No:12, Eskişehir, Eskişehir, 26110, Turkey",Turkey,TUR,Eskişehir,https://www.tunaprefabrik.com,,5.0,45.0,150.0,steel,100000.0,2000.0
+164,Yapı Merkezi Prefabrikasyon,,,Turkey,TUR,,,,,,,,,
+165,Konteyner Ev,,,Turkey,TUR,,,,,,,,,
+166,Prefabrik Evim,,,Turkey,TUR,,,,,,,,,
+167,Muğla Prefabrik,,,Turkey,TUR,,,,,,,,,
+168,Ege Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+169,Bodrum Prefabrik,,,Turkey,TUR,,https://www.bodrumprefabrik.com.tr,,,,,,,
+170,Fethiye Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+171,Yatağan Prefabrik,,,Turkey,TUR,,,,,,,,,
+172,Marmaris Prefabrik,,,Turkey,TUR,,,,,,,,,
+173,Milas Prefabrik Konut,,,Turkey,TUR,,,,,,,,,
+174,Datça Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+175,Ula Prefabrik,,,Turkey,TUR,,,,,,,,,
+176,Tekirdağ Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+177,Prefabrik Yapı Tekirdağ,,,Turkey,TUR,,,,,,,,,
+178,Modüler Ev Sistemleri,,,Turkey,TUR,,,,,,,,,
+179,Hızlı Prefabrik Çözümler,,,Turkey,TUR,,,,,,,,,
+180,Tekirdağ Modüler Konut,,,Turkey,TUR,,,,,,,,,
+181,Prefabrik Ev İmalatı Tekirdağ,,,Turkey,TUR,,,,,,,,,
+182,Panel Ev Sistemleri,,,Turkey,TUR,,,,,,,,,
+183,Çelik Ev Modelleri,,,Turkey,TUR,,,,,,,,,
+184,Prefabrik Yapı Çözümleri,,,Turkey,TUR,,,,,,,,,
+185,Tekirdağ Hazır Konut,,,Turkey,TUR,,,,,,,,,
+186,Modüler Yapı Teknolojileri,,,Turkey,TUR,,,,,,,,,
+187,Prefabrik Ev Sistemleri,,,Turkey,TUR,,,,,,,,,
+188,Tekirdağ Panel Ev,,,Turkey,TUR,,,,,,,,,
+189,Prefabrik Konut Üretimi,,,Turkey,TUR,,,,,,,,,
+190,Hızlı Yapı Çözümleri,,,Turkey,TUR,,,,,,,,,
+191,Kahramanmaraş Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+192,Kahraman Prefabrik,Kahraman Prefabrik İmalat Sanayi ve Ticaret Ltd. Şti.,,Turkey,TUR,,,,,,,,,
+193,Maraş Modular Yapı,,,Turkey,TUR,,,,,,,,,
+194,Akdeniz Prefabrik,,,Turkey,TUR,,,,,,,,,
+195,Anadolu Prefabrik Evleri,,,Turkey,TUR,,,,,,,,,
+196,Kahraman Yapı Sistemleri,,,Turkey,TUR,,,,,,,,,
+197,Çelik Prefabrik,,,Turkey,TUR,,,,,,,,,
+198,Öz Prefabrik Ev,,,Turkey,TUR,,,,,,,,,
+199,Kervan Prefabrik,,,Turkey,TUR,,,,,,,,,
+200,Maraş İnşaat ve Prefabrik,,,Turkey,TUR,,,,,,,,,
+201,Yurt Prefabrik,Yurt Prefabrik Yapı Sistemleri Sanayi ve Ticaret A.Ş.,"Organize Sanayi Bölgesi 3. Cadde No: 12, Kahramanmaraş, Turkey",Turkey,TUR,,,,15.0,50.0,200.0,steel,100000.0,2000.0
+202,Elif Prefabrik,Elif Prefabrik Yapı İnşaat Sanayi ve Ticaret Ltd. Şti.,"Organize Sanayi Bölgesi 5. Cadde No:6, Kahramanmaraş, Turkey",Turkey,TUR,,,,12.0,40.0,150.0,steel,75000.0,1875.0
+203,Doğuş Prefabrik,,,Turkey,TUR,,,,,,,,,
+204,Beyaz İnşaat Prefabrik,,,Turkey,TUR,,,,,,,,,
+205,Güneydoğu Prefabrik,,,Turkey,TUR,,,,,,,,,
+206,Karmod Prefabrik,Karmod Prefabrik Yapı Teknolojileri Sanayi ve Ticaret A.Ş.,"D-100 Karayolu Üzeri, Karsap Mahallesi, Düzce, 81030, Turkey",Turkey,TUR,,https://www.karmod.com,,20.0,21.0,149.0,steel,50000.0,2000.0
+207,Alp Prefabrik,Alp Prefabrik Yapı Sistemleri Sanayi ve Ticaret Limited Şirketi,"Organize Sanayi Bölgesi, 5. Cadde No: 12, Düzce, Turkey",Turkey,TUR,,,,15.0,45.0,250.0,steel,100000.0,2000.0
+208,Ak Metal Prefabrik,Ak Metal Prefabrik Yapı Sanayi ve Ticaret Ltd. Şti.,"Öztürkler Mahallesi, 80600 Düzce Merkez/Düzce, Turkey",Turkey,TUR,,,,,,,steel,,
+209,Aksan Prefabrik,Aksan Prefabrik Yapı Sanayi ve Ticaret A.Ş.,"Osb Mahallesi, 1. Cadde, No:12, Düzce, Düzce, 81620, Turkey",Turkey,TUR,,https://www.aksanprefabrik.com.tr,,15.0,30.0,150.0,steel,50000.0,2500.0
+210,Güven Prefabrik,Güven Prefabrik Yapı Sistemleri,"D-100 Karayolu Üzeri, Düzce Merkez, Düzce, Turkey",Turkey,TUR,,https://www.guvenprefabrik.com,,,,,steel,,
+211,Prefabrik Yapı,Prefabrik Yapı İnşaat Sanayi ve Ticaret Anonim Şirketi,"Osmaniye Mahallesi, Üçkuyular Caddesi, No: 4, Düzce, Turkey",Turkey,TUR,,https://www.prefabrikyapi.com,,15.0,30.0,150.0,steel,100000.0,2500.0
+212,İzopoli Prefabrik,İzopoli Yapı Sanayi ve Ticaret A.Ş.,"Aydınpınar Mah. 125. Sk. No:7, Düzce, Turkey",Turkey,TUR,,https://www.izopoli.com.tr,,5.0,50.0,200.0,steel,150000.0,2000.0
+213,Özge Yapı,Özge Yapı Sanayi ve Ticaret A.Ş.,"Özge Yapı Sanayi ve Ticaret A.Ş., Gümüşova Organize Sanayi Bölgesi, 3. Cadde No:3, Gümüşova, Düzce, Turkey",Turkey,TUR,,https://www.ozgeyapi.com,,15.0,35.0,150.0,steel,100000.0,3000.0
+214,Düzce Prefabrik,,,Turkey,TUR,,,,,,,,,
+215,Betopan Prefabrik,,,Turkey,TUR,,,,,,,,,

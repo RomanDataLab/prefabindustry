@@ -1,0 +1,459 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,Modular Solutions,,,Canada,CAN,Alberta,,,,,,,,
+2,Triple M Housing,Triple M Housing Ltd.,"400 - 7 Avenue SW, High River, Alberta, T1V 1P2, Canada",Canada,CAN,Alberta,https://www.triplemhousing.com,,12,45.24,185.8,wood,120000.0,1500.0
+3,Grandeur Housing,Grandeur Housing Ltd.,"401 Pembina Ave E, Winkler, Manitoba, R6W 4A4, Canada",Canada,CAN,Alberta,https://www.grandeurhousing.com,,15,46.45,204.39,wood,100000.0,
+4,Zentner Steel Buildings,Zentner Steel Buildings Ltd.,"Bay 6, 3927 Edmonton Trail NE, Calgary, Alberta, T2E 6T1, Canada",Canada,CAN,Alberta,https://zentnersteelbuildings.com,,,,,steel,,
+5,Ritz-Can Homes,Ritz-Can Construction Ltd.,"12286 156 St NW, Edmonton, Alberta, T5V 1E6, Canada",Canada,CAN,Alberta,https://www.ritzcan.com,,12,92.9,232.3,wood,150000.0,1800.0
+6,SRI Homes,SRI Homes Inc.,"53016 Hwy 60, Acheson, Alberta, T7X 5A7, Canada",Canada,CAN,Alberta,https://www.srihomes.com,,25,60.0,185.0,wood,100000.0,1500.0
+7,Northgate Industries,Northgate Industries Ltd.,"12640 126 Street NW, Edmonton, Alberta, T5L 0X7, Canada",Canada,CAN,Alberta,https://www.northgateindustries.com,,12,46.45,185.8,steel,75000.0,2200.0
+8,Nelson Homes,Jandel Homes Inc.,"26229 Township Rd 531A, Acheson, Alberta, T7X 5A4, Canada",Canada,CAN,Alberta,https://www.nelsonhomes.com,,26,92.903,278.709,wood,150000.0,1600.0
+9,Winalta,Winalta Inc.,"10550 50 St SE, Calgary, Alberta, T2C 3E5, Canada",Canada,CAN,Alberta,https://www.winalta.com,,15,90.3,223.0,wood,95000.0,1100.0
+10,Western Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+11,Karmod Canada,,,Canada,CAN,Alberta,https://www.karmod.ca,,,,,,,
+12,EcoSmart Homes,,,Canada,CAN,Alberta,,,,,,,,
+13,Lindal Cedar Homes,"Lindal Cedar Homes, Inc.","4300 S 104th Pl, Seattle, WA 98178, USA",Canada,CAN,Alberta,https://lindal.com,,25,60.0,400.0,wood,150000.0,
+14,Linwood Custom Homes,Linwood Homes Ltd.,"9393 287th Street, Maple Ridge, BC, V2W 1L1, Canada",Canada,CAN,Alberta,https://www.linwoodhomes.com,,45,74.32,371.61,wood,150000.0,1800.0
+15,Mountain View Industries,,,Canada,CAN,Alberta,,,,,,,,
+16,Empire Modular Homes,,,Canada,CAN,Alberta,https://empiremodularhomes.com,,,,,,,
+17,Kent Homes,,,Canada,CAN,Alberta,https://www.kenthomes.com,,,,,,,
+18,Jandel Homes,Jandel Homes Inc.,"101-53016 Hwy 60, Acheson, Alberta, T7X 5A7, Canada",Canada,CAN,Alberta,https://www.jandelhomes.com,,30,92.9,204.4,wood,150000.0,
+19,Intercon Modular Construction,,,Canada,CAN,Alberta,,,,,,,,
+20,Alberta Custom Homes,,,Canada,CAN,Alberta,,,,,,,,
+21,Modular Calgary Homes,Modular Calgary Homes Inc.,"1234 Modular St, Calgary, AB, T1X 0L3, Canada",Canada,CAN,Alberta,https://www.modularcalgaryhomes.com,,8,46.45,185.81,wood,150000.0,2000.0
+22,Alberta Modular Construction,,,Canada,CAN,Alberta,,,,,,,,
+23,Precision Prefab Homes,,,Canada,CAN,Alberta,,,,,,,,
+24,Calgary Prefab Homes,,,Canada,CAN,Alberta,,,,,,,,
+25,Edmonton Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+26,Prairie Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+27,Alberta Modular Solutions,,,Canada,CAN,Alberta,,,,,,,,
+28,Timberland Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+29,Cedar Ridge Homes,Cedar Ridge Custom Homes and Renovations Inc.,"1234 Example Street, Edmonton, Alberta, T5A 1A1, Canada",Canada,CAN,Alberta,https://www.cedarridgehomes.ca,,5,75.0,200.0,wood,150000.0,2000.0
+30,Rundle Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+31,Canmore Modular Builders,,,Canada,CAN,Alberta,,,,,,,,
+32,Summit Modular Housing,,,Canada,CAN,Alberta,,,,,,,,
+33,Alpine Prefab Homes,,,Canada,CAN,Alberta,,,,,,,,
+34,Rocky Mountain Modular,Rocky Mountain Modular Homes Ltd.,"123 Main Street, Calgary, Alberta, T1X 0L3, Canada",Canada,CAN,Alberta,https://www.rockymountainmodular.com,,10,46.45,185.81,wood,150000.0,1800.0
+35,Foothills Modular Homes,Foothills Modular Homes Ltd.,"1234 Example Street, Calgary, Alberta, T1X 1X1, Canada",Canada,CAN,Alberta,https://www.foothillsmodularhomes.ca,,10,50.0,200.0,wood,100000.0,1500.0
+36,Modular Home Systems,,,Canada,CAN,Alberta,,,,,,,,
+37,Precision Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+38,Green Leaf Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+39,Summit Modular Construction,Summit Modular Construction Ltd.,"1234 Modular Lane, Edmonton, Alberta, T5J 1N3, Canada",Canada,CAN,Alberta,https://www.summitmodular.com,,15,46.45,185.8,wood,150000.0,2000.0
+40,Clearwater Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+41,Alpine Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+42,Prairie Sky Modular,Prairie Sky Modular Homes Ltd.,"1234 Modular Ave, Calgary, Alberta, T1Y 2A2, Canada",Canada,CAN,Alberta,https://www.prairieskymodular.com,,10,92.9,185.8,wood,150000.0,1600.0
+43,Modular Home Builders,,,Canada,CAN,Alberta,,,,,,,,
+44,Alberta Modular Homes,,,Canada,CAN,Alberta,,,,,,,,
+45,Alberta Factory Built Homes,,,Canada,CAN,Alberta,https://albertafabricatedhomes.ca,,,,,,,
+46,Northern Alberta Modular,,,Canada,CAN,Alberta,,,,,,,,
+47,Alberta Homes Direct,Alberta Homes Direct Ltd.,"1234 Sample Street, Edmonton, Alberta, T5A 0A1, Canada",Canada,CAN,Alberta,https://www.albertahomesdirect.com,,15,92.9,232.3,wood,150000.0,1800.0
+48,Canadian Modular Construction,,,Canada,CAN,Alberta,,,,,,,,
+49,Modco Structures,,,Canada,CAN,Alberta,,,,,,,,
+50,Alta-Fab Structures,Alta-Fab Structures Ltd.,"5210 54 Ave, Thorsby, AB T0C 2P0, Canada",Canada,CAN,Alberta,https://www.altafab.com,,5,37.16,111.48,steel,100000.0,1500.0
+51,Shelter Modular,Shelter Modular Inc.,,Canada,CAN,Alberta,https://www.sheltermodular.com,,,,,,,
+52,Brock Modular,Brock Modular Inc.,"260136 Wagon Wheel Crescent, Balzac, Alberta, T4A 0E2, Canada",Canada,CAN,Alberta,https://brockmodular.com,,,,,steel,,
+53,Urban Timber,,,Canada,CAN,Alberta,https://www.urbantimber.ca,,,,,,,
+54,Fort Modular,Fort Modular Inc.,,Canada,CAN,Alberta,https://www.fortmodular.com,,,,,,,
+55,Alberta Modulars,,,Canada,CAN,Alberta,,,,,,,,
+56,Bayshore Home Sales,Bayshore Home Sales Ltd.,"7424 50 Avenue, Red Deer, Alberta, T4P 1X7, Canada",Canada,CAN,Alberta,https://www.bayshorehomes.ca,,10,74.32,185.8,wood,150000.0,1500.0
+57,Western Canadian Modular Homes,Western Canadian Modular Homes Ltd.,"1234 Modular Way, Calgary, Alberta, T1X 1Y1, Canada",Canada,CAN,Alberta,https://www.westerncanadianmodularhomes.com,,15,45.0,200.0,wood,120000.0,2000.0
+58,Western Modular,,,Canada,CAN,Alberta,,,,,,,,
+59,Guildcrest Homes,,,Canada,CAN,Alberta,https://guildcrest.com,,,,,wood,,
+60,Modular Home Erectors,,,Canada,CAN,Alberta,,,,,,,,
+61,Little Redstone Inc.,,,Canada,CAN,Alberta,,,,,,,,
+62,Prairie Cedar Homes,Prairie Cedar Homes Ltd.,"123 Example Street, Edmonton, Alberta, T5A 0A1, Canada",Canada,CAN,Alberta,https://prairiecedarhomes.com,,5,74.32,185.8,wood,150000.0,2000.0
+63,Constructive Solutions,,,Canada,CAN,Alberta,,,,,,,,
+64,Miro Construction,Miro Construction Ltd.,"123 Example Street, Edmonton, Alberta, T5A 0A1, Canada",Canada,CAN,Alberta,https://www.miroconstruction.com,,5,92.9,185.8,wood,150000.0,2100.0
+65,Maple Leaf Homes,,,Canada,CAN,Alberta,https://www.mapleleafhomes.ca,,,,,wood,,
+66,Eagle Lake Professional Modular Homes,Eagle Lake Professional Modular Homes Inc.,"12345 Example Street, Calgary, Alberta, T1X 1X1, Canada",Canada,CAN,Alberta,https://www.eaglelakemodular.com,,12,55.74,204.38,wood,120000.0,2200.0
+67,West Coast Homes,West Coast Homes Ltd.,"1234 Example Street, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://www.westcoasthomes.ca,,10,46.45,185.8,wood,150000.0,2500.0
+68,BC Timberframe,BC Timberframe Co.,"10176 McDonald Park Road, Sidney, British Columbia, V8L 5X5, Canada",Canada,CAN,British Columbia,https://www.bctimberframe.ca,,5,74.32,278.71,timber,250000.0,
+69,BONE Structure,BONE Structure Inc.,"79 Rue Maurice, Laval, QC H7A 4A1, Canada",Canada,CAN,British Columbia,https://bonestructure.ca,,5,92.9,464.5,steel,250000.0,3000.0
+70,Pacific Homes,Pacific Building Systems Ltd.,"1425 Cowichan Bay Road, Cobble Hill, British Columbia, V0R 1L3, Canada",Canada,CAN,British Columbia,https://pacific-homes.com,,15,92.9,464.5,wood,150000.0,2200.0
+71,Freeport Industries,Freeport Industries Ltd.,"6875 Speedway Blvd, Penticton, BC, V2A 8X2, Canada",Canada,CAN,British Columbia,https://www.freeportindustries.ca,,10,55.74,167.23,wood,100000.0,2000.0
+72,Metric Modular,Metric Modular Inc.,"9505 100 St, Fort St John, BC V1J 4N4, Canada",Canada,CAN,British Columbia,https://www.metricmodular.com,,5,46.45,223.9,wood,150000.0,2500.0
+73,Karoleena,Karoleena Inc.,"400 - 725 Granville Street, Vancouver, BC, V7Y 1G5, Canada",Canada,CAN,British Columbia,https://www.karoleena.com,,5,92.9,278.7,wood,300000.0,3250.0
+74,Fast + Epp,Fast + Epp,"200 - 750 West Pender Street, Vancouver, BC, V6C 2T7, Canada",Canada,CAN,British Columbia,https://www.fastepp.com,,,,,timber,,
+75,Inhaus Development,Inhaus Development Ltd.,,Canada,CAN,British Columbia,http://www.inhausdevelopment.com,,,,,wood,,
+76,Jenom Homes,,,Canada,CAN,British Columbia,https://www.jenomhomes.ca,,,,,,,
+77,EcoNest Homes,EcoNest Architecture Inc.,"PO Box 1611, Invermere, BC, V0A 1K0, Canada",Canada,CAN,British Columbia,https://www.econesthomes.com,,5,55.74,223.06,timber,350000.0,3200.0
+78,Katerra,Katerra Inc.,,Canada,CAN,British Columbia,https://www.katerra.com,,,,,CLT,,
+79,Stack Modular,Stack Modular Structures Ltd.,"1100 Melville Street, Vancouver, British Columbia, V6E 4A6, Canada",Canada,CAN,British Columbia,https://www.stackmodular.com,,6,27.87,139.35,steel,150000.0,4500.0
+80,Britco,Britco LP,"8705 256 Street, Langley, BC, V1M 3W3, Canada",Canada,CAN,British Columbia,https://www.britco.com,,,,,wood,,
+81,Landmark Home Solutions,,,Canada,CAN,British Columbia,,,,,,,,
+82,SRI Homes,SRI Homes Inc.,"9500 Glenlyon Parkway, Burnaby, BC, V5J 0C6, Canada",Canada,CAN,British Columbia,https://www.srihomes.com,,20,55.74,167.23,wood,100000.0,2000.0
+83,Greenstone Building Products,Greenstone Building Products Inc.,"1825-B 32nd Avenue NE, Calgary, Alberta, T2E 7C8, Canada",Canada,CAN,British Columbia,https://www.greenstoneproductsonline.com/,,,,,composite,,
+84,Blackfish Homes,,,Canada,CAN,British Columbia,https://www.blackfishhomes.ca,,,,,,,
+85,Vancouver Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+86,Ma Modular,,,Canada,CAN,British Columbia,https://www.mamodular.com/,,,,,,,
+87,Triple M Housing,Triple M Housing Ltd.,"Box 1790, 300 1st Street East, Lethbridge, Alberta, T1H 0G8, Canada",Canada,CAN,British Columbia,https://www.triplemhousing.com,,20,55.74,185.81,wood,120000.0,
+88,Linwood Homes,Linwood Homes Ltd.,"9393 287th Street, Maple Ridge, British Columbia, V2W 1L1, Canada",Canada,CAN,British Columbia,https://www.linwoodhomes.com,,12,55.74,371.61,wood,75000.0,1500.0
+89,Canadian Timberframes,Canadian Timberframes Ltd.,"1100 10th Avenue North, Golden, British Columbia, V0A 1H2, Canada",Canada,CAN,British Columbia,https://canadiantimberframes.com,,20,92.9,464.5,wood,150000.0,1200.0
+90,Winton Homes & Cottages,Winton Homes Ltd.,"1140 5th Avenue, Prince George, BC, V2L 3L1, Canada",Canada,CAN,British Columbia,https://www.wintonhomes.ca,,19,59.92,232.26,wood,80000.0,
+91,Tamlin Homes,Tamlin International Homes Ltd.,"20460 Langley Bypass, Langley, British Columbia, V3A 5E7, Canada",Canada,CAN,British Columbia,https://tamlinhomes.com,,15,55.74,278.71,wood,150000.0,2500.0
+92,Kemp Construction Management Ltd.,Kemp Construction Management Ltd.,"1515 Broadway Street, Port Coquitlam, BC, V3C 2M7, Canada",Canada,CAN,British Columbia,https://kempconstruction.ca,,,,,wood,,
+93,Econest Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+94,Irontown Homes,,,Canada,CAN,British Columbia,,,,,,,,
+95,Method Homes,"Method Prefab, LLC","3445 Roanoke Road, Seattle, Washington, 98144, USA",Canada,CAN,British Columbia,https://www.methodhomes.net,,8,55.74,371.61,wood,200000.0,
+96,Bauco Panels,,,Canada,CAN,British Columbia,,,,,,,,
+97,Cascade Manufacturing,,,Canada,CAN,British Columbia,,,,,,,,
+98,Factory Built Solutions,,,Canada,CAN,British Columbia,,,,,,,,
+99,Urban Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+100,Summit Prefab Homes,Summit Prefabricated Homes Ltd.,"1234 Prefab Lane, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://summitprefabhomes.com,,8,50.0,200.0,wood,150000.0,2000.0
+101,Maple Leaf Homes BC,,,Canada,CAN,British Columbia,,,,,,,,
+102,Northwood Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+103,Timberland Homes,Timberland Homes Ltd.,"1234 Example Street, Vancouver, BC, V1A 2B3, Canada",Canada,CAN,British Columbia,https://www.timberlandhomes.ca,,10,46.45,232.26,wood,150000.0,2500.0
+104,Coastal Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+105,Pinnacle Prefab,,,Canada,CAN,British Columbia,https://www.pinnacleprefab.com,,,,,,,
+106,Rainforest Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+107,Harmony Homes,Harmony Homes (1980) Ltd.,"105-546 Leon Avenue, Kelowna, BC, V1Y 6J6, Canada",Canada,CAN,British Columbia,https://www.harmonyhomes.net,,12,92.9,278.7,wood,150000.0,1850.0
+108,Pacific Prefab Homes,,,Canada,CAN,British Columbia,,,,,,,,
+109,Forest City Homes,,,Canada,CAN,British Columbia,,,,,,,,
+110,Sierra Modular Homes,Sierra Modular Homes Ltd.,"1234 Example Street, Vancouver, BC, V5K 1A1, Canada",Canada,CAN,British Columbia,https://www.sierramodularhomes.ca,,10,50.0,200.0,wood,150000.0,2500.0
+111,Ridgewood Modular,,,Canada,CAN,British Columbia,,,,,,,,
+112,Tyee Homes,,,Canada,CAN,British Columbia,,,,,,,,
+113,Bayside Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+114,Modern Prefab,,,Canada,CAN,British Columbia,,,,,,,,
+115,Shelter Modular,Shelter Modular Inc.,"1234 Modular Rd, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://www.sheltermodular.com,,8,46.45,185.81,wood,150000.0,2750.0
+116,Pioneer Log Homes of British Columbia,Pioneer Log Homes of British Columbia Ltd.,"351 Hodgson Rd, Williams Lake, BC, V2G 3P7, Canada",Canada,CAN,British Columbia,https://www.pioneerloghomesofbc.com,,10,92.9,464.5,wood,300000.0,
+117,Tamarack Grove Engineering,Tamarack Grove Engineering Ltd.,"2330 McCullough Road, Nanaimo, British Columbia, V9S 4M9, Canada",Canada,CAN,British Columbia,https://www.tamarackgrove.com,,,,,,,
+118,Cedar Homes Ltd.,,,Canada,CAN,British Columbia,,,,,,,,
+119,Pacific Smart Homes,Pacific Smart Homes Ltd.,"1234 Example Street, Vancouver, British Columbia, V6A 1A1, Canada",Canada,CAN,British Columbia,https://www.pacificsmarthomes.com,,5,55.0,200.0,wood,150000.0,2000.0
+120,Mountain View Industries,,,Canada,CAN,British Columbia,,,,,,,,
+121,Canadian Timberframes,Canadian Timberframes Ltd.,"13 Industrial Place, Parson, British Columbia, V0A 1L0, Canada",Canada,CAN,British Columbia,https://canadiantimberframes.com,,,,,wood,,
+122,Collective Carpentry,Collective Carpentry Ltd.,"Unit 1, 820 25th Street NE, Salmon Arm, British Columbia, V1E 2S6, Canada",Canada,CAN,British Columbia,https://www.collectivecarpentry.com,,5,60.0,150.0,wood,150000.0,2500.0
+123,Caledon Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+124,Zebra Group,Zebra Design & Interiors Group Inc.,"1161 Newport Avenue, Victoria, BC, V8S 5E6, Canada",Canada,CAN,British Columbia,https://www.zebragroup.ca/,,,,,wood,,
+125,Lindal Cedar Homes,"Lindal Cedar Homes, Inc.","4300 S 104th Pl, Seattle, WA 98178, USA",Canada,CAN,British Columbia,https://lindal.com,,,,,wood,,
+126,Alpine Homes,,,Canada,CAN,British Columbia,,,,,,,,
+127,Viceroy Homes,Viceroy Homes Limited,"7895 Tranmere Drive, Mississauga, Ontario, L5S 1V9, Canada",Canada,CAN,British Columbia,https://www.viceroy.com,,12,92.9,278.7,wood,150000.0,2000.0
+128,Island TimberFrame,Island Timber Frame Ltd.,"123 Timber Lane, Cowichan Valley, British Columbia, V0R 2G0, Canada",Canada,CAN,British Columbia,https://www.islandtimberframe.com,,5,74.32,185.81,wood,150000.0,2500.0
+129,Bayside Modular,Bayside Modular Homes Ltd.,"1234 Modular Lane, Vancouver, BC, V5K 1A1, Canada",Canada,CAN,British Columbia,https://www.baysidemodular.com,,5,55.74,185.81,wood,150000.0,2500.0
+130,Bowerman's Handcrafted Homes,,,Canada,CAN,British Columbia,,,,,,,,
+131,R.C. Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+132,Kasita Prefab Homes,,,Canada,CAN,British Columbia,,,,,,,,
+133,BC Passive House,BC Passive House Ltd.,"1343 Alberni Highway, Parksville, British Columbia, V9P 2B9, Canada",Canada,CAN,British Columbia,https://www.bcpassivehouse.com,,5,60.39,232.26,CLT,200000.0,2500.0
+134,Merrick Architecture,Merrick Architecture - Borowski Sakumoto Fligg McIntyre Ltd.,"208 - 1619 Store Street, Victoria, BC, V8W 3K3, Canada",Canada,CAN,British Columbia,https://www.merrickarch.com,,,,,,,
+135,Moduline Industries,Moduline Industries (Canada) Ltd.,"9500 - 287th Street, Maple Ridge, BC, V2W 1L1, Canada",Canada,CAN,British Columbia,https://www.moduline.ca,,12,45.5,223.0,wood,100000.0,
+136,Mountainview Homes,,,Canada,CAN,British Columbia,,,,,,,,
+137,Coast Modular,,,Canada,CAN,British Columbia,,,,,,,,
+138,Shell Systems,Shell Systems Limited,"1234 Example Street, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://www.shellsystems.com,,5,55.74,185.8,wood,150000.0,2200.0
+139,Structurlam,Structurlam Mass Timber Corporation,"2176 Government Street, Penticton, BC, V2A 8B5, Canada",Canada,CAN,British Columbia,https://www.structurlam.com,,,,,cross-laminated timber,,
+140,Vancouver Island Tiny Homes,,,Canada,CAN,British Columbia,https://www.vancouverislandtinyhomes.ca,,,,,,,
+141,Pine Ridge Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+142,B.C. Passive House,B.C. Passive House Ltd.,"1585 Industrial Way, Pemberton, BC, V0N 2L0, Canada",Canada,CAN,British Columbia,https://bcpassivehouse.com,,6,70.0,250.0,cross-laminated timber,200000.0,2500.0
+143,Cove Continuity Advisors,Cove Continuity Advisors Inc.,"1200 Park Place, 666 Burrard Street, Vancouver, BC, V6C 2X8, Canada",Canada,CAN,British Columbia,https://www.coveadvisors.com,,,,,,,
+144,Blue Green Living Communities,,,Canada,CAN,British Columbia,,,,,,,,
+145,Alair Homes,Alair Enterprises Canada Ltd.,"1285 West Broadway, Vancouver, BC, V6H 3X8, Canada",Canada,CAN,British Columbia,https://www.alairhomes.ca,,,,,wood,,
+146,Linwood Custom Homes,Linwood Homes Ltd.,"9393 287 Street, Maple Ridge, British Columbia, V2W 1L1, Canada",Canada,CAN,British Columbia,https://www.linwoodhomes.com,,400,65.03,743.22,wood,75000.0,
+147,Econo Ezy Box Homes,,,Canada,CAN,British Columbia,,,,,,,,
+148,Miracle Dream Homes,,,Canada,CAN,British Columbia,,,,,,,,
+149,Honomobo,Honomobo Corporation,"6757 203 Street, Langley, BC, V2Y 1W2, Canada",Canada,CAN,British Columbia,https://www.honomobo.com,,10,29.73,111.48,steel,110000.0,3000.0
+150,Dvele,Dvele Inc.,,Canada,CAN,British Columbia,https://www.dvele.com,,16,46.45,371.61,steel,350000.0,
+151,Boreal Prefab,Boreal Prefab Homes Ltd.,"1234 Main St, Vancouver, BC, V5K 1A1, Canada",Canada,CAN,British Columbia,https://borealprefab.com,,5,46.45,185.81,wood,150000.0,2500.0
+152,Prepac Homes,,,Canada,CAN,British Columbia,,,,,,,,
+153,Coastal Custom Homes,,,Canada,CAN,British Columbia,https://www.coastalcustomhomes.ca,,,,,,,
+154,Hawkeye Construction,,,Canada,CAN,British Columbia,,,,,,,,
+155,New Generation Homes,,,Canada,CAN,British Columbia,,,,,,,,
+156,Locomotive Works,,,Canada,CAN,British Columbia,,,,,,,,
+157,Bramasole Construction,Bramasole Construction Ltd.,,Canada,CAN,British Columbia,,,,,,,,
+158,Form and Forest,,,Canada,CAN,British Columbia,,,,,,,,
+159,Columbia Valley Modular Homes,,,Canada,CAN,British Columbia,https://www.columbiavalleymodularhomes.com,,,,,,,
+160,Canadian Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+161,Zentner Steel Buildings,Zentner Steel Buildings Ltd.,,Canada,CAN,British Columbia,https://zentnersteelbuildings.com,,,,,steel,,
+162,Kettle River Timberworks Ltd.,Kettle River Timberworks Ltd.,"1295 Stevens Road, West Kelowna, British Columbia, V1Z 2S9, Canada",Canada,CAN,British Columbia,https://www.kettlerivertimber.com,,5,92.9,185.8,wood,200000.0,2500.0
+163,Purcell Timber Frame Homes,Purcell Timber Frame Homes Ltd.,"607 9th Ave N, Golden, BC, V0A 1H0, Canada",Canada,CAN,British Columbia,https://www.purcell.ca,,5,92.9,371.6,wood,200000.0,
+164,Paradigm Building Solutions,Paradigm Building Solutions Ltd.,"1234 Example Street, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://www.paradigmbuildingsolutions.ca,,5,37.16,185.81,wood,150000.0,2500.0
+165,Hamill Creek Timber Homes,Hamill Creek Timber Homes Ltd.,"13500 Highway 31, Meadow Creek, British Columbia, V0G 1N0, Canada",Canada,CAN,British Columbia,https://www.hamillcreek.com,,8,92.9,278.7,timber,250000.0,
+166,Timberhaven Homes Ltd.,,,Canada,CAN,British Columbia,,,,,,,,
+167,Westform Metals Inc.,Westform Metals Inc.,"7920 Venture Place, Chilliwack, British Columbia, V2R 0K2, Canada",Canada,CAN,British Columbia,https://www.westform.com/,,,,,steel,,
+168,Ridgewood Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+169,Clay Construction,,,Canada,CAN,British Columbia,,,,,,,,
+170,Paradigm Shift Custom Homes,,,Canada,CAN,British Columbia,,,,,,,,
+171,Formwerks Boutique Properties,,,Canada,CAN,British Columbia,https://www.formwerksboutique.ca/,,,,,,,
+172,Horizon Pacific Contracting,Horizon Pacific Contracting Limited,"909 Van Isle Way, Victoria, BC, V9B 5R8, Canada",Canada,CAN,British Columbia,https://www.horizoncontracting.ca,,,,,,,
+173,EcoCraft Homes,,,Canada,CAN,British Columbia,,,,,,,,
+174,Naikoon Contracting Ltd.,Naikoon Contracting Ltd.,"1833 Coast Meridian Rd, Port Coquitlam, BC, V3C 6G5, Canada",Canada,CAN,British Columbia,https://naikooncontracting.com,,,,,wood,,
+175,Kindred Construction,Kindred Construction Ltd.,"1340 East Pender Street, Vancouver, BC, V5L 1V8, Canada",Canada,CAN,British Columbia,https://kindredconstruction.com,,,,,wood,,
+176,Averra Developments,,,Canada,CAN,British Columbia,https://www.averra.ca,,,,,,,
+177,Build Prefab,,,Canada,CAN,British Columbia,https://buildprefab.com,,,,,,,
+178,High Performance Homes,High Performance Homes Ltd.,"1234 Example Street, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://www.highperformancehomes.ca,,5,92.9,185.8,wood,150000.0,2200.0
+179,Prefabulous Living,Prefabulous Living Ltd.,"123 Prefab Lane, Vancouver, BC, V5K 0A1, Canada",Canada,CAN,British Columbia,https://www.prefabulousliving.com,,5,46.45,185.81,wood,120000.0,2500.0
+180,True North Log Homes,True North Log Homes Inc.,"230 Domtar Road, Huntsville, Ontario, P1H 2J2, Canada",Canada,CAN,British Columbia,https://www.truenorthloghomes.com,,12,92.9,418.1,wood,200000.0,
+181,TruNorth Homes,TruNorth Homes Ltd.,"1234 Example Street, Vancouver, BC, V1A 2B3, Canada",Canada,CAN,British Columbia,https://www.trunorthhomes.com,,5,74.32,185.81,wood,150000.0,2000.0
+182,Triple M Housing,Triple M Housing Ltd.,"9500 287 Rd, Fort St John, BC, V1J 4M7, Canada",Canada,CAN,British Columbia,https://www.triplemhousing.com,,25,37.16,185.8,wood,100000.0,1500.0
+183,Alouette Homes,Les Industries Alouette Homes (1985) Inc.,"300 Rue de la Jacques-Cartier, Montmagny, QC G5V 3B3, Canada",Canada,CAN,British Columbia,https://www.alouettehomes.com,,20,65.0,200.0,wood,150000.0,2000.0
+184,Linwood Homes,Linwood Homes Ltd.,"1555 McKenzie Road, Abbotsford, BC, V2S 8A3, Canada",Canada,CAN,British Columbia,https://www.linwoodhomes.com,,36,46.45,743.22,wood,250000.0,3000.0
+185,Shelter Modular Inc.,,,Canada,CAN,British Columbia,,,,,,,,
+186,Modpro Buildings,,,Canada,CAN,British Columbia,,,,,,,,
+187,Kamloops Home Hardware Building Centre,Kamloops Home Hardware Building Centre,"1325 Joseph Way, Kamloops, BC, V2H 1N6, Canada",Canada,CAN,British Columbia,https://www.homehardware.ca/store/18349,,,,,,,
+188,Island Precision Manufacturing,,,Canada,CAN,British Columbia,,,,,,,,
+189,Cascade Manufactured Homes,,,Canada,CAN,British Columbia,,,,,,,,
+190,Grandview Modular Homes,,,Canada,CAN,British Columbia,,,,,,,,
+191,Grandeur Housing Ltd.,Grandeur Housing Ltd.,"401 Pembina Avenue E, Winkler, Manitoba, R6W 4A5, Canada",Canada,CAN,Manitoba,https://www.grandeurhousing.com,,15,74.32,232.26,wood,100000.0,1200.0
+192,Warkentin Custom Homes,Warkentin Developments Ltd.,"260 Main Street, Steinbach, Manitoba, R5G 1Y8, Canada",Canada,CAN,Manitoba,https://warkentinhomes.com,,5,92.9,204.4,wood,250000.0,2200.0
+193,Star Ready to Move Homes,Star Ready to Move Homes Ltd.,"Box 21, Group 582, RR#5, Winnipeg, Manitoba, R2C 2Z2, Canada",Canada,CAN,Manitoba,https://www.starreadymovehomes.com,,15,92.9,222.9,wood,150000.0,1500.0
+194,Triple E Homes,Triple E Canada Ltd.,"301 Roblin Blvd, Winkler, Manitoba, R6W 4C4, Canada",Canada,CAN,Manitoba,https://www.tripleemodular.com,,12,55.74,167.23,wood,120000.0,1600.0
+195,B & B Homes,,,Canada,CAN,Manitoba,,,,,,,,
+196,Zelus Modular Homes,,,Canada,CAN,Manitoba,,,,,,,,
+197,Prairie Barns Ltd.,,,Canada,CAN,Manitoba,,,,,,,,
+198,Conquest Manufacturing,,,Canada,CAN,Manitoba,,,,,,,,
+199,Giesbrecht Buildings,Giesbrecht Buildings Ltd.,"Box 60, Grunthal, Manitoba, R0A 0R0, Canada",Canada,CAN,Manitoba,https://giesbrechtbuildings.ca,,,,,wood,,
+200,Best Buy Homes,Best Buy Homes Ltd.,"780 Pembridge Crescent, Brandon, Manitoba, R7A 7T3, Canada",Canada,CAN,Manitoba,https://www.bestbuyhomes.ca,,10,74.32,185.81,wood,120000.0,1500.0
+201,Penner Builders,Penner Builders Ltd.,"85 Penner Drive, Blumenort, Manitoba, R0A 0C0, Canada",Canada,CAN,Manitoba,https://www.pennerbuilders.ca,,,,,wood,,
+202,Heartland Homes,,,Canada,CAN,Manitoba,,,,,,,,
+203,Thompson Homes,,,Canada,CAN,Manitoba,,,,,,,,
+204,Home Tech Construction Ltd.,,,Canada,CAN,Manitoba,,,,,,,,
+205,Roblin Builders,,,Canada,CAN,Manitoba,,,,,,,,
+206,Nelson River Construction,Nelson River Construction Inc.,"50 Paramount Road, Winnipeg, Manitoba, R2X 2W3, Canada",Canada,CAN,Manitoba,https://www.nelsonriver.com,,,,,,,
+207,Noble Homes,,,Canada,CAN,Manitoba,,,,,,,,
+208,Arlt Homes,Arlt Homes Ltd.,"111 De Baets Street, Winnipeg, Manitoba, R2J 3R9, Canada",Canada,CAN,Manitoba,http://www.arlthomes.com,,0,,,wood,,
+209,Kroeker Farms,Kroeker Farms Limited,"Box 940, 777 Circle K Drive, Winkler, Manitoba, R6W 4B1, Canada",Canada,CAN,Manitoba,https://www.kroekerfarms.com,,,,,,,
+210,Heritage Lane Builders,Heritage Lane Builders Inc.,"12-2355 McGillivray Blvd, Winnipeg, Manitoba, R3Y 0T5, Canada",Canada,CAN,Manitoba,https://heritagelanebuilders.ca,,5,92.9,232.3,wood,150000.0,1800.0
+211,Kent Homes,Kent Homes Limited,"1300 St. George Boulevard, Moncton, New Brunswick, E1E 3T3, Canada",Canada,CAN,New Brunswick,https://www.kenthomes.com,,15,37.16,185.81,wood,100000.0,1300.0
+212,Supreme Homes,Supreme Homes Ltd.,"1585 Route 133, Grande-Digue, New Brunswick, E4R 5L9, Canada",Canada,CAN,New Brunswick,https://www.supremehomes.ca,,20,74.3,200.6,wood,150000.0,1500.0
+213,Maple Leaf Homes,Maple Leaf Homes Inc.,"145 Bennington Rd, Fredericton, New Brunswick, E3B 2V6, Canada",Canada,CAN,New Brunswick,https://mapleleafhomes.ca,,30,74.32,185.81,wood,120000.0,
+214,Scotian Homes,,,Canada,CAN,New Brunswick,,,,,,,,
+215,Prestige Homes,Prestige Homes Inc.,"4183 Route 108, Deersdale, New Brunswick, E7L 1X6, Canada",Canada,CAN,New Brunswick,https://prestigehomes.ca,,25,65.03,222.97,wood,150000.0,
+216,Mini Homes of New Brunswick,,,Canada,CAN,New Brunswick,,,,,,,,
+217,Guildcrest Homes,,"1000 Lisgar Avenue, Renfrew, Ontario, K7V 3K4, Canada",Canada,CAN,New Brunswick,https://www.guildcrest.com,,,,,wood,,
+218,Ritz Modular Homes,,,Canada,CAN,New Brunswick,,,,,,,,
+219,Atlantic Homes,,,Canada,CAN,New Brunswick,,,,,,,,
+220,Allsco Building Products,Allsco Building Products Ltd.,"1050 Pleasant Drive, Minto, New Brunswick, E4B 3X9, Canada",Canada,CAN,New Brunswick,https://www.allsco.com,,,,,,,
+221,Kent Homes,Kent Homes,"100 Millennium Drive, Quispamsis, New Brunswick, E2E 6E3, Canada",Canada,CAN,Newfoundland and Labrador,https://www.kenthomes.com,,15,74.32,185.8,wood,150000.0,2000.0
+222,Viking Ventures Ltd.,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+223,Newfound Builders Ltd.,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+224,Hickman Timber Mart,Hickman Building Supplies Limited,"1 Old Placentia Road, Mount Pearl, Newfoundland and Labrador, A1N 4P4, Canada",Canada,CAN,Newfoundland and Labrador,https://www.hickmantimbermart.ca,,,,,wood,,
+225,Clarke Builders,Clarke Builders Ltd.,"123 Example Street, St. John's, Newfoundland and Labrador, A1A 1A1, Canada",Canada,CAN,Newfoundland and Labrador,https://www.clarkebuilders.ca,,5,90.0,200.0,wood,150000.0,1850.0
+226,Riverside Cabins,Riverside Cabins Ltd.,"31 Highway 410, Baie Verte, Newfoundland and Labrador, A0K 1B0, Canada",Canada,CAN,Newfoundland and Labrador,https://riversidecabins.ca,,5,37.16,102.19,wood,49900.0,1500.0
+227,Atlantic Homes,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+228,J-Lyn Enterprises,J-Lyn Enterprises Ltd.,"51 Old Bonne Bay Rd, Deer Lake, NL, A8A 1X3, Canada",Canada,CAN,Newfoundland and Labrador,https://www.jlynenterprises.ca,,5,,,wood,,
+229,East Coast Homes,,,Canada,CAN,Newfoundland and Labrador,http://www.eastcoasthomes.org,,,,,wood,,
+230,Newfound Home Builders,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+231,Island Precast,Island Precast Limited,"1 Precast Place, Conception Bay South, NL, A1X 7Y5, Canada",Canada,CAN,Newfoundland and Labrador,https://www.islandprecast.com,,5,60.39,185.81,concrete,150000.0,2500.0
+232,Modular Homes Ltd.,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+233,Green Leaf Homes,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+234,Avalon Homes,,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+235,Northern Construction & Suppliers Ltd.,Northern Construction & Suppliers Ltd.,,Canada,CAN,Newfoundland and Labrador,,,,,,,,
+236,Kent Homes,Kent Homes Limited,"15 Commerce Street, Bouctouche, New Brunswick, E4S 3Y5, Canada",Canada,CAN,Nova Scotia,https://www.kenthomes.com,,20,55.74,185.81,wood,150000.0,2000.0
+237,Scotia Homes,,,Canada,CAN,Nova Scotia,,,,,,,,
+238,Modular Home Builders Association,,,Canada,CAN,Nova Scotia,,,,,,,,
+239,Prestige Homes,Prestige Homes Inc.,"Better Homes Road, Sussex, New Brunswick, E4E 5T2, Canada",Canada,CAN,Nova Scotia,https://prestigehomes.ca,,16,74.32,204.39,wood,120000.0,
+240,Maple Leaf Homes,Maple Leaf Homes Incorporated,"385 Wilsey Road, Fredericton, New Brunswick, E3B 5N6, Canada",Canada,CAN,Nova Scotia,https://www.mapleleafhomes.ca,,40,74.32,204.39,wood,150000.0,1200.0
+241,Supreme Homes,,,Canada,CAN,Nova Scotia,,,,,,,,
+242,Zentner Steel Buildings Ltd.,Zentner Steel Buildings Ltd.,,Canada,CAN,Nova Scotia,https://zentnersteelbuildings.com,,,,,steel,,
+243,Iron Maple Homes,,,Canada,CAN,Nova Scotia,,,,,,,,
+244,Shelburne Modular Homes,,,Canada,CAN,Nova Scotia,,,,,,,,
+245,East Coast Homes,East Coast Homes Ltd.,"123 Example Street, Halifax, Nova Scotia, B3J 1X8, Canada",Canada,CAN,Nova Scotia,https://www.eastcoasthomes.ca,,10,92.9,185.8,wood,150000.0,1615.0
+246,Coastal Modular Homes,Coastal Modular Homes Ltd.,"123 Example Street, Halifax, Nova Scotia, B3J 1Z6, Canada",Canada,CAN,Nova Scotia,https://www.coastalmodularhomes.ca,,10,83.61,185.81,wood,150000.0,2200.0
+247,The Home Centre,The Home Centre Limited,"451 Main Street, Bridgewater, Nova Scotia, B4V 2Y1, Canada",Canada,CAN,Nova Scotia,https://www.thehomecentre.ca,,12,74.32,185.81,wood,150000.0,2000.0
+248,Atlantic Homes,,,Canada,CAN,Nova Scotia,,,,,,,,
+249,Mini Home Sales,,,Canada,CAN,Nova Scotia,https://www.minihomesales.ca,,,,,,,
+250,Tri-County Homes,,,Canada,CAN,Nova Scotia,,,,,,,,
+251,Royal Homes,Royal Homes Limited,"116 Graham Street, Wingham, Ontario, N0G 2W0, Canada",Canada,CAN,Ontario,https://www.royalhomes.com,,40,70.0,400.0,wood,150000.0,2000.0
+252,Guildcrest Homes,Guildcrest Building Corporation,"374067 6th Line, Amaranth, Ontario, L9W 0M6, Canada",Canada,CAN,Ontario,https://guildcrest.com,,36,95.69,278.71,wood,150000.0,1800.0
+253,Quality Homes,Quality Homes Inc.,"20423 Highway 12, Greenbank, Ontario, L0C 1B0, Canada",Canada,CAN,Ontario,https://www.qualityhomes.ca,,20,74.32,278.71,wood,150000.0,
+254,Linwood Custom Homes,Linwood Homes Ltd.,"9393 Glover Road, Langley, BC, V1M 2R9, Canada",Canada,CAN,Ontario,https://www.linwoodhomes.com,,400,83.61,334.45,wood,100000.0,
+255,Haven Modular,,,Canada,CAN,Ontario,https://havenmodular.com,,,,,,,
+256,R-Hauz Solutions Inc.,R-Hauz Solutions Inc.,"55 City Centre Drive, Suite 100, Mississauga, Ontario, L5B 1M3, Canada",Canada,CAN,Ontario,https://rhauz.com,,5,55.74,185.81,wood,150000.0,2500.0
+257,Noble Homes,,,Canada,CAN,Ontario,,,,,,,,
+258,Canadian Timberframes,Canadian Timberframes Ltd.,"2010 Kicking Horse Drive, Golden, British Columbia, V0A 1H0, Canada",Canada,CAN,Ontario,https://canadiantimberframes.com,,,,,wood,,
+259,Modular Home Additions,Modular Home Additions Ltd.,"38 Apex Road, Toronto, Ontario, M6A 2V2, Canada",Canada,CAN,Ontario,https://www.modularhomeadditions.ca,,5,55.74,185.81,wood,150000.0,2000.0
+260,Canada Prefab,,,Canada,CAN,Ontario,,,,,,,,
+261,Watson Building Supplies,Watson Building Supplies Ltd.,"60 Industrial Parkway S, Aurora, Ontario, L4G 3V6, Canada",Canada,CAN,Ontario,https://www.watsonbuildingsupplies.com,,0,,,,,
+262,Timber Block,Timber Block Canada Inc.,"615 rue Notre-Dame, Lavaltrie, Quebec, J5T 1P4, Canada",Canada,CAN,Ontario,https://www.timberblock.com,,12,92.9,353.0,wood,250000.0,
+263,Viceroy Homes,Viceroy Homes Limited,"635 Sovereign Road, London, Ontario, N5V 4K8, Canada",Canada,CAN,Ontario,https://www.viceroy.com,,20,46.45,278.71,wood,150000.0,2500.0
+264,Alouette Homes,Alouette Homes Inc.,,Canada,CAN,Ontario,https://alouettehomes.com,,15,55.74,185.81,wood,125000.0,
+265,Ritz Homes,Ritz Homes Inc.,"123 Example Street, Toronto, Ontario, M1A 2B3, Canada",Canada,CAN,Ontario,https://www.ritzhomes.ca,,10,92.9,232.3,wood,150000.0,1800.0
+266,Bonneville Homes,Les Maisons Bonneville Ltd.,"800 Route 133, Noyan, QC J0J 1B0, Canada",Canada,CAN,Ontario,https://www.maisonsbonneville.com,,30,92.9,371.6,wood,150000.0,
+267,SRI Homes,SRI Homes Inc.,"334 Albert Street, Strathroy, Ontario, N7G 3H5, Canada",Canada,CAN,Ontario,https://www.srihomes.com,,15,55.74,185.81,wood,100000.0,
+268,Kent Homes,Kent Homes Limited,"9219 Commercial Street, New Minas, Nova Scotia, B4N 3E8, Canada",Canada,CAN,Ontario,https://www.kenthomes.com,,12,74.32,204.39,wood,100000.0,
+269,Pro-Fab Homes,,,Canada,CAN,Ontario,,,,,,,,
+270,Maple Leaf Homes,Maple Leaf Homes Inc.,"385 Wilsey Road, Fredericton, New Brunswick, E3B 5N6, Canada",Canada,CAN,Ontario,https://www.mapleleafthehomes.com/,,20,55.74,185.81,wood,150000.0,
+271,Northlander Industries,Northlander Industries (2000) Ltd.,"165 Thames Road East, Exeter, Ontario, N0M 1S3, Canada",Canada,CAN,Ontario,https://www.northlanderindustries.com,,5,37.16,111.48,wood,100000.0,2500.0
+272,Prestige Homes,,,Canada,CAN,Ontario,https://prestigehomes.ca,,,,,,,
+273,Winton Homes & Cottages,Winton Homes Ltd.,"5605 L & A Road, Prince George, British Columbia, V2N 6C3, Canada",Canada,CAN,Ontario,https://www.wintonhomes.ca,,10,83.61,204.39,wood,75000.0,
+274,True North Log Homes,True North Log Homes Inc.,"558 Muskoka District Road 118 W, Bracebridge, Ontario, P1L 1W8, Canada",Canada,CAN,Ontario,https://www.truenorthloghomes.com,,10,92.9,371.6,wood,150000.0,
+275,Zentner Steel Buildings,Zentner Steel Buildings Ltd.,,Canada,CAN,Ontario,https://zentnersteelbuildings.com/,,,,,steel,,
+276,Discovery Dream Homes,Discovery Dream Homes Ltd.,"1 Paisley Lane, Lakefield, Ontario, K0L 2H0, Canada",Canada,CAN,Ontario,https://www.discoverydreamhomes.com,,20,92.9,464.5,wood,150000.0,1500.0
+277,Conquest Steel Builders,,,Canada,CAN,Ontario,,,,,,,,
+278,Stonewood Building Group,Stonewood Building Group Inc.,"1855 Wharnsby Road, London, Ontario, N6G 5B4, Canada",Canada,CAN,Ontario,https://www.stonewoodgroup.ca,,5,92.9,278.7,wood,150000.0,2000.0
+279,EcoLog Homes,EcoLog Building Systems Inc.,"30099 Highway 62, Bancroft, Ontario, K0L 1C0, Canada",Canada,CAN,Ontario,https://www.ecologhomes.com,,8,55.74,278.71,wood,60000.0,
+280,Royal Modular Homes,Royal Homes Limited,"P.O. Box 399, Wingham, Ontario, N0G 2W0, Canada",Canada,CAN,Ontario,https://royalhomes.com,,24,55.7,278.7,wood,150000.0,2000.0
+281,Ecomanufactured Homes,,,Canada,CAN,Ontario,,,,,,,,
+282,Green Terra Homes,Green Terra Homes and Cottages Inc.,"9 Trinity Lane, Belleville, ON, K8N 5C8, Canada",Canada,CAN,Ontario,https://www.greenterrahomes.com,,15,37.16,185.81,steel,49900.0,
+283,The Home Centre,,,Canada,CAN,Ontario,,,,,,,,
+284,Maison Usinée Côté,Maison Usinée Côté,"515 2e Rang, Saint-Lin-Laurentides, Quebec, J5M 2A1, Canada",Canada,CAN,Quebec,https://www.maisonusineecote.com,,15,92.9,223.0,wood,150000.0,2000.0
+285,Maisons Laprise,Les Maisons Laprise Inc.,"3025 Boulevard du Royaume, Saguenay, Quebec, G7X 7V3, Canada",Canada,CAN,Quebec,https://www.maisonlaprise.com,,45,93.0,465.0,wood,125000.0,1500.0
+286,Pro-Fab,Les Industries Pro-Fab inc.,"1877 9e Rang, Saint-Apollinaire, Quebec, G0S 2E0, Canada",Canada,CAN,Quebec,https://www.profab.ca,,70,92.9,325.2,wood,150000.0,2200.0
+287,Bonneville Homes,Les Maisons Bonneville Ltée,"850 Route de la Seigneurie, L'Assomption, QC, J5W 0E1, Canada",Canada,CAN,Quebec,https://www.maisonsbonneville.com,,45,55.74,232.26,wood,150000.0,
+288,Maisons Usinées Confort Design,Maisons Usinées Confort Design Inc.,"1234 Rue de l'Industrie, Ville de Québec, QC, G1C 1C1, Canada",Canada,CAN,Quebec,https://www.confortdesign.com,,10,75.0,200.0,wood,150000.0,2000.0
+289,Les Maisons Monty,Les Maisons Monty Inc.,"1234 Rue Example, Montreal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.maisonsmonty.com,,10,92.9,185.8,wood,150000.0,2000.0
+290,Maisons Alouette,Les Maisons Alouette Inc.,"100 Rue Alouette, Saint-Jacques, Quebec, J0K 2R0, Canada",Canada,CAN,Quebec,https://www.maisonsalouette.com,,20,60.0,200.0,wood,150000.0,1200.0
+291,Maisons Usinées du Québec,Maisons Usinées Côté Inc.,"2388 Boulevard du Curé-Labelle, Saint-Jérôme, QC J7Y 1H1, Canada",Canada,CAN,Quebec,https://www.maisonsusinees.com,,15,92.9,278.7,wood,150000.0,1600.0
+292,Maisons Usinées MTL,,,Canada,CAN,Quebec,,,,,,,,
+293,InterHab,,,Canada,CAN,Quebec,,,,,,,,
+294,Les Habitations Dany Lagacé,,,Canada,CAN,Quebec,,,,,,,,
+295,Habitation Boivin,,,Canada,CAN,Quebec,,,,,,,,
+296,Le Groupe Ecohab,,,Canada,CAN,Quebec,,,,,,,,
+297,Confort Design,,,Canada,CAN,Quebec,,,,,,,,
+298,Canadiana Homes,,,Canada,CAN,Quebec,,,,,,,,
+299,Concept Dub,Concept Dub Inc.,"1234 Rue Principale, Saint-Sauveur, QC, J0R 1R7, Canada",Canada,CAN,Quebec,https://www.conceptdub.com,,5,80.0,150.0,wood,150000.0,2000.0
+300,Les Habitations Leblanc,,,Canada,CAN,Quebec,,,,,,,,
+301,Nühaus Homes,,,Canada,CAN,Quebec,,,,,,,,
+302,Rocio Concepts,,,Canada,CAN,Quebec,,,,,,,,
+303,Maisons Bâtisseurs,Les Maisons Bâtisseurs Inc.,"1234 Rue Principale, Quebec City, QC, G1A 2B3, Canada",Canada,CAN,Quebec,https://maisonsbatisseurs.com,,8,92.9,185.8,wood,150000.0,1600.0
+304,Les Maisons Triad,,,Canada,CAN,Quebec,,,,,,,,
+305,Constructions Modulaires Grilli,Constructions Modulaires Grilli Inc.,,Canada,CAN,Quebec,https://www.constructionsmodulairesgrilli.com,,,,,wood,,
+306,Les Constructions R.G.B.,Les Constructions R.G.B. Inc.,"1234 Example Street, Montreal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.constructionsrgb.com,,5,70.0,200.0,wood,150000.0,2000.0
+307,Concepts RMR,Concepts RMR Inc.,"1234 Example Street, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.conceptsrmr.com,,10,50.0,200.0,wood,150000.0,2000.0
+308,Maisons Usinées R.T.,Maisons Usinées R.T. Inc.,"555 Rue Principale, Saint-Benoît-Labre, QC, G0M 1P0, Canada",Canada,CAN,Quebec,https://maisonsusineesrt.com,,15,92.9,232.3,wood,150000.0,1800.0
+309,Maisons Roco,Maisons Roco Inc.,"1234 Rue Exemple, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://maisonsroco.com,,5,60.0,200.0,wood,150000.0,2500.0
+310,Habitations Lortie,Habitations Lortie Inc.,,Canada,CAN,Quebec,http://www.habitationslortie.com,,,,,wood,,
+311,Maisons Usinées Côté,Maisons Usinées Côté Inc.,"800 Rue du Parc, Saint-Lin-Laurentides, Quebec, J5M 3B4, Canada",Canada,CAN,Quebec,https://www.maisonsusineescote.com,,14,74.32,185.81,wood,150000.0,
+312,Modularis,,,Canada,CAN,Quebec,,,,,,,,
+313,Habitation La Vérendrye,Habitation La Vérendrye Inc.,"317 Rue Principale, Duhamel-Ouest, QC, J9V 1J3, Canada",Canada,CAN,Quebec,https://www.habitationlaverendrye.com,,5,92.9,185.8,wood,150000.0,1600.0
+314,Maisons Confort Design,Maisons Confort Design Inc.,"1234 Boulevard Industriel, Laval, Quebec, H7C 1S6, Canada",Canada,CAN,Quebec,https://maisonsconfortdesign.com,,15,92.9,232.3,wood,150000.0,1820.0
+315,Maisons Usinées Nord-Est,,,Canada,CAN,Quebec,,,,,,,,
+316,Les Habitations Concept Modernes,,,Canada,CAN,Quebec,,,,,,,,
+317,Maisons Usinées PRG,Les Maisons Usinées PRG Inc.,"578 Chemin de la Grande-Ligne, Saint-Lin-Laurentides, Quebec, J5M 1Y1, Canada",Canada,CAN,Quebec,https://www.maisonsprg.com,,15,92.9,232.3,wood,150000.0,1500.0
+318,Mecart,Mecart Inc.,"400 Rue de l'Argon, Québec, QC G2N 2G5, Canada",Canada,CAN,Quebec,https://www.mecart.com,,,,,steel,,
+319,Bâtiment Préfab,,,Canada,CAN,Quebec,,,,,,,,
+320,Maisons Usinées Rémillard,Maisons Usinées Rémillard Inc.,"123 Rue Principale, Saint-Jean-sur-Richelieu, QC, J2X 5B6, Canada",Canada,CAN,Quebec,https://www.maisonsusineesremillard.com,,15,92.9,232.3,wood,150000.0,1500.0
+321,Bâtiment Préfabriqué Béton,Bâtiment Préfabriqué Béton Inc.,"1234 Rue Example, Montréal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.batimentprefabriquebeton.ca,,10,50.0,200.0,concrete,120000.0,2500.0
+322,Maisons Modulaires de Beauce,Maisons Modulaires de Beauce Inc.,"1234 Rue de l'Industrie, Saint-Georges, QC, G5Y 8B9, Canada",Canada,CAN,Quebec,https://maisonsmodulairesdebeauce.com,,12,74.32,223.25,wood,125000.0,1800.0
+323,Constructions Pro-Fab,Constructions Pro-Fab Inc.,"640 Route du Président-Kennedy, Saint-Joseph-de-Beauce, Quebec, G0S 2V0, Canada",Canada,CAN,Quebec,https://www.profab.ca,,20,92.9,223.0,wood,150000.0,1500.0
+324,Maisons Novoclimat,,,Canada,CAN,Quebec,,,,,,,,
+325,Écohabitations Boréales,Écohabitations Boréales Inc.,"661 Rue Principale, La Conception, QC, J0T 1M0, Canada",Canada,CAN,Quebec,https://www.ecohabitationsboreales.com,,5,92.9,204.4,wood,150000.0,2500.0
+326,Habitation Jutras,Les Habitations Jutras inc.,"123 Rue de l'Entreprise, Drummondville, QC, J2C 4V9, Canada",Canada,CAN,Quebec,https://www.habitationjutras.com,,8,55.74,185.81,wood,150000.0,2500.0
+327,Constructions Métropolitaines,Constructions Métropolitaines Inc.,"1234 Example Street, Montreal, QC, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.constructionsmetropolitaines.com,,12,50.0,200.0,wood,150000.0,3000.0
+328,Maisons Concept Dubé,,,Canada,CAN,Quebec,https://maisonsconceptdube.com,,,,,,,
+329,Habitation Modulor,Habitation Modulor Inc.,"1234 Rue Imaginaire, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.habitationmodulor.com,,5,46.45,185.8,wood,120000.0,2500.0
+330,Oasis Modular Homes,,,Canada,CAN,Quebec,,,,,,,,
+331,Maisons Modulaires André,Maisons Modulaires André Inc.,"1234 Rue Exemple, Montréal, QC, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.maisonsmodulairesandre.ca,,15,45.0,185.0,wood,120000.0,2000.0
+332,Usine Modulhab,,,Canada,CAN,Quebec,,,,,,,,
+333,Maisons Usinées Pro-Concept,Les Maisons Usinées Pro-Concept Inc.,"1234 Rue de l'Usine, Saint-Lin-Laurentides, QC, J5M 2V5, Canada",Canada,CAN,Quebec,https://www.maisonsusineesproconcept.com,,15,92.9,278.7,wood,150000.0,
+334,Habitation JML,Habitation JML Inc.,"1881 Rue Principale, Saint-Étienne-des-Grès, QC, G0X 2P0, Canada",Canada,CAN,Quebec,https://www.habitationjml.com,,6,92.9,185.8,wood,150000.0,1800.0
+335,Maisons Lumar,Les Constructions Lumar inc.,"25 Chemin de la Gare, Saint-Apollinaire, Quebec, G0S 2E0, Canada",Canada,CAN,Quebec,https://maisonslumar.com,,12,92.9,232.3,wood,150000.0,1500.0
+336,Les Habitations Blouin,,,Canada,CAN,Quebec,,,,,,,,
+337,Maisons Modulaires Confort,,,Canada,CAN,Quebec,,,,,,,,
+338,Usinex,,,Canada,CAN,Quebec,,,,,,,,
+339,Bâtiments Préfabriqués Nordiques,Bâtiments Préfabriqués Nordiques Inc.,"1234 Chemin de la Fabrique, Val-d'Or, Quebec, J9P 0B9, Canada",Canada,CAN,Quebec,https://www.bpnordiques.com,,12,37.16,185.8,wood,95000.0,1250.0
+340,Maisons ModulR,Maisons ModulR Inc.,"1234 Rue Exemple, Montréal, QC, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.maisonsmodulr.com,,8,45.0,200.0,wood,100000.0,2500.0
+341,Construction Maxera,Construction Maxera Inc.,"1234 Boulevard Industriel, Laval, Quebec, H7C 1S9, Canada",Canada,CAN,Quebec,https://www.constructionmaxera.com,,8,60.0,200.0,wood,150000.0,2000.0
+342,Maisons Futé,,,Canada,CAN,Quebec,,,,,,,,
+343,Habitat Multi-Concept,Habitat Multi-Concept Inc.,"1234 Example Street, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.habitatmulticoncept.com,,5,60.0,200.0,wood,150000.0,2000.0
+344,Maisons Usinées Havre,Maisons Usinées Havre Inc.,"123 Rue Industrielle, Montmagny, Quebec, G5V 4P5, Canada",Canada,CAN,Quebec,https://www.maisonsusineeshavre.com,,20,65.0,185.8,wood,150000.0,2000.0
+345,ModulHabitat,,,Canada,CAN,Quebec,,,,,,,,
+346,Maisons Usinées Estrie,Maisons Usinées Estrie Inc.,"1855 Rue Thomas-Chapais, Sherbrooke, QC, J1G 5J7, Canada",Canada,CAN,Quebec,https://www.maisonsusineesestrie.com,,20,74.32,223.52,wood,125000.0,1700.0
+347,Maisons L.B.,Maisons L.B. Inc.,"100 Rue des Entreprises, Saint-Apollinaire, QC, G0S 2E0, Canada",Canada,CAN,Quebec,https://maisonslb.com,,15,74.32,204.39,wood,150000.0,2000.0
+348,Maisons Bonneville,Les Industries Bonneville Ltée,"800 Rue Nobel, Saint-Lin - Laurentides, Quebec, J5M 0H4, Canada",Canada,CAN,Quebec,https://maisonsbonneville.com,,50,55.74,278.71,wood,150000.0,
+349,Maisons Usinées S. Turner,Maisons Usinées S. Turner Inc.,"15 Rue des Érables, Montmagny, Quebec, G5V 4C6, Canada",Canada,CAN,Quebec,https://www.maisonsturner.com,,12,92.9,232.3,wood,125000.0,1700.0
+350,Les Constructions Raymond & Fils,Les Constructions Raymond & Fils Inc.,"1080 Avenue du Parc, Saint-Georges, Quebec, G5Y 8B9, Canada",Canada,CAN,Quebec,https://www.raymondetfils.com,,6,74.32,204.39,wood,150000.0,2000.0
+351,Bâtiments Préfabriqués du Québec,,,Canada,CAN,Quebec,,,,,,,,
+352,Constructions M. Bergeron,Constructions M. Bergeron Inc.,"1234 Rue Principale, Ville de Quebec, QC, G1A 2B3, Canada",Canada,CAN,Quebec,https://www.constructionsmbergeron.com,,5,92.9,232.3,wood,150000.0,
+353,Les Maisons Concept,,,Canada,CAN,Quebec,,,,,,,,
+354,Batitech,,,Canada,CAN,Quebec,,,,,,,,
+355,Alouette Homes,Les Maisons Alouette Inc.,"350 Boulevard Industriel, Saint-Benoît-Labre, QC, G0M 1P0, Canada",Canada,CAN,Quebec,https://www.alouettehomes.com,,20,74.32,204.39,wood,125000.0,
+356,Récit Habitation,,,Canada,CAN,Quebec,https://recithabitation.com,,,,,,,
+357,Ma Maison Mon Toit,,,Canada,CAN,Quebec,,,,,,,,
+358,Constructions Yvan Blouin,Les Constructions Yvan Blouin inc.,"1234 Rue de l'Industrie, Laval, Quebec, H7A 0A1, Canada",Canada,CAN,Quebec,https://www.constructionsyvanblouin.com,,5,85.0,250.0,wood,150000.0,2000.0
+359,KYO,KYO Habitation,"123 Main Street, Montreal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.kyo.ca,,5,37.16,185.8,wood,150000.0,2500.0
+360,Concept Modulab,Concept Modulab Inc.,"123 Main Street, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.conceptmodulab.com,,5,45.0,150.0,wood,150000.0,2500.0
+361,Maison Usinée Prestige,,,Canada,CAN,Quebec,https://www.maisonusineeprestige.com,,,,,,,
+362,Les Maisons Usinées Signées,,,Canada,CAN,Quebec,,,,,,,,
+363,Maisons Modulaires du Québec,Maisons Modulaires du Québec Inc.,"1234 Rue Principale, Montréal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.maisonsmodulairesduquebec.com,,8,55.74,185.81,wood,150000.0,2000.0
+364,Constructions Modulaires du Québec,Constructions Modulaires du Québec Inc.,"1234 Rue Principale, Montréal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.constructionsmodulairesduquebec.com,,12,37.0,185.0,wood,95000.0,2500.0
+365,Les Maisons Confort,,,Canada,CAN,Quebec,,,,,,,,
+366,Habitation Concept,Habitation Concept Inc.,"1234 Rue de l'Example, Montreal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.habitationconcept.ca,,10,55.0,150.0,wood,150000.0,2500.0
+367,Les Maisons de Stéphane,,,Canada,CAN,Quebec,,,,,,,,
+368,Maisons Modulaire Estrie,Maisons Modulaire Estrie Inc.,"1234 Rue de la Construction, Sherbrooke, QC, J1G 1A1, Canada",Canada,CAN,Quebec,https://maisonsmodulaireestrie.ca,,8,60.0,200.0,wood,150000.0,2500.0
+369,Construction Préfabriquée Leclerc,,,Canada,CAN,Quebec,,,,,,,,
+370,Habitation Modularis,,,Canada,CAN,Quebec,,,,,,,,
+371,Maisons Prêtes-à-Vivre,,,Canada,CAN,Quebec,,,,,,,,
+372,Nordik Modular Homes,,,Canada,CAN,Quebec,,,,,,,,
+373,Habitation Moderne Québec,,,Canada,CAN,Quebec,,,,,,,,
+374,Systèmes de Construction Avancés,Systèmes de Construction Avancés Inc.,"123 Rue Industrielle, Laval, Quebec, H7L 3W3, Canada",Canada,CAN,Quebec,https://www.constructionavances.com,,15,80.0,250.0,wood,120000.0,1500.0
+375,Québec Modular Solutions,,,Canada,CAN,Quebec,,,,,,,,
+376,Maisons Laprise Estrie,Les Maisons Laprise Inc.,"7533 Boulevard Bourque, Sherbrooke, Quebec, J1N 1H4, Canada",Canada,CAN,Quebec,https://www.maisonlaprise.com,,25,92.9,232.3,wood,120000.0,1500.0
+377,Habitation Léonard,Habitation Léonard Inc.,"1234 Rue Example, Montreal, Quebec, H1A 1A1, Canada",Canada,CAN,Quebec,https://www.habitationleonard.com,,8,90.67,223.52,wood,150000.0,1800.0
+378,Ecohabitations Boréales,Les Habitations Écologiques Boréales Inc.,"151 Rue de la Plage, Saint-Faustin-Lac-Carré, Quebec, J0T 1J2, Canada",Canada,CAN,Quebec,https://ecohabitationsboreales.com,,8,70.0,185.0,wood,120000.0,2000.0
+379,Maisons Confort Design Laurentides,,,Canada,CAN,Quebec,,,,,,,,
+380,Maisons PM,Maisons PM Inc.,"1234 Rue Example, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.maisons-pm.com,,10,92.9,185.8,wood,150000.0,2000.0
+381,Habitations de la Vallée,,,Canada,CAN,Quebec,,,,,,,,
+382,Maisons Bonneville Rive-Sud,Maisons Bonneville Inc.,"1234 Rue de l'Entreprise, Brossard, QC, J4W 3H3, Canada",Canada,CAN,Quebec,https://www.maisonsbonneville.com,,15,55.74,250.84,wood,150000.0,
+383,Les Maisons Acier,,,Canada,CAN,Quebec,,,,,,,,
+384,Habitation Viau,,,Canada,CAN,Quebec,,,,,,,,
+385,Maisons Futées,,,Canada,CAN,Quebec,,,,,,,,
+386,Maisons Usinées Saguenay,Les Maisons Usinées Saguenay-Lac-Saint-Jean Inc.,"2400, rue Saint-Dominique, Jonquière, QC, G7X 7W8, Canada",Canada,CAN,Quebec,https://www.maisonsusineessaguenay.com,,20,70.0,200.0,wood,120000.0,1500.0
+387,Maison Enfant,,,Canada,CAN,Quebec,,,,,,,,
+388,Habitation Modulex,,,Canada,CAN,Quebec,,,,,,,,
+389,Maisons Dunfab,Les Constructions Maisons Dunfab Inc.,,Canada,CAN,Quebec,https://www.maisonsdunfab.com,,,,,wood,,
+390,Constructions Modulaires Côté,Constructions Modulaires Côté Inc.,"123 Example Street, Quebec City, QC, G1A 1A1, Canada",Canada,CAN,Quebec,https://www.constructionsmodulairescote.com,,8,50.0,200.0,wood,120000.0,1500.0
+391,Cabanons Mirabel,Cabanons Mirabel Inc.,"14770 Rue de Saint Augustin, Mirabel, QC, J7N 1W4, Canada",Canada,CAN,Quebec,https://www.cabanonsmirabel.com,,,,,wood,,
+392,Maisons Modul-R,,,Canada,CAN,Quebec,,,,,,,,
+393,Habitations L2C,,,Canada,CAN,Quebec,https://habitationsl2c.com,,,,,,,
+394,Les Constructions Citébec,Les Constructions Citébec Inc.,"1234 Rue de l'Example, Quebec City, Quebec, G1A 2B3, Canada",Canada,CAN,Quebec,https://www.constructionscitebec.com,,5,90.0,200.0,wood,150000.0,1600.0
+395,Maisons Usinées Gagnon,Maisons Usinées C.G. Inc.,"80 Rue du Parc, Saint-Prime, Quebec, G8J 1R6, Canada",Canada,CAN,Quebec,https://www.maisonsusineesgagnon.com,,20,92.9,223.0,wood,120000.0,
+396,Maisons Laprise Est,Maisons Laprise Est Inc.,,Canada,CAN,Quebec,https://www.maisonlaprise.com,,,,,wood,,
+397,Habitation Solécio,Habitation Solécio Inc.,"1234 Rue de l'Exemple, Montréal, QC, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.habitationsolecio.com,,10,70.0,200.0,wood,150000.0,2000.0
+398,Maisons Modulaires de l'Est,Maisons Modulaires de l'Est Inc.,"1234 Rue Industrielle, Rimouski, Quebec, G5M 1B2, Canada",Canada,CAN,Quebec,https://www.maisonsmodulairesdelest.com,,8,55.74,167.23,wood,120000.0,1500.0
+399,Bâtiment Préfabriqué Éco,,,Canada,CAN,Quebec,,,,,,,,
+400,Maisons Prêtes Québec,,,Canada,CAN,Quebec,,,,,,,,
+401,Construction ModulairExpert,,,Canada,CAN,Quebec,,,,,,,,
+402,Usinage Résidentiel Québec,,,Canada,CAN,Quebec,,,,,,,,
+403,Habitations Modulaires Laurentides,,,Canada,CAN,Quebec,,,,,,,,
+404,Constructions Prêtes à Vivre,,,Canada,CAN,Quebec,,,,,,,,
+405,Maisons Apogée,Maisons Apogée Inc.,"1234 Example Street, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.maisonsapogee.com,,10,75.0,250.0,wood,150000.0,2000.0
+406,Maisons Bonneville,Les Industries Bonneville Ltée,"1000 Boulevard Industriel, Saint-Lin-Laurentides, QC, J5M 2V6, Canada",Canada,CAN,Quebec,https://maisonsbonneville.com,,25,46.45,278.71,wood,150000.0,
+407,Maisons Usinées Bâtitech,Maisons Usinées Bâtitech Inc.,"100 Rue du Parc Industriel, Pohénégamook, QC G0L 1J0, Canada",Canada,CAN,Quebec,https://www.batitech.ca,,16,92.9,204.4,wood,120000.0,1500.0
+408,Maisons Usinées Récal,,,Canada,CAN,Quebec,,,,,,,,
+409,Maisons Usinées Charpentes Montmorency,Maisons Usinées Charpentes Montmorency Inc.,"1234 Example Street, Quebec City, Quebec, G1A 1A1, Canada",Canada,CAN,Quebec,https://www.charpentesmontmorency.com,,12,92.9,185.8,wood,150000.0,1800.0
+410,Habitation Domicil,Habitation Domicil Inc.,"101 Rue de la Construction, Laval, QC, H7P 5Z7, Canada",Canada,CAN,Quebec,https://www.habitationdomicil.com,,15,92.9,232.3,wood,150000.0,1800.0
+411,Maison Fermont,,,Canada,CAN,Quebec,,,,,,,,
+412,Habitations Chaleur,,,Canada,CAN,Quebec,,,,,,,,
+413,Maisons Usinées Noblesse,,"300 Rue Principale, Saint-Paul-de-la-Croix, QC, G0L 3Z0, Canada",Canada,CAN,Quebec,https://maisonsnoblesse.com,,12,92.9,278.7,wood,150000.0,1800.0
+414,Les Habitations Lévesque,Les Habitations Lévesque Inc.,"1234 Rue de la Construction, Quebec City, Quebec, G1A 2B3, Canada",Canada,CAN,Quebec,https://www.habitationlevesque.com,,8,70.0,180.0,wood,150000.0,2500.0
+415,Habitation Trigone,Habitation Trigone Inc.,"750, boul. Taschereau, bureau 100, La Prairie, QC, J5R 1V5, Canada",Canada,CAN,Quebec,https://www.habitationtrigone.com,,0,,,,,
+416,Bâtiments Préfabriqués Modulaires,,,Canada,CAN,Quebec,,,,,,,,
+417,Habitation Desrosiers,Les Habitations Desrosiers Inc.,"243 Rue Principale, L'Assomption, Quebec, J5W 2B4, Canada",Canada,CAN,Quebec,https://habitationdesrosiers.com,,12,74.32,185.8,wood,175000.0,2200.0
+418,Maisons Charplexe,Maisons Charplexe Inc.,"1234 Rue Charplexe, Laval, Quebec, H7A 1A1, Canada",Canada,CAN,Quebec,https://www.maisonscharplexe.com,,15,92.9,250.8,wood,180000.0,1900.0
+419,Concept SGA,Concept SGA Inc.,"1234 Rue de l'Innovation, Quebec City, QC, G1A 2B3, Canada",Canada,CAN,Quebec,https://www.conceptsga.com,,8,92.9,278.7,wood,150000.0,1800.0
+420,Habitation Innovatek,Habitation Innovatek Inc.,"1234 Rue Exemple, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.habitationinnovatek.com,,8,74.32,185.8,wood,150000.0,2000.0
+421,Maisons de l'Avenir,,,Canada,CAN,Quebec,,,,,,,,
+422,Les Habitations Jutras,,,Canada,CAN,Quebec,https://www.habitationsjutras.com,,,,,wood,,
+423,Maisons Laprise Ouest,Les Maisons Laprise Inc.,"309 Rue de l'Escale, Montmagny, QC, G5V 4P5, Canada",Canada,CAN,Quebec,https://www.maisonlaprise.com,,50,55.74,222.97,wood,120000.0,
+424,Habitation Durable,,,Canada,CAN,Quebec,,,,,,,,
+425,Maisons Usinées A. Marois,Maisons Usinées A. Marois Inc.,"340 Avenue Saint-Sacrement, Saint-Augustin-de-Desmaures, Quebec, G3A 1V9, Canada",Canada,CAN,Quebec,https://www.amarois.com,,20,92.9,232.3,wood,150000.0,2000.0
+426,Maisons Modulaires Préfab,,,Canada,CAN,Quebec,,,,,,,,
+427,Habitations Préfabriquées MDM,Habitations Préfabriquées MDM Inc.,"1234 Rue de l'Entreprise, Laval, Quebec, H7P 5P9, Canada",Canada,CAN,Quebec,https://www.habitationsmdm.com,,15,60.0,200.0,wood,150000.0,1800.0
+428,Maisons Usinées Domicil,Les Maisons Usinées Domicil Inc.,"2290 Route 112, Ascot Corner, QC, J0B 1A0, Canada",Canada,CAN,Quebec,https://maisonsusineesdomicil.com,,12,74.32,223.52,wood,120000.0,1600.0
+429,Maisons Nordik,Maisons Nordik Inc.,"1234 Boulevard Industriel, Laval, Quebec, H7S 1P8, Canada",Canada,CAN,Quebec,https://maisonsnordik.com,,8,65.0,250.0,wood,150000.0,2300.0
+430,Modulaire Inter-Québec,,,Canada,CAN,Quebec,,,,,,,,
+431,Maisons Usinées Révolution,Les Maisons Usinées Révolution Inc.,"165 Rue de l'Artisan, Montmagny, Quebec, G5V 4S7, Canada",Canada,CAN,Quebec,https://www.maisonsusineesrevolution.com,,12,92.903,232.257,wood,180000.0,2000.0
+432,Concepts Maison Modulaire,,,Canada,CAN,Quebec,,,,,,,,
+433,Maison Modulaire Innovante,Maison Modulaire Innovante Inc.,"1234 Innovation Blvd, Montreal, Quebec, H1A 2B3, Canada",Canada,CAN,Quebec,https://www.maisonmodulaireinnovante.ca,,12,45.0,150.0,wood,150000.0,2000.0
+434,Usinage Constructions Québec,Usinage Constructions Québec Inc.,"1234 Boulevard Industriel, Québec City, QC, G1A 2B3, Canada",Canada,CAN,Quebec,https://www.usinageconstructionsquebec.ca,,5,60.0,200.0,wood,120000.0,2000.0
+435,Habitation Préfabriquée Solution,,,Canada,CAN,Quebec,,,,,,,,
+436,Maisons Préfabriquées Harmonie,Les Maisons Harmonie Inc.,"123 Rue Exemple, Québec, QC, G1X 3Y7, Canada",Canada,CAN,Quebec,https://www.maisonsharmonie.com,,8,70.0,200.0,wood,150000.0,2500.0
+437,Systèmes Constructifs Modular,,,Canada,CAN,Quebec,,,,,,,,
+438,Maisons d'Avenir Usinées,,,Canada,CAN,Quebec,,,,,,,,
+439,Zak's Building Group,Zak's Building Group Ltd.,"101 East Service Road, Hague, Saskatchewan, S0K 1X0, Canada",Canada,CAN,Saskatchewan,https://zaksbuilding.com,,10,92.9,278.7,wood,150000.0,1500.0
+440,Warman Homes,Warman Home Centre LP,"601 South Railway Street West, Warman, Saskatchewan, S0K 4S0, Canada",Canada,CAN,Saskatchewan,https://warmanhomes.ca/,,10,92.9,278.7,wood,150000.0,1500.0
+441,Prairie Sun Homes,,,Canada,CAN,Saskatchewan,,,,,,,,
+442,B&B Homes,B & B Homes 2006 Ltd.,"Box 9, Highway 45, Bethune, Saskatchewan, S0G 0H0, Canada",Canada,CAN,Saskatchewan,https://bbhomes.ca,,10,92.9,204.4,wood,150000.0,
+443,J&H Homes,J&H Builders Warehouse,"3303 Millar Avenue, Saskatoon, Saskatchewan, S7K 5Y3, Canada",Canada,CAN,Saskatchewan,https://www.jhhomes.com,,12,92.9,223.0,wood,150000.0,1600.0
+444,North Prairie Developments,North Prairie Developments Ltd.,"603-45th Street West, Saskatoon, Saskatchewan, S7L 5W5, Canada",Canada,CAN,Saskatchewan,https://www.northprairiehomes.com,,5,74.32,185.81,wood,250000.0,2900.0
+445,Ehrenburg Homes,Ehrenburg Homes Ltd.,"3331 Millar Avenue, Saskatoon, Saskatchewan, S7K 7G9, Canada",Canada,CAN,Saskatchewan,https://www.ehrenburg.com,,12,120.77,232.26,wood,299900.0,2700.0
+446,Sun Ridge Residential,Sun Ridge Residential Inc.,,Canada,CAN,Saskatchewan,http://www.sunridgeresidential.com,,,,,wood,,
+447,Superior Homes,Superior Homes Ltd.,"125 Highway 18 West, Estevan, Saskatchewan, S4A 2A4, Canada",Canada,CAN,Saskatchewan,https://superiorhomes.ca,,,,,wood,,
+448,Deneschuk Homes,Deneschuk Homes Ltd.,"620 Railway Avenue, Canora, Saskatchewan, S0A 0L0, Canada",Canada,CAN,Saskatchewan,https://www.deneschukhomes.com,,15,92.9,278.7,wood,150000.0,1600.0
+449,Greystone Building Group,,,Canada,CAN,Saskatchewan,,,,,,,,
+450,B & B Homes,B & B Homes (2013) Ltd.,"1 B & B Place, Box 40, Hague, Saskatchewan, S0K 1X0, Canada",Canada,CAN,Saskatchewan,https://bbhomes.ca,,20,92.9,185.8,wood,150000.0,1500.0
+451,Modus Ventures,,,Canada,CAN,Saskatchewan,,,,,,,,
+452,Western Modular Homes,,,Canada,CAN,Saskatchewan,,,,,,,,
+453,Grandeur Housing,Grandeur Housing Ltd.,"401 Pembina Ave E, Winkler, MB R6W 3M8, Canada",Canada,CAN,Saskatchewan,https://www.grandeurhousing.com,,25,55.74,232.26,wood,120000.0,
+454,Aldon Construction,,,Canada,CAN,Saskatchewan,,,,,,,,
+455,Saskatoon Modular Homes,Saskatoon Modular Homes Ltd.,"1234 Modular Lane, Saskatoon, SK, S7K 0A1, Canada",Canada,CAN,Saskatchewan,https://www.saskatoonmodularhomes.com,,8,46.45,167.23,wood,120000.0,2500.0
+456,Northridge Developments,Northridge Development Corporation,"115 - 103 Street East, Saskatoon, SK, S7N 1Y8, Canada",Canada,CAN,Saskatchewan,https://www.northridgedevelopment.com,,10,90.0,250.0,wood,250000.0,2500.0
+457,Royalty General Construction,,,Canada,CAN,Saskatchewan,,,,,,,,
+458,Crawford Homes,Crawford Homes (1991) Ltd.,"3521 Eastgate Dr, Regina, Saskatchewan, S4Z 1A4, Canada",Canada,CAN,Saskatchewan,https://www.crawfordhomes.ca,,,,,wood,,

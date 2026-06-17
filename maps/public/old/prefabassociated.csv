@@ -1,0 +1,339 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm,latitude,longitude
+1,Affinity by Vantem,NaN,NaN,NaN,NaN,NaN,http://www.affinitybuildingsystems.com/,NaN,NaN,NaN,NaN,composite,NaN,NaN,NaN,NaN
+2,Apex Homes,NaN,NaN,United States,USA,Pennsylvania,http://www.apexhomesofpa.com/,NaN,18,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+3,Blue Ridge Log Cabins,"Blue Ridge Log Cabins, LLC","625 East Frontage Road, Campobello, SC 29322, USA",United States,USA,South Carolina,http://www.blueridgelogcabins.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,35.170512,-82.145052
+4,BonnaVilla,"BonnaVilla, a division of Chief Industries, Inc.","P.O. Box 169, Aurora, NE 68818, United States",United States,USA,Nebraska,http://www.bonnavilla.com/,NaN,NaN,143.4,182.8,wood/timber,NaN,NaN,40.8731,-98.0034
+5,Buckhorn Builders,NaN,"Millersburg, OH, United States",United States,USA,Ohio,https://www.buckhornbuilders.com/,NaN,8,NaN,NaN,wood/timber,NaN,NaN,40.5545,-81.9176
+6,Cavco Homes,"Cavco Industries, Inc.",NaN,Canada,CAN,NaN,https://www.cavcohomes.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+7,Champion Homes,NaN,NaN,Switzerland,CHE,NaN,http://www.championhomes.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,Fading West,NaN,"Buena Vista, Colorado, United States",United States,USA,Colorado,http://www.fadingwestdevelopment.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,38.8422175,-106.131027
+9,Fairmont Homes,NaN,"2181 East Market Street, Nappanee, IN 46550, United States",United States,USA,Indiana,https://www.fairmonthomes.com/,NaN,NaN,NaN,NaN,wood,NaN,NaN,41.443095,-86.00117
+10,Franklin Homes,NaN,NaN,NaN,NaN,NaN,http://franklinhomesusa.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,Heritage Homes of Nebraska,"Heritage Homes of Nebraska, Inc.","3100 W Havens Avenue, Mitchell, NE 69357, USA",United States,USA,Nebraska,http://heritagehomesofne.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,41.945851,-103.822856
+12,Huntington Homes,"Huntington Homes, Inc.","344 Fassett Rd., East Montpelier, VT 05651, United States",United States,USA,Vermont,http://www.huntingtonhomesvt.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,44.287159,-72.493358
+13,Icon Legacy,NaN,NaN,NaN,NaN,NaN,http://www.iconlegacy.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+14,Impact Housing,NaN,NaN,NaN,NaN,NaN,http://www.impacthousing.global/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,Ironwood Homes,NaN,NaN,Canada,CAN,NaN,http://www.ironwoodhomesinc.ca/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,Asahi Kasei Homes,Asahi Kasei Homes Corp.,"1-105 Kanda Jinbocho, Chiyoda-ku, Tokyo 101-8101, Japan",Japan,JPN,Tokyo,http://www.asahi-kasei.co.jp/asahi/en/aboutasahi/homes/,NaN,NaN,NaN,NaN,steel,NaN,NaN,35.696233,139.758605
+17,Daiwa House,"Daiwa House Industry Co., Ltd.","3-5-1, Nihonbashi, Chuo-ku, Tokyo 103-8212, Japan",Japan,JPN,Tokyo,http://www.daiwahouse.co.jp/English/index.html,NaN,NaN,NaN,NaN,steel,NaN,NaN,35.684685,139.774071
+18,Daiwa Lease,"Daiwa Lease Co., Ltd.","1-4-10 Koraku, Bunkyo-ku, Tokyo 112-8571, Japan",Japan,JPN,Tokyo,https://www.daiwalease.co.jp/english/index.html,NaN,NaN,NaN,NaN,steel,NaN,NaN,35.705639,139.752778
+19,フジ産業,フジ産業株式会社,"〒880-0916 宮崎県宮崎市恒久5744-1, Japan",Japan,JPN,Miyazaki,http://www.fuji-sangyou.co.jp/index.php,NaN,NaN,NaN,NaN,NaN,NaN,NaN,31.875091,131.413494
+20,北都ハウス工業,北都ハウス工業株式会社,"宮城県仙台市若林区卸町東5丁目7-28, 日本",Japan,JPN,宮城県,http://www.hokuto-house.co.jp/,NaN,NaN,NaN,NaN,steel,NaN,NaN,38.237474,140.927696
+21,Kenken,株式会社建研,"1-4-8 Nihonbashi Horidomecho, Chuo-ku, Tokyo 103-0012, Japan",Japan,JPN,Tokyo,http://www.kenken-pc.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,35.690074,139.780886
+22,郡リース,郡リース株式会社,NaN,Japan,JPN,NaN,http://www.kohri.co.jp/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+23,Misawa Homes,"Misawa Homes Co., Ltd.","2-4-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-0833, Japan",Japan,JPN,Tokyo,http://www.misawa.co.jp/en/info/,NaN,NaN,NaN,NaN,steel,NaN,NaN,35.689634,139.692101
+24,ナガワ,株式会社ナガワ,NaN,Japan,JPN,NaN,https://group.nagawa.co.jp/index.html,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+25,Nissei Build,"Nissei Build Kogyo Co., Ltd.","3-29-3, Kanda Ogawamachi, Chiyoda-ku, Tokyo 101-0052, Japan",Japan,JPN,Tokyo,http://www.nisseibuild.co.jp/en/,NaN,NaN,NaN,NaN,steel,NaN,NaN,35.697368,139.765549
+26,日東工営,日東工営株式会社,NaN,Japan,JPN,NaN,http://www.nittohkoei.co.jp/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+27,オリエントハウス (Orient House),NaN,NaN,Japan,JPN,NaN,http://www.orient-house.com/,NaN,3,NaN,NaN,steel,NaN,NaN,NaN,NaN
+28,Panasonic Homes,"Panasonic Homes Co., Ltd.","1-61, Shiromi 2-chome, Chuo-ku, Osaka 540-6114, Japan",Japan,JPN,Osaka,https://homes.panasonic.com/english/index.html,NaN,NaN,NaN,NaN,steel,NaN,NaN,34.691409,135.526507
+29,Rescohouse,"Hinokiya Group Co., Ltd.",NaN,Japan,JPN,NaN,http://www.hinokiya-group.jp/english/resco_house.html,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+30,Sankyo Frontier,NaN,"Kashiwa, Chiba, Japan",Japan,JPN,Chiba,http://www.sankyofrontier-global.com/,NaN,3,NaN,NaN,steel,NaN,NaN,35.8686,139.9755
+31,SEKISUI HEIM,"SEKISUI CHEMICAL CO., LTD",NaN,Sweden,SWE,NaN,http://www.sekisuichemical.com/about/division/housing/index.html,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+32,Sekisui House,"Sekisui House, Ltd.",NaN,Sweden,SWE,NaN,http://www.sekisuihouse-global.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+33,Sekisui House,"Sekisui House, Ltd.","1-1-88 Oyodonaka, Kita-ku, Osaka 531-0076, Japan",Japan,JPN,Osaka,http://www.sh-rc.co.jp/eng/,NaN,NaN,NaN,NaN,steel,NaN,NaN,34.705379,135.489656
+34,立川ハウス工業,立川ハウス工業株式会社,NaN,Japan,JPN,NaN,http://www.tachikawahouse.co.jp/,NaN,5,NaN,NaN,steel,NaN,NaN,NaN,NaN
+35,パルコン (Palcon),大成建設ハウジング株式会社,NaN,Japan,JPN,NaN,http://www.palcon.jp/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+36,Taisei U-lec,"大成ユーレック株式会社 (Taisei U-lec Co., Ltd.)",NaN,Japan,JPN,NaN,https://www.u-lec.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+37,トヨタホーム,トヨタホーム株式会社,〒461-0001 愛知県名古屋市東区泉1丁目23番22号,Japan,JPN,Aichi,http://www.toyotahome.co.jp/,NaN,NaN,NaN,NaN,steel,NaN,NaN,35.173755,136.911995
+38,トヨタT&S建設,トヨタT&S建設株式会社,"愛知県豊田市亀首町上向イ田65番地, 豊田市, 日本",Japan,JPN,愛知県,http://www.toyota-ts.co.jp/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,35.116776,137.182218
+39,セレ コーポレーション,株式会社セレ コーポレーション,NaN,Japan,JPN,NaN,http://www.cel-co.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+40,セキスイハウス (Sekisui House),"積水ハウス株式会社 (Sekisui House, Ltd.)","1-1-88 Oyodonaka, Kita-ku, Osaka 531-0076, Japan",Japan,JPN,Osaka,https://www.hsnet.jp/index.html,NaN,NaN,NaN,NaN,steel,NaN,NaN,34.705415,135.489959
+41,百年住宅,百年住宅株式会社,"静岡県静岡市駿河区大谷二丁目20-23, 〒422-8017, 日本",Japan,JPN,静岡県,https://www.wpc100.co.jp/,NaN,52,99.48,181.84,concrete,NaN,NaN,34.956624,138.410683
+42,Elite Systems GB,Elite Systems (GB) Ltd,"Bedford Street, Westgate, Cleckheaton, West Yorkshire, BD19 5EA, United Kingdom",United Kingdom,GBR,West Yorkshire,http://www.elitesystemsgb.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,53.72449,-1.71367
+43,SKW Construction,SKW Construction Ltd,NaN,Slovakia,SVK,NaN,http://www.skwgroup.co.uk/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+44,SiBCAS,SiBCAS Ltd,NaN,United Kingdom,GBR,NaN,https://sibcas.co.uk,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+45,Phoenix Building Systems,Phoenix Building Systems Ltd,NaN,United Kingdom,GBR,NaN,http://www.phoenixbuildingsystems.com,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+46,TF Jackson,NaN,NaN,United Kingdom,GBR,NaN,http://www.jackson-group.co.uk/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+47,Vision Built,NaN,"Ballina Road, Rathscanlan, Tubbercurry, Co. Sligo, F91 HC92, Ireland",Ireland,IRL,Co. Sligo,http://www.vision-built.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,54.051768,-8.737342
+48,TG Escapes,NaN,NaN,United Kingdom,GBR,NaN,http://www.tgescapes.co.uk,NaN,NaN,NaN,NaN,timber,NaN,NaN,NaN,NaN
+49,Premier Modular,NaN,NaN,United Kingdom,GBR,NaN,http://www.premiermodular.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+50,JDC Building Works,JDC Building Works Ltd.,NaN,United Kingdom,GBR,NaN,http://jdcbuildingworks.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+51,Modex Spaces,Modex Spaces Limited,"Unit 6, Poplar Drive, Witton, Birmingham, B6 7AD, United Kingdom",United Kingdom,GBR,England,http://www.modex-spaces.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,52.511806,-1.875016
+52,Cleveland Modular,NaN,NaN,United Kingdom,GBR,NaN,http://www.clevelandgroup.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+53,MBS Modular Building Systems,Modular Building Systems Ltd,"Unit 8, Crown Business Park, Dukestown, Tredegar, NP22 4EF, United Kingdom",United Kingdom,GBR,Wales,http://mbssltd.co.uk/,NaN,NaN,NaN,NaN,steel,NaN,NaN,51.778838,-3.264078
+54,Thurston Group,NaN,NaN,United Kingdom,GBR,NaN,http://www.thurstongroup.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+55,Wernick Refurbished Buildings,NaN,NaN,United Kingdom,GBR,NaN,http://www.wernick.co.uk/refurbished,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+56,Cabins & Containers,Cabins & Containers Ltd,NaN,United Kingdom,GBR,NaN,http://www.cabinsandcontainers.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+57,Portakabin,NaN,NaN,United Kingdom,GBR,NaN,https://www.portakabin.com/?utm_source=MPBA&utm_medium=referral&utm_campaign=cta,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+58,The Qube,NaN,NaN,United Kingdom,GBR,NaN,http://www.theqube.co.uk,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+59,Ideal Building Systems,Ideal Building Systems Ltd,"Carnaby Industrial Estate, Bridlington, YO15 3QY, United Kingdom",United Kingdom,GBR,East Yorkshire,http://www.idealbuildingsystems.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,54.06605,-0.22855
+60,Paragon Space,NaN,NaN,United Kingdom,GBR,East Yorkshire,http://www.paragonspace.co.uk/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+61,Boyton-BRJ,Boyton-BRJ System Buildings Limited,NaN,United Kingdom,GBR,NaN,http://www.boyton-brj.co.uk,NaN,NaN,NaN,NaN,timber,NaN,NaN,NaN,NaN
+62,Algeco UK,NaN,NaN,United Kingdom,GBR,NaN,http://www.elliottuk.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+63,Newspace,NaN,NaN,United Kingdom,GBR,NaN,http://www.newspace.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+64,Silwood Space,NaN,"123 Theobalds Park Road, Enfield, EN2 9BH, United Kingdom",United Kingdom,GBR,England,http://www.silwoodspace.com,NaN,NaN,NaN,NaN,NaN,NaN,NaN,51.668543,-0.092127
+65,MRC Modular,NaN,NaN,United Kingdom,GBR,NaN,http://www.mrcmodular.com,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+66,ASG Fabrications,NaN,"Batley, UK",United Kingdom,GBR,West Yorkshire,http://www.asgfabrications.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,53.7038,-1.6336
+67,Hemsec,NaN,NaN,United Kingdom,GBR,NaN,http://www.hemsec.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+68,Lowrie Modular Buildings,Lowrie Brothers Ltd,NaN,United Kingdom,GBR,South East England,http://www.lowriebros.co.uk,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+69,Actiform,NaN,NaN,United Kingdom,GBR,NaN,http://actiform.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+70,PF Modular,NaN,NaN,United Kingdom,GBR,Hampshire,http://www.pfmodular.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+71,Chaparral,NaN,NaN,Canada,CAN,British Columbia,http://www.chaparralbuilt.com/,NaN,NaN,NaN,NaN,wood/timber,250000,NaN,NaN,NaN
+72,Shelter,NaN,NaN,Canada,CAN,NaN,http://www.shelterhomes.ca/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+73,Lumar Haus,Lumar Haus Gmbh,"Blaue Lagune, Teilfläche 63, 2351 Wiener Neudorf, Österreich",Austria,AUT,Niederösterreich,https://www.lumar-haus.at,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,48.067421,16.321727
+74,Marles,NaN,NaN,Austria,AUT,NaN,https://www.marles.at,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+75,Sonnleitner,NaN,"Ortenburg, Bayern, Deutschland",Germany,DEU,Bayern,https://www.sonnleitner.de/home.html,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,48.5667,13.2167
+76,Mein Schwabenhaus,Mein Schwabenhaus Österreich GmbH,"Mariahilfer Straße 123, 1060 Wien, Österreich",Austria,AUT,Wien,https://mein-schwabenhaus.at,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,48.192013,16.34296
+77,Wolf Haus,Wolf Systembau Gesellschaft m.b.H.,"Wolf-Haus Straße 1, 3300 Amstetten, Österreich",Austria,AUT,Niederösterreich,https://www.wolfhaus.at,NaN,NaN,80,250,wood/timber,NaN,NaN,48.121324,14.872019
+78,Nema,"Nema, spol. s r.o.","Olešnice 107, 373 31 Olešnice, Czech Republic",Czech Republic,CZE,Jihočeský kraj,https://www.nema.cz/,NaN,NaN,NaN,NaN,"wood (including CLT, MHM, KVH, BSH)",NaN,NaN,48.992205,14.500106
+79,TESAŘSTVÍ BISKUP,"TESAŘSTVÍ BISKUP, s. r. o.",NaN,Czech Republic,CZE,NaN,https://www.tesari.cz/?utm_source=admd&utm_medium=proklik,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+80,DMK System,NaN,NaN,Czech Republic,CZE,NaN,https://www.dmk-system.cz/?utm_source=admd&utm_medium=proklik,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+81,OTHERm,OTHERm s.r.o.,"Lidická 700/19, Brno, 602 00, Česká republika",Czech Republic,CZE,Jihomoravský kraj,https://www.otherm.cz,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,49.204376,16.604035
+82,Woodbase,NaN,NaN,Czech Republic,CZE,NaN,https://woodbase.cz/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+83,HOUSES BG,NaN,NaN,Bulgaria,BGR,NaN,http://www.houses-bg.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+84,BL Sport Houses,BL Sport Ltd,NaN,Bulgaria,BGR,NaN,http://www.blsporthouses.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+85,Братя Пашкулеви,NaN,"гр. Брацигово, фабрика ""Братя Пашкулеви"", Bulgaria",Bulgaria,BGR,Pazardzhik,http://www.paskulevi.com,NaN,27,55,222,wood/timber,NaN,NaN,42.0203,24.3744
+86,Глобал Стракчърс,Глобал Стракчърс ООД,"с. Басарбово, местност Кантона, България",Bulgaria,BGR,Ruse,http://www.globalstructuresltd.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,43.7796,25.9568
+87,Еврохолц,Еврохолц ООД,"Генерал Тошево, България",Bulgaria,BGR,Dobrich,https://www.euroholz.eu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,43.7017,27.8317
+88,Екозид,NaN,NaN,Bulgaria,BGR,NaN,http://www.ecozid.com,NaN,NaN,97,272,wood/timber,29190,NaN,NaN,NaN
+89,Ted House,NaN,NaN,Bulgaria,BGR,NaN,http://www.ted-house.com,NaN,NaN,24,430,NaN,NaN,NaN,NaN,NaN
+90,ТЕС,ТЕС ЕКОСТРОЙ 1 ЕООД,"ул. ""Черешова градина"" №15, Панчарево, София, Bulgaria",Bulgaria,BGR,Sofia,http://www.tes-bg.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,42.582074,23.4207
+91,LapWall,LapWall Oyj,NaN,Finland,FIN,NaN,http://www.lapwall.fi,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+92,Adlerhaus,NaN,NaN,Germany,DEU,NaN,http://www.adlerhaus.de,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+93,ALHO,ALHO Systembau GmbH,"Am Oberwald 1, 57584 Wallmenroth, Germany",Germany,DEU,Rhineland-Palatinate,http://www.alho.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,50.797163,7.85443
+94,allkauf haus,allkauf haus GmbH,NaN,Germany,DEU,NaN,http://www.allkauf.de,NaN,54,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+95,Baufritz,Bau-Fritz GmbH & Co. KG,"Alpenstraße 25, 87746 Erkheim, Deutschland",Germany,DEU,Bayern,http://www.baufritz.de,NaN,NaN,100,NaN,wood/timber,450000,3600,48.07059,10.26739
+96,Beilharz Haus,NaN,NaN,Germany,DEU,Baden-Württemberg,http://www.beilharz-haus.de,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+97,Büdenbender Hausbau,NaN,NaN,Germany,DEU,NaN,http://www.buedenbender-hausbau.de,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+98,ELK,ELK GmbH,NaN,Germany,DEU,NaN,https://www.elkhaus.de/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+99,Fingerhut Haus,Fingerhut Haus GmbH,NaN,Germany,DEU,NaN,http://www.fingerhuthaus.de,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+100,Haas Fertighaus,Haas Fertigbau GmbH,"Industriestraße 8, 84326 Falkenberg, Deutschland",Germany,DEU,Bayern,http://haas-fertighaus.de/hp1/Startseite.htm#1,NaN,NaN,80,250,wood/timber,220000,NaN,48.525018,12.841889
+101,HARTL HAUS,Hartl Haus Holzindustrie GmbH,NaN,Germany,DEU,NaN,http://www.hartlhaus.de/,NaN,NaN,50,250,wood/timber,NaN,NaN,NaN,NaN
+102,Hauck Hausbau,NaN,NaN,Germany,DEU,Baden-Württemberg,https://hauck-hausbau.de/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+103,HBB Holzbau Bayern,HBB Holzbau Bayern GmbH & Co. KG,"Rathausplatz 4–6, 92439 Bodenwöhr, Germany",Germany,DEU,Bayern,https://holzbau-bayern.de/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,49.279597,12.226019
+104,HolzHaus Bonndorf,HolzHaus Bonndorf GmbH,"Im Breitenfeld 14, 79848 Bonndorf im Schwarzwald, Deutschland",Germany,DEU,Baden-Württemberg,https://holzhaus.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,47.815543,8.363396
+105,ISOWOODhaus,holz & raum GmbH & Co. KG,"Therecker Weg 11, 57413 Finnentrop, Germany",Germany,DEU,Nordrhein-Westfalen,http://www.isowoodhaus.de/,NaN,50,100,250,wood/timber,NaN,NaN,51.17609,7.97654
+106,Interhaus Barta,Interhaus-Barta Kft.,NaN,Hungary,HUN,NaN,http://www.interhaus.hu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+107,Pannon Készház,NaN,NaN,Hungary,HUN,NaN,http://www.pannonkeszhaz.hu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+108,Variosystem,NaN,NaN,Hungary,HUN,NaN,http://www.variosystem.hu,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+109,ARBIO,ARBIO S.A.,NaN,Switzerland,CHE,NaN,https://www.arbio.ch/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+110,Artcan (Maisons en Chanvre),NaN,NaN,NaN,NaN,NaN,http://maisonenchanvre.com/,NaN,NaN,NaN,NaN,hempcrete (béton de chanvre),NaN,NaN,NaN,NaN
+111,Hemp Built,NaN,NaN,Australia,AUS,NaN,http://www.hempbuilt.com.au/,NaN,NaN,NaN,NaN,hempcrete,NaN,NaN,NaN,NaN
+112,Hemp Building Company,NaN,NaN,NaN,NaN,NaN,https://www.hempbuildingco.com/,NaN,NaN,NaN,NaN,hemplime (hempcrete composite),NaN,NaN,NaN,NaN
+113,Tiny House Scotland,NaN,NaN,United Kingdom,GBR,NaN,https://tinyhousescotland.co.uk/tiny-house-scotland-store/tiny-houses/nesthouse-moveable-micro-house-complete-ex-works/,NaN,2,24,24,wood/timber,55000,2292,NaN,NaN
+114,Klein,NaN,NaN,Spain,ESP,NaN,https://liveklein.com/houses/a45/,NaN,3,45,150,CLT,99000,NaN,NaN,NaN
+115,ekokoncept,NaN,NaN,NaN,NaN,NaN,http://www.ekokoncept.com/en/prefabricated-houses/prefabricated-house-ek-014/,NaN,NaN,23.05,55.5,NaN,38800,NaN,NaN,NaN
+116,Lushna,NaN,NaN,NaN,NaN,NaN,http://www.glamping-lushna.com/lushna-suite-lux-glamping-cabin,NaN,7,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+117,houzEKO,NaN,NaN,NaN,NaN,NaN,https://houzeko.com/project/our-wooden-tiny-house/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+118,NOMAAD Home,NaN,NaN,Norway,NOR,NaN,https://www.nomadcontainer.com/,NaN,5,18,72,steel,5000,3000,NaN,NaN
+119,Tiny Wunder House,NaN,"Oradea, Romania",Romania,ROU,Oradea,http://www.tinywunderhouse.com/models/pollux/,NaN,NaN,14,14,wood/timber,42900,3064,47.0722,21.9211
+120,Eco Tiny House,NaN,NaN,Romania,ROU,NaN,https://ecotiny.house/products/tiny-houses/tinyvictor,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+121,Solido House,Solido House SRL,"Strada Sălciilor nr. 2, Popești-Leordeni, Ilfov, 077160, România",Romania,ROU,Ilfov,https://solidohouse.ro/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,44.372049,26.175814
+122,Eco Pod Design,NaN,NaN,United Kingdom,GBR,NaN,http://www.ecopoddesign.co.uk/residential/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+123,Lune Valley Pods,NaN,"Unit 5D Keer Park, Warton Road, Carnforth LA5 9FG, United Kingdom",United Kingdom,GBR,Lancashire,https://lunevalleypods.co.uk/portfolio/apartment-pod/,NaN,11,NaN,NaN,wood/timber,NaN,NaN,54.142315,-2.761253
+124,Bespoke Outdoors Living,NaN,NaN,Belgium,BEL,NaN,https://www.bespokeoutdoorsliving.com/geodesic-glamping-dome/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+125,Armadilla,Armadilla Ltd,"Armadilla Ltd, Unit 1, Bonnyrigg Industrial Estate, Bonnyrigg, EH19 3LW, United Kingdom",United Kingdom,GBR,Scotland,https://armadilla.co.uk/kurv,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,55.874556,-3.106848
+126,Out of the Valley,Out of the Valley Ltd,"The Old Sawmills, Dartington, Totnes, Devon, TQ9 6EU, United Kingdom",United Kingdom,GBR,Devon,https://outofthevalley.co.uk/cabins/nomad-studio/,NaN,4,18,45,timber,45000,NaN,50.444858,-3.693531
+127,The Wee House Company,The Wee House Company Limited,"The Wee House Company, Standalane, Stewarton, Kilmarnock, KA3 3AH, United Kingdom",United Kingdom,GBR,Scotland,https://theweehousecompany.co.uk/modular-homes/two-bedroom-cottage-style/,NaN,4,40,90,wood/timber,99000,NaN,55.682894,-4.305535
+128,Blackdown Shepherd Huts,NaN,NaN,United Kingdom,GBR,NaN,https://www.blackdownshepherdhuts.co.uk/our-huts/the-turnkey-hut/,NaN,2,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+129,Omnipods & Cabins UK,Omnipods & Cabins UK,"1 The Quadrangle, East Allington, Totnes, TQ9 7PY, United Kingdom",United Kingdom,GBR,Devon,https://www.omnipodsandcabins.co.uk/medio,NaN,NaN,42,42,NaN,49500,NaN,50.309013,-3.710459
+130,KOTO,NaN,NaN,United Kingdom,GBR,NaN,https://kotodesign.co.uk/small-cabin,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+131,Podmakers,Podmakers Ltd,"Unit 5, Cobdown Farm, Marshfield, Chippenham, SN14 8BL, United Kingdom",United Kingdom,GBR,England,https://www.podmakers.co.uk/the-escape-pod-2,NaN,2,7,10,wood/timber,38000,NaN,51.429156,-2.289682
+132,Pod Space,Pod Space Ltd,"Unit 7, Burnley Road, Mytholmroyd, Hebden Bridge, HX7 5QJ, United Kingdom",United Kingdom,GBR,West Yorkshire,https://www.pod-space.co.uk/pods/lite-pod/,NaN,4,15,45,timber,19995,NaN,53.733177,-1.985918
+133,Redukt,NaN,NaN,Poland,POL,NaN,https://www.redukt.org/eng-start,NaN,3,18,48,wood/timber,NaN,NaN,NaN,NaN
+134,Berghaus Tiny House,NaN,NaN,Germany,DEU,NaN,https://berghaus-tinyhouse.com/magdalena-tinyhousemodel/,NaN,NaN,25,35,wood/timber,NaN,NaN,NaN,NaN
+135,Aurora Company,Aurora Company Sp. z o.o. Damian Napora,NaN,Poland,POL,NaN,https://auroracompany.pl/modele-domkow/porto/,NaN,NaN,25.4,25.4,wood/timber,NaN,NaN,NaN,NaN
+136,Racocoon (U-Coon),Racocoon bv,"Langeweg 119, 2990 Wuustwezel, België",Belgium,BEL,Antwerpen,https://www.racocoon.be/u-coon,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,51.392675,4.523062
+137,Systimber,Systimber,"Den Beer 18, 9840 De Pinte, Belgium",Belgium,BEL,East Flanders,https://www.systimber.com/tuinkantoren/,NaN,NaN,15,40,wood/timber,28450,NaN,51.013857,3.649488
+138,Tiny House Benelux,Tiny House Benelux,NaN,Netherlands,NLD,NaN,https://tinyhousebenelux.nl,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+139,EcoCabins,NaN,NaN,Netherlands,NLD,NaN,https://www.eco-cabins.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+140,Wikkelhouse,NaN,"Amsterdam, Netherlands",Netherlands,NLD,North Holland,https://wikkelhouse.com,NaN,NaN,25,NaN,wood/timber,40000,NaN,52.3676,4.9041
+141,Global Reality,Global Reality Ltd.,NaN,NaN,NaN,NaN,https://www.globalreality-ltd.com/products/dream-house-smarthouse-cabin-lodge-for-your-garden,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+142,Madeiguincho,Madeiguincho Lda.,"Rua 1º de Maio 9, 2665-125 Malveira, Portugal",Portugal,PRT,Lisboa,https://www.madeiguincho.pt/melides-casa-na-rvore/9e0qt1oz73tqdjowdp264zawuzchl9,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,38.930005,-9.268378
+143,Mima Housing,Mima Housing Lda.,"Rua do Progresso, 269, 4760-841 Vila Nova de Famalicão, Portugal",Portugal,PRT,Braga,https://www.mimahousing.com/mimalight,NaN,NaN,36,120,wood/timber,NaN,NaN,41.407826,-8.522328
+144,Jular,Jular Madeiras S.A.,"Rua de São Martinho, 101, 4785-155 Trofa, Portugal",Portugal,PRT,Norte,https://www.jular.pt/en/produtos/casas-pre-fabricadas/casas-modulares-treehouse-sw,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,41.34241,-8.56304
+145,Ark Shelter,Ark Shelter BV,NaN,Belgium,BEL,NaN,https://ark-shelter.com/work,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+146,MIND,Masaveu,"C/ Jenaro Suárez Prendes, 250. Bajo, 33209, Nuevo Roces, Gijón, Asturias, Spain",Spain,ESP,Asturias,https://mind.masaveu.com,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43.507774,-5.63314
+147,Grupo Avintia,"Grupo Avintia, S.L.",NaN,Spain,ESP,NaN,https://www.grupoavintia.com,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+148,Gardiun Techno,Kovyx Outdoor S.L.,"Avda. Andalucía, 208, 28341 Valdemoro, Madrid, Spain",Spain,ESP,Madrid,https://www.gardiuntechno.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40.187609,-3.678094
+149,Evowall,NaN,"Ctra. Artés, S/N, 08272 Sant Fruitós de Bages, Barcelona, Spain",Spain,ESP,Catalonia,https://www.evowall.com,NaN,NaN,NaN,NaN,composite,NaN,NaN,41.786553,1.863917
+150,Sismo Spain,Sismo Building Technology Spain,"Pol. Industrial Nueva Campana, nave 38, 29660 Marbella, Málaga, España",Spain,ESP,Andalucía,https://www.sismospain.com,NaN,NaN,NaN,NaN,composite,NaN,NaN,36.507706,-4.968689
+151,American Building System,NaN,NaN,Spain,ESP,NaN,https://www.abs.es,NaN,4,36,NaN,NaN,68880,NaN,NaN,NaN
+152,SecoSteel,NaN,NaN,Sweden,SWE,NaN,https://www.secosteel.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+153,Tini Living,NaN,NaN,Spain,ESP,NaN,https://www.tiniliving.com,NaN,8,34,114,steel,44000,1400,NaN,NaN
+154,SF System,NaN,NaN,Spain,ESP,NaN,https://www.sfsystem.es,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+155,Enerblock,NaN,NaN,United Arab Emirates,ARE,Dubai,https://www.enerblock.net,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+156,La Casa de Hormigón,NaN,NaN,Spain,ESP,NaN,https://www.lacasadehormigon.es,NaN,NaN,120,NaN,concrete,220000,NaN,NaN,NaN
+157,Zero Housing,NaN,NaN,Spain,ESP,NaN,https://www.zerohousing.es,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+158,Thermochip,NaN,NaN,Spain,ESP,NaN,https://www.thermochip.com,NaN,NaN,NaN,NaN,composite,NaN,NaN,NaN,NaN
+159,STALART,NaN,"C/ Vicente Peirats Montón, 3, 2B, La Vall d’Uixó, 12600, Castellón, España",Spain,ESP,Castellón,https://www.stalart.es,NaN,NaN,NaN,NaN,steel,NaN,NaN,39.82535,-0.22978
+160,Modulya,NaN,NaN,NaN,NaN,NaN,https://www.modulya.com,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+161,Medgón,Medgón,"Polígono Industrial, nave 50, Carrión de los Condes, 34120, Palencia, Spain",Spain,ESP,Castilla y León,https://www.medgon.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,42.338288,-4.605116
+162,Akat Prefabrike,Akat Prefabrik Yapı Sanayi ve Ticaret Ltd. Şti.,"Beysan Sanayi Sitesi, Birlik Caddesi, No:32, Haramidere, Avcılar, 34310 İstanbul, Türkiye",Turkey,TUR,İstanbul,http://www.akatprefabrike.com.tr/,NaN,NaN,NaN,NaN,steel,NaN,NaN,41.039173,28.664247
+163,Alacali,Alacalı Prefabrik Yapı ve İnşaat Sanayi Ticaret Limited Şirketi,"Organize Sanayi Bölgesi 1. Cadde No:1, Hendek, Sakarya, 54300, Turkey",Turkey,TUR,Sakarya,https://www.alacali.com.tr,NaN,NaN,NaN,NaN,steel,NaN,NaN,40.7997,30.7438
+164,ALFA Prefabrik,ALFA Prefabrike Beton ve Çelik Yapı San.ve Tic.A.Ş.,"Organize Sanayi Bölgesi 23. Cadde No: 3, 38070 Melikgazi, Kayseri, Turkey",Turkey,TUR,Kayseri,http://www.alfaprefabrik.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,38.747567,35.341051
+165,Batı Prefabrik,Batı Prefabrik A.Ş.,NaN,Turkey,TUR,NaN,https://www.batiprefabrik.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+166,Beltas Yapı,NaN,NaN,Belgium,BEL,NaN,http://www.beltesyapi.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+167,BG Prefabrik,NaN,NaN,Bulgaria,BGR,NaN,https://www.bgprefabrik.com.tr/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+168,Betonel,NaN,NaN,Belgium,BEL,NaN,https://www.betonel.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+169,Cemre Prefabrik,NaN,NaN,Turkey,TUR,NaN,https://cemreprefabrik.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+170,Dagyapi Prefabrik,Dagyapi Prefabrik Insaat Sanayi ve Ticaret Limited Sirketi,"Gebze Organize Sanayi Bölgesi, 800. Sokak No: 802 Gebze, Kocaeli, 41400, Turkey",Turkey,TUR,Kocaeli,https://www.dagyapiprefabrik.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,40.828189,29.430974
+171,Dayan Beton,NaN,NaN,Turkey,TUR,NaN,https://www.dayanbeton.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+172,EKS Göktaş Prefabrik,NaN,NaN,Turkey,TUR,NaN,https://www.eksgoktas.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+173,Elit Prefabrike,NaN,NaN,NaN,NaN,NaN,https://elitprefabrik.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+174,Emek Prefabrik,NaN,"Veliköy Sanayi Bölgesi, Veliköy Sanayi Caddesi No:106, Veliköy, Çerkezköy, Tekirdağ, Turkey",Turkey,TUR,Tekirdağ,https://www.emekprefabrik.com/tr/home-tr/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41.267786,27.946726
+175,Er Prefabrik,NaN,"Muradiye Mah. 5. Sok. No:20 45140 Yunusemre, Manisa, Turkey",Turkey,TUR,Manisa,https://www.erprefabrik.com.tr/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,38.6737,27.3962
+176,Ete Beton,NaN,NaN,Turkey,TUR,NaN,https://www.etebeton.com.tr/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+177,Fırat Prefabrik,NaN,NaN,Finland,FIN,NaN,http://www.firatprefabrik76.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+178,Gümüş Prefabrik,Gümüş Prefabrik Yapı Sanayi ve Ticaret Limited Şirketi,"Organize Sanayi Bölgesi, 3. Cadde No:15, Merkez, Düzce, 81000, Türkiye",Turkey,TUR,Düzce,http://www.www.gumusprefabrik.com.tr/,NaN,NaN,NaN,NaN,steel,NaN,NaN,40.846935,31.19427
+179,Gürbağ Prefabrik,NaN,NaN,Turkey,TUR,NaN,https://www.gurbagprefabrik.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+180,Harran Prefabrik,NaN,NaN,Turkey,TUR,NaN,http://www.harranprefabrik.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+181,Ilgaz Prefabrik,NaN,NaN,Turkey,TUR,NaN,https://www.ilgazprefabrik.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+182,KA•YAPI,NaN,"Nilüferköy Mah. Nilüferköy Cad. No:14, 16265 Osmangazi / Bursa, Turkey",Turkey,TUR,Bursa,https://www.kayapi.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,40.250927,28.917813
+183,Legoyap,Legoyap Prefabrik Özaras Grup,NaN,Turkey,TUR,NaN,https://www.legoyap.com.tr/,NaN,NaN,NaN,NaN,concrete/steel,NaN,NaN,NaN,NaN
+184,Okaply,NaN,"Oka, Quebec, Canada",Canada,CAN,Quebec,http://okaply.com/,NaN,NaN,NaN,NaN,composite,NaN,NaN,45.4668,-74.0828
+185,Out-Back Portable Buildings,NaN,"192 Maurice Rd, Murray Bridge SA 5254, Australia",Australia,AUS,South Australia,http://www.outbackportablebuildings.com.au/,NaN,NaN,NaN,NaN,steel,NaN,NaN,-35.12762,139.27261
+186,Napresa,Napresa Prefabricados S.A. de C.V.,"Calle 1 No. 111, Zona Industrial, 78395 San Luis Potosí, San Luis Potosí, México",Mexico,MEX,San Luis Potosí,http://www.napresa.com.mx/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,22.153371,-100.929919
+187,VIPROCOSA,NaN,NaN,Mexico,MEX,Guanajuato,http://www.viprocosa.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+188,Concrelaje,NaN,NaN,Brazil,BRA,Mato Grosso do Sul,http://www.concrelaje.com.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+189,CPI - Solucoes em Premoldados,NaN,"Jandira, São Paulo, Brazil",Brazil,BRA,São Paulo,http://www.cpi.eng.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,-23.5275,-46.9025
+190,Engedelta Engenharia,Engedelta Engenharia e Construção,"Sorriso, Mato Grosso, Brazil",Brazil,BRA,Mato Grosso,http://www.engedelta.com.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,-12.5422,-55.7211
+191,Manturi,NaN,NaN,Brazil,BRA,Santa Catarina,http://www.manturi.com.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+192,PUMA Lajes Alveolares,NaN,"Estrada Giacobbe Burigo Bafo, 1300, Atibaia, CEP: 12952-823, Brazil",Brazil,BRA,São Paulo,http://www.pumalajes.com.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,-23.186067,-46.607282
+193,Sudeste,NaN,NaN,India,IND,NaN,http://www.sudeste.ind.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+194,T&A Pré-Fabricados,NaN,NaN,Brazil,BRA,NaN,http://www.tea.com.br,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+195,CETESA,CETESA S.A.,NaN,Colombia,COL,NaN,http://cetesa.com.co/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+196,Facoro,NaN,NaN,Chile,CHL,NaN,https://www.facoro.cl/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+197,BG Manufacturing,NaN,NaN,Bulgaria,BGR,NaN,http://www.bgmfg.homes/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+198,R-Anell Homes,"R-Anell Housing Group, LLC","R-Anell Homes, 2339 US Hwy 221-A, Bostic, NC 28018, United States",United States,USA,North Carolina,http://r-anell.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,35.44483,-81.80962
+199,Fleetwood Homes,"Fleetwood Homes, Inc.","8201 Arrowridge Blvd, Charlotte, NC 28273, USA",United States,USA,North Carolina,http://fleetwoodhomes.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,35.140715,-80.915123
+200,Cavco,"Cavco Industries, Inc.",NaN,United States,USA,North Carolina,https://cavco.com/northcarolina,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+201,Nationwide Homes,"Nationwide Homes, LLC","4840 E. Main Street, Martinsville, VA 24112, USA",United States,USA,Virginia,http://nationwide-homes.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,36.694363,-79.790385
+202,Destiny Home Builders,NaN,NaN,United States,USA,Georgia,http://destinyhomebuilders.com/,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+203,Champion Homes,NaN,"Lillington, North Carolina, United States",United States,USA,North Carolina,http://championhomesofnc.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,35.3996,-78.8156
+204,Champion Homes,NaN,NaN,NaN,NaN,NaN,http://championhomesky.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+205,Champion Homes,NaN,"Dresden, Tennessee, United States",United States,USA,Tennessee,http://championhomesoftn.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,36.2881,-88.7081
+206,Clayton Addison,NaN,NaN,NaN,NaN,NaN,http://claytonaddisonhbf.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+207,Guerdon Modular Buildings,NaN,NaN,United States,USA,NaN,https://www.guerdonmodularbuildings.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+208,Red Sea International,Red Sea International Company,"King Abdulaziz Road, P.O. Box 4277, Riyadh 11491, Kingdom of Saudi Arabia",Saudi Arabia,SAU,Riyadh,https://redseaintl.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,24.658611,46.712778
+209,Algeco,NaN,NaN,United Kingdom,GBR,NaN,https://www.algeco.co.uk/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+210,KLEUSBERG,NaN,NaN,Germany,DEU,NaN,https://www.kleusberg.de/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+211,Connect Homes,"Connect Homes, LLC","706 S. Alameda St, Los Angeles, CA 90021, USA",United States,USA,California,https://www.connect-homes.com/,NaN,15,37,297,steel,184800,NaN,34.036536,-118.239794
+212,Dan-Wood,NaN,NaN,United Kingdom,GBR,NaN,https://www.dan-wood.co.uk/,NaN,69,NaN,NaN,timber,NaN,NaN,NaN,NaN
+213,Prefabulous,NaN,"Wagga Wagga, NSW, Australia",Australia,AUS,New South Wales,https://prefabulous.net.au/,NaN,22,NaN,NaN,NaN,220000,NaN,-35.1175,147.3675
+214,Frame Build UK,NaN,NaN,United Kingdom,GBR,NaN,https://framebuilduk.com/,NaN,NaN,NaN,NaN,timber,NaN,NaN,NaN,NaN
+215,Greencore Homes,NaN,NaN,United Kingdom,GBR,NaN,https://www.greencorehomes.co.uk/,NaN,NaN,NaN,NaN,NaN,404000,NaN,NaN,NaN
+216,HAUS,Haus UK Ltd,"Unit 11, 14 Southgate Road, London, N1 3LY, United Kingdom",United Kingdom,GBR,England,https://www.haus.uk.com/,NaN,NaN,NaN,NaN,timber,NaN,NaN,51.538721,-0.088535
+217,Villen inHAUS,NaN,NaN,Germany,DEU,NaN,https://villeninhaus.de,NaN,111,100,NaN,concrete and steel,400000,NaN,NaN,NaN
+218,Karmod International,NaN,"Unit 6, Pine Court, Walker Road, Bardon Hill, Coalville, Leicester, LE67 1SZ, United Kingdom",United Kingdom,GBR,Leicestershire,https://www.karmodint.co.uk,NaN,32,1.21,12.3,composite,NaN,NaN,52.719858,-1.356334
+219,KC Modular Buildings,NaN,NaN,United Kingdom,GBR,NaN,https://kcmodularbuildings.co.uk,NaN,NaN,NaN,NaN,steel,25000,NaN,NaN,NaN
+220,Koto,NaN,NaN,United Kingdom,GBR,NaN,https://koto.co.uk,NaN,NaN,NaN,NaN,wood/timber,245000,NaN,NaN,NaN
+221,Merit,Merit Industrialised Construction,NaN,United Kingdom,GBR,NaN,https://www.merit.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+222,MORE Housing,NaN,NaN,United Kingdom,GBR,NaN,https://www.more-housing.co.uk,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+223,nHouse,NaN,NaN,United Kingdom,GBR,NaN,https://www.the-nhouse.com,NaN,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+224,Palmatin Wooden Houses,NaN,NaN,NaN,NaN,NaN,https://www.palmatin.com/kit-houses-uk,NaN,NaN,90,120,wood/timber,14000,NaN,NaN,NaN
+225,Premier Modular,Premier Modular Limited,NaN,United Kingdom,GBR,NaN,https://premiermodulargroup.co.uk,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+226,Prefab Homes,NaN,NaN,United Kingdom,GBR,NaN,https://prefabhomes.uk.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+227,Scandia-Hus,Scandia-Hus Limited,"Scandia-Hus Business Park, Felcourt Road, East Grinstead, West Sussex, RH19 2LP, United Kingdom",United Kingdom,GBR,West Sussex,https://scandi-hus.co.uk,NaN,NaN,NaN,NaN,timber,NaN,NaN,51.153442,-0.012531
+228,Scandinavian Homes,NaN,NaN,United Kingdom,GBR,NaN,https://scandinavianhomes.com,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+229,Scotframe,Scotframe Limited,"Unit 1, Badentoy Avenue, Badentoy Industrial Estate, Portlethen, Aberdeen, AB12 4YB, United Kingdom",United Kingdom,GBR,Scotland,https://scotframe.co.uk,NaN,NaN,NaN,NaN,timber,NaN,NaN,57.057924,-2.129441
+230,siphouse,NaN,NaN,United Kingdom,GBR,NaN,https://siphouse.co.uk,NaN,28,18,64,SIP (Structural Insulated Panels) with MgO (Magnesium Oxide) facing and wood/timber framing,7100,NaN,NaN,NaN
+231,Tempohousing,NaN,NaN,Netherlands,NLD,NaN,http://www.tempohousing.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+232,The Tiny Housing Co,NaN,NaN,United Kingdom,GBR,NaN,https://www.thetinyhousing.co,NaN,NaN,NaN,NaN,wood/timber,45000,NaN,NaN,NaN
+233,Totally Modular,NaN,NaN,United Kingdom,GBR,NaN,https://www.totallymodular.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+234,Trident Modular,NaN,NaN,United States,USA,NaN,https://tridentmodular.com,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+235,Wudl,NaN,NaN,United Kingdom,GBR,NaN,https://www.wudl.co.uk/,NaN,NaN,NaN,NaN,timber,NaN,NaN,NaN,NaN
+236,ZED PODS,ZED PODS Ltd,NaN,United Kingdom,GBR,NaN,https://www.zedpods.com/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+237,Alpiger Holzbau AG,Alpiger Holzbau AG,NaN,Switzerland,CHE,"Sennwald, Werdenberg, St. Gallen",http://alpiger-holzbau.ch,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+238,Beer Holzbau,Beer Holzbau,"Obere Zollgasse 76, CH-3072 Ostermundigen, Switzerland",Switzerland,CHE,Bern,http://www.beer-holzbau.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,46.955737,7.489803
+239,Blumer Lehmann,NaN,NaN,Switzerland,CHE,NaN,http://www.blumer-lehmann.com,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+240,Erni Gruppe,NaN,NaN,Switzerland,CHE,NaN,http://www.erni-gruppe.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+241,Holzbau Bucher AG,Holzbau Bucher AG,NaN,Switzerland,CHE,NaN,http://www.holzbau-bucher.ch,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+242,Kaufmann Oberholzer,Kaufmann Oberholzer AG,NaN,Switzerland,CHE,NaN,http://www.kaufmann-oberholzer.ch,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+243,KIFA SYSTEMBAU,KIFA AG,NaN,Switzerland,CHE,NaN,http://www.kifa.ch,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+244,Kost Holzbau,Kost Holzbau AG,NaN,Switzerland,CHE,NaN,http://www.kost.ch,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+245,Krattiger Holzbau,Krattiger Holzbau AG,NaN,Switzerland,CHE,NaN,http://krattigerholzbau.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+246,Kühni Holzbau,Kühni AG,"Emmentalstrasse 102, 3435 Ramsei, Switzerland",Switzerland,CHE,Emmental,http://www.kuehni.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,47.017642,7.749556
+247,schaerholzbau,NaN,NaN,Switzerland,CHE,NaN,http://www.schaerholzbau.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+248,Sigrist Rafz,NaN,NaN,Slovenia,SVN,NaN,http://www.sigrist-rafz.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+249,UFFER Holz AG,UFFER Holz AG,NaN,Switzerland,CHE,NaN,http://www.ufferholz.swiss,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+250,EHI Group,NaN,NaN,Latvia,LVA,NaN,https://www.ehi.lv/en,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+251,Modern House,NaN,NaN,Latvia,LVA,NaN,https://www.modern-house.lv/en,NaN,NaN,NaN,NaN,timber,NaN,NaN,NaN,NaN
+252,Dores,NaN,NaN,NaN,NaN,NaN,https://dores.house/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+253,CLT Profi,NaN,NaN,NaN,NaN,NaN,https://tidycal.com/cltprofi,NaN,NaN,NaN,NaN,CLT,NaN,NaN,NaN,NaN
+254,Bitus Latvia,NaN,"""Jorvika"", Kocēnu pagasts, Kocēnu novads, LV-4220, Latvia",Latvia,LVA,Kocēnu novads,https://bitus.com/latvia-lv/koka-majas/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,57.504,25.3401
+248,Sigrist Rafz,NaN,NaN,Slovenia,SVN,NaN,http://www.sigrist-rafz.ch,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+249,UFFER Holz AG,UFFER Holz AG,NaN,Switzerland,CHE,NaN,http://www.ufferholz.swiss,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+255,Husvik,NaN,NaN,Norway,NOR,NaN,https://husvikhus.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+256,VIA-S houses,VIA-S houses Ltd.,"Oskara Kalpaka 40A, Liepaja, LV-3405, Latvia",Latvia,LVA,Liepaja,https://en.via-s.lv/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,56.523168,21.011597
+250,EHI Group,NaN,NaN,Latvia,LVA,NaN,https://www.ehi.lv/en,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+257,Jēkabpils PMK,"SIA ""Jēkabpils PMK""","Madonas iela 27, Jēkabpils, LV-5202, Latvija",Latvia,LVA,Jēkabpils,https://jpmk.lv/,NaN,NaN,NaN,NaN,CLT,NaN,NaN,56.494137,25.864965
+251,Modern House,NaN,NaN,Latvia,LVA,NaN,https://www.modern-house.lv/en,NaN,NaN,NaN,NaN,timber,NaN,NaN,NaN,NaN
+252,Dores House,NaN,NaN,NaN,NaN,NaN,https://dores.house/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+258,SVM BALTIC,MB SVM BALTIC,"Kareiviu g. 6, Vilnius, Lithuania",Lithuania,LTU,Vilnius,http://www.svmbaltic.com,NaN,NaN,NaN,NaN,wood,NaN,NaN,54.722425,25.300127
+253,CLT Profi,NaN,NaN,NaN,NaN,NaN,https://tidycal.com/cltprofi,NaN,NaN,NaN,NaN,CLT,NaN,NaN,NaN,NaN
+254,Bitus Latvia,NaN,"“Jorvika”, Kocēnu pagasts, Kocēnu novads, LV-4220, Latvia",Latvia,LVA,Kocēnu novads,https://bitus.com/latvia-lv/koka-majas/,NaN,NaN,NaN,NaN,wood,NaN,NaN,57.5183,25.3065
+259,Ecodomus,UAB Ecodomus,"Karaliaus Mindaugo pr. 38, Kaunas, Lithuania",Lithuania,LTU,Kaunas,http://ecodomus.lt/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,54.891476,23.926183
+260,Kriautė,NaN,NaN,Lithuania,LTU,NaN,http://www.kriaute.lt,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+261,LHM Grupė,UAB LHM Holding,"Vyturio g. 1, Kaušėnų k., LT-90100 Plungės r., Lietuva",Lithuania,LTU,Plungės r.,http://www.lhm.lt,NaN,NaN,NaN,NaN,wood,NaN,NaN,55.889372,21.892222
+255,Husvik,NaN,NaN,Norway,NOR,NaN,https://husvikhus.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+256,VIA-S houses,VIA-S houses Ltd.,"Oskara Kalpaka 40A, Liepaja, LV-3405, Latvia",Latvia,LVA,Liepaja,https://en.via-s.lv/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,56.518812,21.017191
+262,Skado Medis,Skado Medis UAB,"Pramones str. 11, Rokiskis, LT-42150, Lithuania",Lithuania,LTU,Rokiskis,http://skadomedis.lt/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,55.962379,25.588986
+263,Timber Design,NaN,NaN,Lithuania,LTU,NaN,http://www.timberdesign.lt,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+257,Jēkabpils PMK,SIA Jēkabpils PMK,"Madonas iela 27, Jēkabpils, LV-5202, Latvija",Latvia,LVA,Jēkabpils,https://jpmk.lv/,NaN,NaN,NaN,NaN,CLT,NaN,NaN,56.497379,25.870409
+258,MB SVM BALTIC,MB SVM BALTIC,"Kareiviu g. 6, Vilnius, Lithuania",Lithuania,LTU,Vilnius,http://www.svmbaltic.com,NaN,NaN,NaN,NaN,wood,NaN,NaN,54.714518,25.301245
+264,011h,NaN,NaN,Spain,ESP,NaN,http://www.011h.com/,NaN,NaN,NaN,NaN,"wood/timber (specifically mass timber, glulam, and timber frame elements)",NaN,NaN,NaN,NaN
+259,Ecodomus,UAB Ecodomus,"Karaliaus Mindaugo pr. 38, Kaunas, Lithuania",Lithuania,LTU,Kaunas,http://ecodomus.lt/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,54.890167,23.925651
+265,alterMATERIA,NaN,NaN,Spain,ESP,NaN,https://altermateria.com/empresa/,NaN,NaN,NaN,NaN,CLT (Cross Laminated Timber),NaN,NaN,NaN,NaN
+260,Kriautė,NaN,NaN,Lithuania,LTU,NaN,http://www.kriaute.lt,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+266,Egoin Wood Group,NaN,NaN,Spain,ESP,Basque Country,http://www.egoin.com/,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+267,LignumTech,NaN,NaN,Spain,ESP,NaN,https://lignumtech.es/,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+261,LHM Grupė,UAB LHM Holding,"Vyturio g. 1, Kaušėnų k., LT-90100 Plungės r., Lietuva",Lithuania,LTU,Plungės rajonas,http://www.lhm.lt,NaN,NaN,NaN,NaN,wood,NaN,NaN,55.897305,21.867454
+268,Madera y Construcción,NaN,NaN,NaN,NaN,NaN,https://www.maderayconstruccion.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+262,Skado medis,Skado Medis UAB,"Pramones str. 11, Rokiskis, LT-42150, Lithuania",Lithuania,LTU,Rokiskis,http://skadomedis.lt/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,55.963425,25.586865
+269,Madergia,NaN,NaN,NaN,NaN,NaN,http://www.madergia.com/,NaN,NaN,NaN,NaN,wood (including CLT and timber),NaN,NaN,NaN,NaN
+263,Timber Design,NaN,NaN,Lithuania,LTU,NaN,http://www.timberdesign.lt,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+270,Nemetona,NaN,NaN,Spain,ESP,NaN,https://nemetona.es/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+264,011h,NaN,NaN,Spain,ESP,NaN,http://www.011h.com/,NaN,NaN,NaN,NaN,"wood/timber (specifically mass timber, glulam, and timber frame)",NaN,NaN,NaN,NaN
+265,AlterMateria,NaN,NaN,Spain,ESP,NaN,https://altermateria.com/empresa/,NaN,NaN,NaN,NaN,CLT (Cross Laminated Timber),NaN,NaN,NaN,NaN
+271,Woodea,NaN,NaN,Spain,ESP,NaN,http://www.woodea.es/,NaN,NaN,NaN,NaN,CLT (Cross-Laminated Timber),NaN,NaN,NaN,NaN
+272,Xilonor,NaN,"Polígono Industrial de Coirós N-VI; Km. 565 P. I. Pedrapartida de Coirós 15316 A Coruña, Spain",Spain,ESP,Galicia,https://xilonor.es/,NaN,NaN,NaN,NaN,CLT,NaN,NaN,43.205053,-8.176044
+273,ZUBI Cities,NaN,NaN,NaN,NaN,NaN,https://www.zubicities.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+266,Egoin Wood Group,NaN,NaN,Spain,ESP,Basque Country,http://www.egoin.com/,NaN,NaN,NaN,NaN,"wood (including glulam, CLT, timber frame)",NaN,NaN,NaN,NaN
+267,LignumTech,NaN,NaN,Spain,ESP,NaN,https://lignumtech.es/,NaN,NaN,NaN,NaN,wood,NaN,NaN,NaN,NaN
+268,Madera y Construcción,NaN,NaN,NaN,NaN,NaN,https://www.maderayconstruccion.com/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+269,Madergia,NaN,NaN,NaN,NaN,NaN,http://www.madergia.com/,NaN,NaN,NaN,NaN,wood (including CLT - cross-laminated timber),NaN,NaN,NaN,NaN
+270,Nemetona,NaN,NaN,Spain,ESP,NaN,https://nemetona.es/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+271,Woodea,NaN,NaN,Spain,ESP,NaN,http://www.woodea.es/,NaN,NaN,NaN,NaN,CLT (Cross-Laminated Timber),NaN,NaN,NaN,NaN
+272,Xilonor,NaN,"Polígono Industrial de Coirós N-VI; Km. 565 P. I. Pedrapartida de Coirós, 15316 A Coruña, Spain",Spain,ESP,Galicia,https://xilonor.es/,NaN,NaN,NaN,NaN,CLT,NaN,NaN,43.175378,-8.165472
+272,Velima,NaN,NaN,NaN,NaN,NaN,https://www.velimasystem.com/,NaN,NaN,NaN,NaN,CLT,NaN,NaN,NaN,NaN
+273,Xilonor,NaN,"Polígono Industrial de Coirós N-VI; Km. 565 P. I. Pedrapartida de Coirós 15316 A Coruña, España",Spain,ESP,Galicia,https://xilonor.es/,NaN,NaN,NaN,NaN,CLT,NaN,NaN,43.2236,-8.1307
+274,ZUBI Cities,NaN,NaN,NaN,NaN,NaN,https://www.zubicities.com/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+275,Advanced Precast Company,NaN,NaN,NaN,NaN,NaN,http://advancedprecastcompany.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+276,APS Precast,NaN,NaN,Canada,CAN,British Columbia,https://www.apsprecast.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+277,Atlanta Structural Concrete,Atlanta Structural Concrete Company,"80 DeHunt Drive, Buchanan GA 30113, USA",United States,USA,Georgia,http://www.atlanta-structural.net/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,33.805931,-85.174789
+278,ATMI Precast,NaN,NaN,Austria,AUT,NaN,https://www.atmiprecast.com/atmi-indy,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+279,AVAN Precast,NaN,"Lynwood, IL, United States",United States,USA,Illinois,https://avanpc.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,41.526145,-87.538933
+280,Bethlehem Construction,NaN,NaN,United States,USA,NaN,https://www.bethlehemconstruction.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,NaN,NaN
+281,Blakeslee Prestress,"Blakeslee Prestress, Inc.","Branford, Connecticut, United States",United States,USA,Connecticut,http://www.blakesleeprestress.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,41.279546,-72.815985
+282,BPDL,Béton Préfabriqué du Lac,"890 Rue des Pins, Alma, QC G8B 7R3, CANADA",Canada,CAN,Quebec,http://bpdl.com/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,48.561868,-71.653338
+283,Holzbau Goetzinger,Holzbau Goetzinger S.à r.l.,"1, rue de l'Industrie, L-9250 Diekirch, Luxembourg",Luxembourg,LUX,Diekirch,https://www.holzbau-goetzinger.lu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,49.8692702,6.1641122
+284,Luxhome Concept,Luxhome Concept Sàrl,"9, Rue de l'Industrie, L-8399 Windhof, Luxembourg",Luxembourg,LUX,Capellen,https://www.luxhomeconcept.lu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,49.6386905,5.9642966
+285,Luxpanel,Luxpanel International S.A.,"3, Grand-Rue, L-8510 Redange-sur-Attert, Luxembourg",Luxembourg,LUX,Redange,https://luxpanel.lu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,49.762572,5.889611
+286,Keller Holzbau,Keller Holzbau S.à r.l.,"6, Z.A.E. Triangle Vert, L-5691 Ellange, Luxembourg",Luxembourg,LUX,Remich,https://www.kellerholzbau.lu,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,49.521583,6.303009
+287,ДСK Астана,"ТОО ""ДСK Астана""","ул. Кошкарбаева, 37А, г. Астана, 010000, Казахстан",Kazakhstan,KAZ,Астана (Astana),https://dsk-astana.kz/,NaN,NaN,NaN,NaN,concrete,NaN,NaN,51.139706,71.490662
+288,Qazpanel,"ТОО ""QAZPANEL""","проспект Райымбека, 212, Алматы, 050013, Казахстан",Kazakhstan,KAZ,Алматы,https://qazpanel.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,43.265366,76.889665
+289,СтройДом KZ,NaN,NaN,Kazakhstan,KAZ,NaN,https://stroydomkz.kz/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+290,KazPanel,KazPanel,NaN,Kazakhstan,KAZ,NaN,https://kazpanel.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+291,SIP Panel Kazakhstan,ТОО «SIP Panel Kazakhstan»,"ул. Промышленная 1, Алматы, 050000, Казахстан",Kazakhstan,KAZ,Алматы,https://sippanel.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,43.283389,76.896919
+292,DOMSIP,NaN,NaN,Kazakhstan,KAZ,NaN,https://domsip.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+293,KazSIP,ТОО «KazSIP»,"ул. Алматинская 1Г, г. Алматы, 050000, Казахстан",Kazakhstan,KAZ,Алматы,https://kazsip.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,43.289209,76.958842
+294,SIP Astana,SIP Astana,NaN,Kazakhstan,KAZ,Astana,https://sipastana.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+295,Технодом,NaN,NaN,Kazakhstan,KAZ,NaN,https://tehnodom.kz/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+296,Arman Panel,"ТОО ""Arman Panel""","ул. Тлендиева, 11, г. Алматы, 050061, Казахстан",Kazakhstan,KAZ,Алматы,https://armanpanel.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,43.285798,76.876929
+297,Profpanel,ТОО «Профпанель»,"ул. Тлендиева 21/1, Алматы, 050000, Казахстан",Kazakhstan,KAZ,Алматы,https://profpanel.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,43.285751,76.847998
+298,SIP Panelli,NaN,NaN,Kazakhstan,KAZ,NaN,https://sip-panelli.kz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+299,UZ Sandwich Panel,UZ Sandwich Panel,"Chilonzor tumani, Toshkent shahar, Uzbekistan",Uzbekistan,UZB,Toshkent,https://uzsandwichpanel.uz/,NaN,NaN,NaN,NaN,steel,NaN,NaN,41.2828,69.1764
+300,KARKAS.UZ,NaN,NaN,Uzbekistan,UZB,NaN,https://karkas.uz/,NaN,NaN,NaN,NaN,wood/timber,NaN,NaN,NaN,NaN
+301,Panel House,NaN,NaN,Uzbekistan,UZB,NaN,https://panelhouse.uz/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+302,UzSandwich,UzSandwich,NaN,Uzbekistan,UZB,NaN,https://uzsandwich.uz/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+303,SIP House,NaN,NaN,Uzbekistan,UZB,NaN,https://siphouse.uz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+304,Ecopan Uzbekistan,Ecopan Uzbekistan,"Tashkent, Uzbekistan",Uzbekistan,UZB,Tashkent,https://ecopan.uz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,41.2995,69.2401
+305,Tashkent Sandwich Panel,NaN,NaN,Uzbekistan,UZB,NaN,https://tashkentsandwichpanel.uz/,NaN,NaN,NaN,NaN,steel,NaN,NaN,NaN,NaN
+306,SIP Panel Uzbekistan,SIP Panel Uzbekistan,NaN,Uzbekistan,UZB,NaN,https://sippanel.uz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+307,Moduluz,NaN,NaN,Uzbekistan,UZB,NaN,https://moduluz.uz/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+308,UzModul,NaN,NaN,Uzbekistan,UZB,NaN,https://uzmodul.uz/,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+309,PanelDom,NaN,NaN,Uzbekistan,UZB,NaN,https://paneldom.uz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN
+310,Sahro Panel,Sahro Panel,"Tashkent viloyati, Qibray tumani, Yangi Hayot MFY, Uzbekistan",Uzbekistan,UZB,Tashkent viloyati,https://sahropanel.uz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,41.4001,69.4654
+311,UzPanel,NaN,NaN,Uzbekistan,UZB,NaN,https://uzpanel.uz/,NaN,NaN,NaN,NaN,SIP (Structural Insulated Panels),NaN,NaN,NaN,NaN

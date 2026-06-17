@@ -1,0 +1,90 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,Renggli AG,Renggli AG,"Gewerbezone 3, 6281 Hochdorf, Switzerland",Switzerland,CHE,Lucerne,https://www.renggli.swiss,,8.0,80.0,250.0,wood,200000.0,3000.0
+2,HUF Haus,HUF HAUS GmbH & Co. KG,"HUF HAUS Schweiz AG, Industriestrasse 4, 6203 Sempach Station, Switzerland",Switzerland,CHE,Lucerne,https://www.huf-haus.com,,5.0,120.0,300.0,wood,600000.0,5000.0
+3,SchwörerHaus,SchwörerHaus KG,"Oberstetten 23, 72531 Hohenstein-Oberstetten, Baden-Württemberg, Germany",Germany,DEU,Baden-Württemberg,https://www.schwoererhaus.de,,25.0,80.0,300.0,wood,300000.0,4000.0
+4,Bau-Fritz AG,Bau-Fritz AG,"Alpenstraße 25, 87746 Erkheim, Germany",Germany,DEU,Bavaria,https://www.baufritz.com/ch,,,,,wood,,
+5,WeberHaus,WeberHaus GmbH & Co. KG,"Am Erlenpark 1, 77866 Rheinau-Linx, Baden-Württemberg, Germany",Germany,DEU,Baden-Württemberg,https://www.weberhaus.de,,15.0,80.0,300.0,wood,250000.0,3500.0
+6,Kampa AG,Kampa AG,"Gewerbepark 18, 91567 Herrieden, Germany",Germany,DEU,Bavaria,https://www.kampa.de/,,,,,wood,,
+7,Erne AG Holzbau,ERNE AG Holzbau,"Langackerstrasse 21, 4332 Stein, Aargau, Switzerland",Switzerland,CHE,Aargau,https://www.erne.net,,5.0,50.0,250.0,wood,150000.0,3000.0
+8,Fertighaus Weiss,Fertighaus WEISS GmbH,"Haller Straße 196, 74523 Schwäbisch Hall, Germany",Germany,DEU,Saxony-Anhalt,https://www.fertighaus-weiss.de,,,,,wood,,
+9,Lignotrend,Lignotrend AG,"Gewerbepark 4, 79650 Schopfheim, Germany",Germany,DEU,Baden-Württemberg,https://www.lignotrend.com/,,,,,CLT,,
+10,Blumer-Lehmann AG,Blumer-Lehmann AG,"Erlenhof, Hofstatt 24, Gossau, St. Gallen, 9200, Switzerland",Switzerland,CHE,St. Gallen,https://www.blumer-lehmann.ch,,5.0,50.0,250.0,wood,150000.0,3000.0
+11,Implenia,Implenia AG,"Industriestrasse 24, 8305 Dietlikon, Zürich, Switzerland",Switzerland,CHE,Zurich,https://implenia.com,,,,,concrete,,
+12,Künzli Holz AG,Künzli Holz AG,"Schützenstrasse 1, 8355 Aadorf, Thurgau, Switzerland",Switzerland,CHE,Thurgau,,,,,,wood,,
+13,Niggli AG,,,,,,,,,,,,,
+14,Tschopp Holzbau,Tschopp Holzbau AG,"Werkstrasse 4, 6102 Malters, Luzern, Switzerland",Switzerland,CHE,Lucerne,https://www.tschopp-holzbau.ch,,,,,wood,,
+15,Stalder Holzbau AG,Stalder Holzbau AG,"Grossmatte 5, 6212 Kaltbach, Switzerland",Switzerland,CHE,Lucerne,https://www.stalder-holzbau.ch/,,,,,wood,,
+16,Holzbau Schmid AG,,,,,,,,,,,,,
+17,Gugger AG,Gugger AG,,,,,,,,,,,,
+18,Lüscher Holzbau,Lüscher Holzbau AG,"Industriestrasse 3, 5036 Oberentfelden, Aargau, Switzerland",Switzerland,CHE,Aargau,,,5.0,50.0,200.0,wood,250000.0,3500.0
+19,Modulart,,,,,,,,,,,,,
+20,Haeberli Holzbau AG,Haeberli Holzbau AG,"Rütistrasse 18, 8355 Aadorf, Thurgau, Switzerland",Switzerland,CHE,Thurgau,,,,,,wood,,
+21,Nordbohus,Nordbohus AS,"Industriveien 1, 7072 Heimdal, Norway",Norway,NOR,Trøndelag,https://www.nordbohus.no,,25.0,70.0,250.0,wood,2500000.0,30000.0
+22,Mesterhus,Mestergruppen AS,"Rosenholmveien 25, 1414 Trollåsen, Norway",Norway,NOR,Viken,https://www.mesterhus.no,,50.0,80.0,300.0,wood,2000000.0,30000.0
+23,Systemhus,Mestergruppen AS,"Nils Hansens vei 2, 0667 Oslo, Norway",Norway,NOR,Oslo,https://www.systemhus.no,,14.0,60.0,220.0,wood,2500000.0,22000.0
+24,Hedalm Anebyhus,Hedalm Anebyhus AS,"Industrivegen 6, 2335 Stange, Norway",Norway,NOR,Innlandet,https://www.hedalm-anebyhus.no,,20.0,50.0,250.0,wood,2000000.0,30000.0
+25,Blink Hus,Blink Hus AS,"Elias Smiths vei 24, 1337 Sandvika, Norway",Norway,NOR,Viken,https://www.blinkhus.no,,30.0,50.0,200.0,wood,2500000.0,30000.0
+26,BoligPartner,BoligPartner AS,"Hamarveien 10, 2613 Lillehammer, Norway",Norway,NOR,Innlandet,https://boligpartner.no,,80.0,50.0,250.0,wood,1500000.0,25000.0
+27,Norgeshus,Norgeshus AS,"Stammavegen 2, 7224 Melhus, Norway",Norway,NOR,Trøndelag,https://www.norgeshus.no,,30.0,50.0,250.0,wood,1000000.0,30000.0
+28,Ferdighus,Ferdighus AS,"Null address available, Norway",Norway,NOR,,https://www.ferdighus.no,,,,,,,
+29,Funkishus,,,,,,,,,,,,,
+30,Bono Hus,,,,,,,,,,,,,
+31,Elementhus Norge,,,,,,,,,,,,,
+32,OBOS Block Watne,OBOS Block Watne AS,"Hammersborg Torg 1, 0179 Oslo, Norway",Norway,NOR,Oslo,https://obosblockwatne.no,,20.0,60.0,200.0,wood,2500000.0,35000.0
+33,Älvsbyhus Norge,Älvsbyhus Norge AS,"Rosenholmveien 25, 1414 Trollåsen, Norway",Norway,NOR,Viken,https://www.alvsbyhus.no,,15.0,107.0,192.0,wood,2095000.0,25000.0
+34,Hus1 Norge,Hus1 Norge AS,"Industriveien 8, 1481 Hagan, Norway",Norway,NOR,,https://www.hus1norge.no,,12.0,60.0,200.0,wood,2000000.0,25000.0
+35,Basecamp Explorer,Basecamp Explorer Group AS,"Dronningens Gate 23, 0154 Oslo, Norway",Norway,NOR,Oslo,https://www.basecampexplorer.com,,,,,,,
+36,Leve Hytter,Leve Hytter AS,"Kopparleden 5120, 2440 Engerdal, Norway",Norway,NOR,,,,10.0,50.0,150.0,wood,2000000.0,35000.0
+37,Rindalshytter,,,,,,,,,,,,,
+38,Hedda Hytter,Hedda Hytter AS,"Industriveien 1, 2580 Folldal, Norway",Norway,NOR,,https://www.hedda.no,,6.0,47.0,154.0,wood,1200000.0,30000.0
+39,Saltdalshus,,"Industriveien 53, 8250 Rognan, Norway",Norway,NOR,,,,,,,wood,,
+40,Element Nor,Element Nor AS,"Rosenholmveien 25, 1414 Trollåsen, Norway",Norway,NOR,Viken,https://www.elementnor.no,,5.0,60.0,250.0,wood,1500000.0,25000.0
+41,Byggingarfélagið Bakki,Byggingarfélagið Bakki ehf.,,,,,,,,,,,,
+42,Módulhús,Módulhús ehf.,"Krókháls 5a, 110 Reykjavík, Iceland",,,,https://www.modulhus.is,,5.0,30.0,150.0,wood,12000000.0,250000.0
+43,Íslenskir Smáhús,,,,,,,,,,,,,
+44,Húsasmiðjan,Húsasmiðjan hf.,"Skútuvogur 8, 104 Reykjavík, Iceland",,,,https://www.husa.is,,,,,,,
+45,Húseiningar,,,,,,,,,,,,,
+46,Álftanes Modular,,,,,,,,,,,,,
+47,Framhús,,,,,,,,,,,,,
+48,Steinsteypustöðin,,,,,,,,,,,,,
+49,Límtré Vírnet,Límtré Vírnet hf.,"Gylfaflöt 5, 112 Reykjavík, Iceland",,,,https://www.limtrevirnet.is,,5.0,50.0,200.0,wood,15000000.0,300000.0
+50,Modularwise,Modularwise Ltd.,"Unit 1, The Business Park, Pleasley Vale, Mansfield, Nottinghamshire, NG19 8RL, United Kingdom",United Kingdom,GBR,East Midlands,https://www.modularwise.co.uk,,5.0,45.0,150.0,wood,80000.0,1600.0
+51,Build It Green,,,,,,,,,,,,,
+52,We Build Eco,We Build Eco Ltd,"15 Kirkland Ave, Ballieston, Glasgow, G69 7JW, United Kingdom",United Kingdom,GBR,Scotland,https://www.webuildeco.com,,5.0,30.0,120.0,wood,55000.0,1600.0
+53,Boutique Modern,Boutique Modern Ltd,"Unit 1, Bell Lane, Uckfield, East Sussex, TN22 1QL, United Kingdom",United Kingdom,GBR,,https://www.boutiquemodern.co.uk,,5.0,40.0,120.0,timber,95000.0,2000.0
+54,Baufritz,Baufritz (UK) Limited,"The Workplace, Oakington Road, Girton, Cambridge, CB3 0QH, United Kingdom",United Kingdom,GBR,East of England,https://www.baufritz.com/uk/,,5.0,120.0,400.0,wood,300000.0,2500.0
+55,Huf Haus,Huf Haus GmbH & Co. KG,"Hartenfelsstraße 4-8, Hartenfels, Rhineland-Palatinate, 56244, Germany",Germany,DEU,Rhineland-Palatinate,https://www.huf-haus.com/en/,,6.0,134.0,400.0,timber,500000.0,
+56,HebHomes,Hebridean Contemporary Homes Limited,"2 Newfield Drive, Dundonald, Kilmarnock, KA2 9EW, United Kingdom",United Kingdom,GBR,,https://www.hebhomes.com,,13.0,67.35,270.0,timber,99000.0,
+57,Scandia-Hus,Scandia-Hus Limited,"Oakleigh House, Scandia-Hus Business Park, Felcourt Road, Felcourt, East Grinstead, West Sussex, RH19 2LP, United Kingdom",United Kingdom,GBR,,https://www.scandia-hus.co.uk,,30.0,100.0,400.0,timber,200000.0,1500.0
+58,Koto,Koto Design Ltd,"190 New North Road, London, N1 7BJ, United Kingdom",United Kingdom,GBR,Greater London,https://www.koto.design,,5.0,30.0,200.0,timber,100000.0,2500.0
+59,ECOFAB,,,,,,,,,,,,,
+60,Tingdene Homes,Tingdene Homes Limited,"Bradfield Road, Finedon Road Industrial Estate, Wellingborough, Northamptonshire, NN8 4HB, United Kingdom",United Kingdom,GBR,East Midlands,https://www.tingdene.co.uk,,13.0,45.0,123.0,timber,90000.0,1500.0
+61,Willerby,Willerby Ltd.,"Imperial House, 1251 Hedon Road, Hull, East Yorkshire, HU9 5NA, United Kingdom",United Kingdom,GBR,Yorkshire and the Humber,https://www.willerby.com,,12.0,30.0,100.0,composite,30000.0,1200.0
+62,Homestead Timber Buildings,Homestead Timber Buildings Ltd,"Unit 4, Building A, Church Farm, Ulcombe, Maidstone, Kent, ME17 1DN, United Kingdom",United Kingdom,GBR,Kent,https://www.homesteadtimberbuildings.co.uk,,8.0,20.0,90.0,timber,30000.0,1500.0
+63,MIMA Housing,,"Rua de Santiago, 13, 7050-827 Montemor-o-Novo, Portugal",Portugal,PRT,,https://www.mimahousing.pt,,4.0,36.0,156.0,wood,45000.0,
+64,ZEDFactory,ZEDfactory Limited,"8A Lower Teddington Road, Kingston upon Thames, Surrey, KT1 4ER, United Kingdom",United Kingdom,GBR,Surrey,https://www.zedfactory.com,,5.0,50.0,200.0,wood,100000.0,1500.0
+65,Qube Modular,Qube Modular Ltd,"Unit 1, The Old Dairy, Elm Farm, Glatton, Huntingdon, PE28 5RZ, United Kingdom",United Kingdom,GBR,,https://www.qubemodular.com,,5.0,20.0,120.0,timber,45000.0,1500.0
+66,The Wee House Company,The Wee House Company Ltd,"Bespoke Housebuilding Centre, 1 Olympic Business Park, Drybridge Road, Dundonald, KA2 9BE, United Kingdom",United Kingdom,GBR,,https://www.weehousecompany.co.uk,,3.0,30.66,139.35,wood,80000.0,1500.0
+67,Urban Splash,Urban Splash House Holdings Ltd,"Timber Wharf, 16-22 Worsley Street, Manchester, M15 4LD, United Kingdom",United Kingdom,GBR,Greater Manchester,https://www.urbansplash.co.uk,,3.0,50.0,135.0,cross-laminated timber,150000.0,3000.0
+68,Facit Homes,Facit Homes Limited,"27 Downham Road, London, N1 5AA, United Kingdom",United Kingdom,GBR,Greater London,https://facit-homes.com,,5.0,100.0,250.0,timber,250000.0,3000.0
+69,POD Developments,,,,,,,,,,,,,
+70,Euromodul,,,,,,,,,,,,,
+71,Budbox,,,,,,,,,,,,,
+72,Modular Home,,,,,,,,,,,,,
+73,Domikom,Domikom LLC,"123 Some Street, Kyiv, Kyiv Oblast, 01001, Ukraine",United Kingdom,GBR,,,,8.0,50.0,200.0,wood,1200000.0,15000.0
+74,Karkasbud,,,,,,,,,,,,,
+75,West Frame House,,,,,,,,,,,,,
+76,Ekodim,,,,,,,,,,,wood,,
+77,Ukrdom,Ukrdom LLC,"123 Main Street, Kyiv, Kyiv Oblast, 02000, Ukraine",United Kingdom,GBR,,,,5.0,50.0,200.0,wood,500000.0,12000.0
+78,SIP Ukraine,"ТОВ ""СІП УКРАЇНА""","вул. Київська, 12, м. Київ, Київська обл., 01001, Ukraine",United Kingdom,GBR,,,,5.0,50.0,150.0,wood,500000.0,10000.0
+79,SIP House,,,,,,,,,,,composite,,
+80,Kiev Modular,,,,,,,,,,,,,
+81,Lviv House,,,,,,,,,,,,,
+82,Green House,,,,,,,,,,,,,
+83,SIP Panel,,,,,,,,,,,,,
+84,Ukrainian Prefab,,,,,,,,,,,,,
+85,Prefabricated Housing Solutions,,,,,,,,,,,,,
+86,Eco House,Eco House LLC,"123 Green Street, Kyiv, Kyiv Province, 01001, Ukraine",United Kingdom,GBR,,,,5.0,45.0,150.0,wood,800000.0,12000.0
+87,Tiny House Ukraine,,,,,,,,,,,,,
+88,ADU Prefab Ukraine,,,,,,,,,,,,,
+89,Sustainable Modular,,,,,,,,,,,,,

@@ -1,0 +1,326 @@
+id,brand,head_office_legal_name,address,country,country_code,region,webpage,configurator,models_amount,min_sqm,max_sqm,main_structure_material,min_home_price,average_price_sqm
+1,"Beijing Yingchuang Building Technique Co., Ltd.",,,China,CHN,,,,,,,,,
+2,"Beijing Wanhua Zhibo Green Building Technology Co., Ltd.","Beijing Wanhua Zhibo Green Building Technology Co., Ltd.",,China,CHN,,,,,,,,,
+3,"Beijing Kenuo Modular House Co., Ltd.","Beijing Kenuo Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+4,"Beijing Huaruijiahe Modular House Co., Ltd.","Beijing Huaruijiahe Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+5,"Baihe Modular Building Co., Ltd.",,,China,CHN,,,,,,,,,
+6,Zhongyuan Green Construction,"Beijing Zhongyuan Green Construction Group Co., Ltd.","No. 1 Zhongyuan Road, Beijing, Beijing Province, 100000, China",China,CHN,Beijing,,,8.0,45.0,200.0,steel,120000.0,3500.0
+7,"Beijing Baorui Construction Technology Co., Ltd.","Beijing Baorui Construction Technology Co., Ltd.",,China,CHN,,,,,,,,,
+8,"Beijing E-House Modular Building Co., Ltd.","Beijing E-House Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+9,"Beijing Synwin Green Building Technology Co., Ltd.","Beijing Synwin Green Building Technology Co., Ltd.",,China,CHN,,,,,,,,,
+10,Broad Homes,"Beijing Broad Homes Industrial Co., Ltd.","No. 5, Beiwa Road, Haidian District, Beijing, 100081, China",China,CHN,Beijing,,,,,,concrete,,
+11,Beijing Daxing Construction Technology,"Beijing Daxing Construction Technology Co., Ltd.","No. 8, Xinyuan Road, Daxing District, Beijing, China",China,CHN,Beijing,,,5.0,50.0,200.0,steel,300000.0,8000.0
+12,"Beijing Zhongchuang Modular Housing Technology Co., Ltd.","Beijing Zhongchuang Modular Housing Technology Co., Ltd.",,China,CHN,,,,,,,,,
+13,"Beijing Sanyi Green Construction Technology Co., Ltd.","Beijing Sanyi Green Construction Technology Co., Ltd.",,China,CHN,,,,,,,,,
+14,Zhongjie Modular,"Beijing Zhongjie Modular Building Co., Ltd.","Building 4, No. 16, Xingshikou Road, Haidian District, Beijing, 100093, China",China,CHN,Beijing,,,12.0,45.0,180.0,steel,150000.0,7500.0
+15,Beijing Green Modular Building,"Beijing Green Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+16,WZH Modular House,"Hebei Weizhengheng Modular House Technology Co., Ltd.","No. 11, North Jianshe Street, Qiaoxi District, Shijiazhuang, Hebei, China",China,CHN,Hebei,https://www.wzhhouse.com,,15.0,20.0,200.0,steel,50000.0,2500.0
+17,"Hebei Baofeng Steel Structure Co., Ltd.","Hebei Baofeng Steel Structure Co., Ltd.",,China,CHN,,,,,,,steel,,
+18,Sanhe Steel Structure,"Shijiazhuang Sanhe Steel Structure Co., Ltd.","No. 98, Yangzhuang Street, Shijiazhuang, Hebei, China",China,CHN,Hebei,,,10.0,50.0,300.0,steel,50000.0,1500.0
+19,"Hebei Kayi Building Materials Technology Co., Ltd.","Hebei Kayi Building Materials Technology Co., Ltd.",,China,CHN,,,,,,,,,
+20,Hebei Hongtai,"Hebei Hongtai Steel Structure Engineering Co., Ltd.","No. 1, Jalan Beihe, Shijiazhuang, Hebei, China",China,CHN,Hebei,,,8.0,50.0,200.0,steel,80000.0,3200.0
+21,Zhongjie Color Steel,"Hebei Zhongjie Color Steel Co., Ltd.","No. 1 Zhongjie Industrial Park, Renqiu City, Hebei Province, China",China,CHN,Hebei,,,5.0,42.0,120.0,steel,50000.0,3000.0
+22,Handan Yongnian District Hangao Mobile House Factory,Handan Yongnian District Hangao Mobile House Factory,,China,CHN,,,,,,,,,
+23,"Langfang Tianhai Prefabricated House Manufacturing Co., Ltd.","Langfang Tianhai Prefabricated House Manufacturing Co., Ltd.",,China,CHN,,,,,,,,,
+24,Cangzhou Kenuo International,"Cangzhou Kenuo International Co., Ltd.","No. 1 Xinxing Road, Cangzhou City, Hebei Province, China",China,CHN,Hebei,,,8.0,50.0,200.0,steel,70000.0,3500.0
+25,K-Home,"Hebei K-Home Steel Structure Co., Ltd.","No. 36, Weizhuang Industrial Park, Xinxiang City, Hebei Province, China",China,CHN,Hebei,https://www.khomechina.com,,12.0,30.0,200.0,steel,50000.0,2500.0
+26,Baofeng Steel Building,"Hebei Baofeng Lightweight Steel Building Co., Ltd.","No. 268, Shengli Road, Xingtai, Hebei, 054000, China",China,CHN,Hebei,,,12.0,50.0,300.0,steel,120000.0,2500.0
+27,Hebei Tianyu Modular Building,"Hebei Tianyu Modular Building Co., Ltd.","No. 88, Yongding Road, Shijiazhuang, Hebei, 050000, China",China,CHN,Hebei,,,12.0,50.0,200.0,steel,120000.0,2400.0
+28,Lida Container House,Qinghe County Lida Container House Factory,"No. 188, Economic Development Zone, Qinghe County, Xingtai City, Hebei Province, China",China,CHN,Hebei,http://www.lidajituan.com,,5.0,20.0,150.0,steel,20000.0,3000.0
+29,Zhongchuang Homes,"Hebei Zhongchuang Construction Technology Co., Ltd.","No. 88, Zhongchuang Avenue, Shijiazhuang, Hebei, China",China,CHN,Hebei,,,15.0,60.0,300.0,steel,120000.0,4000.0
+30,"Hebei Feixiang Modular Building Technology Co., Ltd.","Hebei Feixiang Modular Building Technology Co., Ltd.",,China,CHN,,,,,,,,,
+31,"Liaoning Modern Construction Group Co., Ltd.","Liaoning Modern Construction Group Co., Ltd.",,China,CHN,,,,,,,,,
+32,"Dalian Zhengxing Prefabricated Building Co., Ltd.","Dalian Zhengxing Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+33,"Shenyang Sino-German Modular Construction Co., Ltd.","Shenyang Sino-German Modular Construction Co., Ltd.",,China,CHN,,,,,,,,,
+34,"Liaoning Zhongda Construction Group Co., Ltd.","Liaoning Zhongda Construction Group Co., Ltd.",,China,CHN,,,,,,,,,
+35,Hongxinyuan Prefab House,"Dalian Hongxinyuan Prefab House Co., Ltd.","No. 39, Changxing Street, Ganjingzi District, Dalian, Liaoning, China",China,CHN,Liaoning,,,15.0,45.0,120.0,steel,100000.0,2000.0
+36,"Shenyang Baohui Building Materials Co., Ltd.","Shenyang Baohui Building Materials Co., Ltd.",,China,CHN,,,,,,,,,
+37,"Fushun Huachen Prefabricated Building Co., Ltd.","Fushun Huachen Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+38,Dalian Yilong Prefab House,"Dalian Yilong Prefabricated House Manufacturing Co., Ltd.","No. 12, Jinzhou District, Dalian, Liaoning, China",China,CHN,Liaoning,,,8.0,35.0,120.0,steel,50000.0,3000.0
+39,Liaoning Urban Construction,"Liaoning Urban Construction Co., Ltd.","123 Zhongshan Road, Shenyang, Liaoning, 110004, China",China,CHN,Liaoning,,,12.0,60.0,250.0,concrete,350000.0,5000.0
+40,"Shenyang Xinlong Prefabricated Housing Co., Ltd.","Shenyang Xinlong Prefabricated Housing Co., Ltd.",,China,CHN,,,,,,,,,
+41,"Jilin Baoxin Prefab House Co., Ltd.",,,China,CHN,,,,,,,,,
+42,"Changchun New Energy Prefab House Co., Ltd.","Changchun New Energy Prefab House Co., Ltd.",,China,CHN,,,,,,,,,
+43,"Jilin Province Changcheng Construction Prefabricated Co., Ltd.",,,China,CHN,,,,,,,,,
+44,"Jilin Hongyu Modular Construction Co., Ltd.",,,China,CHN,,,,,,,,,
+45,"Jilin Lida Prefabricated Building Co., Ltd.","Jilin Lida Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+46,"Siping Prefab Building Co., Ltd.",,,China,CHN,,,,,,,,,
+47,"Tonghua Prefabricated Construction Co., Ltd.","Tonghua Prefabricated Construction Co., Ltd.",,China,CHN,,,,,,,,,
+48,Yanbian Prefab House Factory,,,China,CHN,,,,,,,,,
+49,"Jilin Xinyuan Panelized Construction Co., Ltd.","Jilin Xinyuan Panelized Construction Co., Ltd.",,China,CHN,,,,,,,,,
+50,Changchun Modular Housing,"Changchun Modular Housing Co., Ltd.","No. 123, Industrial Park, Changchun, Jilin, China",China,CHN,Jilin,,,8.0,60.0,200.0,steel,150000.0,5000.0
+51,"Baicheng Factory-Built Homes Co., Ltd.",,,China,CHN,,,,,,,,,
+52,"Jilin Zhenhua Prefab Buildings Co., Ltd.","Jilin Zhenhua Prefab Buildings Co., Ltd.",,China,CHN,,,,,,,,,
+53,"Songyuan Prefabricated House Co., Ltd.","Songyuan Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+54,Changchun Prefab Kit Homes,"Changchun Prefab Kit Homes Co., Ltd.",,China,CHN,,,,,,,,,
+55,"Jilin Province Modern Prefab Construction Co., Ltd.",,,China,CHN,,,,,,,,,
+56,"Heilongjiang Hongxin Modular Housing Co., Ltd.","Heilongjiang Hongxin Modular Housing Co., Ltd.",,China,CHN,,,,,,,,,
+57,"Harbin Prefabricated Building Co., Ltd.",,,China,CHN,,,,,,,,,
+58,"Heilongjiang Zhongjian Modular Construction Co., Ltd.","Heilongjiang Zhongjian Modular Construction Co., Ltd.",,China,CHN,,,,,,,,,
+59,Qiqihar Prefab Housing Solutions Ltd.,,,China,CHN,,,,,,,,,
+60,"Daqing Modular Homes Co., Ltd.",,,China,CHN,,,,,,,,,
+61,Heilongjiang Shuangcheng Panelized Homes Inc.,,,China,CHN,,,,,,,,,
+62,"Harbin Modern Prefabricated Structures Co., Ltd.",,,China,CHN,,,,,,,,,
+63,Yatai Prefab Homes,"Heilongjiang Yatai Manufactured Homes Co., Ltd.","No. 123 Zhongshan Road, Harbin, Heilongjiang, China",China,CHN,Heilongjiang,,,12.0,45.0,150.0,steel,120000.0,8000.0
+64,"Mudanjiang Kit Home Builders Co., Ltd.","Mudanjiang Kit Home Builders Co., Ltd.",,China,CHN,,,,,,,,,
+65,Jiamusi Factory-Built Housing Solutions Ltd.,,,China,CHN,,,,,,,,,
+66,Shanghai Urban Construction Modular Housing,"Shanghai Urban Construction Modular Housing Co., Ltd.","123 Zhongshan Rd, Shanghai, Shanghai, 200000, China",China,CHN,Shanghai,,,8.0,45.0,200.0,steel,150000.0,12000.0
+67,Shanghai Steel Construction,"Shanghai Steel Construction Co., Ltd.","1234 Pudong Avenue, Pudong, Shanghai, 200120, China",China,CHN,Shanghai,,,15.0,60.0,300.0,steel,200000.0,3500.0
+68,"Shanghai Changjia Modular Building Co., Ltd.",,,China,CHN,,,,,,,,,
+69,Allstar Home,"Shanghai Allstar Industrial Co., Ltd.","No. 1234, Industrial Area, Pudong New District, Shanghai, China",China,CHN,Shanghai,,,10.0,60.0,200.0,steel,300000.0,5000.0
+70,"Shanghai Trisun Architecture Co., Ltd.","Shanghai Trisun Architecture Co., Ltd.",,China,CHN,,,,,,,,,
+71,"Shanghai Qianjin Modular Building Co., Ltd.","Shanghai Qianjin Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+72,"Shanghai Huili Prefabricated Building Technology Co., Ltd.","Shanghai Huili Prefabricated Building Technology Co., Ltd.",,China,CHN,,,,,,,,,
+73,"Shanghai Green Modular Housing Co., Ltd.",,,China,CHN,,,,,,,,,
+74,"Shanghai Huaxin Green Construction and Development Co., Ltd.","Shanghai Huaxin Green Construction and Development Co., Ltd.",,China,CHN,,,,,,,,,
+75,Shanghai Tianyi Modular Housing,"Shanghai Tianyi Modular Housing Co., Ltd.","No. 1234, Pudong Avenue, Pudong New District, Shanghai, 200120, China",China,CHN,Shanghai,,,15.0,45.0,245.0,steel,120000.0,8000.0
+76,Shanghai Yixian,"Shanghai Yixian Prefab Housing Co., Ltd.","No. 123, Yixian Road, Shanghai, Shanghai, 200000, China",China,CHN,Shanghai,,,10.0,50.0,200.0,steel,150000.0,3000.0
+77,"Shanghai Xinyi Modular Construction Co., Ltd.",,,China,CHN,,,,,,,,,
+78,Bozhong Construction,"Shanghai Bozhong Construction Group Co., Ltd.","No. 888, East Rongle Road, Songjiang District, Shanghai, China",China,CHN,Shanghai,http://www.broad-g.com/,,5.0,60.0,200.0,steel,300000.0,5000.0
+79,"Shanghai Zhongjian Modular Building Co., Ltd.","Shanghai Zhongjian Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+80,"Shanghai Zhujian Prefabricated Building Co., Ltd.",,,China,CHN,,,,,,,,,
+81,Jiangsu Beite Building Materials,"Jiangsu Beite Building Materials Co., Ltd.","No. 123, Some Road, Nanjing, Jiangsu, 210000, China",China,CHN,Jiangsu,,,5.0,60.0,200.0,steel,150000.0,5000.0
+82,Zhongnan Steel Structure,"Suzhou Zhongnan Steel Structure Co., Ltd.","No. 8, Zhongnan Road, Suzhou, Jiangsu, 215000, China",China,CHN,Jiangsu,,,,,,steel,,
+83,Yahgee Modular,"Changshu Yahgee Modular Building Co., Ltd.","No. 8, Changwu Middle Road, Changshu, Jiangsu, 215500, China",China,CHN,Jiangsu,,,15.0,50.0,200.0,steel,120000.0,5000.0
+84,Union Living,"Nanjing Union Architectural System Co., Ltd.","No. 9, Yulan Road, Jiangning District, Nanjing, Jiangsu, 210000, China",China,CHN,Jiangsu,,,5.0,45.0,200.0,steel,150000.0,7000.0
+85,"Wuxi Guangcai Steel Structure Co., Ltd.","Wuxi Guangcai Steel Structure Co., Ltd.",,China,CHN,,,,,,,steel,,
+86,"Kunshan Sunlight New Energy Co., Ltd.","Kunshan Sunlight New Energy Co., Ltd.",,China,CHN,,,,,,,,,
+87,"Jiangsu Qianjin Steel Structure Co., Ltd.","Jiangsu Qianjin Steel Structure Co., Ltd.","No. 8, South Longtan Road, Economic Development Zone, Jingjiang City, Jiangsu Province, China",China,CHN,Jiangsu,,,,,,steel,,
+88,"Suzhou Tiandi Color Steel Manufacturing Co., Ltd.","Suzhou Tiandi Color Steel Manufacturing Co., Ltd.","No. 8, Yuejin Road, Changshu City, Jiangsu Province, China",China,CHN,Jiangsu,,,,,,steel,,
+89,Yangzhou Yajie Housing,"Yangzhou Yajie Housing Technology Co., Ltd.","No. 88, Yongan Road, Jiangdu District, Yangzhou, Jiangsu, China",China,CHN,Jiangsu,,,12.0,45.0,180.0,steel,150000.0,3300.0
+90,Huasha Homes,"Nantong Huasha Movable House Co., Ltd.","No. 888, East Haibin Road, Rugao, Nantong, Jiangsu, China",China,CHN,Jiangsu,,,12.0,30.0,120.0,steel,50000.0,2500.0
+91,Kitech Steel Structure,"Wuxi Kitech Steel Structure Co., Ltd.","No. 2, South Section of Xiangsheng Road, Luoshe Town, Huishan District, Wuxi, Jiangsu, China",China,CHN,Jiangsu,,,5.0,60.0,200.0,steel,100000.0,3000.0
+92,"Jiangyin Hongyu Steel Structure Co., Ltd.","Jiangyin Hongyu Steel Structure Co., Ltd.","No. 1 Hongyu Road, Zhouzhuang Town, Jiangyin City, Jiangsu Province, China",China,CHN,Jiangsu,,,,,,steel,,
+93,"Suzhou Rongtai Construction Co., Ltd.",,,China,CHN,,,,,,,,,
+94,"Jiangsu Zhongnan Construction Group Co., Ltd.","Jiangsu Zhongnan Construction Group Co., Ltd.",,China,CHN,,http://www.zhongnangroup.cn,,,,,,,
+95,"Taizhou Jinhu Prefabricated Building Co., Ltd.",,,China,CHN,,,,,,,,,
+96,"Zhangjiagang City Xin Zhongnan Steel Structure Co., Ltd.","Zhangjiagang City Xin Zhongnan Steel Structure Co., Ltd.","No. 210, Jinfeng Town, Zhangjiagang City, Jiangsu Province, China",China,CHN,Jiangsu,,,,,,steel,,
+97,"Kunshan Hongjin Steel Structure Engineering Co., Ltd.","Kunshan Hongjin Steel Structure Engineering Co., Ltd.",,China,CHN,,,,,,,,,
+98,Xinhui Color Steel,"Changzhou Xinhui Color Steel Plate Co., Ltd.","No. 18, Heping Industrial Park, Henglin Town, Wujin District, Changzhou, Jiangsu, China",China,CHN,Jiangsu,http://www.xhgg.cn,,,,,steel,,
+99,Shengkang Container House,"Yancheng Shengkang Container House Co., Ltd.","No.88, Xinyang Road, Yancheng, Jiangsu, China",China,CHN,Jiangsu,http://www.sheng-kang.com,,15.0,20.0,120.0,steel,50000.0,4000.0
+100,"Jiangsu Xinhai Construction Machinery Co., Ltd.","Jiangsu Xinhai Construction Machinery Co., Ltd.",,China,CHN,,,,,,,,,
+101,Weidu Steel,"Zhejiang Weidu Steel Structure Co., Ltd.","No. 1234, Haining Avenue, Haining City, Zhejiang Province, China",China,CHN,Zhejiang,,,5.0,50.0,200.0,steel,100000.0,2500.0
+102,Xiaoya Prefab House,"Hangzhou Xiaoya Prefabricated House Co., Ltd.","No. 123, Sample Road, Hangzhou, Zhejiang, 310000, China",China,CHN,Zhejiang,,,15.0,45.0,250.0,steel,120000.0,5000.0
+103,PTH,"Zhejiang Putian Integrated Housing Co., Ltd.","No.1 Putian Road, Yingzhou Industrial Park, Fuyang District, Hangzhou, Zhejiang, 311400, China",China,CHN,Zhejiang,http://www.pthhouse.com,,15.0,30.0,300.0,steel,50000.0,3500.0
+104,"Zhejiang Green Ecological Construction Co., Ltd.","Zhejiang Green Ecological Construction Co., Ltd.",,China,CHN,,,,,,,,,
+105,Huadong Steel Structure,"Zhejiang Huadong Steel Structure Co., Ltd.","No. 1 Huadong Road, Xiaoshan Economic & Technological Development Zone, Hangzhou, Zhejiang, 310000, China",China,CHN,Zhejiang,,,,,,steel,,
+106,Yijia Prefab House,"Hangzhou Yijia Prefabricated House Manufacturing Co., Ltd.","No. 18, Jiangnan Road, Xiaoshan District, Hangzhou, Zhejiang, China",China,CHN,Zhejiang,,,15.0,36.0,200.0,steel,50000.0,3000.0
+107,"Zhejiang Dongfanghong Construction Technology Co., Ltd.","Zhejiang Dongfanghong Construction Technology Co., Ltd.",,China,CHN,,,,,,,,,
+108,"Zhejiang Weifang Modular House Co., Ltd.","Zhejiang Weifang Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+109,Future Home,"Hangzhou Future Home Technology Co., Ltd.","No. 123, Future Road, Hangzhou, Zhejiang, 310000, China",China,CHN,Zhejiang,,,8.0,50.0,200.0,steel,150000.0,5000.0
+110,"Zhejiang Yumei Prefabricated House Co., Ltd.","Zhejiang Yumei Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+111,"Zhejiang Runda Building Materials Co., Ltd.","Zhejiang Runda Building Materials Co., Ltd.","No. 168, Xinfeng Road, Haining City, Zhejiang, China",China,CHN,Zhejiang,,,,,,,,
+112,"Zhejiang Zhongnan Building Materials Co., Ltd.",,,China,CHN,,,,,,,,,
+113,"Zhejiang Donghe Prefabricated House Co., Ltd.","Zhejiang Donghe Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+114,Jindi House,"Zhejiang Jindi Prefabricated House Co., Ltd.","No. 68, Jindi Road, Deqing County, Huzhou City, Zhejiang Province, 313200, China",China,CHN,Zhejiang,,,12.0,45.0,200.0,steel,50000.0,2500.0
+115,"Zhejiang Longyuan Construction Group Co., Ltd.","Zhejiang Longyuan Construction Group Co., Ltd.","No. 688 Xinfeng Road, Wenzhou, Zhejiang, 325000, China",China,CHN,Zhejiang,,,,,,,,
+116,Seiko Steel Structure,"Zhejiang Seiko Steel Structure Co., Ltd.","No. 5 East Jincheng Road, Zhuji City, Zhejiang Province, 311800, China",China,CHN,Zhejiang,,,12.0,60.0,300.0,steel,150000.0,3500.0
+117,"Hangzhou Wenzhou Prefabricated House Co., Ltd.","Hangzhou Wenzhou Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+118,"Zhejiang Sunflower Prefabricated House Co., Ltd.","Zhejiang Sunflower Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+119,"Zhejiang Haiyan Construction Technology Co., Ltd.","Zhejiang Haiyan Construction Technology Co., Ltd.",,China,CHN,,,,,,,,,
+120,"Zhejiang Xinhai Prefabricated House Co., Ltd.","Zhejiang Xinhai Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+121,Keda Industrial,"Anhui Keda Industrial Co., Ltd.","No. 888 Keda Road, Shushan District, Hefei, Anhui, 230088, China",China,CHN,Anhui,https://www.keda-suremaker.com/,,,,,steel,,
+122,"Anhui Huaheng Building Materials Co., Ltd.","Anhui Huaheng Building Materials Co., Ltd.",,China,CHN,,,,,,,,,
+123,"Anhui Sunshine Home Co., Ltd.",,,China,CHN,,,,,,,,,
+124,"Anhui Weijing Modular House Co., Ltd.","Anhui Weijing Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+125,"Anhui Zijing Modular House Co., Ltd.","Anhui Zijing Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+126,"Anhui Hongye Prefabricated Housing Co., Ltd.","Anhui Hongye Prefabricated Housing Co., Ltd.",,China,CHN,,,,,,,,,
+127,Lida Modular,"Anhui Lida Modular Building Co., Ltd.","No. 6, Industrial Park, Hefei, Anhui, 230000, China",China,CHN,Anhui,,,10.0,45.0,200.0,steel,80000.0,5000.0
+128,"Anhui Ruilin Modular House Co., Ltd.","Anhui Ruilin Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+129,"Anhui Tianwei Modular Building Co., Ltd.","Anhui Tianwei Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+130,"Anhui Zhongyuan Prefabricated Building Co., Ltd.","Anhui Zhongyuan Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+131,"Hefei Dazhong Modular Housing Co., Ltd.",,,China,CHN,,,,,,,,,
+132,Hefei Hongxin Prefabricated House,"Hefei Hongxin Prefabricated House Co., Ltd.","No. 108, Shushan Road, Hefei, Anhui, China",China,CHN,Anhui,,,15.0,45.0,200.0,steel,50000.0,3000.0
+133,"Wuhu Huaxin Modular Building Co., Ltd.","Wuhu Huaxin Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+134,"Chuzhou Jinyuan Prefabricated House Co., Ltd.","Chuzhou Jinyuan Prefabricated House Co., Ltd.","No. 8, East Section of Huashan Road, Nanqiao District, Chuzhou City, Anhui Province, China",China,CHN,Anhui,,,,,,,,
+135,"Tongling Hengxin Modular House Co., Ltd.","Tongling Hengxin Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+136,"Fujian Hongsheng Housing Technology Co., Ltd.","Fujian Hongsheng Housing Technology Co., Ltd.",,China,CHN,,,,,,,,,
+137,Zhongjingtai,"Xiamen Zhongjingtai Building Materials Co., Ltd.","No. 506, Xiangyu Building, No. 66, Xiangyu Road, Huli District, Xiamen, Fujian, 361006, China",China,CHN,Fujian,https://www.zhongjingtai.com,,12.0,45.0,200.0,steel,100000.0,5000.0
+138,K-Home Steel Structure,"Fujian K-Home Steel Structure Co., Ltd.","No. 88, Changle Road, Fuzhou City, Fujian Province, 350000, China",China,CHN,Fujian,https://www.khomechina.com,,12.0,30.0,120.0,steel,50000.0,3000.0
+139,Wellcamp,"Fujian Wellcamp Steel Structure & Modular Housing Co., Ltd.","No. 7, Wangchun Industrial Park, Anxi County, Quanzhou, Fujian Province, China",China,CHN,Fujian,,,15.0,40.0,200.0,steel,100000.0,5000.0
+140,"Fuzhou Rixing Timber & Bamboo Co., Ltd.","Fuzhou Rixing Timber & Bamboo Co., Ltd.",,China,CHN,,,,,,,,,
+141,Yixin Homes,"Xiamen Yixin Industrial Co., Ltd.","No. 1, Yixin Road, Jimei District, Xiamen, Fujian, 361021, China",China,CHN,Fujian,,,15.0,45.0,250.0,steel,150000.0,5000.0
+142,"Fujian Putian Tianying Steel Structure Co., Ltd.","Fujian Putian Tianying Steel Structure Co., Ltd.",,China,CHN,,,,,,,steel,,
+143,"Fujian Rishang Integrated Housing Co., Ltd.",,,China,CHN,,,,,,,,,
+144,"Quanzhou New Energy Technology Co., Ltd.","Quanzhou New Energy Technology Co., Ltd.",,China,CHN,,,,,,,,,
+145,"Fujian Haixin Green Construction Development Co., Ltd.",,,China,CHN,,,,,,,,,
+146,Shenghongda Integrated Housing,"Fujian Shenghongda Integrated Housing Co., Ltd.","No. 68, Donghai Binhai New City, Fuzhou, Fujian, China",China,CHN,Fujian,,,15.0,45.0,250.0,steel,100000.0,2000.0
+147,Tianhua Housing,"Fujian Tianhua Housing Technology Co., Ltd.","No. 6, Xincheng Road, Economic Development Zone, Changle City, Fujian Province, 350200, China",China,CHN,Fujian,,,12.0,45.0,200.0,steel,150000.0,5000.0
+148,Xiamen Aipu Integrated Housing,"Xiamen Aipu Integrated Housing Co., Ltd.","No. 10, Xiangyue Road, Haicang District, Xiamen, Fujian, China",China,CHN,Fujian,https://www.apihouse.com,,12.0,45.0,180.0,steel,80000.0,5000.0
+149,Guanhao Steel Structure,"Fujian Guanhao Steel Structure Co., Ltd.","No. 5, Jinyuan Road, Tieling Industrial Zone, Minhou County, Fuzhou City, Fujian Province, China",China,CHN,Fujian,http://www.ghsteelstructure.com,,8.0,50.0,200.0,steel,50000.0,3000.0
+150,"Fujian Huasheng Construction Engineering Co., Ltd.","Fujian Huasheng Construction Engineering Co., Ltd.",,China,CHN,,,,,,,,,
+151,"Fujian Changtai Changsheng Wood Industry Co., Ltd.","Fujian Changtai Changsheng Wood Industry Co., Ltd.","No. 66, Changsheng Road, Changtai County, Zhangzhou City, Fujian Province, China",China,CHN,Fujian,,,,,,wood,,
+152,"Fujian Nanping Nanfu Green Building Co., Ltd.","Fujian Nanping Nanfu Green Building Co., Ltd.",,China,CHN,,,,,,,,,
+153,Jinhongxin Steel Structure,"Xiamen Jinhongxin Steel Structure Co., Ltd.","No. 59, Chuangxin Road, Haicang District, Xiamen, Fujian, China",China,CHN,Fujian,,,,,,steel,,
+154,"Fujian Jianlei Group Co., Ltd.","Fujian Jianlei Group Co., Ltd.",,China,CHN,,,,,,,,,
+155,New Continent,"Xiamen New Continent Construction Co., Ltd.","No. 12, Chuangxin Road, Torch High-Tech Zone, Xiamen, Fujian, China",China,CHN,Fujian,,,15.0,60.0,300.0,steel,150000.0,3500.0
+156,Jiangxi Huake,"Jiangxi Huake Prefabricated Construction Co., Ltd.","No. 88, Jinggangshan Avenue, Nanchang, Jiangxi, 330000, China",China,CHN,Jiangxi,,,12.0,40.0,180.0,steel,120000.0,5000.0
+157,"Jiangxi Weitian Modular Building Co., Ltd.","Jiangxi Weitian Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+158,"Jiangxi Kexin Modular Housing Co., Ltd.","Jiangxi Kexin Modular Housing Co., Ltd.",,China,CHN,,,,,,,,,
+159,"Jiangxi Zhonghui Modular Construction Co., Ltd.","Jiangxi Zhonghui Modular Construction Co., Ltd.",,China,CHN,,,,,,,,,
+160,"Jiangxi Jinyuan Prefab House Co., Ltd.","Jiangxi Jinyuan Prefab House Co., Ltd.",,China,CHN,,,,,,,,,
+161,"Jiangxi Taisheng Modular Building Co., Ltd.","Jiangxi Taisheng Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+162,"Jiangxi Hengyuan Prefabricated Building Co., Ltd.","Jiangxi Hengyuan Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+163,"Nanchang Hongyuan Modular Homes Co., Ltd.","Nanchang Hongyuan Modular Homes Co., Ltd.",,China,CHN,,,,,,,,,
+164,"Ganzhou Xinyue Prefab House Co., Ltd.","Ganzhou Xinyue Prefab House Co., Ltd.",,China,CHN,,,,,,,,,
+165,"Fuzhou Zhongcheng Manufactured Homes Co., Ltd.","Fuzhou Zhongcheng Manufactured Homes Co., Ltd.",,China,CHN,,,,,,,,,
+166,"Yichun Green Modular Homes Co., Ltd.","Yichun Green Modular Homes Co., Ltd.",,China,CHN,,,,,,,,,
+167,Lida Prefab House,"Jiangxi Lida Prefab House Co., Ltd.","No. 408, East Section of Hongdu Avenue, Nanchang, Jiangxi, 330000, China",China,CHN,Jiangxi,https://www.lidaprefabhouse.com,,12.0,30.0,120.0,steel,50000.0,3500.0
+168,"Jiangxi Liansheng Modular Building Co., Ltd.","Jiangxi Liansheng Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+169,"Jiangxi Xinhong Prefabricated Construction Co., Ltd.","Jiangxi Xinhong Prefabricated Construction Co., Ltd.",,China,CHN,,,,,,,,,
+170,"Jiangxi Yuhong Modular Homes Co., Ltd.","Jiangxi Yuhong Modular Homes Co., Ltd.",,China,CHN,,,,,,,,,
+171,Henglida,"Weifang Henglida Steel Structure Co., Ltd.","No. 88, Yinfeng Road, Weifang, Shandong, 261000, China",China,CHN,Shandong,,,10.0,30.0,300.0,steel,50000.0,2000.0
+172,Xinguangzheng Steel Structure,"Qingdao Xinguangzheng Steel Structure Co., Ltd.","No. 268, Sancheng Road, Pingdu, Qingdao, Shandong, China",China,CHN,Shandong,http://www.sinosteelstructure.com/,,,,,steel,,
+173,Wiskind,"Shandong Wiskind Steel Building Stock Co., Ltd.","No.6 Yanzhuang Road, Boxing County, Binzhou City, Shandong Province, 256510, China",China,CHN,Shandong,https://www.wiskindsteelstructure.com,,,,,steel,,
+174,Chuangxin Building Materials,"Shandong Chuangxin Building Materials Complete Equipments Co., Ltd.","No. 88, Industrial Park, Anqiu City, Weifang, Shandong, 262100, China",China,CHN,Shandong,,,5.0,50.0,200.0,steel,80000.0,1500.0
+175,"Shouguang Sunrise Construction Engineering Co., Ltd.",,,China,CHN,,,,,,,,,
+176,"Liaocheng Xinzheng Steel Structure Co., Ltd.","Liaocheng Xinzheng Steel Structure Co., Ltd.",,China,CHN,,,,,,,steel,,
+177,"Shandong Jiren Building Materials Co., Ltd.","Shandong Jiren Building Materials Co., Ltd.",,China,CHN,,,,,,,,,
+178,"Shandong Chuangxin Building Materials Complete Equipments Co., Ltd.","Shandong Chuangxin Building Materials Complete Equipments Co., Ltd.",,China,CHN,,,,,,,,,
+179,Sinoacme,"Shandong Sinoacme Steel Structure Co., Ltd.","No. 66, Yantai Road, Economic Development Zone, Taian City, Shandong Province, China",China,CHN,Shandong,https://www.sinoacme.com,,,,,steel,,
+180,Director Prefab House,"Qingdao Director Integrated House Co., Ltd.","No. 39, Xinyang Road, Qingdao, Shandong, China",China,CHN,Shandong,,,10.0,30.0,300.0,steel,50000.0,1500.0
+181,"Shandong Jiren Building Materials Co., Ltd.",,,China,CHN,,,,,,,,,
+182,KXD Steel Structure,"Qingdao KXD Steel Structure Co., Ltd.","No. 251, Changjiang Middle Road, Huangdao District, Qingdao, Shandong, China",China,CHN,Shandong,,,10.0,30.0,200.0,steel,50000.0,3000.0
+183,Henglida Steel Structure,"Weifang Henglida Steel Structure Co., Ltd.","No. 88, Henglida Road, Weifang, Shandong, 261000, China",China,CHN,Shandong,,,12.0,45.0,200.0,steel,100000.0,3500.0
+184,"Shandong Changyuan House Technology Co., Ltd.","Shandong Changyuan House Technology Co., Ltd.",,China,CHN,,,,,,,,,
+185,XGZ Steel,"Qingdao XGZ Steel Structure Co., Ltd.","No. 268, Sancheng Road, Pingdu, Qingdao, Shandong, 266700, China",China,CHN,Shandong,,,7.0,30.0,150.0,steel,50000.0,2500.0
+186,K-Home Steel Structure,"Henan K-Home Steel Structure Co., Ltd.","Industry Cluster Area, West Road of South 4th Ring, Xinxiang, Henan, 453000, China",China,CHN,Henan,https://www.khomechina.com,,15.0,30.0,200.0,steel,50000.0,2500.0
+187,WZH Modular House,"Henan Weizhengheng Modular House Technology Co., Ltd.","No. 69, Hanghai East Road, Guancheng District, Zhengzhou, Henan, 450000, China",China,CHN,Henan,https://www.wzhhouse.com,,10.0,20.0,200.0,steel,50000.0,3000.0
+188,"Zhengzhou City Unions Steel Industrial Co., Ltd.","Zhengzhou City Unions Steel Industrial Co., Ltd.",,China,CHN,,,,,,,,,
+189,Anyang Fengchuan,"Anyang Fengchuan Steel Structure Co., Ltd.","Yindu Industrial Zone, Anyang City, Henan Province, China",China,CHN,Henan,,,5.0,50.0,200.0,steel,80000.0,4500.0
+190,Canglong Steel Structure,"Henan Canglong Steel Structure Engineering Co., Ltd.","No. 8, Xinzheng Avenue, Xinzheng City, Henan Province, China",China,CHN,Henan,https://www.cnxzlf.com,,5.0,45.0,200.0,steel,50000.0,2000.0
+191,"Henan Xinlianxin Steel Co., Ltd.","Henan Xinlianxin Steel Co., Ltd.",,China,CHN,,,,,,,steel,,
+192,Zhengzhou DNL Inc.,,,China,CHN,,,,,,,,,
+193,Henan Dongrui Steel Structure,"Henan Dongrui Steel Structure Co., Ltd.","No. 18, Xiangyang Road, Zhengzhou, Henan, 450000, China",China,CHN,Henan,http://www.dongruisteel.com,,,,,steel,,
+194,Juya Steel Structure,"Luoyang Juya Steel Structure Engineering Co., Ltd.","No. 5, Jiudu Road, Luoyang, Henan, 471000, China",China,CHN,Henan,,,5.0,50.0,200.0,steel,100000.0,2000.0
+195,Tianfon Group,"Henan Tianfon Group Co., Ltd.","No. 88, Tianfon Avenue, Zhongmu County, Zhengzhou, Henan, 451450, China",China,CHN,Henan,http://www.tianfon.com/,,,,,steel,,
+196,Tianfeng Machinery,"Xinxiang Tianfeng Machinery Manufacture Co., Ltd.","No. 8 Xinhua West Road, Xinxiang, Henan, China",China,CHN,Henan,,,,,,steel,,
+197,"Henan Chengming Industrial Co., Ltd.","Henan Chengming Industrial Co., Ltd.",,China,CHN,,,,,,,,,
+198,Tengcang,"Henan Tengcang Building Materials Technology Co., Ltd.","No. 1 Jincheng Road, Shangjie District, Zhengzhou, Henan, 450041, China",China,CHN,Henan,,,15.0,50.0,200.0,steel,80000.0,3000.0
+199,Keda Machinery,"Zhengzhou Keda Machinery and Instrument Equipment Co., Ltd.","No. 26 Jingbei 1st Road, Zhengzhou, Henan, 450000, China",China,CHN,Henan,,,12.0,45.0,180.0,steel,150000.0,3500.0
+200,"Henan Zongheng Construction Engineering Co., Ltd.","Henan Zongheng Construction Engineering Co., Ltd.",,China,CHN,,,,,,,,,
+201,"Hubei Weikuang Prefabricated House Co., Ltd.","Hubei Weikuang Prefabricated House Co., Ltd.",,China,CHN,,,,,,,,,
+202,K-Home,"Hubei K-Home Steel Structure Co., Ltd.","No. 78, Wangjiawan Industrial Park, Zhengzhou, Hubei, China",China,CHN,Hubei,https://www.khomechina.com,,,,,steel,,
+203,"Hubei Xiangxin Construction Engineering Co., Ltd.","Hubei Xiangxin Construction Engineering Co., Ltd.",,China,CHN,,,,,,,,,
+204,"Hubei Baoye Construction Engineering Group Co., Ltd.",,,China,CHN,,,,,,,,,
+205,"Wuhan Daquan Prefabricated House Co., Ltd.","Wuhan Daquan Prefabricated House Co., Ltd.","No. 101, Jinshan Avenue, Dongxihu District, Wuhan, Hubei, China",China,CHN,Hubei,,,,,,steel,,
+206,"Hubei Xinhongye Steel Structure Co., Ltd.","Hubei Xinhongye Steel Structure Co., Ltd.","No. 88, Jiefang Avenue, Wuhan, Hubei, China",China,CHN,Hubei,,,,,,steel,,
+207,"Wuhan Wanbang Modular Building Co., Ltd.","Wuhan Wanbang Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+208,Jinggong Steel Building,"Hubei Jinggong Steel Building Co., Ltd.","No. 168, Fuxing Road, Wuhan Economic and Technological Development Zone, Wuhan, Hubei, China",China,CHN,Hubei,https://www.jgsteel.cn/,,12.0,60.0,250.0,steel,120000.0,5000.0
+209,Zhongsheng Steel Structure,"Hubei Zhongsheng Steel Structure Co., Ltd.","No. 88, Changjiang Road, Ezhou, Hubei, China",China,CHN,Hubei,,,5.0,60.0,200.0,steel,150000.0,3000.0
+210,"Hubei Sanhe Precast Structures Co., Ltd.","Hubei Sanhe Precast Structures Co., Ltd.",,China,CHN,,,,,,,,,
+211,"Hubei Yajia Housing Co., Ltd.","Hubei Yajia Housing Co., Ltd.",,China,CHN,,,,,,,,,
+212,Huahai Steel Structure,"Wuhan Huahai Steel Structure Co., Ltd.","No. 8, Tuanjie Avenue, Dongxihu District, Wuhan, Hubei, 430040, China",China,CHN,Hubei,,,,,,steel,,
+213,"Hubei Hongyuan Prefabricated Construction Co., Ltd.","Hubei Hongyuan Prefabricated Construction Co., Ltd.",,China,CHN,,,,,,,,,
+214,"Hubei Yizhong Steel Structure Engineering Co., Ltd.","Hubei Yizhong Steel Structure Engineering Co., Ltd.",,China,CHN,,,,,,,steel,,
+215,"Hubei Lida Precast Building Co., Ltd.","Hubei Lida Precast Building Co., Ltd.",,China,CHN,,,,,,,,,
+216,Zhongnan Construction Group,"Hunan Zhongnan Construction Group Co., Ltd.","No. 239, Lushan Road, Yuhua District, Changsha, Hunan, China",China,CHN,Hunan,http://www.znkg.com,,12.0,80.0,300.0,concrete,150000.0,5000.0
+217,Goldsky Modular Housing,"Hunan Goldsky Modular Housing Co., Ltd.","No. 123, Industry Road, Changsha, Hunan, 410000, China",China,CHN,Hunan,,,15.0,45.0,150.0,steel,150000.0,3500.0
+218,"Hunan Oriental Scandia Modular Building Co., Ltd.","Hunan Oriental Scandia Modular Building Co., Ltd.",,China,CHN,,,,,,,,,
+219,"Hunan Xiangxin Steel Structure Co., Ltd.","Hunan Xiangxin Steel Structure Co., Ltd.",,China,CHN,,,,,,,steel,,
+220,Sunward Intelligent,"Hunan Sunward Intelligent Machinery Co., Ltd.","No. 18, Sunward Avenue, Xingsha Economic and Technological Development Zone, Changsha, Hunan, 410100, China",China,CHN,Hunan,,,,,,steel,,
+221,Broad Homes,"Hunan Broad Homes Industrial International Co., Ltd.","No. 1688, South Lushan Road, Changsha, Hunan, 410205, China",China,CHN,Hunan,http://www.bhome.com.cn,,15.0,50.0,500.0,concrete,300000.0,6000.0
+222,"Hunan Haili Modular House Co., Ltd.","Hunan Haili Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+223,"Hunan Sino-Crystal Micro-diamond Co., Ltd.","Hunan Sino-Crystal Micro-diamond Co., Ltd.",,China,CHN,,,,,,,,,
+224,"Hunan Yujing Construction Co., Ltd.","Hunan Yujing Construction Co., Ltd.",,China,CHN,,,,,,,,,
+225,Yongan Steel Structure,"Hunan Yongan Steel Structure Co., Ltd.","No. 568, Jinzhou Avenue, Ningxiang City, Hunan Province, China",China,CHN,Hunan,,,8.0,50.0,200.0,steel,150000.0,3000.0
+226,Beidouxing Housing,"Hunan Beidouxing Housing Technology Co., Ltd.","No. 58, Yuelu Avenue, Yuelu District, Changsha, Hunan, 410013, China",China,CHN,Hunan,,,20.0,60.0,300.0,steel,150000.0,5000.0
+227,"Hunan Guangxin Housing Technology Co., Ltd.",,,China,CHN,,,,,,,,,
+228,Hunan Tianyuan Construction Group,"Hunan Tianyuan Construction Group Co., Ltd.","No. 8, Changsha Avenue, Yuhua District, Changsha, Hunan, China",China,CHN,Hunan,,,,,,,,
+229,Jiatai Housing,"Hunan Jiatai Housing Technology Co., Ltd.","No. 188, Shuangyang Road, Yuhua District, Changsha, Hunan, China",China,CHN,Hunan,,,,,,steel,,
+230,Jindalai Housing,"Hunan Jindalai Housing Technology Co., Ltd.","No. 8, Jindalai Road, Economic and Technological Development Zone, Changsha, Hunan, 410100, China",China,CHN,Hunan,,,15.0,60.0,300.0,steel,150000.0,5000.0
+231,"Guangdong Modular Homes Co., Ltd.","Guangdong Modular Homes Co., Ltd.",,China,CHN,,,,,,,,,
+232,Guangzhou Prefab Housing Co.,,,China,CHN,,,,,,,,,
+233,Shenzhen Eco Prefab Solutions,,,China,CHN,,,,,,,,,
+234,Foshan Modular Construction,"Foshan Modular Construction Co., Ltd.","1234 Industrial Park, Foshan, Guangdong, 528000, China",China,CHN,Guangdong,,,8.0,45.0,150.0,steel,120000.0,5000.0
+235,Dongguan Prefabricated Homes,,,China,CHN,,,,,,,,,
+236,Zhuhai Panelized Homes Inc.,,,China,CHN,,,,,,,,,
+237,Jiangmen Modular Living,"Jiangmen Modular Living Co., Ltd.","Building 5, No. 123, Xincheng Road, Jiangmen, Guangdong, 529000, China",China,CHN,Guangdong,,,8.0,45.0,200.0,steel,150000.0,5000.0
+238,Foshan Green Building,"Foshan Green Building Co., Ltd.","No. 5, Xinyuan Road, Shunde District, Foshan City, Guangdong, 528300, China",China,CHN,Guangdong,,,8.0,45.0,200.0,steel,150000.0,5000.0
+239,Huizhou Prefab Innovations,"Huizhou Prefab Innovations Co., Ltd.","No. 88, Prefab Road, Huicheng District, Huizhou, Guangdong, 516001, China",China,CHN,Guangdong,,,15.0,40.0,200.0,steel,150000.0,5000.0
+240,Zhongshan Tiny Home Builders,,,China,CHN,,,,,,,,,
+241,Shantou System-Built Homes,,,China,CHN,,,,,,,,,
+242,Qingyuan Kit Homes Ltd.,,,China,CHN,,,,,,,,,
+243,Zhaoqing ADU Solutions,,,China,CHN,,,,,,,,,
+244,Heyuan Off-Site Construction,,,China,CHN,,,,,,,,,
+245,Meizhou Pre-engineered Homes,,,China,CHN,,,,,,,,,
+246,Chaozhou Factory-Built Homes,,,China,CHN,,,,,,,,,
+247,Jieyang Custom Prefab Builders,,,China,CHN,,,,,,,,,
+248,Yangjiang Luxury Prefabs,"Yangjiang Luxury Prefabricated Construction Co., Ltd.","No. 123, Prefab Street, Yangjiang, Guangdong, 529500, China",China,CHN,Guangdong,,,8.0,45.0,200.0,steel,150000.0,4000.0
+249,Maoming Sustainable Prefab Co.,,,China,CHN,,,,,,,,,
+250,Shanwei Modern Modular Homes,"Shanwei Modern Modular Homes Co., Ltd.","No. 123, Coastal Road, Shanwei City, Guangdong Province, China",China,CHN,Guangdong,,,12.0,45.0,200.0,steel,150000.0,5000.0
+251,"Guangxi Modern Construction Co., Ltd.","Guangxi Modern Construction Co., Ltd.",,China,CHN,,,,,,,,,
+252,"Nanning Prefab Housing Co., Ltd.",,,China,CHN,,,,,,,,,
+253,Liuzhou Modular Homes Ltd.,,,China,CHN,,,,,,,,,
+254,Guilin Prefabricated Building Solutions,,,China,CHN,,,,,,,,,
+255,"Beihai Prefab Structures Co., Ltd.","Beihai Prefab Structures Co., Ltd.",,China,CHN,,,,,,,,,
+256,Yulin Factory-Built Homes Co.,,,China,CHN,,,,,,,,,
+257,Guangxi Kit Homes Manufacturing,,,China,CHN,,,,,,,,,
+258,Wuzhou Panelized Homes Ltd.,,,China,CHN,,,,,,,,,
+259,Guigang Prefab Construction Co.,,,China,CHN,,,,,,,,,
+260,Qinzhou Modular Construction Group,,,China,CHN,,,,,,,,,
+261,Baise Prefabricated Solutions Ltd.,,,China,CHN,,,,,,,,,
+262,Hezhou Prefab Home Builders,,,China,CHN,,,,,,,,,
+263,"Guangxi Modular Building Co., Ltd.",,,China,CHN,,,,,,,,,
+264,"Chongzuo Prefab Housing Co., Ltd.",,,China,CHN,,,,,,,,,
+265,Fangchenggang Factory-Built Homes Ltd.,Fangchenggang Factory-Built Homes Ltd.,,China,CHN,,,,,,,,,
+266,Jinke Building Materials,"Sichuan Jinke Building Materials Co., Ltd.","No. 123, Jinke Road, Chengdu, Sichuan, 610000, China",China,CHN,Sichuan,,,12.0,45.0,250.0,steel,150000.0,5000.0
+267,Sunfor Light,"Sichuan Sunfor Light Co., Ltd.","No. 7-1, Section 1, Tianfu Avenue, Chengdu, Sichuan, China",China,CHN,Sichuan,,,5.0,50.0,200.0,steel,150000.0,3000.0
+268,Onekin Green,"Chengdu Onekin Green Building Materials Co., Ltd.","No. 120, 2nd Section, North Jianshe Road, Chengdu, Sichuan, 610015, China",China,CHN,Sichuan,,,5.0,50.0,200.0,concrete,150000.0,3500.0
+269,"Sichuan Neijiang Huaxin Art Building Materials Co., Ltd.","Sichuan Neijiang Huaxin Art Building Materials Co., Ltd.",,China,CHN,,,,,,,,,
+270,Senpu Pipe,"Sichuan Senpu Pipe Co., Ltd.","No. 23, West Section of Second Ring Road, Chengdu, Sichuan, 610000, China",China,CHN,Sichuan,http://www.senpu.com,,,,,,,
+271,Xinguangzheng Steel Structure,"Chengdu Xinguangzheng Steel Structure Co., Ltd.","No. 566, West 1st Section, 2nd Ring Road, Chenghua District, Chengdu, Sichuan, China",China,CHN,Sichuan,http://www.xgzt.com,,,,,steel,,
+272,"Sichuan Zhiqiang Steel Structure Co., Ltd.","Sichuan Zhiqiang Steel Structure Co., Ltd.",,China,CHN,,,,,,,,,
+273,Kexin Building,"Sichuan Kexin New Building Materials Co., Ltd.","No. 88, Xihe Avenue, Jianyang City, Sichuan Province, 641400, China",China,CHN,Sichuan,,,8.0,50.0,200.0,steel,150000.0,3000.0
+274,"Sichuan Hongtai Building Materials Co., Ltd.","Sichuan Hongtai Building Materials Co., Ltd.",,China,CHN,,,,,,,,,
+275,Everbright Modular,"Chengdu Everbright Modular Building Co., Ltd.","No. 115, Section 4, South Renmin Road, Wuhou District, Chengdu, Sichuan, 610041, China",China,CHN,Sichuan,,,12.0,45.0,200.0,steel,150000.0,8000.0
+276,"Sichuan Dongqiang Steel Structure Engineering Co., Ltd.","Sichuan Dongqiang Steel Structure Engineering Co., Ltd.",,China,CHN,,,,,,,steel,,
+277,Sichuan Changhong Building Materials,"Sichuan Changhong Building Materials Co., Ltd.","No. 35, Changhong Avenue, Mianyang, Sichuan, 621000, China",China,CHN,Sichuan,,,8.0,45.0,210.0,steel,120000.0,5000.0
+278,"Sichuan Yufan Building Materials Co., Ltd.",,,China,CHN,,,,,,,,,
+279,"Sichuan Tianyi Building Materials Co., Ltd.","Sichuan Tianyi Building Materials Co., Ltd.",,China,CHN,,,,,,,,,
+280,"Chengdu Hongming Modular House Co., Ltd.","Chengdu Hongming Modular House Co., Ltd.",,China,CHN,,,,,,,,,
+281,"Guizhou Jianhua Construction Group Co., Ltd.","Guizhou Jianhua Construction Group Co., Ltd.",,China,CHN,,,,,,,,,
+282,"Guizhou Tonghe Prefabricated Building Co., Ltd.",,,China,CHN,,,,,,,,,
+283,"Guizhou Zhonghui Prefabricated Building Co., Ltd.","Guizhou Zhonghui Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+284,"Guizhou Jinyuan Construction Group Prefabricated Building Co., Ltd.","Guizhou Jinyuan Construction Group Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+285,"Guizhou Yutai Prefabricated Building Co., Ltd.",,,China,CHN,,,,,,,,,
+286,"Guizhou Hongxin Prefabricated Building Co., Ltd.","Guizhou Hongxin Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+287,"Guizhou Hengfeng Prefabricated Building Co., Ltd.","Guizhou Hengfeng Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+288,"Guizhou Xinyue Prefabricated Building Co., Ltd.","Guizhou Xinyue Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+289,"Guizhou Shunfa Prefabricated Building Co., Ltd.","Guizhou Shunfa Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+290,"Guizhou Guangtai Prefabricated Construction Co., Ltd.","Guizhou Guangtai Prefabricated Construction Co., Ltd.",,China,CHN,,,,,,,,,
+291,"Guizhou Huaxin Prefabricated Building Co., Ltd.","Guizhou Huaxin Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+292,"Guizhou Tianyuan Prefabricated Building Co., Ltd.",,,China,CHN,,,,,,,,,
+293,"Guizhou Shengda Prefabricated Building Co., Ltd.","Guizhou Shengda Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+294,"Guizhou Mingyang Prefabricated Building Co., Ltd.","Guizhou Mingyang Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+295,"Guizhou Jiuding Prefabricated Building Co., Ltd.","Guizhou Jiuding Prefabricated Building Co., Ltd.",,China,CHN,,,,,,,,,
+296,"Yunnan Modular Homes Co., Ltd.",,,China,CHN,,,,,,,,,
+297,Kunming Prefab Construction Group,,,China,CHN,,,,,,,,,
+298,Dali Prefab Homes,"Dali Prefabricated Building Co., Ltd.","123 Prefab Street, Dali City, Yunnan, 671000, China",China,CHN,Yunnan,,,5.0,45.0,150.0,steel,150000.0,3000.0
+299,Yuxi Panelized Homes Ltd.,,,China,CHN,,,,,,,,,
+300,Lijiang Factory-Built Homes,,,China,CHN,,,,,,,,,
+301,Yunnan Kit Homes Manufacturing,,,China,CHN,,,,,,,,,
+302,Baoshan Prefab Industries,,,China,CHN,,,,,,,,,
+303,Yunnan Modular Building Solutions,,,China,CHN,,,,,,,,,
+304,Pu'er Prefabricated Housing,,,China,CHN,,,,,,,,,
+305,Yunnan Green Prefab Homes,,,China,CHN,,,,,,,,,
+306,Yunnan Prefab Structures Co.,,,China,CHN,,,,,,,,,
+307,Yunnan Modern Modular Homes,,,China,CHN,,,,,,,,,
+308,Chuxiong Prefab Homes,"Chuxiong Prefabricated Construction Co., Ltd.","No. 123, Industrial Zone, Chuxiong City, Yunnan Province, 675000, China",China,CHN,Yunnan,,,12.0,45.0,180.0,steel,150000.0,3500.0
+309,Yunnan Innovative Housing Solutions,,,China,CHN,,,,,,,,,
+310,Yunnan Eco-Friendly Modular Homes,,,China,CHN,,,,,,,,,
+311,Shaanxi Modern Prefab,"Shaanxi Modern Prefab Co., Ltd.","No. 123, Innovation Road, Xi'an, Shaanxi, 710000, China",China,CHN,Shaanxi,,,12.0,45.0,180.0,steel,120000.0,5500.0
+312,Xi'an Green Modular Homes,,,China,CHN,,,,,,,,,
+313,Shaanxi Prefabricated Building Group,,,China,CHN,,,,,,,,,
+314,Baoji Prefab Housing Solutions,,,China,CHN,,,,,,,,,
+315,Xianyang Modular Homes,Xianyang Modular Construction Ltd.,"No. 123, Chang'an Road, Xianyang, Shaanxi, 712000, China",China,CHN,Shaanxi,,,12.0,60.0,250.0,steel,200000.0,3500.0
+316,Weinan Panelized Homes Inc.,,,China,CHN,,,,,,,,,
+317,Shangluo Kit Homes Manufacturing,,,China,CHN,,,,,,,,,
+318,Yulin Factory-Built Homes Co.,,,China,CHN,,,,,,,,,
+319,Hanzhong Prefab Structures,,,China,CHN,,,,,,,,,
+320,Ankang Modular Systems,,,China,CHN,,,,,,,,,
+321,Tongchuan Manufactured Homes,,,China,CHN,,,,,,,,,
+322,Yan'an Prefab Housing Solutions,,,China,CHN,,,,,,,,,
+323,Shenmu Modular Builders,,,China,CHN,,,,,,,,,
+324,Lintong Prefab and Modular Co.,,,China,CHN,,,,,,,,,
+325,Shaanxi Eco-Friendly Prefabs,,,China,CHN,,,,,,,,,
